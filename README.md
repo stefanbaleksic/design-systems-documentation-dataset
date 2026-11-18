@@ -3,8 +3,8 @@
 A dataset of publicly documented design systems, UI libraries and style guidelines. For each entry it records the documentation and repository facts as coded by the author: licence, repository, release, last-push data, archive status, and a verification status.
 
 - **Release:** 1.0.0 (see `VERSION`, `release.json`, `CHANGELOG.md`).
-- **Records:** 297 cleaned (302 extracted; 5 duplicates removed).
-- **Collected:** 18 November 2026, from the awesome-design-systems list on GitHub and from web search.
+- **Records:** 297 cleaned (302 extracted; 5 duplicates removed). The published page lists the 302 extracted entries, so its counts (for example 254 checked and 157 with a licence) are before duplicate removal. The counts in this README are for the 297 cleaned entries.
+- **Checked:** 17 November 2026 (list from the awesome-design-systems list on GitHub, web search and documentation). **Evidence collected:** 18 November 2026 (documentation pages and repositories).
 - **Evidence:** documentation pages were fetched for 180 of 210 documentation URLs. Repository facts were read over git for 214 of 221 GitHub repositories.
 - **Corrections:** 280 field values were corrected from the evidence (179 repository, 101 version), as recorded in `data/corrections.csv` (see "Corrections"). The differences that remain are listed in `results/open_items.md`.
 - **DOI:** to be added after deposit on Zenodo.

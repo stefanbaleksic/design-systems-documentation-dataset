@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Design System Documentation Dataset</title>
+<meta name="description" content="A dataset of 297 publicly documented design systems, UI libraries and style guidelines, with coded documentation, governance and licence facts, evidence files and a reproducible build.">
+<style>
+  :root { color-scheme: light dark; --fg: #1d1d1f; --muted: #5f6368; --line: #d0d4da; --bg: #ffffff; --accent: #1a5fb4; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fg: #f1f1f1; --muted: #a8adb4; --line: #3a3f47; --bg: #15171a; --accent: #7fb2ff; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--fg); background: var(--bg); }
+  main { max-width: 860px; margin: 0 auto; padding: 48px 24px 64px; }
+  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 8px; }
+  h2 { font-size: 1.25rem; margin: 40px 0 12px; border-top: 1px solid var(--line); padding-top: 24px; }
+  p, li { max-width: 70ch; }
+  .lede { font-size: 1.1rem; color: var(--muted); margin: 0 0 16px; }
+  .meta { font: 0.9rem/1.5 ui-monospace, Menlo, Consolas, monospace; color: var(--muted); margin: 0 0 32px; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin: 24px 0; padding: 0; list-style: none; }
+  .stats li { border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; }
+  .stats strong { display: block; font-size: 1.6rem; line-height: 1.1; }
+  .stats span { color: var(--muted); font-size: 0.9rem; }
+  a { color: var(--accent); }
+  code, pre { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.9rem; }
+  pre { background: rgba(127,127,127,0.12); padding: 12px 14px; border-radius: 6px; overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; max-width: 70ch; font-size: 0.95rem; }
+  th, td { text-align: left; border-bottom: 1px solid var(--line); padding: 8px 6px; vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  footer { margin-top: 48px; color: var(--muted); font-size: 0.9rem; border-top: 1px solid var(--line); padding-top: 16px; }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Design System Documentation Dataset</h1>
+<p class="lede">A dataset of 297 publicly documented design systems, UI libraries and style guidelines. For each entry it records documentation, governance and licence facts as coded by the author, together with repository facts read at source, evidence files and a reproducible build.</p>
+<p class="meta">Release 1.0.0 &middot; evidence collected 18 November 2026 &middot; DOI: to be added after deposit</p>
+
+<ul class="stats">
+  <li><strong>297</strong><span>entries after removing 5 duplicates (302 extracted)</span></li>
+  <li><strong>233</strong><span>design systems</span></li>
+  <li><strong>33</strong><span>UI libraries</span></li>
+  <li><strong>19</strong><span>government design systems</span></li>
+  <li><strong>12</strong><span>style guidelines</span></li>
+  <li><strong>224</strong><span>with a repository URL</span></li>
+  <li><strong>151</strong><span>with a licence recorded</span></li>
+  <li><strong>251</strong><span>with a status starting with &ldquo;checked&rdquo;</span></li>
+</ul>
+
+<h2>What the dataset records</h2>
+<p>Each entry has a name, a type, a sector, the author's status and verification date, the documentation URL, the repository URL, the licence as coded and as found in the repository licence file, the latest push date, the archive flag, and the package version. It also records whether the design system has a changelog, contributing guide, governance statement, accessibility statement and case study. Sector is the author's classification and is used only for grouping. An empty field means &ldquo;not checked&rdquo;, never &ldquo;no&rdquo;.</p>
+<p>The dataset describes documentation and governance of design systems. It does not describe the components, tokens or platforms of the systems themselves.</p>
+
+<h2>How the evidence was collected</h2>
+<table>
+  <thead><tr><th>Source</th><th>Attempted</th><th>Read</th></tr></thead>
+  <tbody>
+    <tr><td>Documentation pages (HTTP)</td><td>210</td><td>180</td></tr>
+    <tr><td>Repositories, git (tags, default branch, last commit, LICENSE)</td><td>221</td><td>214</td></tr>
+    <tr><td>Repositories, package.json versions</td><td>221</td><td>214</td></tr>
+  </tbody>
+</table>
+<p>Failures are recorded, not hidden. The evidence files are in <code>evidence/</code>. The comparison between the coded values and the evidence is in <code>results/compare_report.md</code>, and the differences that remain open are in <code>results/open_items.md</code>.</p>
+
+<h2>Reproduce</h2>
+<pre>git clone https://github.com/stefanbaleksic/design-systems-documentation-dataset.git
+cd design-systems-documentation-dataset
+python3 -I -m unittest discover -s tests
+python3 -I scripts/build_dataset.py
+python3 scripts/release.py check</pre>
+
+<footer>
+  Code: MIT (see LICENSE). Dataset content: CC BY 4.0 (see LICENSE-DATA). Cite as in CITATION.cff; a DOI is added after deposit.
+</footer>
+
+</main>
+</body>
+</html>
