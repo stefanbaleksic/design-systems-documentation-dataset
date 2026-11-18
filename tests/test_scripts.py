@@ -6,6 +6,7 @@ import csv
 import datetime as dt
 import io
 import json
+import re
 import os
 import shutil
 import sys
@@ -510,15 +511,20 @@ class CorrectionsTests(unittest.TestCase):
 
 
 class CitationTests(unittest.TestCase):
+    """CITATION.cff is read with the standard library only (no PyYAML on the CI runner)."""
+
+    def read_field(self, text, key):
+        match = re.search(r"^%s:\s*\"?([^\"\n]+?)\"?\s*$" % re.escape(key), text, re.M)
+        return match.group(1) if match else None
+
     def test_citation_matches_version_and_release_date(self):
-        import yaml
         with open(os.path.join(ROOT, "CITATION.cff"), encoding="utf-8") as fh:
-            cff = yaml.safe_load(fh)
+            cff = fh.read()
         with open(os.path.join(ROOT, "VERSION"), encoding="utf-8") as fh:
             version = fh.read().strip()
-        self.assertEqual(cff["version"], version)
-        self.assertEqual(str(cff["date-released"]), "2026-11-18")  # the CHANGELOG heading for 1.0.0
-        self.assertEqual(cff["authors"][0]["orcid"].rsplit("/", 1)[-1], "0009-0009-1537-296X")
+        self.assertEqual(self.read_field(cff, "version"), version)
+        self.assertEqual(self.read_field(cff, "date-released"), "2026-11-18")  # the CHANGELOG heading for 1.0.0
+        self.assertIn("orcid: \"https://orcid.org/0009-0009-1537-296X\"", cff)
 
 
 class ReleaseTests(unittest.TestCase):
