@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:28Z",
+  "docs": null,
+  "id": "251",
+  "name": "daisyUI",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:28Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v5.8.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T07:55:13Z",
+    "spdx_licence": "MIT",
+    "tag_count": 713,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

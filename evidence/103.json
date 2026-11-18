@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:14Z",
+  "docs": {
+    "body_bytes_hashed": 117643,
+    "body_sha256": "c57041472fdcbd11427bc989f4afdea80b8042ab61a879e09d6309387a200e4d",
+    "content_type": "text/html;charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:53Z",
+    "final_url": "https://nordhealth.design/",
+    "http_status": 200,
+    "url": "https://nordhealth.design/"
+  },
+  "id": "103",
+  "name": "Nordhealth",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:57Z",
+  "docs": {
+    "body_bytes_hashed": 30213,
+    "body_sha256": "3a9527fccafca626c6dc2d618c352b48f78601dc27df3a279e58c189e9722eae",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:55Z",
+    "final_url": "https://design.education.gov.uk/design-system",
+    "http_status": 200,
+    "url": "https://design.education.gov.uk/design-system"
+  },
+  "id": "183",
+  "name": "UK Department for Education Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,443 @@
+{
+  "collected_at_utc": "2026-11-18T11:30:33Z",
+  "error": null,
+  "id": "96",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@lg-charts/chart-card",
+      "path": "charts/chart-card/package.json",
+      "version": "1.1.6"
+    },
+    {
+      "error": null,
+      "name": "@lg-charts/colors",
+      "path": "charts/colors/package.json",
+      "version": "1.0.8"
+    },
+    {
+      "error": null,
+      "name": "@lg-charts/core",
+      "path": "charts/core/package.json",
+      "version": "3.1.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-charts/drag-provider",
+      "path": "charts/drag-provider/package.json",
+      "version": "1.0.12"
+    },
+    {
+      "error": null,
+      "name": "@lg-charts/legend",
+      "path": "charts/legend/package.json",
+      "version": "1.1.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-charts/series-provider",
+      "path": "charts/series-provider/package.json",
+      "version": "1.0.7"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/chat-button",
+      "path": "chat/chat-button/package.json",
+      "version": "0.2.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/chat-layout",
+      "path": "chat/chat-layout/package.json",
+      "version": "0.2.4"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/chat-window",
+      "path": "chat/chat-window/package.json",
+      "version": "6.0.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/input-bar",
+      "path": "chat/input-bar/package.json",
+      "version": "12.2.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/leafygreen-chat-provider",
+      "path": "chat/leafygreen-chat-provider/package.json",
+      "version": "6.0.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/lg-markdown",
+      "path": "chat/lg-markdown/package.json",
+      "version": "5.0.4"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/message-feed",
+      "path": "chat/message-feed/package.json",
+      "version": "9.1.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/message-feedback",
+      "path": "chat/message-feedback/package.json",
+      "version": "9.0.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/message-prompts",
+      "path": "chat/message-prompts/package.json",
+      "version": "4.2.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/message-rating",
+      "path": "chat/message-rating/package.json",
+      "version": "7.1.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/message",
+      "path": "chat/message/package.json",
+      "version": "12.0.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/rich-links",
+      "path": "chat/rich-links/package.json",
+      "version": "4.0.9"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/suggestions",
+      "path": "chat/suggestions/package.json",
+      "version": "0.2.10"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/title-bar",
+      "path": "chat/title-bar/package.json",
+      "version": "5.0.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/avatar",
+      "path": "deprecated-packages/avatar/package.json",
+      "version": "8.0.1"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/box",
+      "path": "deprecated-packages/box/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/chat-disclaimer",
+      "path": "deprecated-packages/chat-disclaimer/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/fixed-chat-window",
+      "path": "deprecated-packages/fixed-chat-window/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-chat/message-actions",
+      "path": "deprecated-packages/message-actions/package.json",
+      "version": "1.1.3"
+    },
+    {
+      "error": null,
+      "name": "@lg-mcp/embeddable-uis",
+      "path": "mcp/embeddable-uis/package.json",
+      "version": "0.1.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-mcp/hooks",
+      "path": "mcp/hooks/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "@lg-mcp/ui-resource-renderer",
+      "path": "mcp/ui-resource-renderer/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/a11y",
+      "path": "packages/a11y/package.json",
+      "version": "3.0.6"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/avatar",
+      "path": "packages/avatar/package.json",
+      "version": "3.3.1"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/badge",
+      "path": "packages/badge/package.json",
+      "version": "10.2.5"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/banner",
+      "path": "packages/banner/package.json",
+      "version": "10.2.6"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/button",
+      "path": "packages/button/package.json",
+      "version": "25.2.2"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/callout",
+      "path": "packages/callout/package.json",
+      "version": "12.1.6"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/canvas-header",
+      "path": "packages/canvas-header/package.json",
+      "version": "3.0.4"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/card",
+      "path": "packages/card/package.json",
+      "version": "13.3.2"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/checkbox",
+      "path": "packages/checkbox/package.json",
+      "version": "18.1.6"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/chip",
+      "path": "packages/chip/package.json",
+      "version": "4.2.2"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/code-editor",
+      "path": "packages/code-editor/package.json",
+      "version": "1.0.8"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/code",
+      "path": "packages/code/package.json",
+      "version": "20.2.9"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/collection-toolbar",
+      "path": "packages/collection-toolbar/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/combobox",
+      "path": "packages/combobox/package.json",
+      "version": "12.5.2"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/compound-component",
+      "path": "packages/compound-component/package.json",
+      "version": "0.3.1"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/confirmation-modal",
+      "path": "packages/confirmation-modal/package.json",
+      "version": "11.0.2"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/context-drawer",
+      "path": "packages/context-drawer/package.json",
+      "version": "0.2.11"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/copyable",
+      "path": "packages/copyable/package.json",
+      "version": "12.0.4"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/date-picker",
+      "path": "packages/date-picker/package.json",
+      "version": "4.1.3"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/date-utils",
+      "path": "packages/date-utils/package.json",
+      "version": "0.3.6"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/delete-wizard",
+      "path": "packages/delete-wizard/package.json",
+      "version": "0.1.1"
+    },
+    {
+      "error": null,
+      "name": "@leafygreen-ui/descendants",
+      "path": "packages/descendants/package.json",
+      "version": "3.1.2"
+    }
+  ],
+  "paths": [
+    "charts/chart-card/package.json",
+    "charts/colors/package.json",
+    "charts/core/package.json",
+    "charts/drag-provider/package.json",
+    "charts/legend/package.json",
+    "charts/series-provider/package.json",
+    "chat/chat-button/package.json",
+    "chat/chat-layout/package.json",
+    "chat/chat-window/package.json",
+    "chat/input-bar/package.json",
+    "chat/leafygreen-chat-provider/package.json",
+    "chat/lg-markdown/package.json",
+    "chat/message-feed/package.json",
+    "chat/message-feedback/package.json",
+    "chat/message-prompts/package.json",
+    "chat/message-rating/package.json",
+    "chat/message/package.json",
+    "chat/rich-links/package.json",
+    "chat/suggestions/package.json",
+    "chat/title-bar/package.json",
+    "deprecated-packages/avatar/package.json",
+    "deprecated-packages/box/package.json",
+    "deprecated-packages/chat-disclaimer/package.json",
+    "deprecated-packages/fixed-chat-window/package.json",
+    "deprecated-packages/message-actions/package.json",
+    "mcp/embeddable-uis/package.json",
+    "mcp/hooks/package.json",
+    "mcp/ui-resource-renderer/package.json",
+    "package.json",
+    "packages/a11y/package.json",
+    "packages/avatar/package.json",
+    "packages/badge/package.json",
+    "packages/banner/package.json",
+    "packages/button/package.json",
+    "packages/callout/package.json",
+    "packages/canvas-header/package.json",
+    "packages/card/package.json",
+    "packages/checkbox/package.json",
+    "packages/chip/package.json",
+    "packages/code-editor/package.json",
+    "packages/code/package.json",
+    "packages/collection-toolbar/package.json",
+    "packages/combobox/package.json",
+    "packages/compound-component/package.json",
+    "packages/confirmation-modal/package.json",
+    "packages/context-drawer/package.json",
+    "packages/copyable/package.json",
+    "packages/date-picker/package.json",
+    "packages/date-utils/package.json",
+    "packages/delete-wizard/package.json",
+    "packages/descendants/package.json",
+    "packages/drawer/package.json",
+    "packages/emotion/package.json",
+    "packages/empty-state/package.json",
+    "packages/expandable-card/package.json",
+    "packages/feature-walls/package.json",
+    "packages/form-field/package.json",
+    "packages/form-footer/package.json",
+    "packages/gallery-indicator/package.json",
+    "packages/guide-cue/package.json",
+    "packages/hooks/package.json",
+    "packages/icon-button/package.json",
+    "packages/icon/package.json",
+    "packages/info-sprinkle/package.json",
+    "packages/inline-definition/package.json",
+    "packages/input-option/package.json",
+    "packages/leafygreen-provider/package.json",
+    "packages/lib/package.json",
+    "packages/loading-indicator/package.json",
+    "packages/logo/package.json",
+    "packages/marketing-modal/package.json",
+    "packages/menu/package.json",
+    "packages/modal/package.json",
+    "packages/number-input/package.json",
+    "packages/ordered-list/package.json",
+    "packages/pagination/package.json",
+    "packages/palette/package.json",
+    "packages/password-input/package.json",
+    "packages/pipeline/package.json",
+    "packages/polymorphic/package.json",
+    "packages/popover/package.json",
+    "packages/portal/package.json",
+    "packages/preview-card/package.json",
+    "packages/progress-bar/package.json",
+    "packages/radio-box-group/package.json",
+    "packages/radio-group/package.json",
+    "packages/resizable/package.json",
+    "packages/ripple/package.json",
+    "packages/search-input/package.json",
+    "packages/section-nav/package.json",
+    "packages/segmented-control/package.json",
+    "packages/select/package.json",
+    "packages/side-nav/package.json",
+    "packages/skeleton-loader/package.json",
+    "packages/split-button/package.json",
+    "packages/stepper/package.json",
+    "packages/table/package.json",
+    "packages/tabs/package.json",
+    "packages/testing-lib/package.json",
+    "packages/text-area/package.json",
+    "packages/text-input/package.json",
+    "packages/toast/package.json",
+    "packages/toggle/package.json",
+    "packages/tokens/package.json",
+    "packages/toolbar/package.json",
+    "packages/tooltip/package.json",
+    "packages/typography/package.json",
+    "packages/vertical-stepper/package.json",
+    "packages/wizard/package.json",
+    "tools/build/package.json",
+    "tools/cli/package.json",
+    "tools/codemods/package.json",
+    "tools/create/package.json",
+    "tools/eslint-plugin/package.json",
+    "tools/install/package.json",
+    "tools/link/package.json",
+    "tools/lint/package.json",
+    "tools/meta/package.json",
+    "tools/prompt-kit/package.json",
+    "tools/slackbot/package.json",
+    "tools/storybook-addon/package.json",
+    "tools/storybook-decorators/package.json",
+    "tools/storybook-utils/package.json",
+    "tools/test-harnesses/package.json",
+    "tools/test/package.json",
+    "tools/update/package.json",
+    "tools/validate/package.json"
+  ],
+  "repo_url": "https://github.com/mongodb/leafygreen-ui",
+  "root": {
+    "error": null,
+    "name": "leafygreen-ui",
+    "version": "0.0.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:52Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:42:08Z",
+    "http_status": 403,
+    "url": "https://github.com/uni-design-system/uni-core"
+  },
+  "id": "180",
+  "name": "UNI Core (uni-design-system)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:52Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2023-04-08T17:18:58Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 1,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

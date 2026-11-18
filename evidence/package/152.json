@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:36:23Z",
+  "error": null,
+  "id": "152",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "nextjs",
+      "path": "examples/nextjs/package.json",
+      "version": "0.1.0"
+    }
+  ],
+  "paths": [
+    "examples/nextjs/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/vimeo/iris",
+  "root": {
+    "error": null,
+    "name": "@vimeo/iris",
+    "version": "0.151.0"
+  }
+}

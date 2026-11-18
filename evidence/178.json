@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:47Z",
+  "docs": {
+    "body_bytes_hashed": 32151,
+    "body_sha256": "483ff16eaa5ae3aff13f47c6ae32396fc8b7a1615e49aeb96ac5c3de5ddfbe8c",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:48Z",
+    "final_url": "https://wayneui.apps.wayne.edu/docs/",
+    "http_status": 200,
+    "url": "https://wayneui.apps.wayne.edu/docs/"
+  },
+  "id": "178",
+  "name": "WayneUI (Wayne State University)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:47Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v2.0.8",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-08-10T21:19:15Z",
+    "spdx_licence": "MIT",
+    "tag_count": 9,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

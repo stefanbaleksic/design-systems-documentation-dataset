@@ -1,0 +1,384 @@
+{
+  "collected_at_utc": "2026-11-18T11:31:45Z",
+  "error": null,
+  "id": "113",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-docs",
+      "path": "docs/package.json",
+      "version": "0.35.6"
+    },
+    {
+      "error": null,
+      "name": "react-typescript",
+      "path": "docs/src/sandboxes/default/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-actionmenu",
+      "path": "packages/actionmenu/package.json",
+      "version": "18.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-appframe",
+      "path": "packages/appframe/package.json",
+      "version": "6.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-avatar",
+      "path": "packages/avatar/package.json",
+      "version": "13.0.6"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-badge",
+      "path": "packages/badge/package.json",
+      "version": "13.0.11"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-banner",
+      "path": "packages/banner/package.json",
+      "version": "11.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-breadcrumb",
+      "path": "packages/breadcrumb/package.json",
+      "version": "12.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-build",
+      "path": "packages/build/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-button",
+      "path": "packages/button/package.json",
+      "version": "24.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-card",
+      "path": "packages/card/package.json",
+      "version": "19.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-carousel",
+      "path": "packages/carousel/package.json",
+      "version": "14.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-checkbox",
+      "path": "packages/checkbox/package.json",
+      "version": "11.0.9"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-circularprogress",
+      "path": "packages/circularprogress/package.json",
+      "version": "12.0.8"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-collapsible",
+      "path": "packages/collapsible/package.json",
+      "version": "5.1.12"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-core",
+      "path": "packages/core/package.json",
+      "version": "10.0.4"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-datawell",
+      "path": "packages/datawell/package.json",
+      "version": "7.0.11"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-datepicker",
+      "path": "packages/datepicker/package.json",
+      "version": "18.1.3"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-dialog",
+      "path": "packages/dialog/package.json",
+      "version": "15.0.12"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-drawer",
+      "path": "packages/drawer/package.json",
+      "version": "13.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-dropdown",
+      "path": "packages/dropdown/package.json",
+      "version": "13.1.3"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-emptystate",
+      "path": "packages/emptystate/package.json",
+      "version": "14.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-errors",
+      "path": "packages/errors/package.json",
+      "version": "14.0.9"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-featureflags",
+      "path": "packages/featureflags/package.json",
+      "version": "4.1.12"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-field",
+      "path": "packages/field/package.json",
+      "version": "5.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-focusmanager",
+      "path": "packages/focusmanager/package.json",
+      "version": "8.0.10"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-form",
+      "path": "packages/form/package.json",
+      "version": "14.1.4"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-halo",
+      "path": "packages/halo/package.json",
+      "version": "12.0.8"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-icon",
+      "path": "packages/icon/package.json",
+      "version": "25.4.1"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-layout",
+      "path": "packages/layout/package.json",
+      "version": "12.0.15"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-linearprogress",
+      "path": "packages/linearprogress/package.json",
+      "version": "10.0.15"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-link",
+      "path": "packages/link/package.json",
+      "version": "13.0.11"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-menu",
+      "path": "packages/menu/package.json",
+      "version": "6.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-multiselect",
+      "path": "packages/multiselect/package.json",
+      "version": "3.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-navbar",
+      "path": "packages/navbar/package.json",
+      "version": "6.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-navbrand",
+      "path": "packages/navbrand/package.json",
+      "version": "5.0.11"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-navcookiebanner",
+      "path": "packages/navcookiebanner/package.json",
+      "version": "4.1.3"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-navitem",
+      "path": "packages/navitem/package.json",
+      "version": "6.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-navuser",
+      "path": "packages/navuser/package.json",
+      "version": "5.0.17"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-normalize",
+      "path": "packages/normalize/package.json",
+      "version": "7.0.4"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-note",
+      "path": "packages/note/package.json",
+      "version": "11.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-position",
+      "path": "packages/position/package.json",
+      "version": "9.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-radio",
+      "path": "packages/radio/package.json",
+      "version": "11.0.16"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-row",
+      "path": "packages/row/package.json",
+      "version": "16.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-screenreaderonly",
+      "path": "packages/screenreaderonly/package.json",
+      "version": "5.0.11"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-scrollable",
+      "path": "packages/scrollable/package.json",
+      "version": "6.0.11"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-searchinput",
+      "path": "packages/searchinput/package.json",
+      "version": "11.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-select",
+      "path": "packages/select/package.json",
+      "version": "4.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-starrating",
+      "path": "packages/starrating/package.json",
+      "version": "11.1.2"
+    },
+    {
+      "error": null,
+      "name": "@pluralsight/ps-design-system-steps",
+      "path": "packages/steps/package.json",
+      "version": "5.0.11"
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "docs/src/sandboxes/default/package.json",
+    "package.json",
+    "packages/actionmenu/package.json",
+    "packages/appframe/package.json",
+    "packages/avatar/package.json",
+    "packages/badge/package.json",
+    "packages/banner/package.json",
+    "packages/breadcrumb/package.json",
+    "packages/build/package.json",
+    "packages/button/package.json",
+    "packages/card/package.json",
+    "packages/carousel/package.json",
+    "packages/checkbox/package.json",
+    "packages/circularprogress/package.json",
+    "packages/collapsible/package.json",
+    "packages/core/package.json",
+    "packages/datawell/package.json",
+    "packages/datepicker/package.json",
+    "packages/dialog/package.json",
+    "packages/drawer/package.json",
+    "packages/dropdown/package.json",
+    "packages/emptystate/package.json",
+    "packages/errors/package.json",
+    "packages/featureflags/package.json",
+    "packages/field/package.json",
+    "packages/focusmanager/package.json",
+    "packages/form/package.json",
+    "packages/halo/package.json",
+    "packages/icon/package.json",
+    "packages/layout/package.json",
+    "packages/linearprogress/package.json",
+    "packages/link/package.json",
+    "packages/menu/package.json",
+    "packages/multiselect/package.json",
+    "packages/navbar/package.json",
+    "packages/navbrand/package.json",
+    "packages/navcookiebanner/package.json",
+    "packages/navitem/package.json",
+    "packages/navuser/package.json",
+    "packages/normalize/package.json",
+    "packages/note/package.json",
+    "packages/position/package.json",
+    "packages/radio/package.json",
+    "packages/row/package.json",
+    "packages/screenreaderonly/package.json",
+    "packages/scrollable/package.json",
+    "packages/searchinput/package.json",
+    "packages/select/package.json",
+    "packages/starrating/package.json",
+    "packages/steps/package.json",
+    "packages/storybook-addon-center/package.json",
+    "packages/storybook-addon-theme/package.json",
+    "packages/storybook-preset/package.json",
+    "packages/switch/package.json",
+    "packages/tab/package.json",
+    "packages/table/package.json",
+    "packages/tag/package.json",
+    "packages/tagsinput/package.json",
+    "packages/text/package.json",
+    "packages/textarea/package.json",
+    "packages/textinput/package.json",
+    "packages/theme/package.json",
+    "packages/tooltip/package.json",
+    "packages/typeahead/package.json",
+    "packages/util/package.json",
+    "packages/verticaltabs/package.json",
+    "packages/viewtoggle/package.json"
+  ],
+  "repo_url": "https://github.com/pluralsight/design-system",
+  "root": {
+    "error": null,
+    "name": "design-system",
+    "version": "1.0.0"
+  }
+}

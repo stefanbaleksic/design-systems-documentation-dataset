@@ -1,0 +1,171 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:29Z",
+  "error": null,
+  "id": "197",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@cagov/ds-accordion",
+      "path": "components/accordion/package.json",
+      "version": "2.0.4"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-back-to-top",
+      "path": "components/back-to-top/package.json",
+      "version": "2.0.3"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-base-css",
+      "path": "components/base-css/package.json",
+      "version": "1.0.20"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-combined-css",
+      "path": "components/combined-css/package.json",
+      "version": "2.0.5"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-feature-card",
+      "path": "components/feature-card/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-highlight-section",
+      "path": "components/highlight-section/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-icons",
+      "path": "components/icons/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-link-grid",
+      "path": "components/link-grid/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-link-icon",
+      "path": "components/link-icon/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-page-alert",
+      "path": "components/page-alert/package.json",
+      "version": "2.0.3"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-page-feedback",
+      "path": "components/page-feedback/package.json",
+      "version": "1.1.5"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-page-navigation",
+      "path": "components/page-navigation/package.json",
+      "version": "2.2.4"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-pagination",
+      "path": "components/pagination/package.json",
+      "version": "2.0.4"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-regulatory-outline",
+      "path": "components/regulatory-outline/package.json",
+      "version": "1.0.5"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-site-footer",
+      "path": "components/site-footer/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-site-header",
+      "path": "components/site-header/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-site-navigation",
+      "path": "components/site-navigation/package.json",
+      "version": "3.0.4"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-skip-to-content",
+      "path": "components/skip-to-content/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-statewide-footer",
+      "path": "components/statewide-footer/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-statewide-header",
+      "path": "components/statewide-header/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-step-list",
+      "path": "components/step-list/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@cagov/ds-table",
+      "path": "components/table/package.json",
+      "version": "1.0.2"
+    }
+  ],
+  "paths": [
+    "components/accordion/package.json",
+    "components/back-to-top/package.json",
+    "components/base-css/package.json",
+    "components/combined-css/package.json",
+    "components/feature-card/package.json",
+    "components/highlight-section/package.json",
+    "components/icons/package.json",
+    "components/link-grid/package.json",
+    "components/link-icon/package.json",
+    "components/page-alert/package.json",
+    "components/page-feedback/package.json",
+    "components/page-navigation/package.json",
+    "components/pagination/package.json",
+    "components/regulatory-outline/package.json",
+    "components/site-footer/package.json",
+    "components/site-header/package.json",
+    "components/site-navigation/package.json",
+    "components/skip-to-content/package.json",
+    "components/statewide-footer/package.json",
+    "components/statewide-header/package.json",
+    "components/step-list/package.json",
+    "components/table/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/cagov/design-system",
+  "root": {
+    "error": null,
+    "name": "california-design-system",
+    "version": "1.0.13"
+  }
+}

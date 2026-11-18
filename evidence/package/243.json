@@ -1,0 +1,374 @@
+{
+  "collected_at_utc": "2026-11-18T11:42:44Z",
+  "error": null,
+  "id": "243",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "docs",
+      "path": "docs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "material-ui-express-ssr",
+      "path": "examples/material-ui-express-ssr/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-gatsby",
+      "path": "examples/material-ui-gatsby/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-nextjs-pages-router-ts",
+      "path": "examples/material-ui-nextjs-pages-router-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-nextjs-pages-router",
+      "path": "examples/material-ui-nextjs-pages-router/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-nextjs-tailwind-ts",
+      "path": "examples/material-ui-nextjs-tailwind-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-nextjs-ts-v4-v5-migration",
+      "path": "examples/material-ui-nextjs-ts-v4-v5-migration/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-nextjs-ts",
+      "path": "examples/material-ui-nextjs-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-nextjs",
+      "path": "examples/material-ui-nextjs/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-pigment-css-nextjs-ts",
+      "path": "examples/material-ui-pigment-css-nextjs-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-pigment-css-vite",
+      "path": "examples/material-ui-pigment-css-vite-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-preact",
+      "path": "examples/material-ui-preact/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-react-router-ts",
+      "path": "examples/material-ui-react-router-ts/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "material-ui-remix-ts",
+      "path": "examples/material-ui-remix-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-via-cdn",
+      "path": "examples/material-ui-via-cdn/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-vite-tailwind-ts",
+      "path": "examples/material-ui-vite-tailwind-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-vite-ts",
+      "path": "examples/material-ui-vite-ts/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "material-ui-vite",
+      "path": "examples/material-ui-vite/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages-internal/api-docs-builder-core/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/internal-api-docs-builder",
+      "path": "packages-internal/api-docs-builder/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/internal-core-docs",
+      "path": "packages-internal/core-docs/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/internal-docs-utils",
+      "path": "packages-internal/docs-utils/package.json",
+      "version": "4.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/internal-markdown",
+      "path": "packages-internal/markdown/package.json",
+      "version": "4.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/internal-scripts",
+      "path": "packages-internal/scripts/package.json",
+      "version": "4.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/codemod",
+      "path": "packages/mui-codemod/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/core-downloads-tracker",
+      "path": "packages/mui-core-downloads-tracker/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/envinfo",
+      "path": "packages/mui-envinfo/package.json",
+      "version": "2.0.53"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/mui-envinfo/test/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@mui/icons-material",
+      "path": "packages/mui-icons-material/lib/package.json",
+      "version": "9.1.1"
+    },
+    {
+      "error": null,
+      "name": "@mui/icons-material",
+      "path": "packages/mui-icons-material/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/lab",
+      "path": "packages/mui-lab/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/material-nextjs",
+      "path": "packages/mui-material-nextjs/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/material-pigment-css",
+      "path": "packages/mui-material-pigment-css/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/material",
+      "path": "packages/mui-material/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/private-theming",
+      "path": "packages/mui-private-theming/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/styled-engine-sc",
+      "path": "packages/mui-styled-engine-sc/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/styled-engine",
+      "path": "packages/mui-styled-engine/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/stylis-plugin-rtl",
+      "path": "packages/mui-stylis-plugin-rtl/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/system",
+      "path": "packages/mui-system/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/types",
+      "path": "packages/mui-types/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@mui/utils",
+      "path": "packages/mui-utils/package.json",
+      "version": "10.0.0-alpha.0"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "test/benchmark/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "test/bundle-size/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "esbuild",
+      "path": "test/bundling/fixtures/esbuild/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "gatsby",
+      "path": "test/bundling/fixtures/gatsby/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "next-webpack4",
+      "path": "test/bundling/fixtures/next-webpack4/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "next-webpack5",
+      "path": "test/bundling/fixtures/next-webpack5/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "node-esm",
+      "path": "test/bundling/fixtures/node-cjs/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "node-esm",
+      "path": "test/bundling/fixtures/node-esm/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "snowpack",
+      "path": "test/bundling/fixtures/snowpack/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "examples/material-ui-express-ssr/package.json",
+    "examples/material-ui-gatsby/package.json",
+    "examples/material-ui-nextjs-pages-router-ts/package.json",
+    "examples/material-ui-nextjs-pages-router/package.json",
+    "examples/material-ui-nextjs-tailwind-ts/package.json",
+    "examples/material-ui-nextjs-ts-v4-v5-migration/package.json",
+    "examples/material-ui-nextjs-ts/package.json",
+    "examples/material-ui-nextjs/package.json",
+    "examples/material-ui-pigment-css-nextjs-ts/package.json",
+    "examples/material-ui-pigment-css-vite-ts/package.json",
+    "examples/material-ui-preact/package.json",
+    "examples/material-ui-react-router-ts/package.json",
+    "examples/material-ui-remix-ts/package.json",
+    "examples/material-ui-via-cdn/package.json",
+    "examples/material-ui-vite-tailwind-ts/package.json",
+    "examples/material-ui-vite-ts/package.json",
+    "examples/material-ui-vite/package.json",
+    "package.json",
+    "packages-internal/api-docs-builder-core/package.json",
+    "packages-internal/api-docs-builder/package.json",
+    "packages-internal/core-docs/package.json",
+    "packages-internal/docs-utils/package.json",
+    "packages-internal/markdown/package.json",
+    "packages-internal/scripts/package.json",
+    "packages/mui-codemod/package.json",
+    "packages/mui-core-downloads-tracker/package.json",
+    "packages/mui-envinfo/package.json",
+    "packages/mui-envinfo/test/package.json",
+    "packages/mui-icons-material/lib/package.json",
+    "packages/mui-icons-material/package.json",
+    "packages/mui-lab/package.json",
+    "packages/mui-material-nextjs/package.json",
+    "packages/mui-material-pigment-css/package.json",
+    "packages/mui-material/package.json",
+    "packages/mui-private-theming/package.json",
+    "packages/mui-styled-engine-sc/package.json",
+    "packages/mui-styled-engine/package.json",
+    "packages/mui-stylis-plugin-rtl/package.json",
+    "packages/mui-system/package.json",
+    "packages/mui-types/package.json",
+    "packages/mui-utils/package.json",
+    "test/benchmark/package.json",
+    "test/bundle-size/package.json",
+    "test/bundling/fixtures/esbuild/package.json",
+    "test/bundling/fixtures/gatsby/package.json",
+    "test/bundling/fixtures/next-webpack4/package.json",
+    "test/bundling/fixtures/next-webpack5/package.json",
+    "test/bundling/fixtures/node-cjs/package.json",
+    "test/bundling/fixtures/node-esm/package.json",
+    "test/bundling/fixtures/snowpack/package.json",
+    "test/bundling/fixtures/vite/package.json",
+    "test/bundling/scripts/package.json",
+    "test/e2e/package.json",
+    "test/moduleAugmentation/package.json",
+    "test/moduleResolution/package.json",
+    "test/package.json",
+    "test/typescriptMinimum/package.json"
+  ],
+  "repo_url": "https://github.com/mui/material-ui",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": "10.0.0-alpha.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:10Z",
+  "docs": {
+    "body_bytes_hashed": 330748,
+    "body_sha256": "ab397e8e4b680c2b0db2944df64ae395d70689459fe798e96e577b7842225a1c",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:47Z",
+    "final_url": "https://monzo.com/tone-of-voice",
+    "http_status": 200,
+    "url": "https://monzo.com/tone-of-voice/"
+  },
+  "id": "97",
+  "name": "Monzo Tone of Voice",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

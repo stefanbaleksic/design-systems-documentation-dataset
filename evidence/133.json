@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:52Z",
+  "docs": {
+    "body_bytes_hashed": 719507,
+    "body_sha256": "d80bd3ae4a916f14f8262fd1da9679e9465d63660029b6bb05e29c7bfde615be",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:42Z",
+    "final_url": "https://ui.shadcn.com/",
+    "http_status": 200,
+    "url": "https://ui.shadcn.com/"
+  },
+  "id": "133",
+  "name": "Shadcn/ui",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:52Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-17T09:23:00Z",
+    "spdx_licence": "MIT",
+    "tag_count": 141,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

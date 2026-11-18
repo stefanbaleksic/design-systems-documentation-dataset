@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:33Z",
+  "docs": {
+    "error": "HTTP 404",
+    "fetched_at_utc": "2026-11-18T09:40:56Z",
+    "http_status": 404,
+    "url": "https://www.audi.com/ci/en/guides/user-interface/introduction.html"
+  },
+  "id": "14",
+  "name": "Audi UI Kit",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": "git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+      "fetched_at_utc": "2026-11-18T09:43:33Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": null,
+    "latest_tag": null,
+    "licence_detection": null,
+    "licence_file": null,
+    "pushed_at_utc": null,
+    "spdx_licence": null,
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "failed"
+}

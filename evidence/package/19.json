@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:33Z",
+  "error": null,
+  "id": "19",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "basis-website",
+      "path": "website/package.json",
+      "version": "0.1.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "website/package.json"
+  ],
+  "repo_url": "https://github.com/moroshko/basis",
+  "root": {
+    "error": null,
+    "name": "basis",
+    "version": "1.71.0"
+  }
+}

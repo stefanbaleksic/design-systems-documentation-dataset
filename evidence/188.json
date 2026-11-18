@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:59Z",
+  "docs": {
+    "body_bytes_hashed": 108494,
+    "body_sha256": "da15de535f5d252de5d6fa422e7709e4d83519b93d91de856f6bd9d7eec57db7",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:00Z",
+    "final_url": "https://design-patterns.service.justice.gov.uk/",
+    "http_status": 200,
+    "url": "https://design-patterns.service.justice.gov.uk/"
+  },
+  "id": "188",
+  "name": "MoJ Design System (Ministry of Justice)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

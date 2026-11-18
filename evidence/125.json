@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:42Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:41:50Z",
+    "http_status": 403,
+    "url": "https://github.com/SAP/openui5"
+  },
+  "id": "125",
+  "name": "SAP OpenUI5",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:42Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "1.154.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.txt",
+    "pushed_at_utc": "2026-11-18T06:22:31Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 1265,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

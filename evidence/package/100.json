@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:30:57Z",
+  "error": null,
+  "id": "100",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/nasa/nasawds",
+  "root": {
+    "error": null,
+    "name": "nasawds",
+    "version": "4.0.72"
+  }
+}

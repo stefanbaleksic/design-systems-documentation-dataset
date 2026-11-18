@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:31Z",
+  "docs": null,
+  "id": "215",
+  "name": "SpareBank 1 Design System",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:31Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": "v102.0.15",
+    "licence_detection": "no known licence text",
+    "licence_file": "LICENSE-fonts.md",
+    "pushed_at_utc": "2026-11-18T08:24:51Z",
+    "spdx_licence": null,
+    "tag_count": 10401,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

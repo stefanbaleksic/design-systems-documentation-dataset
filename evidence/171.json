@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:45Z",
+  "docs": {
+    "body_bytes_hashed": 164543,
+    "body_sha256": "d048617a715d971d1cb71f5dd35019e29d551e95988d34601f9df1b4c643eecd",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:38Z",
+    "final_url": "https://www.brand.airbus.com/en/digital-experience",
+    "http_status": 200,
+    "url": "https://www.brand.airbus.com/en/digital-experience"
+  },
+  "id": "171",
+  "name": "Airbus Digital Experience",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

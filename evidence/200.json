@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:05Z",
+  "docs": {
+    "body_bytes_hashed": 6444,
+    "body_sha256": "f383a3dfb12124052089bcd6a6d6169cab4ae9462de56c8781adb6ba2017829b",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:15Z",
+    "final_url": "https://developer.gov.bc.ca/Design-System/About-the-Design-System",
+    "http_status": 200,
+    "url": "https://developer.gov.bc.ca/Design-System/About-the-Design-System"
+  },
+  "id": "200",
+  "name": "B.C. Government Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:05Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T15:54:34Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 45,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

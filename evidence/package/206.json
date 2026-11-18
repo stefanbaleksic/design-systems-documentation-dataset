@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:38:19Z",
+  "error": null,
+  "id": "206",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@cfpb/cfpb-design-system",
+      "path": "packages/cfpb-design-system/package.json",
+      "version": "5.10.4"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/cfpb-design-system/package.json"
+  ],
+  "repo_url": "https://github.com/cfpb/design-system",
+  "root": {
+    "error": null,
+    "name": "cfpb-design-system",
+    "version": null
+  }
+}

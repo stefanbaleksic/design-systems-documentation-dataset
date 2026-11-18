@@ -1,0 +1,171 @@
+{
+  "collected_at_utc": "2026-11-18T11:41:31Z",
+  "error": null,
+  "id": "231",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@fkui/docs",
+      "path": "docs/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/example-page-layout",
+      "path": "examples/page-layout/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/example-table",
+      "path": "examples/table/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/cypress-split",
+      "path": "internal/cypress-split/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/semantic-release-publiccode",
+      "path": "internal/publiccode/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/serve",
+      "path": "internal/serve/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/vue-sandbox",
+      "path": "internal/vue-sandbox/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/date",
+      "path": "packages/date/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/design",
+      "path": "packages/design/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/font-default",
+      "path": "packages/font-default/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/i18next-translate",
+      "path": "packages/i18next-translate/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/icon-lib-builder",
+      "path": "packages/icon-lib-builder/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/icon-lib-default",
+      "path": "packages/icon-lib-default/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/logic",
+      "path": "packages/logic/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/logo-default",
+      "path": "packages/logo-default/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/test-utils",
+      "path": "packages/test-utils/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/theme-builder",
+      "path": "packages/theme-builder/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/theme-default",
+      "path": "packages/theme-default/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/theme-desktop",
+      "path": "packages/theme-desktop/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/tsconfig",
+      "path": "packages/tsconfig/package.json",
+      "version": "6.65.0"
+    },
+    {
+      "error": null,
+      "name": "@fkui/vue-labs",
+      "path": "packages/vue-labs/package.json",
+      "version": "6.65.1"
+    },
+    {
+      "error": null,
+      "name": "@fkui/vue",
+      "path": "packages/vue/package.json",
+      "version": "6.65.1"
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "examples/page-layout/package.json",
+    "examples/table/package.json",
+    "internal/cypress-split/package.json",
+    "internal/publiccode/package.json",
+    "internal/serve/package.json",
+    "internal/vue-sandbox/package.json",
+    "package.json",
+    "packages/date/package.json",
+    "packages/design/package.json",
+    "packages/font-default/package.json",
+    "packages/i18next-translate/package.json",
+    "packages/icon-lib-builder/package.json",
+    "packages/icon-lib-default/package.json",
+    "packages/logic/package.json",
+    "packages/logo-default/package.json",
+    "packages/test-utils/package.json",
+    "packages/theme-builder/package.json",
+    "packages/theme-default/package.json",
+    "packages/theme-desktop/package.json",
+    "packages/tsconfig/package.json",
+    "packages/vue-labs/package.json",
+    "packages/vue/package.json"
+  ],
+  "repo_url": "https://github.com/Forsakringskassan/designsystem",
+  "root": {
+    "error": null,
+    "name": "@fkui/fkui-monorepo",
+    "version": "6.65.1"
+  }
+}

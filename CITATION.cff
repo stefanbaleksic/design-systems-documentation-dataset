@@ -1,0 +1,26 @@
+# Citation metadata for this dataset (Citation File Format 1.2.0).
+# GitHub and Zenodo read this file. Keep version and date-released in step with VERSION and release.json.
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "Design System Documentation Dataset"
+version: 1.0.0
+date-released: 2026-11-18
+authors:
+  - family-names: "Aleksić"
+    given-names: "Stefan B."
+    orcid: "https://orcid.org/0009-0009-1537-296X"
+abstract: >-
+  A dataset of publicly documented design systems, UI libraries and style guidelines. For each entry it records
+  documentation and governance facts as coded by the author (changelog, contributing guide, governance, accessibility,
+  case study), the licence, the repository facts and a verification status. Evidence files and a reproducible
+  build are included.
+keywords:
+  - design systems
+  - documentation
+  - governance
+  - dataset
+license: CC-BY-4.0
+# Repository code is MIT (see LICENSE); the dataset content is CC BY 4.0 (see LICENSE-DATA).
+# doi: to be added after deposit on Zenodo
+repository-code: "https://github.com/stefanbaleksic/design-systems-documentation-dataset"

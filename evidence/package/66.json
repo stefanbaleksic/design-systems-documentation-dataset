@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:28:47Z",
+  "error": null,
+  "id": "66",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@hashicorp/design-system-codemods",
+      "path": "packages/codemods/package.json",
+      "version": "0.5.2"
+    },
+    {
+      "error": null,
+      "name": "@hashicorp/design-system-components",
+      "path": "packages/components/package.json",
+      "version": "7.1.0"
+    },
+    {
+      "error": null,
+      "name": "@hashicorp/flight-icons",
+      "path": "packages/flight-icons/package.json",
+      "version": "5.3.0"
+    },
+    {
+      "error": null,
+      "name": "@hashicorp/design-system-mcp",
+      "path": "packages/mcp/package.json",
+      "version": "0.2.3"
+    },
+    {
+      "error": null,
+      "name": "@hashicorp/design-system-tokens",
+      "path": "packages/tokens/package.json",
+      "version": "6.0.1"
+    },
+    {
+      "error": null,
+      "name": "showcase",
+      "path": "showcase/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "analytics",
+      "path": "website/lib/analytics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "markdown",
+      "path": "website/lib/markdown/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "website",
+      "path": "website/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/codemods/package.json",
+    "packages/components/package.json",
+    "packages/flight-icons/package.json",
+    "packages/mcp/package.json",
+    "packages/tokens/package.json",
+    "showcase/package.json",
+    "website/lib/analytics/package.json",
+    "website/lib/markdown/package.json",
+    "website/package.json"
+  ],
+  "repo_url": "https://github.com/hashicorp/design-system",
+  "root": {
+    "error": null,
+    "name": "@hashicorp/design-system",
+    "version": "0.0.0"
+  }
+}

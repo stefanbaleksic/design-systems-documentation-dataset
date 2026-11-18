@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:25Z",
+  "docs": null,
+  "id": "289",
+  "name": "Rebass",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:49:25Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v4.0.7",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2021-08-03T19:54:17Z",
+    "spdx_licence": "MIT",
+    "tag_count": 77,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

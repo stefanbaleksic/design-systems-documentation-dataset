@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:35:53Z",
+  "error": null,
+  "id": "148",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/uswitch/ustyle",
+  "root": {
+    "error": null,
+    "name": "ustyle",
+    "version": "2.0.15"
+  }
+}

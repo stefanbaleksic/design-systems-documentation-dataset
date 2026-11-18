@@ -1,0 +1,192 @@
+{
+  "collected_at_utc": "2026-11-18T11:27:53Z",
+  "error": null,
+  "id": "48",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "boundless-arrow-key-navigation",
+      "path": "packages/boundless-arrow-key-navigation/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-async",
+      "path": "packages/boundless-async/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-button",
+      "path": "packages/boundless-button/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-checkbox-group",
+      "path": "packages/boundless-checkbox-group/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-checkbox",
+      "path": "packages/boundless-checkbox/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-dialog",
+      "path": "packages/boundless-dialog/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-fitted-text",
+      "path": "packages/boundless-fitted-text/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-image",
+      "path": "packages/boundless-image/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-input",
+      "path": "packages/boundless-input/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-modal",
+      "path": "packages/boundless-modal/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-pagination",
+      "path": "packages/boundless-pagination/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-popover",
+      "path": "packages/boundless-popover/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-portal",
+      "path": "packages/boundless-portal/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-progress",
+      "path": "packages/boundless-progress/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-progressive-disclosure",
+      "path": "packages/boundless-progressive-disclosure/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-radio",
+      "path": "packages/boundless-radio/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-segmented-control",
+      "path": "packages/boundless-segmented-control/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-tokenized-input",
+      "path": "packages/boundless-tokenized-input/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-typeahead",
+      "path": "packages/boundless-typeahead/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-utils-object-intersection",
+      "path": "packages/boundless-utils-object-intersection/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-utils-omit-keys",
+      "path": "packages/boundless-utils-omit-keys/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-utils-test-helpers",
+      "path": "packages/boundless-utils-test-helpers/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-utils-transform-property",
+      "path": "packages/boundless-utils-transform-property/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-utils-uuid",
+      "path": "packages/boundless-utils-uuid/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "boundless-utils-web-notification",
+      "path": "packages/boundless-utils-web-notification/package.json",
+      "version": "1.1.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/boundless-arrow-key-navigation/package.json",
+    "packages/boundless-async/package.json",
+    "packages/boundless-button/package.json",
+    "packages/boundless-checkbox-group/package.json",
+    "packages/boundless-checkbox/package.json",
+    "packages/boundless-dialog/package.json",
+    "packages/boundless-fitted-text/package.json",
+    "packages/boundless-image/package.json",
+    "packages/boundless-input/package.json",
+    "packages/boundless-modal/package.json",
+    "packages/boundless-pagination/package.json",
+    "packages/boundless-popover/package.json",
+    "packages/boundless-portal/package.json",
+    "packages/boundless-progress/package.json",
+    "packages/boundless-progressive-disclosure/package.json",
+    "packages/boundless-radio/package.json",
+    "packages/boundless-segmented-control/package.json",
+    "packages/boundless-tokenized-input/package.json",
+    "packages/boundless-typeahead/package.json",
+    "packages/boundless-utils-object-intersection/package.json",
+    "packages/boundless-utils-omit-keys/package.json",
+    "packages/boundless-utils-test-helpers/package.json",
+    "packages/boundless-utils-transform-property/package.json",
+    "packages/boundless-utils-uuid/package.json",
+    "packages/boundless-utils-web-notification/package.json"
+  ],
+  "repo_url": "https://github.com/enigma-io/boundless",
+  "root": {
+    "error": null,
+    "name": "boundless",
+    "version": "1.1.0"
+  }
+}

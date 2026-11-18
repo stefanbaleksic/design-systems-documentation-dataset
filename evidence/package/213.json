@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:38:52Z",
+  "error": null,
+  "id": "213",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "homepage",
+      "path": "homepage/package.json",
+      "version": "0.1.0"
+    }
+  ],
+  "paths": [
+    "homepage/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/NHS-digital-website/design-system",
+  "root": {
+    "error": null,
+    "name": "nhsd-frontend",
+    "version": "0.0.2"
+  }
+}

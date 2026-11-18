@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:49Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:42:04Z",
+    "http_status": 403,
+    "url": "https://github.com/asu/asu-unity-stack"
+  },
+  "id": "179",
+  "name": "ASU Unity Stack (Arizona State University)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:49Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "dev",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T01:51:08Z",
+    "spdx_licence": "MIT",
+    "tag_count": 1382,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

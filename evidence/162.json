@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:41Z",
+  "docs": {
+    "body_bytes_hashed": 175678,
+    "body_sha256": "6c29e355fe916339a7af206cf958112811b1866c4e9daaf0197c47dc93fc0e12",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:29Z",
+    "final_url": "https://www.yelp.com/styleguide",
+    "http_status": 200,
+    "url": "https://www.yelp.com/styleguide"
+  },
+  "id": "162",
+  "name": "Yelp Styleguide",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

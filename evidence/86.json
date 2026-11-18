@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:03Z",
+  "docs": {
+    "body_bytes_hashed": 334363,
+    "body_sha256": "41a5aa767f10ca83dab38d3a8a3a116d76813a5cec0d16387427cf377394b6d1",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:34Z",
+    "final_url": "https://manual.louderthanten.com/",
+    "http_status": 200,
+    "url": "https://www.louderthanten.com/manual"
+  },
+  "id": "86",
+  "name": "Louder Than Ten Manual",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

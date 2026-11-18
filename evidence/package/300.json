@@ -1,0 +1,59 @@
+{
+  "collected_at_utc": "2026-11-18T11:50:07Z",
+  "error": null,
+  "id": "300",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@kobalte/docs",
+      "path": "apps/docs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@kobalte/core",
+      "path": "packages/core/package.json",
+      "version": "0.13.14"
+    },
+    {
+      "error": null,
+      "name": "@kobalte/tailwindcss",
+      "path": "packages/tailwindcss/package.json",
+      "version": "0.9.0"
+    },
+    {
+      "error": null,
+      "name": "@kobalte/tests",
+      "path": "packages/tests/package.json",
+      "version": "0.6.0"
+    },
+    {
+      "error": null,
+      "name": "@kobalte/utils",
+      "path": "packages/utils/package.json",
+      "version": "0.9.2"
+    },
+    {
+      "error": null,
+      "name": "@kobalte/vanilla-extract",
+      "path": "packages/vanilla-extract/package.json",
+      "version": "0.5.0"
+    }
+  ],
+  "paths": [
+    "apps/docs/package.json",
+    "package.json",
+    "packages/core/package.json",
+    "packages/tailwindcss/package.json",
+    "packages/tests/package.json",
+    "packages/utils/package.json",
+    "packages/vanilla-extract/package.json"
+  ],
+  "repo_url": "https://github.com/kobaltedev/kobalte",
+  "root": {
+    "error": null,
+    "name": "kobalte-monorepo",
+    "version": "0.0.0"
+  }
+}

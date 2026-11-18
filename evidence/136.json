@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:58Z",
+  "docs": {
+    "body_bytes_hashed": 33774,
+    "body_sha256": "e16acfb171f97cc7272090d95897e34e592a68b3f2044258e51dc94e7d37399e",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:47Z",
+    "final_url": "https://stackoverflow.design/",
+    "http_status": 200,
+    "url": "https://stackoverflow.design/"
+  },
+  "id": "136",
+  "name": "Stacks (Stack Overflow)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:58Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v2.8.4",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.MD",
+    "pushed_at_utc": "2026-11-16T14:53:40Z",
+    "spdx_licence": "MIT",
+    "tag_count": 275,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

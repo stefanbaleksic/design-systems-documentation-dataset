@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:12Z",
+  "docs": null,
+  "id": "281",
+  "name": "DIBBS Design System (CDC)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:49:12Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2025-06-26T20:19:08Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

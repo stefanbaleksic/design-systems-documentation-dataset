@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:36:51Z",
+  "error": null,
+  "id": "157",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "welcome-ui",
+      "path": "lib/package.json",
+      "version": "10.7.6"
+    },
+    {
+      "error": null,
+      "name": "website",
+      "path": "website/package.json",
+      "version": "0.1.0"
+    }
+  ],
+  "paths": [
+    "lib/package.json",
+    "package.json",
+    "website/package.json"
+  ],
+  "repo_url": "https://github.com/WTTJ/welcome-ui",
+  "root": {
+    "error": null,
+    "name": "main",
+    "version": null
+  }
+}

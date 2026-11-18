@@ -1,0 +1,14 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:29Z",
+  "docs": {
+    "error": "RemoteDisconnected: Remote end closed connection without response",
+    "fetched_at_utc": "2026-11-18T09:41:09Z",
+    "url": "https://design.foyer.lu/"
+  },
+  "id": "57",
+  "name": "Foyer Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "failed"
+}

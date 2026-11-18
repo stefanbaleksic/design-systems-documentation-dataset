@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:41Z",
+  "error": null,
+  "id": "201",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@elephas/core",
+      "path": "src/packages/core/package.json",
+      "version": "1.11.3"
+    },
+    {
+      "error": null,
+      "name": "@elephas/layout",
+      "path": "src/packages/layout/package.json",
+      "version": "1.11.3"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "src/packages/core/package.json",
+    "src/packages/layout/package.json"
+  ],
+  "repo_url": "https://github.com/cft-group/elephas",
+  "root": {
+    "error": null,
+    "name": "@elephas/root",
+    "version": "0.0.0"
+  }
+}

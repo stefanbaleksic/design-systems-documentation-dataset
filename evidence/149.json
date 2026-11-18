@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:17Z",
+  "docs": {
+    "body_bytes_hashed": 45116,
+    "body_sha256": "1de0efe9212d75da322a12644da4d4b9616751ed51195c58b9ba9e8e8b1e77b2",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:09Z",
+    "final_url": "https://designsystem.digital.gov/",
+    "http_status": 200,
+    "url": "https://designsystem.digital.gov/"
+  },
+  "id": "149",
+  "name": "U.S. Web Design Standards (USWDS)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:17Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": "v3.14.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-10-09T17:21:24Z",
+    "spdx_licence": "MIT",
+    "tag_count": 126,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

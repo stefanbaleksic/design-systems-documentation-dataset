@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:07Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:42:24Z",
+    "http_status": 403,
+    "url": "https://github.com/cft-group/elephas"
+  },
+  "id": "201",
+  "name": "CFT Elephas (Center of Financial Technologies)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:07Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v1.11.36",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-01-26T13:22:28Z",
+    "spdx_licence": "MIT",
+    "tag_count": 65,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

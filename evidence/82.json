@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:58Z",
+  "docs": {
+    "body_bytes_hashed": 31151,
+    "body_sha256": "61391a4d19995b3cd6dcd51c5ab68fae5a011c3a93577417bdcf9ae3646d9c4d",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:20Z",
+    "final_url": "https://public-ui.github.io/",
+    "http_status": 200,
+    "url": "https://public-ui.github.io/"
+  },
+  "id": "82",
+  "name": "KoliBri (Public-UI)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:58Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": "4.5.0",
+    "licence_detection": "no known licence text",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T06:56:39Z",
+    "spdx_licence": null,
+    "tag_count": 359,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:11Z",
+  "docs": {
+    "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1035)>",
+    "fetched_at_utc": "2026-11-18T09:42:29Z",
+    "url": "https://tds.telus.com/roadmap.html"
+  },
+  "id": "203",
+  "name": "TDS core legacy v2 (TELUS)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:11Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2024-10-16T13:14:25Z",
+    "spdx_licence": "MIT",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

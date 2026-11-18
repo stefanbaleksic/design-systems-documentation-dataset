@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:44Z",
+  "docs": null,
+  "id": "262",
+  "name": "Skin (eBay)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:44Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v19.2.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2025-04-28T18:07:57Z",
+    "spdx_licence": "MIT",
+    "tag_count": 237,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

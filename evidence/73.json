@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:49Z",
+  "docs": {
+    "body_bytes_hashed": 2097152,
+    "body_sha256": "35cbfb178c447b1e080de28abdff26bad375d4b49d6306e1aa4ca2acd8a9a1fa",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:04Z",
+    "final_url": "https://www.ibm.com/design/language/",
+    "http_status": 200,
+    "url": "https://www.ibm.com/design/language/"
+  },
+  "id": "73",
+  "name": "IBM Design Language",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

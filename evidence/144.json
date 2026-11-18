@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:07Z",
+  "docs": {
+    "body_bytes_hashed": 5249,
+    "body_sha256": "3aa7174bbeadf487f77d5206717d24c912c2bbe0273a629f47ea1d676c55dbab",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:00Z",
+    "final_url": "https://baseweb.design/",
+    "http_status": 200,
+    "url": "https://baseweb.design/"
+  },
+  "id": "144",
+  "name": "Uber Base Web",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:07Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v13.0.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-09-25T20:47:47Z",
+    "spdx_licence": "MIT",
+    "tag_count": 383,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

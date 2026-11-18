@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:48:22Z",
+  "error": null,
+  "id": "287",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/vueComponent/ant-design-vue",
+  "root": {
+    "error": null,
+    "name": "ant-design-vue",
+    "version": "4.2.6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "collected_at_utc": "2026-11-18T11:47:06Z",
+  "error": null,
+  "id": "275",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "showcase",
+      "path": "apps/showcase/package.json",
+      "version": "21.1.9"
+    },
+    {
+      "error": null,
+      "name": "@primeng/mcp",
+      "path": "packages/mcp/package.json",
+      "version": "21.1.10"
+    },
+    {
+      "error": null,
+      "name": "primeng",
+      "path": "packages/primeng/package.json",
+      "version": "21.1.10"
+    },
+    {
+      "error": null,
+      "name": "@primeng/themes",
+      "path": "packages/themes/package.json",
+      "version": "21.1.10"
+    }
+  ],
+  "paths": [
+    "apps/showcase/package.json",
+    "package.json",
+    "packages/mcp/package.json",
+    "packages/primeng/package.json",
+    "packages/themes/package.json"
+  ],
+  "repo_url": "https://github.com/primefaces/primeng",
+  "root": {
+    "error": null,
+    "name": "@primeng/monorepo",
+    "version": "21.1.10"
+  }
+}

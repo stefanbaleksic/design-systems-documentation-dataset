@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:39Z",
+  "docs": {
+    "body_bytes_hashed": 2153,
+    "body_sha256": "686399fa4c68abfab8c45994923494ef766470f333285c7843759d275f16d5c1",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:37Z",
+    "final_url": "https://www.skyscanner.design/latest",
+    "http_status": 200,
+    "url": "https://skyscanner.design/"
+  },
+  "id": "18",
+  "name": "Backpack (Skyscanner)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:39Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "43.19.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-08-05T08:27:39Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 31160,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

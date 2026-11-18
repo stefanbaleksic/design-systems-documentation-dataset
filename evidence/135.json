@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:56Z",
+  "docs": {
+    "body_bytes_hashed": 1247487,
+    "body_sha256": "e2dfcae6f0d006f2cf68c679a6c9a994acde0a8c549ccde60aa6618debdcc6f2",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:45Z",
+    "final_url": "https://www.designsystem.tech.gov.sg/",
+    "http_status": 200,
+    "url": "https://www.designsystem.tech.gov.sg/"
+  },
+  "id": "135",
+  "name": "Singapore Government Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:56Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "v3",
+    "latest_tag": "v2.3.6",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.txt",
+    "pushed_at_utc": "2026-10-05T09:16:40Z",
+    "spdx_licence": "MIT",
+    "tag_count": 36,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

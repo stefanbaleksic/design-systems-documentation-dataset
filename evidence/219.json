@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:37Z",
+  "docs": null,
+  "id": "219",
+  "name": "OTTO B2B Design System",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:37Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v1.38.9",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-05T05:50:26Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 93,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

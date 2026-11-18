@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:03Z",
+  "docs": {
+    "body_bytes_hashed": 10178,
+    "body_sha256": "05511491b28ec4a207593cfe9f1d2dbb8cc6dc815df075ac5653cbd6d4357ea5",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:37Z",
+    "final_url": "https://styleguide.mailchimp.com/",
+    "http_status": 200,
+    "url": "https://styleguide.mailchimp.com/"
+  },
+  "id": "88",
+  "name": "Mailchimp Content Styleguide",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

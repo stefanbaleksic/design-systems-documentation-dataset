@@ -1,0 +1,157 @@
+{
+  "collected_at_utc": "2026-11-18T11:26:18Z",
+  "error": null,
+  "id": "35",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@chakra-ui/compositions",
+      "path": "apps/compositions/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@chakra-ui/react-mcp",
+      "path": "apps/mcp/package.json",
+      "version": "2.1.1"
+    },
+    {
+      "error": null,
+      "name": "@chakra-ui/www",
+      "path": "apps/www/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@chakra-ui/charts",
+      "path": "packages/charts/package.json",
+      "version": "3.38.0"
+    },
+    {
+      "error": null,
+      "name": "@chakra-ui/cli",
+      "path": "packages/cli/package.json",
+      "version": "3.38.0"
+    },
+    {
+      "error": null,
+      "name": "@chakra-ui/codemod",
+      "path": "packages/codemod/package.json",
+      "version": "3.38.0"
+    },
+    {
+      "error": null,
+      "name": "@chakra-ui/panda-preset",
+      "path": "packages/panda-preset/package.json",
+      "version": "3.38.0"
+    },
+    {
+      "error": null,
+      "name": "@chakra-ui/react",
+      "path": "packages/react/package.json",
+      "version": "3.38.0"
+    },
+    {
+      "error": null,
+      "name": "sandbox-iframe",
+      "path": "sandbox/iframe/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "next-app-streaming",
+      "path": "sandbox/next-app-streaming/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "next-app",
+      "path": "sandbox/next-app/package.json",
+      "version": "2.0.14"
+    },
+    {
+      "error": null,
+      "name": "next-pages",
+      "path": "sandbox/next-pages/package.json",
+      "version": "2.0.14"
+    },
+    {
+      "error": null,
+      "name": "panda-preset",
+      "path": "sandbox/panda-preset/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "react-router-ts",
+      "path": "sandbox/react-router/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "remix-ts",
+      "path": "sandbox/remix-ts/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "shadow-dom",
+      "path": "sandbox/shadow-dom/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "storybook-ts",
+      "path": "sandbox/storybook-ts/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tanstack-router-ts",
+      "path": "sandbox/tanstack-router/package.json",
+      "version": "0.0.6"
+    },
+    {
+      "error": null,
+      "name": "vite-jsx",
+      "path": "sandbox/vite-jsx/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "vite-ts",
+      "path": "sandbox/vite-ts/package.json",
+      "version": "1.0.2"
+    }
+  ],
+  "paths": [
+    "apps/compositions/package.json",
+    "apps/mcp/package.json",
+    "apps/www/package.json",
+    "package.json",
+    "packages/charts/package.json",
+    "packages/cli/package.json",
+    "packages/codemod/package.json",
+    "packages/panda-preset/package.json",
+    "packages/react/package.json",
+    "sandbox/iframe/package.json",
+    "sandbox/next-app-streaming/package.json",
+    "sandbox/next-app/package.json",
+    "sandbox/next-pages/package.json",
+    "sandbox/panda-preset/package.json",
+    "sandbox/react-router/package.json",
+    "sandbox/remix-ts/package.json",
+    "sandbox/shadow-dom/package.json",
+    "sandbox/storybook-ts/package.json",
+    "sandbox/tanstack-router/package.json",
+    "sandbox/vite-jsx/package.json",
+    "sandbox/vite-ts/package.json"
+  ],
+  "repo_url": "https://github.com/chakra-ui/chakra-ui",
+  "root": {
+    "error": null,
+    "name": "chakra-ui",
+    "version": "2.0.0"
+  }
+}

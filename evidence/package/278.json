@@ -1,0 +1,415 @@
+{
+  "collected_at_utc": "2026-11-18T11:47:19Z",
+  "error": null,
+  "id": "278",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@spectrum-tools/gh-action-file-diff",
+      "path": ".github/actions/file-diff/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/preview",
+      "path": ".storybook/package.json",
+      "version": "12.0.5"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/accordion",
+      "path": "components/accordion/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/actionbar",
+      "path": "components/actionbar/package.json",
+      "version": "10.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/actionbutton",
+      "path": "components/actionbutton/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/actiongroup",
+      "path": "components/actiongroup/package.json",
+      "version": "6.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/actionmenu",
+      "path": "components/actionmenu/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/alertbanner",
+      "path": "components/alertbanner/package.json",
+      "version": "3.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/alertdialog",
+      "path": "components/alertdialog/package.json",
+      "version": "4.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/asset",
+      "path": "components/asset/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/assetcard",
+      "path": "components/assetcard/package.json",
+      "version": "5.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/assetlist",
+      "path": "components/assetlist/package.json",
+      "version": "8.3.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/avatar",
+      "path": "components/avatar/package.json",
+      "version": "9.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/badge",
+      "path": "components/badge/package.json",
+      "version": "6.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/breadcrumb",
+      "path": "components/breadcrumb/package.json",
+      "version": "11.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/button",
+      "path": "components/button/package.json",
+      "version": "14.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/buttongroup",
+      "path": "components/buttongroup/package.json",
+      "version": "9.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/calendar",
+      "path": "components/calendar/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/card",
+      "path": "components/card/package.json",
+      "version": "11.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/checkbox",
+      "path": "components/checkbox/package.json",
+      "version": "10.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/clearbutton",
+      "path": "components/clearbutton/package.json",
+      "version": "7.3.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/closebutton",
+      "path": "components/closebutton/package.json",
+      "version": "6.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/coachindicator",
+      "path": "components/coachindicator/package.json",
+      "version": "4.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/coachmark",
+      "path": "components/coachmark/package.json",
+      "version": "9.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/colorarea",
+      "path": "components/colorarea/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/colorhandle",
+      "path": "components/colorhandle/package.json",
+      "version": "10.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/colorloupe",
+      "path": "components/colorloupe/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/colorslider",
+      "path": "components/colorslider/package.json",
+      "version": "8.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/colorwheel",
+      "path": "components/colorwheel/package.json",
+      "version": "6.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/combobox",
+      "path": "components/combobox/package.json",
+      "version": "4.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/commons",
+      "path": "components/commons/package.json",
+      "version": "11.1.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/contextualhelp",
+      "path": "components/contextualhelp/package.json",
+      "version": "5.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/datepicker",
+      "path": "components/datepicker/package.json",
+      "version": "4.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/dial",
+      "path": "components/dial/package.json",
+      "version": "5.3.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/dialog",
+      "path": "components/dialog/package.json",
+      "version": "12.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/divider",
+      "path": "components/divider/package.json",
+      "version": "5.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/dropindicator",
+      "path": "components/dropindicator/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/dropzone",
+      "path": "components/dropzone/package.json",
+      "version": "8.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/fieldgroup",
+      "path": "components/fieldgroup/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/fieldlabel",
+      "path": "components/fieldlabel/package.json",
+      "version": "10.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/floatingactionbutton",
+      "path": "components/floatingactionbutton/package.json",
+      "version": "4.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/form",
+      "path": "components/form/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/helptext",
+      "path": "components/helptext/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/icon",
+      "path": "components/icon/package.json",
+      "version": "9.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/illustratedmessage",
+      "path": "components/illustratedmessage/package.json",
+      "version": "9.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/infieldbutton",
+      "path": "components/infieldbutton/package.json",
+      "version": "6.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/inlinealert",
+      "path": "components/inlinealert/package.json",
+      "version": "10.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/link",
+      "path": "components/link/package.json",
+      "version": "7.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/logicbutton",
+      "path": "components/logicbutton/package.json",
+      "version": "6.2.0"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-css/menu",
+      "path": "components/menu/package.json",
+      "version": "9.3.0"
+    }
+  ],
+  "paths": [
+    ".github/actions/file-diff/package.json",
+    ".storybook/package.json",
+    "components/accordion/package.json",
+    "components/actionbar/package.json",
+    "components/actionbutton/package.json",
+    "components/actiongroup/package.json",
+    "components/actionmenu/package.json",
+    "components/alertbanner/package.json",
+    "components/alertdialog/package.json",
+    "components/asset/package.json",
+    "components/assetcard/package.json",
+    "components/assetlist/package.json",
+    "components/avatar/package.json",
+    "components/badge/package.json",
+    "components/breadcrumb/package.json",
+    "components/button/package.json",
+    "components/buttongroup/package.json",
+    "components/calendar/package.json",
+    "components/card/package.json",
+    "components/checkbox/package.json",
+    "components/clearbutton/package.json",
+    "components/closebutton/package.json",
+    "components/coachindicator/package.json",
+    "components/coachmark/package.json",
+    "components/colorarea/package.json",
+    "components/colorhandle/package.json",
+    "components/colorloupe/package.json",
+    "components/colorslider/package.json",
+    "components/colorwheel/package.json",
+    "components/combobox/package.json",
+    "components/commons/package.json",
+    "components/contextualhelp/package.json",
+    "components/datepicker/package.json",
+    "components/dial/package.json",
+    "components/dialog/package.json",
+    "components/divider/package.json",
+    "components/dropindicator/package.json",
+    "components/dropzone/package.json",
+    "components/fieldgroup/package.json",
+    "components/fieldlabel/package.json",
+    "components/floatingactionbutton/package.json",
+    "components/form/package.json",
+    "components/helptext/package.json",
+    "components/icon/package.json",
+    "components/illustratedmessage/package.json",
+    "components/infieldbutton/package.json",
+    "components/inlinealert/package.json",
+    "components/link/package.json",
+    "components/logicbutton/package.json",
+    "components/menu/package.json",
+    "components/meter/package.json",
+    "components/miller/package.json",
+    "components/modal/package.json",
+    "components/opacitycheckerboard/package.json",
+    "components/page/package.json",
+    "components/pagination/package.json",
+    "components/picker/package.json",
+    "components/pickerbutton/package.json",
+    "components/popover/package.json",
+    "components/progressbar/package.json",
+    "components/progresscircle/package.json",
+    "components/radio/package.json",
+    "components/rating/package.json",
+    "components/search/package.json",
+    "components/sidenav/package.json",
+    "components/slider/package.json",
+    "components/splitview/package.json",
+    "components/statuslight/package.json",
+    "components/steplist/package.json",
+    "components/stepper/package.json",
+    "components/swatch/package.json",
+    "components/swatchgroup/package.json",
+    "components/switch/package.json",
+    "components/table/package.json",
+    "components/tabs/package.json",
+    "components/tag/package.json",
+    "components/taggroup/package.json",
+    "components/textfield/package.json",
+    "components/thumbnail/package.json",
+    "components/toast/package.json",
+    "components/tooltip/package.json",
+    "components/tray/package.json",
+    "components/treeview/package.json",
+    "components/typography/package.json",
+    "components/underlay/package.json",
+    "components/well/package.json",
+    "package.json",
+    "plugins/changesets-changelog-github/package.json",
+    "plugins/postcss-add-theming-layer/package.json",
+    "plugins/postcss-property-rollup/package.json",
+    "plugins/postcss-rgb-mapping/package.json",
+    "plugins/stylelint-no-missing-var/package.json",
+    "plugins/stylelint-no-unknown-custom-properties/package.json",
+    "plugins/stylelint-no-unused-custom-properties/package.json",
+    "plugins/stylelint-theme-alignment/package.json",
+    "tokens/package.json",
+    "tools/bundle/package.json",
+    "tools/generator/package.json",
+    "ui-icons/package.json"
+  ],
+  "repo_url": "https://github.com/adobe/spectrum-css",
+  "root": {
+    "error": null,
+    "name": "@adobe/spectrum-css-monorepo",
+    "version": "0.0.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:26:14Z",
+  "error": null,
+  "id": "32",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "mineral-ui-icons",
+      "path": "packages/mineral-ui-icons/package.json",
+      "version": "0.5.0"
+    },
+    {
+      "error": null,
+      "name": "mineral-ui-tokens",
+      "path": "packages/mineral-ui-tokens/package.json",
+      "version": "0.4.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/mineral-ui-icons/package.json",
+    "packages/mineral-ui-tokens/package.json"
+  ],
+  "repo_url": "https://github.com/mineral-ui/mineral-ui",
+  "root": {
+    "error": null,
+    "name": "mineral-ui",
+    "version": "0.58.0"
+  }
+}

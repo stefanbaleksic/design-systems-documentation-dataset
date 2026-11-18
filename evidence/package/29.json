@@ -1,0 +1,136 @@
+{
+  "collected_at_utc": "2026-11-18T11:26:04Z",
+  "error": null,
+  "id": "29",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "cra-basic",
+      "path": "examples/cra-basic/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "bumbag-example-gatsby",
+      "path": "examples/gatsby-basic/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "next-basic",
+      "path": "examples/next-basic/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "native-playground2",
+      "path": "native-playground/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "bumbag-addon-highlighted-code",
+      "path": "packages/bumbag-addon-highlighted-code/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "@bumbag/addon-highlighted-code/styles",
+      "path": "packages/bumbag-addon-highlighted-code/styles/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "bumbag-addon-markdown",
+      "path": "packages/bumbag-addon-markdown/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "@bumbag-native/bottom-sheet",
+      "path": "packages/bumbag-native-bottom-sheet/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "@bumbag-native/haptic",
+      "path": "packages/bumbag-native-haptic/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "@bumbag-native/picker",
+      "path": "packages/bumbag-native-picker/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "@bumbag-native/toast",
+      "path": "packages/bumbag-native-toast/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "bumbag-native",
+      "path": "packages/bumbag-native/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "bumbag-server",
+      "path": "packages/bumbag-server/package.json",
+      "version": "2.7.1"
+    },
+    {
+      "error": null,
+      "name": "bumbag-theme-medipass",
+      "path": "packages/bumbag-theme-medipass/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "bumbag",
+      "path": "packages/bumbag/package.json",
+      "version": "2.7.21"
+    },
+    {
+      "error": null,
+      "name": "gatsby-plugin-bumbag",
+      "path": "packages/gatsby-plugin-bumbag/package.json",
+      "version": "2.7.1"
+    },
+    {
+      "error": null,
+      "name": "website",
+      "path": "website/package.json",
+      "version": "2.7.21"
+    }
+  ],
+  "paths": [
+    "examples/cra-basic/package.json",
+    "examples/gatsby-basic/package.json",
+    "examples/next-basic/package.json",
+    "native-playground/package.json",
+    "package.json",
+    "packages/bumbag-addon-highlighted-code/package.json",
+    "packages/bumbag-addon-highlighted-code/styles/package.json",
+    "packages/bumbag-addon-markdown/package.json",
+    "packages/bumbag-native-bottom-sheet/package.json",
+    "packages/bumbag-native-haptic/package.json",
+    "packages/bumbag-native-picker/package.json",
+    "packages/bumbag-native-toast/package.json",
+    "packages/bumbag-native/package.json",
+    "packages/bumbag-server/package.json",
+    "packages/bumbag-theme-medipass/package.json",
+    "packages/bumbag/package.json",
+    "packages/gatsby-plugin-bumbag/package.json",
+    "website/package.json"
+  ],
+  "repo_url": "https://github.com/bumbag/bumbag-ui",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

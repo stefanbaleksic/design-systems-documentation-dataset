@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:43Z",
+  "docs": {
+    "body_bytes_hashed": 97072,
+    "body_sha256": "47cec487566d2217687997f3d987e12a3dbee367eab47dcf2af1d2d544042d68",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:34Z",
+    "final_url": "https://design-system-alpha.digital.govt.nz/",
+    "http_status": 200,
+    "url": "https://design-system-alpha.digital.govt.nz/"
+  },
+  "id": "166",
+  "name": "New Zealand Government Design System (alpha)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:43Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENCE",
+    "pushed_at_utc": "2022-09-06T23:56:08Z",
+    "spdx_licence": "MIT",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

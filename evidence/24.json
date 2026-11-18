@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:49Z",
+  "docs": {
+    "body_bytes_hashed": 14999,
+    "body_sha256": "354570051e40ed366562a37556c94c97f7cf8baf540b589ba3f86e934632f199",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:47Z",
+    "final_url": "https://bold.bridge.ufsc.tech/",
+    "http_status": 200,
+    "url": "https://bold.bridge.ufsc.br/"
+  },
+  "id": "24",
+  "name": "Bold (Bridge Design System)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:49Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v1.4.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T18:50:45Z",
+    "spdx_licence": "MIT",
+    "tag_count": 216,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

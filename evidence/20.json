@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:43Z",
+  "docs": {
+    "body_bytes_hashed": 222814,
+    "body_sha256": "f8609bf4919c4c4e7667eceafc4e78b17cd67363e6fc31885e398520ac6d75d1",
+    "content_type": "text/html;charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:41Z",
+    "final_url": "https://www.bbc.co.uk/gel",
+    "http_status": 200,
+    "url": "https://www.bbc.co.uk/gel"
+  },
+  "id": "20",
+  "name": "BBC GEL",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

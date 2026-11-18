@@ -1,0 +1,401 @@
+{
+  "collected_at_utc": "2026-11-18T11:45:39Z",
+  "error": null,
+  "id": "267",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "api-docs",
+      "path": "api-docs/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "dev",
+      "path": "dev/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/manifest-tools",
+      "path": "manifest/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/a11y-base",
+      "path": "packages/a11y-base/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/accordion",
+      "path": "packages/accordion/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/app-layout",
+      "path": "packages/app-layout/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/aura",
+      "path": "packages/aura/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/avatar-group",
+      "path": "packages/avatar-group/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/avatar",
+      "path": "packages/avatar/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/badge",
+      "path": "packages/badge/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/board",
+      "path": "packages/board/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/breadcrumbs",
+      "path": "packages/breadcrumbs/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/button",
+      "path": "packages/button/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/card",
+      "path": "packages/card/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/charts",
+      "path": "packages/charts/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/checkbox-group",
+      "path": "packages/checkbox-group/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/checkbox",
+      "path": "packages/checkbox/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/combo-box",
+      "path": "packages/combo-box/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/component-base",
+      "path": "packages/component-base/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/confirm-dialog",
+      "path": "packages/confirm-dialog/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/context-menu",
+      "path": "packages/context-menu/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/crud",
+      "path": "packages/crud/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/custom-field",
+      "path": "packages/custom-field/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/dashboard",
+      "path": "packages/dashboard/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/date-picker",
+      "path": "packages/date-picker/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/date-time-picker",
+      "path": "packages/date-time-picker/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/details",
+      "path": "packages/details/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/dialog",
+      "path": "packages/dialog/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/email-field",
+      "path": "packages/email-field/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/field-base",
+      "path": "packages/field-base/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/field-highlighter",
+      "path": "packages/field-highlighter/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/form-layout",
+      "path": "packages/form-layout/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/grid-pro",
+      "path": "packages/grid-pro/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/grid",
+      "path": "packages/grid/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/horizontal-layout",
+      "path": "packages/horizontal-layout/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/icon",
+      "path": "packages/icon/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/icons",
+      "path": "packages/icons/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/input-container",
+      "path": "packages/input-container/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/integer-field",
+      "path": "packages/integer-field/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/item",
+      "path": "packages/item/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/list-box",
+      "path": "packages/list-box/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/lit-renderer",
+      "path": "packages/lit-renderer/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/login",
+      "path": "packages/login/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/map",
+      "path": "packages/map/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/markdown",
+      "path": "packages/markdown/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/master-detail-layout",
+      "path": "packages/master-detail-layout/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/menu-bar",
+      "path": "packages/menu-bar/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/message-input",
+      "path": "packages/message-input/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/message-list",
+      "path": "packages/message-list/package.json",
+      "version": "25.4.0-beta1"
+    },
+    {
+      "error": null,
+      "name": "@vaadin/multi-select-combo-box",
+      "path": "packages/multi-select-combo-box/package.json",
+      "version": "25.4.0-beta1"
+    }
+  ],
+  "paths": [
+    "api-docs/package.json",
+    "dev/package.json",
+    "manifest/package.json",
+    "package.json",
+    "packages/a11y-base/package.json",
+    "packages/accordion/package.json",
+    "packages/app-layout/package.json",
+    "packages/aura/package.json",
+    "packages/avatar-group/package.json",
+    "packages/avatar/package.json",
+    "packages/badge/package.json",
+    "packages/board/package.json",
+    "packages/breadcrumbs/package.json",
+    "packages/button/package.json",
+    "packages/card/package.json",
+    "packages/charts/package.json",
+    "packages/checkbox-group/package.json",
+    "packages/checkbox/package.json",
+    "packages/combo-box/package.json",
+    "packages/component-base/package.json",
+    "packages/confirm-dialog/package.json",
+    "packages/context-menu/package.json",
+    "packages/crud/package.json",
+    "packages/custom-field/package.json",
+    "packages/dashboard/package.json",
+    "packages/date-picker/package.json",
+    "packages/date-time-picker/package.json",
+    "packages/details/package.json",
+    "packages/dialog/package.json",
+    "packages/email-field/package.json",
+    "packages/field-base/package.json",
+    "packages/field-highlighter/package.json",
+    "packages/form-layout/package.json",
+    "packages/grid-pro/package.json",
+    "packages/grid/package.json",
+    "packages/horizontal-layout/package.json",
+    "packages/icon/package.json",
+    "packages/icons/package.json",
+    "packages/input-container/package.json",
+    "packages/integer-field/package.json",
+    "packages/item/package.json",
+    "packages/list-box/package.json",
+    "packages/lit-renderer/package.json",
+    "packages/login/package.json",
+    "packages/map/package.json",
+    "packages/markdown/package.json",
+    "packages/master-detail-layout/package.json",
+    "packages/menu-bar/package.json",
+    "packages/message-input/package.json",
+    "packages/message-list/package.json",
+    "packages/multi-select-combo-box/package.json",
+    "packages/notification/package.json",
+    "packages/number-field/package.json",
+    "packages/overlay/package.json",
+    "packages/password-field/package.json",
+    "packages/pdf-viewer/package.json",
+    "packages/popover/package.json",
+    "packages/progress-bar/package.json",
+    "packages/radio-group/package.json",
+    "packages/react-components-pro/package.json",
+    "packages/react-components/package.json",
+    "packages/rich-text-editor/package.json",
+    "packages/scroller/package.json",
+    "packages/select/package.json",
+    "packages/side-nav/package.json",
+    "packages/slider/package.json",
+    "packages/split-layout/package.json",
+    "packages/switch/package.json",
+    "packages/tabs/package.json",
+    "packages/tabsheet/package.json",
+    "packages/text-area/package.json",
+    "packages/text-field/package.json",
+    "packages/time-picker/package.json",
+    "packages/tooltip/package.json",
+    "packages/upload/package.json",
+    "packages/vaadin-core/package.json",
+    "packages/vaadin-lumo-styles/package.json",
+    "packages/vaadin-themable-mixin/package.json",
+    "packages/vaadin/package.json",
+    "packages/vertical-layout/package.json",
+    "packages/virtual-list/package.json",
+    "react/package.json",
+    "test/integration/package.json",
+    "test/plugins/package.json",
+    "test/test-runner-commands/package.json"
+  ],
+  "repo_url": "https://github.com/vaadin/web-components",
+  "root": {
+    "error": null,
+    "name": "vaadin-web-components",
+    "version": null
+  }
+}

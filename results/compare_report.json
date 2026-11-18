@@ -1,0 +1,7456 @@
+{
+  "counts": {
+    "fetched": 180,
+    "match": 524,
+    "mismatch": 16,
+    "not_comparable": 139,
+    "not_recorded": 177,
+    "unavailable": 37
+  },
+  "records": [
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "1",
+      "name": "Aalto University"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.21.0-beta.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "2",
+      "name": "Adobe Spectrum"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "3",
+      "name": "Adjust Atlas"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-04-09",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "1.3.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "4",
+      "name": "Alaska Airlines"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.7.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "5",
+      "name": "Ant Design"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "6",
+      "name": "Amplify UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-03-04",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "7",
+      "name": "Appear Here Styleguide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "8",
+      "name": "Apple Developer Design Guidelines"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-10-22",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.9.3 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "9",
+      "name": "Aragon UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "46.11.0 found in packages/palette/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "10",
+      "name": "Artsy Palette"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "repo",
+          "detail": "GitHub API: git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+          "outcome": "unavailable"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "11",
+      "name": "Astro UXDS"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2018-02-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.3.3 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "12",
+      "name": "AT UIKIT"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "13",
+      "name": "Atlassian Design System"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "repo",
+          "detail": "GitHub API: git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+          "outcome": "unavailable"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 404",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "14",
+      "name": "Audi UI Kit"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2019-06-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "15",
+      "name": "Aurora (Government of Canada)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.3.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "16",
+      "name": "AutoGuru Overdrive"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is 'not checked'",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "17",
+      "name": "AWS Cloudscape Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-08-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'Page last updated 4 Aug 2026' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "18",
+      "name": "Backpack (Skyscanner)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-10-21",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.71.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "19",
+      "name": "Basis Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "20",
+      "name": "BBC GEL"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-09",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "21",
+      "name": "Bento DS"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-10-21",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.1.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 204, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "22",
+      "name": "BLiP"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "23",
+      "name": "Blueprint"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.4.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "24",
+      "name": "Bold (Bridge Design System)"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "repo",
+          "detail": "GitHub API: git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+          "outcome": "unavailable"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "25",
+      "name": "Bolt Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "26",
+      "name": "Braid Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "27",
+      "name": "British Gas Nucleus"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2020-08-21",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "refused: not https",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "28",
+      "name": "Buildit Gravity"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2022-11-19",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "29",
+      "name": "Bumbag UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2019-09-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.11.2 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "30",
+      "name": "BuzzFeed Solid"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "31",
+      "name": "Buzzvil Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2020-08-03",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "0.58.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "32",
+      "name": "CA Technologies Mineral UI"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "URLError: <urlopen error Tunnel connection failed: 502 Bad Gateway>",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "33",
+      "name": "CBRE Blocks"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "17.1.1-rc.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "34",
+      "name": "Cedar (REI)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "35",
+      "name": "Chakra UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'build 16.4.2026' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "36",
+      "name": "City of Boston Fleet"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2017-09-25",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "BSD-3-Clause (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "37",
+      "name": "Cloudflare cf-ui"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "repo",
+          "detail": "GitHub API: git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+          "outcome": "unavailable"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "38",
+      "name": "Co-op Experience Library"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "39",
+      "name": "Contentful Forma 36"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-06-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "40",
+      "name": "Decathlon Vitamin"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-28",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v7.3.1 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "41",
+      "name": "Decentraland UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "42",
+      "name": "Duet"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "43",
+      "name": "Duolingo"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-04-28",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "19.2.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "44",
+      "name": "eBay Skin"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "45",
+      "name": "Elastic EUI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "46",
+      "name": "ENGIE Fluid Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "47",
+      "name": "Enel"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2017-06-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.1.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "48",
+      "name": "Enigma Boundless"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "49",
+      "name": "Estonia Country Design Guidelines"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-06-11",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "7.1.9 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "50",
+      "name": "Evergreen"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "repo",
+          "detail": "GitHub API: git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+          "outcome": "unavailable"
+        },
+        {
+          "check": "docs",
+          "detail": "RemoteDisconnected: Remote end closed connection without response",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "51",
+      "name": "Financial Times Origami"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "52",
+      "name": "Finland Toolbox"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2022-09-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "GPL-3.0 (copyleft)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "53",
+      "name": "Firefox Photon"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-06-27",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "4.0.2 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "54",
+      "name": "Flowbite"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "55",
+      "name": "Fluent UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "7.0.0-alpha.2 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "56",
+      "name": "Foundation"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "RemoteDisconnected: Remote end closed connection without response",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "57",
+      "name": "Foyer Design System"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "1.15.4 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "58",
+      "name": "French Government Design System (DSFR)"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "59",
+      "name": "FutureLearn Pattern Library"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-10",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "22.3.3 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "60",
+      "name": "GitHub Primer"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "61",
+      "name": "GitLab Pajamas"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "62",
+      "name": "GoodBarber Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2020-04-08",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'Material Design 3 (no formal number)' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "63",
+      "name": "Google Material Design"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v6.6.0 (15.10.2026)' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "64",
+      "name": "GOV.UK Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "7.145.3 found in packages/yoga/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "65",
+      "name": "Gympass Yoga"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MPL-2.0 (copyleft)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v7.1.0' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "66",
+      "name": "HashiCorp Helios"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2017-11-02",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.0.21 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "67",
+      "name": "Help Scout"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "68",
+      "name": "Heroku Purple3"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.58.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "69",
+      "name": "Grommet"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2018-02-26",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "70",
+      "name": "HubSpot Canvas"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "71",
+      "name": "Hudl Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated (site mentions Carbon v12 as next)' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "72",
+      "name": "IBM Carbon"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "73",
+      "name": "IBM Design Language"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "74",
+      "name": "IBM Northstar"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "75",
+      "name": "Intuit Harmony"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "BSD-3-Clause (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.18.3 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "76",
+      "name": "Italia Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "77",
+      "name": "JB Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 1.0.9, no package.json has it (packages: root 7.0.133, packages/rollup-css-plugin/package.json 1.0.0, packages/screenshots/package.json 6.0.0, test-helpers/test-app/package.json 1.0.0)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "78",
+      "name": "JetBrains Ring UI"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "repo",
+          "detail": "GitHub API: git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+          "outcome": "unavailable"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "79",
+      "name": "Jobber (Atlantis)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.104.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "80",
+      "name": "Just Eat Takeaway.com PIE"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "81",
+      "name": "Kaizen (Culture Amp)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "5.0.0-beta.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "82",
+      "name": "KoliBri (Public-UI)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "83",
+      "name": "Kontur"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-01-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "1.1.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "84",
+      "name": "Korea Design System (KRDS)"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 404",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "85",
+      "name": "Lexicon"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "86",
+      "name": "Louder Than Ten Manual"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "87",
+      "name": "Mail.ru Group Paradigm"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "88",
+      "name": "Mailchimp Content Styleguide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "9.8.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "89",
+      "name": "Mantine"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "90",
+      "name": "Marvel Styleguide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-03-24",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "9.3.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "91",
+      "name": "Material Minimal"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2020-06-01",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "92",
+      "name": "Materialize CSS"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "93",
+      "name": "Mesh Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "95",
+      "name": "Mixpanel Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "96",
+      "name": "MongoDB Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "97",
+      "name": "Monzo Tone of Voice"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "98",
+      "name": "Morningstar Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MPL-2.0 (copyleft)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "22.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "99",
+      "name": "Mozilla Protocol"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "4.0.72 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "100",
+      "name": "NASA Web Design System"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "101",
+      "name": "NationBuilder Radius"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "102",
+      "name": "NHS.UK Service Manual"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "103",
+      "name": "Nordhealth"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.23.2 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "104",
+      "name": "New York State Design System"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "105",
+      "name": "Nordnet"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "106",
+      "name": "Okta Odyssey Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "107",
+      "name": "Ontario Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "108",
+      "name": "Oracle Redwood"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-19",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.2.2-rc.7 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "109",
+      "name": "Persona Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-11",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "14.27.1 found in packages/pharos/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "110",
+      "name": "Pharos (JSTOR)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "111",
+      "name": "Pinterest Gestalt"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-05-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "19.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1035)>",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "112",
+      "name": "Pivotal"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-01-19",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 1.3.1, no package.json has it (packages: root 1.0.0, docs/package.json 0.35.6, docs/src/sandboxes/default/package.json 1.0.0, packages/actionmenu/package.json 18.1.2)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "docs",
+          "detail": "RemoteDisconnected: Remote end closed connection without response",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "113",
+      "name": "Pluralsight Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-05-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 5.6.0, no package.json has it (packages: apps/docs/package.json 1.0.0, apps/storybook/package.json 1.0.0, common/autoinstallers/rush-prettier/package.json 1.0.0, heft-plugins/heft-styled-components-plugin/package.json 0.2.1)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "115",
+      "name": "Priceline Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2020-06-01",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.4.6 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "116",
+      "name": "Pusher Chameleon"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-14",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "0.1.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "117",
+      "name": "Radix"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-01-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "5.15.5 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "118",
+      "name": "Rambler UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-02-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "35.2.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "119",
+      "name": "Rendition"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "120",
+      "name": "Reshaped"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-06-02",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "2.28.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "RemoteDisconnected: Remote end closed connection without response",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "121",
+      "name": "Salesforce Lightning Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-29",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.3.5 found in docs/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "122",
+      "name": "Sage by Kajabi"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "123",
+      "name": "SAP Fiori"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-05-23",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.7.11-rc.2 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "124",
+      "name": "SAP Fundamental"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.156.0-SNAPSHOT found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "125",
+      "name": "SAP OpenUI5"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "repo",
+          "detail": "GitHub API: git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+          "outcome": "unavailable"
+        },
+        {
+          "check": "docs",
+          "detail": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1035)>",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "126",
+      "name": "Scania Digital Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "127",
+      "name": "Seeds (Sprout Social)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2020-08-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "128",
+      "name": "SEEK Style Guide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "129",
+      "name": "Semi Design"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "130",
+      "name": "Semrush Intergalactic"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-05-14",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.20.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "131",
+      "name": "Shoelace"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "133",
+      "name": "Shadcn/ui"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'Version 5' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "134",
+      "name": "Siemens iX"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v1 i v2 arhive: https://v1.designsystem.tech.gov.sg/ , https://v2.designsystem.tech.gov.sg/' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "135",
+      "name": "Singapore Government Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "136",
+      "name": "Stacks (Stack Overflow)"
+    },
+    {
+      "evidence_status": "failed",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1035)>",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "137",
+      "name": "Starbucks Style Guide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.3.1 found in packages/design-system/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "138",
+      "name": "Strapi Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "139",
+      "name": "Teambition Clarity Design"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-09-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "141",
+      "name": "Thumbprint"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-09-14",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "142",
+      "name": "Tizen CircularUI"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-08-20",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2020.05.19 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "143",
+      "name": "Twilio Paste"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-25",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "18.2.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "144",
+      "name": "Uber Base Web"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "GPL-3.0 (copyleft)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "4.61.2 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "145",
+      "name": "Ubuntu Vanilla framework"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-09-02",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "146",
+      "name": "Uiverse"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'React documentation: upgrade v7.0 → v8.0; Tailwind v4' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "147",
+      "name": "Untitled UI (React)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2022-09-14",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.0.15 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "148",
+      "name": "uSwitch style guide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-09",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.14.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "149",
+      "name": "U.S. Web Design Standards (USWDS)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-10",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "dataset class 'other or custom', evidence MIT (permissive)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "version",
+          "detail": "18.2.0 found in examples/angular/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "150",
+      "name": "U.S. CMS.gov Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-10",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "4.0.7 found in packages/components/a11y/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "151",
+      "name": "Vibe (monday.com)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-10-23",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "0.151.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "152",
+      "name": "Vimeo Iris"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2022-05-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.0.0-next.6 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "153",
+      "name": "VMware Clarity"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-05-14",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "GPL-3.0 (copyleft)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "9.146.16 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "154",
+      "name": "VTEX Styleguide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-01-24",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.5.7 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "155",
+      "name": "Vue Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-08-25",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "156",
+      "name": "Ray (WeWork)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 10.7.5, no package.json has it (packages: lib/package.json 10.7.6, website/package.json 0.1.0)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "157",
+      "name": "Welcome UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-06-01",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "2.4.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "158",
+      "name": "West Midlands Network Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "159",
+      "name": "Wix Style React"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "160",
+      "name": "Vercel Geist"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-10",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "161",
+      "name": "Workday Canvas"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "162",
+      "name": "Yelp Styleguide"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "10.0.0-next.4 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "163",
+      "name": "Zendesk Garden"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "164",
+      "name": "Australian Government Design System (GOLD)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "165",
+      "name": "Scottish Government Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2022-09-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'alpha (no number)' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "166",
+      "name": "New Zealand Government Design System (alpha)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "167",
+      "name": "Tailwind UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "168",
+      "name": "Preline UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "169",
+      "name": "HeroUI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "170",
+      "name": "Air France Aero Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "171",
+      "name": "Airbus Digital Experience"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.1.0 found in packages/builder/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "172",
+      "name": "UMD Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "173",
+      "name": "UCL Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "174",
+      "name": "UCLA Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "175",
+      "name": "UQ Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "176",
+      "name": "University of Cambridge Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "177",
+      "name": "TAMU TUX Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-08-10",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.0.8 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "178",
+      "name": "WayneUI (Wayne State University)"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'unity-react-core v2.5.2' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "179",
+      "name": "ASU Unity Stack (Arizona State University)"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-04-08",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "180",
+      "name": "UNI Core (uni-design-system)"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-19",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "5.0.0-alpha.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "181",
+      "name": "Iowa Design System (UIDS)"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-08-25",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "1.6.2 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "182",
+      "name": "nulib design-system (Northwestern University Libraries)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "183",
+      "name": "UK Department for Education Design System"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "19.1.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "184",
+      "name": "Chan Zuckerberg Education Design System (EDS)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "185",
+      "name": "Home Office Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "186",
+      "name": "DWP Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "187",
+      "name": "HMRC Design Patterns"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "188",
+      "name": "MoJ Design System (Ministry of Justice)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.0.1 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "189",
+      "name": "ONS Design System (Office for National Statistics)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-03",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.6.3 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "190",
+      "name": "The National Archives Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "191",
+      "name": "NICE Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "192",
+      "name": "Agriculture Design System (Australia)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "193",
+      "name": "NSW Design System (Digital NSW)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "194",
+      "name": "Australian Health Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "195",
+      "name": "Government of Quebec Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "196",
+      "name": "UX4G Design System (India)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-07-01",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.13 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "197",
+      "name": "California Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "198",
+      "name": "Brazilian Government Design System (gov.br)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "199",
+      "name": "GC Design System (Government of Canada)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version '@bcgov/design-tokens@v5.1.0 (package tag)' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "200",
+      "name": "B.C. Government Design System"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-01-26",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is ''",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v1.11.36' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "201",
+      "name": "CFT Elephas (Center of Financial Technologies)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MPL-2.0 (copyleft)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'latest tag @telements/react-wrapper@0.3.9 (repo tags)' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "202",
+      "name": "Scale (Deutsche Telekom)"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-10-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.0.0 found in root",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1035)>",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "203",
+      "name": "TDS core legacy v2 (TELUS)"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-07-04",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "204",
+      "name": "Mistica (Telefónica)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-10, evidence 2026-09-09 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "repo_archived is 'ne (README statement, not GitHub archive flag)'",
+          "outcome": "not_recorded"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 10.42.1, no package.json has it (packages: polaris-for-vscode/package.json 1.0.7, polaris-icons/package.json 9.3.1, polaris-migrator/package.json 1.0.7, polaris-react/package.json 13.10.1)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "205",
+      "name": "Polaris (Shopify)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "5.10.4 found in packages/cfpb-design-system/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "206",
+      "name": "CFPB Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "208",
+      "name": "Bank of Canada Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-29",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.1.4 found in packages/sfui/frameworks/vue/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "209",
+      "name": "Storefront UI (Vue Storefront)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 0.11.0, no package.json has it (packages: docs/fundamentals/tools/singleton-manager/example-complex/package.json 1.0.0, docs/fundamentals/tools/singleton-manager/example-fail/package.json 1.0.0, docs/fundamentals/tools/singleton-manager/example-success/package.json 1.0.0, packages-node/astro-lit/package.json 0.1.0)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "210",
+      "name": "Lion (ING)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.0.0 found in packages/tokens/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "211",
+      "name": "Iress Design System (IDS)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'no semver tag seen (last tag sprint-demo/20261112)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "212",
+      "name": "Orange Unified Design System (OUDS) Android"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-23",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v0.177.0 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "213",
+      "name": "NHS Digital website design system"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-02",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "2.0.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "214",
+      "name": "Design System Docs (University of Michigan Library)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 1.0.0-alpha.39, no package.json has it (packages: root 1.0.0, buildtool/package.json 102.0.16, examples/DSBanken/package.json 1.0.0, linting/eslint-config-ffe-base/package.json 102.0.16)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "215",
+      "name": "SpareBank 1 Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "18.0.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "216",
+      "name": "Mistica Web (Telefónica)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "5.0.1 found in packages/stylelint-plugin-meteor/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "217",
+      "name": "Meteor (Shopware)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "218",
+      "name": "Backbase Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v1.38.9 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "219",
+      "name": "OTTO B2B Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2018-01-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.4.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "220",
+      "name": "Dress Code (Zalando)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-06-04",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'no semver tag seen' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "221",
+      "name": "Orange Design System iOS"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-08-29",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.29.0 found in packages/core/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "222",
+      "name": "Lunar (Airbnb)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-06-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "only placeholder versions (0.0.x) in the repository",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "223",
+      "name": "Travelmakers Design System"
+    },
+    {
+      "evidence_status": "partial",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "5.0.7 found in packages/wonder-blocks-typography/package.json",
+          "outcome": "match"
+        },
+        {
+          "check": "docs",
+          "detail": "HTTP 403",
+          "outcome": "unavailable"
+        }
+      ],
+      "id": "224",
+      "name": "Wonder Blocks (Khan Academy)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v4.10.1 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "225",
+      "name": "Porsche Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 1.0.3, no package.json has it (packages: apps/preact/package.json 1.0.53, components/accordion/package.json 4.1.0, components/action-group/package.json 4.0.1, components/alert-dialog/package.json 3.0.1)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "226",
+      "name": "Utrecht Design System (Municipality of Utrecht)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v23.23.2 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "227",
+      "name": "Paragon (Open edX)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version '@govie-react/ds-0.11.0 (package tag)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "228",
+      "name": "Government of Ireland Design System (GOV.IE)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "229",
+      "name": "Volvo Cars Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17, evidence 2026-11-18 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 0.13.0, no package.json has it (packages: apps/storybook/package.json 0.1.0, apps/www/package.json 1.24.0, figma/plugin/package.json 1.24.0, figma/ui-kit/package.json 1.24.0)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "230",
+      "name": "Designsystemet (Digdir, Norway)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17, evidence 2026-11-18 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.65.1 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "231",
+      "name": "Försäkringskassans designsystem (Sweden)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "0.2.4 found in packages/css/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "232",
+      "name": "SSB designsystem (Statistics Norway)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-04",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.6.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "233",
+      "name": "GC Design System tokens (Government of Canada)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-07-29",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "234",
+      "name": "DB UX Design System (Deutsche Bank)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-06-23",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "235",
+      "name": "Able design system resources (Telstra)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "11.0.0-internal.0 found in packages/nhsuk-frontend/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "236",
+      "name": "NHS.UK frontend"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "5.4.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "237",
+      "name": "NHS App frontend"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-03",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.0.1 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "238",
+      "name": "NHS.UK React components (NHS Digital)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "11.7.10 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "239",
+      "name": "Instructure UI (Canvas LMS)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "4.4.0 found in packages-proprietary/tokens/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "240",
+      "name": "Amsterdam Design System (City of Amsterdam)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2023-12-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.2.1 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "241",
+      "name": "Product Kit Core (Mercedes-Benz)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "242",
+      "name": "WISE Design System (Education)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17, evidence 2026-11-18 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "10.0.0-alpha.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "243",
+      "name": "MUI (Material UI)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v4.3.3 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "244",
+      "name": "Vuetify"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version '@quasar/vite-plugin-v2.0.2 (package tag)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "245",
+      "name": "Quasar Framework"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-21",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.4 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "246",
+      "name": "Bulma"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2024-11-27",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.5.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "247",
+      "name": "Semantic UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-24",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "4.5.5 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "248",
+      "name": "PrimeVue"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v1.0.1-beta.24 (latest tag seen; beta)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "249",
+      "name": "Element Plus"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v6.7.0 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "250",
+      "name": "PatternFly"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "5.8.1 found in packages/daisyui/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "251",
+      "name": "daisyUI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-04",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "252",
+      "name": "Quantinuum UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.19.0 found in packages/kumo/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "253",
+      "name": "Kumo (Cloudflare)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-08-04",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "0.1.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "254",
+      "name": "U.S. General Services Administration design system (USDS)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-03",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "1.35.1 found in packages/camp/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "255",
+      "name": "CAMP Design System (Open Government Products, Singapore)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2020-03-02, evidence 2020-03-01 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.7.11 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "256",
+      "name": "Uniform Design System (Open Colleges)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "BSD-3-Clause (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 1.0.0-alpha.2, no package.json has it (packages: root 2.9.1)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "257",
+      "name": "Rivet (Indiana University)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-10-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.1.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "258",
+      "name": "Spark Design System (Rocket Mortgage)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v0.7.16 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "259",
+      "name": "Astryx (Meta)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-30",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "4.0.3 found in packages/button/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "260",
+      "name": "UQ Design System (University of Queensland)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2022-12-06",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 3.13.0, no package.json has it (packages: root 3.12.0, packages/@guardian/eslint-plugin-source-foundations/package.json 8.0.0, packages/@guardian/eslint-plugin-source-react-components/package.json 10.0.0, packages/@guardian/source-foundations/package.json 7.0.1)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "261",
+      "name": "Guardian Source (The Guardian)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-04-28",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "19.2.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "262",
+      "name": "Skin (eBay)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "263",
+      "name": "Coinbase Design System (CDS)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-07-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "0.1.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "264",
+      "name": "GEL (BBC Global Experience Language)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.0.0-alpha.1 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "265",
+      "name": "Bootstrap"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.7.5 found in core/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "266",
+      "name": "Tabler"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17, evidence 2026-11-18 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v25.4.0-alpha7 (latest tag seen; alpha)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "267",
+      "name": "Vaadin Web Components"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.66.18 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "268",
+      "name": "Arco Design (ByteDance)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-26",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v4.10.2 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "269",
+      "name": "Vant (Youzan)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v9.0.11 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "270",
+      "name": "Ionic Framework"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "6.0.0-alpha.3 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "271",
+      "name": "React Native Paper"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.5.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "272",
+      "name": "Material Web (Google)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated (latest tag is a types package)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "273",
+      "name": "Spectrum Web Components (Adobe)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "22.4.0-next.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "274",
+      "name": "Angular Material and CDK"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-24",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "dataset class 'other or custom', evidence MIT (permissive)",
+          "outcome": "mismatch"
+        },
+        {
+          "check": "version",
+          "detail": "21.1.10 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "275",
+      "name": "PrimeNG"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-18",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "22.2.0 found in components/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "276",
+      "name": "NG-ZORRO (Ant Design for Angular)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 0.4.1, no package.json has it (packages: packages/cli/package.json 5.0.5, packages/docs/package.json 5.0.5, packages/skeleton-common/package.json 5.0.5, packages/skeleton-react/package.json 5.0.5)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "277",
+      "name": "Skeleton"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 2.0.0-s2-foundations.0, no package.json has it (packages: .github/actions/file-diff/package.json 2.2.0, .storybook/package.json 12.0.5, components/accordion/package.json 7.2.0, components/actionbar/package.json 10.2.0)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "278",
+      "name": "Spectrum CSS (Adobe)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-04-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version '@headlessui/vue@v1.7.23 (package tag)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "279",
+      "name": "Headless UI (Tailwind Labs)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "docs",
+          "detail": "HTTP 200, body hash recorded",
+          "outcome": "fetched"
+        }
+      ],
+      "id": "280",
+      "name": "VA.gov Design System (Veterans Affairs)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-06-26",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "Apache-2.0 (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "281",
+      "name": "DIBBS Design System (CDC)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-14",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.45.3 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "282",
+      "name": "Naive UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-15",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v3.3.3 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "283",
+      "name": "Tamagui"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-02",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'not stated' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "284",
+      "name": "Gluestack UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-02-21",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset 0.20.1, no package.json has it (packages: packages/cli/package.json 1.0.1, packages/preset/package.json 1.0.0)",
+          "outcome": "mismatch"
+        }
+      ],
+      "id": "285",
+      "name": "Park UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-04-11",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "3.3.0 found in packages/radix-ui-themes/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "286",
+      "name": "Radix Themes"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-07-24",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "4.2.6 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "287",
+      "name": "Ant Design Vue"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-03-05",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "0.17.4 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "288",
+      "name": "Theme UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-08-03",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v4.0.7 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "289",
+      "name": "Rebass"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-17, evidence 2026-11-18 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MPL-2.0 (copyleft)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "24.4.1 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "290",
+      "name": "WordPress Gutenberg Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-30",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v9.3.0 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "291",
+      "name": "Framework7"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-06-27",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.32.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "292",
+      "name": "Flowbite Svelte"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-12",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "4.4.12 found in packages/ui/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "293",
+      "name": "Sanity Design System (Sanity UI)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v.3.5.0 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "294",
+      "name": "Helsinki Design System (City of Helsinki)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2021-04-27",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0-alpha found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "295",
+      "name": "HMCTS Design System"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-10",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "22.3.3 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "296",
+      "name": "Primer CSS (GitHub)"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2025-11-13",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "2.23.1 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "297",
+      "name": "BootstrapVue"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-10-30",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "dataset version 'v0.7.5 (latest tag seen)' has no version number",
+          "outcome": "not_recorded"
+        }
+      ],
+      "id": "298",
+      "name": "Flowbite React"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-06-17, evidence 2026-06-16 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "no SPDX licence id in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "version",
+          "detail": "1.0.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "299",
+      "name": "Onsen UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-09-07",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "0.5.0 found in packages/vanilla-extract/package.json",
+          "outcome": "match"
+        }
+      ],
+      "id": "300",
+      "name": "Kobalte"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16, evidence 2026-11-17 (UTC): one day apart, within the time zone tolerance",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "4.12.2 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "301",
+      "name": "Nuxt UI"
+    },
+    {
+      "evidence_status": "ok",
+      "findings": [
+        {
+          "check": "last_push",
+          "detail": "2026-11-16",
+          "outcome": "match"
+        },
+        {
+          "check": "archived",
+          "detail": "no archived flag in evidence",
+          "outcome": "not_comparable"
+        },
+        {
+          "check": "licence",
+          "detail": "MIT (permissive)",
+          "outcome": "match"
+        },
+        {
+          "check": "version",
+          "detail": "1.9.0 found in root",
+          "outcome": "match"
+        }
+      ],
+      "id": "302",
+      "name": "MUI Base UI"
+    }
+  ]
+}

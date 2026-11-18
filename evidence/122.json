@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:38Z",
+  "docs": {
+    "body_bytes_hashed": 30571,
+    "body_sha256": "d9a4dd5c152c3901a16950e11750eedc7d46badb146d3e9a509ea36a80249523",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:24Z",
+    "final_url": "https://sage.kajabi.com/pages/index",
+    "http_status": 200,
+    "url": "https://sage.kajabi.com"
+  },
+  "id": "122",
+  "name": "Sage by Kajabi",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:38Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": "v6.3.5",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-10-29T22:35:07Z",
+    "spdx_licence": "MIT",
+    "tag_count": 1676,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

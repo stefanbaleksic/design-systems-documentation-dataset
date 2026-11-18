@@ -1,0 +1,59 @@
+{
+  "collected_at_utc": "2026-11-18T11:44:27Z",
+  "error": null,
+  "id": "258",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "spark-angular-workspace",
+      "path": "angular/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@sparkdesignsystem/spark-angular",
+      "path": "angular/projects/spark-angular/package.json",
+      "version": "15.0.2"
+    },
+    {
+      "error": null,
+      "name": "@sparkdesignsystem/spark",
+      "path": "html/package.json",
+      "version": "18.0.2"
+    },
+    {
+      "error": null,
+      "name": "gatsby-symbol-set-fetch",
+      "path": "plugins/gatsby-symbol-set-fetch/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@sparkdesignsystem/spark-react",
+      "path": "react/package.json",
+      "version": "7.0.2"
+    },
+    {
+      "error": null,
+      "name": "@sparkdesignsystem/spark-styles",
+      "path": "styles/package.json",
+      "version": "4.0.2"
+    }
+  ],
+  "paths": [
+    "angular/package.json",
+    "angular/projects/spark-angular/package.json",
+    "html/package.json",
+    "package.json",
+    "plugins/gatsby-symbol-set-fetch/package.json",
+    "react/package.json",
+    "styles/package.json"
+  ],
+  "repo_url": "https://github.com/sparkdesignsystem/spark-design-system",
+  "root": {
+    "error": null,
+    "name": "spark-design-system-gatsby",
+    "version": "3.1.0"
+  }
+}

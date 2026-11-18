@@ -1,0 +1,14 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:00Z",
+  "docs": {
+    "error": "URLError: <urlopen error Tunnel connection failed: 502 Bad Gateway>",
+    "fetched_at_utc": "2026-11-18T09:40:59Z",
+    "url": "https://blocks.cbrebuild.com/"
+  },
+  "id": "33",
+  "name": "CBRE Blocks",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "failed"
+}

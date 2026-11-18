@@ -1,0 +1,73 @@
+{
+  "collected_at_utc": "2026-11-18T11:49:13Z",
+  "error": null,
+  "id": "291",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "framework7",
+      "path": "build/core/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "framework7-react",
+      "path": "build/react/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "framework7-svelte",
+      "path": "build/svelte/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "framework7-vue",
+      "path": "build/vue/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "framework7",
+      "path": "packages/core/package.json",
+      "version": "9.3.0"
+    },
+    {
+      "error": null,
+      "name": "framework7-react",
+      "path": "packages/react/package.json",
+      "version": "9.3.0"
+    },
+    {
+      "error": null,
+      "name": "framework7-svelte",
+      "path": "packages/svelte/package.json",
+      "version": "9.3.0"
+    },
+    {
+      "error": null,
+      "name": "framework7-vue",
+      "path": "packages/vue/package.json",
+      "version": "9.3.0"
+    }
+  ],
+  "paths": [
+    "build/core/package.json",
+    "build/react/package.json",
+    "build/svelte/package.json",
+    "build/vue/package.json",
+    "package.json",
+    "packages/core/package.json",
+    "packages/react/package.json",
+    "packages/svelte/package.json",
+    "packages/vue/package.json"
+  ],
+  "repo_url": "https://github.com/framework7io/framework7",
+  "root": {
+    "error": null,
+    "name": "framework7-source",
+    "version": "0.0.0"
+  }
+}

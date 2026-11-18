@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:44Z",
+  "docs": {
+    "body_bytes_hashed": 304673,
+    "body_sha256": "0e9d34acffca2c0973d92239b40ea050378a1f537197b907a99399edbf473a7c",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:32Z",
+    "final_url": "https://seeds.sproutsocial.com/",
+    "http_status": 200,
+    "url": "https://sproutsocial.com/seeds"
+  },
+  "id": "127",
+  "name": "Seeds (Sprout Social)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

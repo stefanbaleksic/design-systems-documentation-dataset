@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:51Z",
+  "error": null,
+  "id": "24",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "bold-ui-site",
+      "path": "site/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "site/package.json"
+  ],
+  "repo_url": "https://github.com/laboratoriobridge/bold",
+  "root": {
+    "error": null,
+    "name": "bold-ui",
+    "version": "1.4.1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:14Z",
+  "error": null,
+  "id": "7",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@appearhere/common-styles",
+      "path": "packages/common-styles/package.json",
+      "version": "1.1.0-beta.96"
+    },
+    {
+      "error": null,
+      "name": "@appearhere/bloom",
+      "path": "packages/core/package.json",
+      "version": "1.1.0-beta.96"
+    },
+    {
+      "error": null,
+      "name": "@appearhere/bloom-playground",
+      "path": "packages/playground/package.json",
+      "version": "1.1.0-beta.96"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/common-styles/package.json",
+    "packages/core/package.json",
+    "packages/playground/package.json"
+  ],
+  "repo_url": "https://github.com/appearhere/bloom",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

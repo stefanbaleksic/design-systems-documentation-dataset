@@ -1,0 +1,108 @@
+{
+  "collected_at_utc": "2026-11-18T11:39:21Z",
+  "error": null,
+  "id": "217",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "meteor-docs",
+      "path": "apps/docs/package.json",
+      "version": "0.0.15"
+    },
+    {
+      "error": null,
+      "name": "meteor-admin-sdk-app",
+      "path": "examples/admin-sdk-app/package.json",
+      "version": "1.0.88"
+    },
+    {
+      "error": null,
+      "name": "administration",
+      "path": "examples/admin-sdk-plugin/src/Resources/app/administration/package.json",
+      "version": "1.0.66"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/meteor-admin-sdk-example-plugin",
+      "path": "examples/admin-sdk-plugin/tests/acceptance/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "nuxt-app",
+      "path": "examples/nuxt-app/package.json",
+      "version": "0.0.81"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/meteor-admin-sdk",
+      "path": "packages/admin-sdk/package.json",
+      "version": "6.18.0"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/meteor-component-library",
+      "path": "packages/component-library/package.json",
+      "version": "5.11.0"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/create-meteor-extension",
+      "path": "packages/create-meteor-extension/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/create-meteor-extension-integration-tests",
+      "path": "packages/create-meteor-extension/tests/integration/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/meteor-icon-kit",
+      "path": "packages/icon-kit/package.json",
+      "version": "5.12.0"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/meteor-prettier-config",
+      "path": "packages/prettier-config/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/stylelint-plugin-meteor",
+      "path": "packages/stylelint-plugin-meteor/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@shopware-ag/meteor-tokens",
+      "path": "packages/tokens/package.json",
+      "version": "1.4.1"
+    }
+  ],
+  "paths": [
+    "apps/docs/package.json",
+    "examples/admin-sdk-app/package.json",
+    "examples/admin-sdk-plugin/src/Resources/app/administration/package.json",
+    "examples/admin-sdk-plugin/tests/acceptance/package.json",
+    "examples/nuxt-app/package.json",
+    "package.json",
+    "packages/admin-sdk/package.json",
+    "packages/component-library/package.json",
+    "packages/create-meteor-extension/package.json",
+    "packages/create-meteor-extension/tests/integration/package.json",
+    "packages/icon-kit/package.json",
+    "packages/prettier-config/package.json",
+    "packages/stylelint-plugin-meteor/package.json",
+    "packages/tokens/package.json"
+  ],
+  "repo_url": "https://github.com/shopware/meteor",
+  "root": {
+    "error": null,
+    "name": "meteor",
+    "version": "0.0.0"
+  }
+}

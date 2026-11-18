@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:03Z",
+  "docs": {
+    "body_bytes_hashed": 99196,
+    "body_sha256": "634264772552fb71839de7b2fb4f43393fd69b3c41fc43f9abe8dbaa983e83b4",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:08Z",
+    "final_url": "https://www.ux4g.gov.in/",
+    "http_status": 200,
+    "url": "https://www.ux4g.gov.in/"
+  },
+  "id": "196",
+  "name": "UX4G Design System (India)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

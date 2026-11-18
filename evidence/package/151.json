@@ -1,0 +1,387 @@
+{
+  "collected_at_utc": "2026-11-18T11:36:03Z",
+  "error": null,
+  "id": "151",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@vibe/{{PACKAGE_NAME}}",
+      "path": ".cursor/templates/package-separation/package.json",
+      "version": "3.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vibe/base",
+      "path": "packages/base/package.json",
+      "version": "4.0.11"
+    },
+    {
+      "error": null,
+      "name": "@vibe/codemod",
+      "path": "packages/codemod/package.json",
+      "version": "4.1.0"
+    },
+    {
+      "error": null,
+      "name": "@vibe/a11y",
+      "path": "packages/components/a11y/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "@vibe/accordion",
+      "path": "packages/components/accordion/package.json",
+      "version": "4.0.10"
+    },
+    {
+      "error": null,
+      "name": "@vibe/alert-banner",
+      "path": "packages/components/alert-banner/package.json",
+      "version": "4.0.11"
+    },
+    {
+      "error": null,
+      "name": "@vibe/attention-box",
+      "path": "packages/components/attention-box/package.json",
+      "version": "4.0.10"
+    },
+    {
+      "error": null,
+      "name": "@vibe/avatar-group",
+      "path": "packages/components/avatar-group/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/avatar",
+      "path": "packages/components/avatar/package.json",
+      "version": "4.0.15"
+    },
+    {
+      "error": null,
+      "name": "@vibe/badge",
+      "path": "packages/components/badge/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@vibe/base-list",
+      "path": "packages/components/base-list/package.json",
+      "version": "4.1.3"
+    },
+    {
+      "error": null,
+      "name": "@vibe/breadcrumbs",
+      "path": "packages/components/breadcrumbs/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/button-group",
+      "path": "packages/components/button-group/package.json",
+      "version": "4.0.17"
+    },
+    {
+      "error": null,
+      "name": "@vibe/button",
+      "path": "packages/components/button/package.json",
+      "version": "4.0.15"
+    },
+    {
+      "error": null,
+      "name": "@vibe/checkbox",
+      "path": "packages/components/checkbox/package.json",
+      "version": "4.0.17"
+    },
+    {
+      "error": null,
+      "name": "@vibe/chips",
+      "path": "packages/components/chips/package.json",
+      "version": "4.0.9"
+    },
+    {
+      "error": null,
+      "name": "@vibe/clickable",
+      "path": "packages/components/clickable/package.json",
+      "version": "4.0.12"
+    },
+    {
+      "error": null,
+      "name": "@vibe/color-picker",
+      "path": "packages/components/color-picker/package.json",
+      "version": "4.0.12"
+    },
+    {
+      "error": null,
+      "name": "@vibe/combobox",
+      "path": "packages/components/combobox/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "@vibe/counter",
+      "path": "packages/components/counter/package.json",
+      "version": "4.0.12"
+    },
+    {
+      "error": null,
+      "name": "@vibe/date-picker",
+      "path": "packages/components/date-picker/package.json",
+      "version": "4.0.11"
+    },
+    {
+      "error": null,
+      "name": "@vibe/dialog",
+      "path": "packages/components/dialog/package.json",
+      "version": "4.1.17"
+    },
+    {
+      "error": null,
+      "name": "@vibe/divider",
+      "path": "packages/components/divider/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/dropdown",
+      "path": "packages/components/dropdown/package.json",
+      "version": "4.2.1"
+    },
+    {
+      "error": null,
+      "name": "@vibe/editable",
+      "path": "packages/components/editable/package.json",
+      "version": "4.0.16"
+    },
+    {
+      "error": null,
+      "name": "@vibe/empty-state",
+      "path": "packages/components/empty-state/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/expand-collapse",
+      "path": "packages/components/expand-collapse/package.json",
+      "version": "4.0.17"
+    },
+    {
+      "error": null,
+      "name": "@vibe/formatted-number",
+      "path": "packages/components/formatted-number/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/icon-button",
+      "path": "packages/components/icon-button/package.json",
+      "version": "4.0.23"
+    },
+    {
+      "error": null,
+      "name": "@vibe/icon",
+      "path": "packages/components/icon/package.json",
+      "version": "4.0.12"
+    },
+    {
+      "error": null,
+      "name": "@vibe/info",
+      "path": "packages/components/info/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/label",
+      "path": "packages/components/label/package.json",
+      "version": "4.0.17"
+    },
+    {
+      "error": null,
+      "name": "@vibe/layer",
+      "path": "packages/components/layer/package.json",
+      "version": "4.0.14"
+    },
+    {
+      "error": null,
+      "name": "@vibe/layout",
+      "path": "packages/components/layout/package.json",
+      "version": "4.0.13"
+    },
+    {
+      "error": null,
+      "name": "@vibe/link",
+      "path": "packages/components/link/package.json",
+      "version": "4.0.11"
+    },
+    {
+      "error": null,
+      "name": "@vibe/list",
+      "path": "packages/components/list/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@vibe/loader",
+      "path": "packages/components/loader/package.json",
+      "version": "4.0.10"
+    },
+    {
+      "error": null,
+      "name": "@vibe/menu-button",
+      "path": "packages/components/menu-button/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/menu",
+      "path": "packages/components/menu/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/modal",
+      "path": "packages/components/modal/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@vibe/progress-bars",
+      "path": "packages/components/progress-bars/package.json",
+      "version": "4.0.9"
+    },
+    {
+      "error": null,
+      "name": "@vibe/radio-button",
+      "path": "packages/components/radio-button/package.json",
+      "version": "4.0.16"
+    },
+    {
+      "error": null,
+      "name": "@vibe/search",
+      "path": "packages/components/search/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/skeleton",
+      "path": "packages/components/skeleton/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@vibe/slider",
+      "path": "packages/components/slider/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/split-button",
+      "path": "packages/components/split-button/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/table",
+      "path": "packages/components/table/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "@vibe/tabs",
+      "path": "packages/components/tabs/package.json",
+      "version": "4.0.12"
+    },
+    {
+      "error": null,
+      "name": "@vibe/text-inputs",
+      "path": "packages/components/text-inputs/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@vibe/text-with-highlight",
+      "path": "packages/components/text-with-highlight/package.json",
+      "version": "4.0.12"
+    }
+  ],
+  "paths": [
+    ".cursor/templates/package-separation/package.json",
+    "package.json",
+    "packages/base/package.json",
+    "packages/codemod/package.json",
+    "packages/components/a11y/package.json",
+    "packages/components/accordion/package.json",
+    "packages/components/alert-banner/package.json",
+    "packages/components/attention-box/package.json",
+    "packages/components/avatar-group/package.json",
+    "packages/components/avatar/package.json",
+    "packages/components/badge/package.json",
+    "packages/components/base-list/package.json",
+    "packages/components/breadcrumbs/package.json",
+    "packages/components/button-group/package.json",
+    "packages/components/button/package.json",
+    "packages/components/checkbox/package.json",
+    "packages/components/chips/package.json",
+    "packages/components/clickable/package.json",
+    "packages/components/color-picker/package.json",
+    "packages/components/combobox/package.json",
+    "packages/components/counter/package.json",
+    "packages/components/date-picker/package.json",
+    "packages/components/dialog/package.json",
+    "packages/components/divider/package.json",
+    "packages/components/dropdown/package.json",
+    "packages/components/editable/package.json",
+    "packages/components/empty-state/package.json",
+    "packages/components/expand-collapse/package.json",
+    "packages/components/formatted-number/package.json",
+    "packages/components/icon-button/package.json",
+    "packages/components/icon/package.json",
+    "packages/components/info/package.json",
+    "packages/components/label/package.json",
+    "packages/components/layer/package.json",
+    "packages/components/layout/package.json",
+    "packages/components/link/package.json",
+    "packages/components/list/package.json",
+    "packages/components/loader/package.json",
+    "packages/components/menu-button/package.json",
+    "packages/components/menu/package.json",
+    "packages/components/modal/package.json",
+    "packages/components/progress-bars/package.json",
+    "packages/components/radio-button/package.json",
+    "packages/components/search/package.json",
+    "packages/components/skeleton/package.json",
+    "packages/components/slider/package.json",
+    "packages/components/split-button/package.json",
+    "packages/components/table/package.json",
+    "packages/components/tabs/package.json",
+    "packages/components/text-inputs/package.json",
+    "packages/components/text-with-highlight/package.json",
+    "packages/components/theme-provider/package.json",
+    "packages/components/tipseen/package.json",
+    "packages/components/toast/package.json",
+    "packages/components/toggle/package.json",
+    "packages/components/tooltip/package.json",
+    "packages/components/transitions/package.json",
+    "packages/components/typography/package.json",
+    "packages/components/virtualized-grid/package.json",
+    "packages/components/virtualized-list/package.json",
+    "packages/components/wizard/package.json",
+    "packages/config/package.json",
+    "packages/core/package.json",
+    "packages/docs/package.json",
+    "packages/hooks/package.json",
+    "packages/icons/package.json",
+    "packages/mcp/package.json",
+    "packages/shared/package.json",
+    "packages/storybook-blocks/package.json",
+    "packages/style/package.json",
+    "packages/testkit/package.json"
+  ],
+  "repo_url": "https://github.com/mondaycom/vibe",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": "0.0.0"
+  }
+}

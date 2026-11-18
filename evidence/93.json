@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:08Z",
+  "docs": {
+    "body_bytes_hashed": 181135,
+    "body_sha256": "eaf97ff7837acb6c915f65bbe07c81c8b15dfa1de62c9936189292b67b3120be",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:44Z",
+    "final_url": "https://www.meshdesignsystem.com/",
+    "http_status": 200,
+    "url": "https://www.meshdesignsystem.com/"
+  },
+  "id": "93",
+  "name": "Mesh Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

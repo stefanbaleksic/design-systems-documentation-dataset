@@ -1,0 +1,122 @@
+{
+  "collected_at_utc": "2026-11-18T11:48:08Z",
+  "error": null,
+  "id": "284",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "starter-kit-expo",
+      "path": "apps/kitchen-sink/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "starter-kit-expo-uniwind",
+      "path": "apps/starter-kit-expo-uniwind/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "starter-kit-expo",
+      "path": "apps/starter-kit-expo/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@repo/expo",
+      "path": "apps/starter-kit-monorepo/apps/expo/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@repo/next",
+      "path": "apps/starter-kit-monorepo/apps/next/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "gluestack-monorepo",
+      "path": "apps/starter-kit-monorepo/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@repo/tailwind-config",
+      "path": "apps/starter-kit-monorepo/packages/tailwind-config/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@repo/components",
+      "path": "apps/starter-kit-monorepo/packages/ui/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "starter-kit-next",
+      "path": "apps/starter-kit-next/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "web",
+      "path": "apps/website/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "create-gluestack",
+      "path": "packages/create-gluestack/package.json",
+      "version": "5.0.3"
+    },
+    {
+      "error": null,
+      "name": "@gluestack-ui/core",
+      "path": "packages/gluestack-core/package.json",
+      "version": "5.0.15"
+    },
+    {
+      "error": null,
+      "name": "gluestack-ui",
+      "path": "packages/gluestack-ui/package.json",
+      "version": "5.0.3"
+    },
+    {
+      "error": null,
+      "name": "@gluestack-ui/utils",
+      "path": "packages/gluestack-utils/package.json",
+      "version": "5.0.6"
+    },
+    {
+      "error": null,
+      "name": "@internal/gluestack-ui-src",
+      "path": "src/package.json",
+      "version": "0.0.0-dev"
+    }
+  ],
+  "paths": [
+    "apps/kitchen-sink/package.json",
+    "apps/starter-kit-expo-uniwind/package.json",
+    "apps/starter-kit-expo/package.json",
+    "apps/starter-kit-monorepo/apps/expo/package.json",
+    "apps/starter-kit-monorepo/apps/next/package.json",
+    "apps/starter-kit-monorepo/package.json",
+    "apps/starter-kit-monorepo/packages/tailwind-config/package.json",
+    "apps/starter-kit-monorepo/packages/ui/package.json",
+    "apps/starter-kit-next/package.json",
+    "apps/website/package.json",
+    "package.json",
+    "packages/create-gluestack/package.json",
+    "packages/gluestack-core/package.json",
+    "packages/gluestack-ui/package.json",
+    "packages/gluestack-utils/package.json",
+    "src/package.json"
+  ],
+  "repo_url": "https://github.com/gluestack/gluestack-ui",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

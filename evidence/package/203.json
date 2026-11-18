@@ -1,0 +1,370 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:53Z",
+  "error": null,
+  "id": "203",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@tds/core-a11y-content",
+      "path": "packages/A11yContent/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-animation",
+      "path": "packages/Animation/package.json",
+      "version": "1.1.1"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-box",
+      "path": "packages/Box/package.json",
+      "version": "1.0.3"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-breadcrumbs",
+      "path": "packages/Breadcrumbs/package.json",
+      "version": "1.0.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-button",
+      "path": "packages/Button/package.json",
+      "version": "1.1.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-button-group",
+      "path": "packages/ButtonGroup/package.json",
+      "version": "1.0.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-button-link",
+      "path": "packages/ButtonLink/package.json",
+      "version": "1.1.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-card",
+      "path": "packages/Card/package.json",
+      "version": "1.0.4"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-checkbox",
+      "path": "packages/Checkbox/package.json",
+      "version": "1.1.8"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-chevron-link",
+      "path": "packages/ChevronLink/package.json",
+      "version": "1.1.7"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-decorative-icon",
+      "path": "packages/DecorativeIcon/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-dimple-divider",
+      "path": "packages/DimpleDivider/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-display-heading",
+      "path": "packages/DisplayHeading/package.json",
+      "version": "1.0.9"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-expand-collapse",
+      "path": "packages/ExpandCollapse/package.json",
+      "version": "1.2.9"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-flex-grid",
+      "path": "packages/FlexGrid/package.json",
+      "version": "2.3.7"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-form-field",
+      "path": "packages/FormField/package.json",
+      "version": "2.1.9"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-hairline-divider",
+      "path": "packages/HairlineDivider/package.json",
+      "version": "1.0.3"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-heading",
+      "path": "packages/Heading/package.json",
+      "version": "1.1.8"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-image",
+      "path": "packages/Image/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-input",
+      "path": "packages/Input/package.json",
+      "version": "2.1.2"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-input-feedback",
+      "path": "packages/InputFeedback/package.json",
+      "version": "1.0.5"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-link",
+      "path": "packages/Link/package.json",
+      "version": "1.0.5"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-notification",
+      "path": "packages/Notification/package.json",
+      "version": "1.2.15"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-ordered-list",
+      "path": "packages/OrderedList/package.json",
+      "version": "2.0.7"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-paragraph",
+      "path": "packages/Paragraph/package.json",
+      "version": "1.0.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-price-lockup",
+      "path": "packages/PriceLockup/package.json",
+      "version": "1.0.7"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-radio",
+      "path": "packages/Radio/package.json",
+      "version": "1.2.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-responsive",
+      "path": "packages/Responsive/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-select",
+      "path": "packages/Select/package.json",
+      "version": "2.0.5"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-selector-counter",
+      "path": "packages/SelectorCounter/package.json",
+      "version": "1.1.2"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-small",
+      "path": "packages/Small/package.json",
+      "version": "1.0.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-spinner",
+      "path": "packages/Spinner/package.json",
+      "version": "2.1.3"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-standalone-icon",
+      "path": "packages/StandaloneIcon/package.json",
+      "version": "1.0.2"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-step-tracker",
+      "path": "packages/StepTracker/package.json",
+      "version": "3.0.8"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-strong",
+      "path": "packages/Strong/package.json",
+      "version": "1.0.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-text",
+      "path": "packages/Text/package.json",
+      "version": "1.0.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-text-area",
+      "path": "packages/TextArea/package.json",
+      "version": "2.0.4"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-tooltip",
+      "path": "packages/Tooltip/package.json",
+      "version": "2.0.7"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-unordered-list",
+      "path": "packages/UnorderedList/package.json",
+      "version": "2.0.7"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-wave-divider",
+      "path": "packages/WaveDivider/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-colours",
+      "path": "packages/colours/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-css-reset",
+      "path": "packages/css-reset/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@tds/util-prop-types",
+      "path": "packages/prop-types/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-styles",
+      "path": "packages/styles/package.json",
+      "version": "1.0.0-dev"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-typography",
+      "path": "packages/typography/package.json",
+      "version": "1.1.3"
+    },
+    {
+      "error": null,
+      "name": "@tds/core-$COMPONENT_KEBAB$",
+      "path": "scripts/scaffolding/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-base-button",
+      "path": "shared/components/BaseButton/package.json",
+      "version": "1.2.6"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-choice",
+      "path": "shared/components/Choice/package.json",
+      "version": "1.1.5"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-clickable",
+      "path": "shared/components/Clickable/package.json",
+      "version": "1.0.0-dev"
+    },
+    {
+      "error": null,
+      "name": "@tds/shared-colored-text-provider",
+      "path": "shared/components/ColoredTextProvider/package.json",
+      "version": "1.0.1"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/A11yContent/package.json",
+    "packages/Animation/package.json",
+    "packages/Box/package.json",
+    "packages/Breadcrumbs/package.json",
+    "packages/Button/package.json",
+    "packages/ButtonGroup/package.json",
+    "packages/ButtonLink/package.json",
+    "packages/Card/package.json",
+    "packages/Checkbox/package.json",
+    "packages/ChevronLink/package.json",
+    "packages/DecorativeIcon/package.json",
+    "packages/DimpleDivider/package.json",
+    "packages/DisplayHeading/package.json",
+    "packages/ExpandCollapse/package.json",
+    "packages/FlexGrid/package.json",
+    "packages/FormField/package.json",
+    "packages/HairlineDivider/package.json",
+    "packages/Heading/package.json",
+    "packages/Image/package.json",
+    "packages/Input/package.json",
+    "packages/InputFeedback/package.json",
+    "packages/Link/package.json",
+    "packages/Notification/package.json",
+    "packages/OrderedList/package.json",
+    "packages/Paragraph/package.json",
+    "packages/PriceLockup/package.json",
+    "packages/Radio/package.json",
+    "packages/Responsive/package.json",
+    "packages/Select/package.json",
+    "packages/SelectorCounter/package.json",
+    "packages/Small/package.json",
+    "packages/Spinner/package.json",
+    "packages/StandaloneIcon/package.json",
+    "packages/StepTracker/package.json",
+    "packages/Strong/package.json",
+    "packages/Text/package.json",
+    "packages/TextArea/package.json",
+    "packages/Tooltip/package.json",
+    "packages/UnorderedList/package.json",
+    "packages/WaveDivider/package.json",
+    "packages/colours/package.json",
+    "packages/css-reset/package.json",
+    "packages/prop-types/package.json",
+    "packages/styles/package.json",
+    "packages/typography/package.json",
+    "scripts/scaffolding/package.json",
+    "shared/components/BaseButton/package.json",
+    "shared/components/Choice/package.json",
+    "shared/components/Clickable/package.json",
+    "shared/components/ColoredTextProvider/package.json",
+    "shared/components/Flexbox/package.json",
+    "shared/components/Icon/package.json",
+    "shared/utils/generateId/package.json"
+  ],
+  "repo_url": "https://github.com/telus/tds-core-legacy-v2",
+  "root": {
+    "error": null,
+    "name": "@telus/tds-core",
+    "version": "2.0.0"
+  }
+}

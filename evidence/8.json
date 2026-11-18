@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:27Z",
+  "docs": {
+    "body_bytes_hashed": 118917,
+    "body_sha256": "704d77e9876d69efea87518400d0db57dcb706a1278639c12b3cfd305c28e0c6",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:40:50Z",
+    "final_url": "https://developer.apple.com/design/",
+    "http_status": 200,
+    "url": "https://developer.apple.com/design/"
+  },
+  "id": "8",
+  "name": "Apple Developer Design Guidelines",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,311 @@
+{
+  "collected_at_utc": "2026-11-18T11:39:40Z",
+  "error": null,
+  "id": "224",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@khanacademy/wb-dev-build-settings",
+      "path": "build-settings/package.json",
+      "version": "3.3.0"
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-wonder-blocks-demo",
+      "path": "packages/eslint-plugin-wonder-blocks/demo/package.json",
+      "version": "0.4.31"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/eslint-plugin-wonder-blocks",
+      "path": "packages/eslint-plugin-wonder-blocks/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-accordion",
+      "path": "packages/wonder-blocks-accordion/package.json",
+      "version": "3.2.3"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-announcer",
+      "path": "packages/wonder-blocks-announcer/package.json",
+      "version": "1.1.2"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-badge",
+      "path": "packages/wonder-blocks-badge/package.json",
+      "version": "1.1.28"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-banner",
+      "path": "packages/wonder-blocks-banner/package.json",
+      "version": "5.2.3"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-birthday-picker",
+      "path": "packages/wonder-blocks-birthday-picker/package.json",
+      "version": "4.2.8"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-breadcrumbs",
+      "path": "packages/wonder-blocks-breadcrumbs/package.json",
+      "version": "3.3.7"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-button",
+      "path": "packages/wonder-blocks-button/package.json",
+      "version": "11.7.14"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-card",
+      "path": "packages/wonder-blocks-card/package.json",
+      "version": "1.5.4"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-cell",
+      "path": "packages/wonder-blocks-cell/package.json",
+      "version": "6.4.1"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-clickable",
+      "path": "packages/wonder-blocks-clickable/package.json",
+      "version": "8.3.3"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-config",
+      "path": "packages/wonder-blocks-config/package.json",
+      "version": "0.7.1"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-core",
+      "path": "packages/wonder-blocks-core/package.json",
+      "version": "12.5.0"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-data",
+      "path": "packages/wonder-blocks-data/package.json",
+      "version": "15.1.0"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-date-picker",
+      "path": "packages/wonder-blocks-date-picker/package.json",
+      "version": "1.2.5"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-dropdown",
+      "path": "packages/wonder-blocks-dropdown/package.json",
+      "version": "11.0.2"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-filters",
+      "path": "packages/wonder-blocks-filters/package.json",
+      "version": "0.1.1"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-floating",
+      "path": "packages/wonder-blocks-floating/package.json",
+      "version": "0.2.2"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-form",
+      "path": "packages/wonder-blocks-form/package.json",
+      "version": "7.7.7"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-icon-button",
+      "path": "packages/wonder-blocks-icon-button/package.json",
+      "version": "12.0.3"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-icon",
+      "path": "packages/wonder-blocks-icon/package.json",
+      "version": "6.0.4"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-labeled-field",
+      "path": "packages/wonder-blocks-labeled-field/package.json",
+      "version": "4.3.7"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-layout",
+      "path": "packages/wonder-blocks-layout/package.json",
+      "version": "3.2.2"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-link",
+      "path": "packages/wonder-blocks-link/package.json",
+      "version": "10.5.4"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-modal",
+      "path": "packages/wonder-blocks-modal/package.json",
+      "version": "8.10.5"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-popover",
+      "path": "packages/wonder-blocks-popover/package.json",
+      "version": "7.1.4"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-progress-spinner",
+      "path": "packages/wonder-blocks-progress-spinner/package.json",
+      "version": "3.2.1"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-search-field",
+      "path": "packages/wonder-blocks-search-field/package.json",
+      "version": "5.2.7"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-styles",
+      "path": "packages/wonder-blocks-styles/package.json",
+      "version": "0.4.2"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-switch",
+      "path": "packages/wonder-blocks-switch/package.json",
+      "version": "3.4.16"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-tabs",
+      "path": "packages/wonder-blocks-tabs/package.json",
+      "version": "1.0.12"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-testing-core",
+      "path": "packages/wonder-blocks-testing-core/package.json",
+      "version": "5.3.0"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-testing",
+      "path": "packages/wonder-blocks-testing/package.json",
+      "version": "17.2.2"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-theming",
+      "path": "packages/wonder-blocks-theming/package.json",
+      "version": "4.1.0"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-timing",
+      "path": "packages/wonder-blocks-timing/package.json",
+      "version": "7.1.0"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-tokens",
+      "path": "packages/wonder-blocks-tokens/package.json",
+      "version": "18.2.0"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-toolbar",
+      "path": "packages/wonder-blocks-toolbar/package.json",
+      "version": "5.1.66"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-tooltip",
+      "path": "packages/wonder-blocks-tooltip/package.json",
+      "version": "4.2.16"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wonder-blocks-typography",
+      "path": "packages/wonder-blocks-typography/package.json",
+      "version": "5.0.7"
+    },
+    {
+      "error": null,
+      "name": "@khanacademy/wb-codemod",
+      "path": "wb-codemod/package.json",
+      "version": "2.1.2"
+    }
+  ],
+  "paths": [
+    "build-settings/package.json",
+    "package.json",
+    "packages/eslint-plugin-wonder-blocks/demo/package.json",
+    "packages/eslint-plugin-wonder-blocks/package.json",
+    "packages/wonder-blocks-accordion/package.json",
+    "packages/wonder-blocks-announcer/package.json",
+    "packages/wonder-blocks-badge/package.json",
+    "packages/wonder-blocks-banner/package.json",
+    "packages/wonder-blocks-birthday-picker/package.json",
+    "packages/wonder-blocks-breadcrumbs/package.json",
+    "packages/wonder-blocks-button/package.json",
+    "packages/wonder-blocks-card/package.json",
+    "packages/wonder-blocks-cell/package.json",
+    "packages/wonder-blocks-clickable/package.json",
+    "packages/wonder-blocks-config/package.json",
+    "packages/wonder-blocks-core/package.json",
+    "packages/wonder-blocks-data/package.json",
+    "packages/wonder-blocks-date-picker/package.json",
+    "packages/wonder-blocks-dropdown/package.json",
+    "packages/wonder-blocks-filters/package.json",
+    "packages/wonder-blocks-floating/package.json",
+    "packages/wonder-blocks-form/package.json",
+    "packages/wonder-blocks-icon-button/package.json",
+    "packages/wonder-blocks-icon/package.json",
+    "packages/wonder-blocks-labeled-field/package.json",
+    "packages/wonder-blocks-layout/package.json",
+    "packages/wonder-blocks-link/package.json",
+    "packages/wonder-blocks-modal/package.json",
+    "packages/wonder-blocks-popover/package.json",
+    "packages/wonder-blocks-progress-spinner/package.json",
+    "packages/wonder-blocks-search-field/package.json",
+    "packages/wonder-blocks-styles/package.json",
+    "packages/wonder-blocks-switch/package.json",
+    "packages/wonder-blocks-tabs/package.json",
+    "packages/wonder-blocks-testing-core/package.json",
+    "packages/wonder-blocks-testing/package.json",
+    "packages/wonder-blocks-theming/package.json",
+    "packages/wonder-blocks-timing/package.json",
+    "packages/wonder-blocks-tokens/package.json",
+    "packages/wonder-blocks-toolbar/package.json",
+    "packages/wonder-blocks-tooltip/package.json",
+    "packages/wonder-blocks-typography/package.json",
+    "wb-codemod/package.json"
+  ],
+  "repo_url": "https://github.com/Khan/wonder-blocks",
+  "root": {
+    "error": null,
+    "name": "wonder-blocks",
+    "version": "0.0.1"
+  }
+}

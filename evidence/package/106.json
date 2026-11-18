@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:31:22Z",
+  "error": null,
+  "id": "106",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@okta/odyssey-storybook",
+      "path": "packages/apps/odyssey-storybook/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/browserslist-config-odyssey",
+      "path": "packages/configs/browserslist-config-odyssey/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/odyssey-eslint-config",
+      "path": "packages/configs/odyssey-eslint-config/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/odyssey-test-tooling",
+      "path": "packages/configs/odyssey-test-tooling/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/odyssey-typescript",
+      "path": "packages/configs/odyssey-typescript/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/odyssey-contribution-tooling",
+      "path": "packages/core/odyssey-contribution-tooling/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/odyssey-design-tokens",
+      "path": "packages/core/odyssey-design-tokens/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/odyssey-icons",
+      "path": "packages/core/odyssey-icons/package.json",
+      "version": "1.73.1"
+    },
+    {
+      "error": null,
+      "name": "@okta/odyssey-react-mui",
+      "path": "packages/core/odyssey-react-mui/package.json",
+      "version": "1.73.1"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/apps/odyssey-storybook/package.json",
+    "packages/configs/browserslist-config-odyssey/package.json",
+    "packages/configs/odyssey-eslint-config/package.json",
+    "packages/configs/odyssey-test-tooling/package.json",
+    "packages/configs/odyssey-typescript/package.json",
+    "packages/core/odyssey-contribution-tooling/package.json",
+    "packages/core/odyssey-design-tokens/package.json",
+    "packages/core/odyssey-icons/package.json",
+    "packages/core/odyssey-react-mui/package.json"
+  ],
+  "repo_url": "https://github.com/okta/odyssey",
+  "root": {
+    "error": null,
+    "name": "odyssey",
+    "version": null
+  }
+}

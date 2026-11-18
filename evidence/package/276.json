@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:47:10Z",
+  "error": null,
+  "id": "276",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "ng-zorro-antd",
+      "path": "components/package.json",
+      "version": "22.2.0"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "schematics/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "components/package.json",
+    "package.json",
+    "schematics/package.json"
+  ],
+  "repo_url": "https://github.com/NG-ZORRO/ng-zorro-antd",
+  "root": {
+    "error": null,
+    "name": "ng-zorro-antd",
+    "version": "0.0.0-NOT-USED"
+  }
+}

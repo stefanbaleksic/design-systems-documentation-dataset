@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:02Z",
+  "docs": {
+    "body_bytes_hashed": 749622,
+    "body_sha256": "b8ac908fcfc338a66d7741e343f566a5ee58557a8f9bf1f3884f78c46daefd57",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:04Z",
+    "final_url": "https://chakra-ui.com/",
+    "http_status": 200,
+    "url": "https://chakra-ui.com/"
+  },
+  "id": "35",
+  "name": "Chakra UI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:02Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v0.3.0-beta",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T21:01:19Z",
+    "spdx_licence": "MIT",
+    "tag_count": 4869,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

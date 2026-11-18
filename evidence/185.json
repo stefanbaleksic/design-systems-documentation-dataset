@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:59Z",
+  "docs": {
+    "body_bytes_hashed": 29799,
+    "body_sha256": "4e72fd63cf44497fb470716ec7b148c235fd84acfb7e5020fc2d7358e1e0e2fb",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:58Z",
+    "final_url": "https://design.homeoffice.gov.uk/",
+    "http_status": 200,
+    "url": "https://design.homeoffice.gov.uk/"
+  },
+  "id": "185",
+  "name": "Home Office Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:43:31Z",
+  "error": null,
+  "id": "246",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "bulma-customizer",
+      "path": "docs/_react/bulma-customizer/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "bulma-docs",
+      "path": "docs/package.json",
+      "version": "1.0.1"
+    }
+  ],
+  "paths": [
+    "docs/_react/bulma-customizer/package.json",
+    "docs/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/jgthms/bulma",
+  "root": {
+    "error": null,
+    "name": "bulma",
+    "version": "1.0.4"
+  }
+}

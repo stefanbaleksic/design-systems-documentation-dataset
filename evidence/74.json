@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:49Z",
+  "docs": {
+    "body_bytes_hashed": 77558,
+    "body_sha256": "78185ceb0fcbe286aa175550a33281a8bfff8662b46ce42f06ab0d43be070193",
+    "content_type": "text/html;charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:06Z",
+    "final_url": "https://www.ibm.com/standards/web",
+    "http_status": 200,
+    "url": "https://www.ibm.com/standards/web/"
+  },
+  "id": "74",
+  "name": "IBM Northstar",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

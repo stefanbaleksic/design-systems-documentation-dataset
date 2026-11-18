@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:04Z",
+  "docs": {
+    "body_bytes_hashed": 172053,
+    "body_sha256": "b166573470f3bb4f17b39638590ab2bfbc1f27edad174edd747a2a9125c7c12d",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:06Z",
+    "final_url": "https://patterns.boston.gov/",
+    "http_status": 200,
+    "url": "https://patterns.boston.gov/"
+  },
+  "id": "36",
+  "name": "City of Boston Fleet",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:04Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": null,
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-10-15T15:36:38Z",
+    "spdx_licence": null,
+    "tag_count": 25,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

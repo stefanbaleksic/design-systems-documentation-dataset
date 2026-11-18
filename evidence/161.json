@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:37Z",
+  "docs": {
+    "body_bytes_hashed": 478299,
+    "body_sha256": "17d8f7edc6c7ec6cc2c509ab153cab10b84a349f608350ab44f376aff82c39e0",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:28Z",
+    "final_url": "https://design.workday.com/",
+    "http_status": 200,
+    "url": "https://design.workday.com/"
+  },
+  "id": "161",
+  "name": "Workday Canvas",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:37Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v16.2.21",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-10T15:45:41Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 929,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

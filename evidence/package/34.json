@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:26:16Z",
+  "error": null,
+  "id": "34",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/rei/rei-cedar",
+  "root": {
+    "error": null,
+    "name": "@rei/cedar",
+    "version": "17.1.1-rc.0"
+  }
+}

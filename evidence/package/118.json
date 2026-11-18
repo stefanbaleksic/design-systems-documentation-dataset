@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:32:39Z",
+  "error": null,
+  "id": "118",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "rambler-ui-simple-example",
+      "path": "examples/simple/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "rambler-ui-ssr-example",
+      "path": "examples/ssr/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "rambler-ui-theming-example",
+      "path": "examples/theming/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "examples/simple/package.json",
+    "examples/ssr/package.json",
+    "examples/theming/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/rambler-digital-solutions/rambler-ui",
+  "root": {
+    "error": null,
+    "name": "rambler-ui",
+    "version": "5.15.5"
+  }
+}

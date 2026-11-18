@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:03Z",
+  "docs": {
+    "body_bytes_hashed": 272075,
+    "body_sha256": "ecba7b9ff0b9cb6bc706184eb7e8bf83a7ee56a2840948b790986d654e3d5905",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:38Z",
+    "final_url": "https://mantine.dev/",
+    "http_status": 200,
+    "url": "https://mantine.dev/"
+  },
+  "id": "89",
+  "name": "Mantine",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:03Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "9.8.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T19:04:18Z",
+    "spdx_licence": "MIT",
+    "tag_count": 323,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

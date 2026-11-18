@@ -1,0 +1,171 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:41Z",
+  "error": null,
+  "id": "23",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@blueprintjs/colors",
+      "path": "packages/colors/package.json",
+      "version": "5.1.16"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/core",
+      "path": "packages/core/package.json",
+      "version": "6.23.0"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/datetime",
+      "path": "packages/datetime/package.json",
+      "version": "6.3.2"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/datetime2",
+      "path": "packages/datetime2/package.json",
+      "version": "3.3.2"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/demo-app",
+      "path": "packages/demo-app/package.json",
+      "version": "6.5.1"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/docs-app",
+      "path": "packages/docs-app/package.json",
+      "version": "6.5.1"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/docs-data",
+      "path": "packages/docs-data/package.json",
+      "version": "6.5.1"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/docs-theme",
+      "path": "packages/docs-theme/package.json",
+      "version": "6.2.9"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/eslint-config",
+      "path": "packages/eslint-config/package.json",
+      "version": "6.2.1"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/eslint-plugin",
+      "path": "packages/eslint-plugin/package.json",
+      "version": "6.2.1"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/icons/next/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/icons",
+      "path": "packages/icons/package.json",
+      "version": "6.16.0"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/labs",
+      "path": "packages/labs/package.json",
+      "version": "6.4.9"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/landing-app",
+      "path": "packages/landing-app/package.json",
+      "version": "6.5.1"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/node-build-scripts",
+      "path": "packages/node-build-scripts/package.json",
+      "version": "10.0.1"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/select",
+      "path": "packages/select/package.json",
+      "version": "6.4.2"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/stylelint-plugin",
+      "path": "packages/stylelint-plugin/package.json",
+      "version": "5.2.5"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/table-dev-app",
+      "path": "packages/table-dev-app/package.json",
+      "version": "6.0.13"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/table",
+      "path": "packages/table/package.json",
+      "version": "6.3.2"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/test-commons",
+      "path": "packages/test-commons/package.json",
+      "version": "4.0.4"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/tslint-config",
+      "path": "packages/tslint-config/package.json",
+      "version": "4.1.9"
+    },
+    {
+      "error": null,
+      "name": "@blueprintjs/webpack-build-scripts",
+      "path": "packages/webpack-build-scripts/package.json",
+      "version": "6.2.16"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/colors/package.json",
+    "packages/core/package.json",
+    "packages/datetime/package.json",
+    "packages/datetime2/package.json",
+    "packages/demo-app/package.json",
+    "packages/docs-app/package.json",
+    "packages/docs-data/package.json",
+    "packages/docs-theme/package.json",
+    "packages/eslint-config/package.json",
+    "packages/eslint-plugin/package.json",
+    "packages/icons/next/package.json",
+    "packages/icons/package.json",
+    "packages/labs/package.json",
+    "packages/landing-app/package.json",
+    "packages/node-build-scripts/package.json",
+    "packages/select/package.json",
+    "packages/stylelint-plugin/package.json",
+    "packages/table-dev-app/package.json",
+    "packages/table/package.json",
+    "packages/test-commons/package.json",
+    "packages/tslint-config/package.json",
+    "packages/webpack-build-scripts/package.json"
+  ],
+  "repo_url": "https://github.com/palantir/blueprint",
+  "root": {
+    "error": null,
+    "name": "@blueprintjs/root",
+    "version": "0.0.0"
+  }
+}

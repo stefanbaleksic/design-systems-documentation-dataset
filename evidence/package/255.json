@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:44:21Z",
+  "error": null,
+  "id": "255",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@opengovsg/design-system-react",
+      "path": "packages/camp/package.json",
+      "version": "1.35.1"
+    },
+    {
+      "error": null,
+      "name": "token-gen",
+      "path": "tooling/camp/token-gen/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/camp/package.json",
+    "tooling/camp/token-gen/package.json"
+  ],
+  "repo_url": "https://github.com/opengovsg/camp-design-system",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": null
+  }
+}

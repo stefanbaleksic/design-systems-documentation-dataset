@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:20Z",
+  "docs": {
+    "body_bytes_hashed": 8122,
+    "body_sha256": "a73305a64daa2ef54ba09a0bcd1811d1fc8560683c04daf1fa78b56d3f394d6e",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:40:45Z",
+    "final_url": "https://auro.alaskaair.com/",
+    "http_status": 200,
+    "url": "https://auro.alaskaair.com/"
+  },
+  "id": "4",
+  "name": "Alaska Airlines",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:20Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v1.3.0",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2023-04-09T20:04:22Z",
+    "spdx_licence": null,
+    "tag_count": 16,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

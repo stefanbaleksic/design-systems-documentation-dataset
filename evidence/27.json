@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:53Z",
+  "docs": {
+    "body_bytes_hashed": 22641,
+    "body_sha256": "e817a2f370cb03ac685166b023a0ec73b29f8fee2657ee3bc8883f1f252c0a03",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:53Z",
+    "final_url": "https://britishgas.design/",
+    "http_status": 200,
+    "url": "https://britishgas.design/"
+  },
+  "id": "27",
+  "name": "British Gas Nucleus",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

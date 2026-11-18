@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:00Z",
+  "docs": {
+    "body_bytes_hashed": 150100,
+    "body_sha256": "97741f0e6919bdc043d1defb11f5c445ab03546df23090ede0800302f2009e55",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:03Z",
+    "final_url": "https://rei.github.io/rei-cedar-docs/",
+    "http_status": 200,
+    "url": "https://rei.github.io/rei-cedar-docs/"
+  },
+  "id": "34",
+  "name": "Cedar (REI)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:00Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v17.1.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T19:49:43Z",
+    "spdx_licence": "MIT",
+    "tag_count": 56,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

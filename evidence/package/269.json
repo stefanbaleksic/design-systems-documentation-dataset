@@ -1,0 +1,87 @@
+{
+  "collected_at_utc": "2026-11-18T11:46:04Z",
+  "error": null,
+  "id": "269",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "create-vant-cli-app",
+      "path": "packages/create-vant-cli-app/package.json",
+      "version": "3.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vant/area-data",
+      "path": "packages/vant-area-data/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "@vant/auto-import-resolver",
+      "path": "packages/vant-auto-import-resolver/package.json",
+      "version": "1.3.0"
+    },
+    {
+      "error": null,
+      "name": "@vant/cli",
+      "path": "packages/vant-cli/package.json",
+      "version": "7.1.0"
+    },
+    {
+      "error": null,
+      "name": "@vant/compat",
+      "path": "packages/vant-compat/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@vant/icons",
+      "path": "packages/vant-icons/package.json",
+      "version": "3.0.2"
+    },
+    {
+      "error": null,
+      "name": "@vant/popperjs",
+      "path": "packages/vant-popperjs/package.json",
+      "version": "1.3.0"
+    },
+    {
+      "error": null,
+      "name": "@vant/touch-emulator",
+      "path": "packages/vant-touch-emulator/package.json",
+      "version": "1.5.0"
+    },
+    {
+      "error": null,
+      "name": "@vant/use",
+      "path": "packages/vant-use/package.json",
+      "version": "1.6.0"
+    },
+    {
+      "error": null,
+      "name": "vant",
+      "path": "packages/vant/package.json",
+      "version": "4.10.2"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/create-vant-cli-app/package.json",
+    "packages/vant-area-data/package.json",
+    "packages/vant-auto-import-resolver/package.json",
+    "packages/vant-cli/package.json",
+    "packages/vant-compat/package.json",
+    "packages/vant-icons/package.json",
+    "packages/vant-popperjs/package.json",
+    "packages/vant-touch-emulator/package.json",
+    "packages/vant-use/package.json",
+    "packages/vant/package.json"
+  ],
+  "repo_url": "https://github.com/youzan/vant",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

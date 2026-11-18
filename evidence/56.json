@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:27Z",
+  "docs": {
+    "body_bytes_hashed": 24122,
+    "body_sha256": "df6922ea1694fa391a77628d8f49655134bbd12b7ccb9a6a8b561b26ad07c430",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:41Z",
+    "final_url": "https://get.foundation/",
+    "http_status": 200,
+    "url": "https://get.foundation/"
+  },
+  "id": "56",
+  "name": "Foundation",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:27Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": "v6.9.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-06T15:45:05Z",
+    "spdx_licence": "MIT",
+    "tag_count": 177,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

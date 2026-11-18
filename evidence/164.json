@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:43Z",
+  "docs": {
+    "body_bytes_hashed": 8991,
+    "body_sha256": "aa7a375fca8f61c04f5ff2fe15ede01a237f6bb02e85bbad681898268a1e9223",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:31Z",
+    "final_url": "https://designsystemau.org",
+    "http_status": 200,
+    "url": "https://designsystemau.org"
+  },
+  "id": "164",
+  "name": "Australian Government Design System (GOLD)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

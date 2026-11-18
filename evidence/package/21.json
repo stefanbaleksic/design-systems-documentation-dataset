@@ -1,0 +1,59 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:35Z",
+  "error": null,
+  "id": "21",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@buildo/bento-design-system",
+      "path": "packages/bento-design-system/package.json",
+      "version": "0.23.6"
+    },
+    {
+      "error": null,
+      "name": "configuration-builder",
+      "path": "packages/configuration-builder/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "website",
+      "path": "packages/website/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "app",
+      "path": "templates/react-router-monorepo/apps/app/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "design-system",
+      "path": "templates/react-router-monorepo/libs/design-system/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "templates/react-router-monorepo/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/bento-design-system/package.json",
+    "packages/configuration-builder/package.json",
+    "packages/website/package.json",
+    "templates/react-router-monorepo/apps/app/package.json",
+    "templates/react-router-monorepo/libs/design-system/package.json",
+    "templates/react-router-monorepo/package.json"
+  ],
+  "repo_url": "https://github.com/buildo/bento-design-system",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": null
+  }
+}

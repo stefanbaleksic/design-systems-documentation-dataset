@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:19Z",
+  "docs": null,
+  "id": "285",
+  "name": "Park UI",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:49:19Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-02-21T13:21:10Z",
+    "spdx_licence": "MIT",
+    "tag_count": 110,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

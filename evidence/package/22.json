@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:39Z",
+  "error": null,
+  "id": "22",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/takenet/blip-toolkit",
+  "root": {
+    "error": null,
+    "name": "blip-toolkit",
+    "version": "1.1.0"
+  }
+}

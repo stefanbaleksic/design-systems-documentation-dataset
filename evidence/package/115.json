@@ -1,0 +1,138 @@
+{
+  "collected_at_utc": "2026-11-18T11:32:07Z",
+  "error": null,
+  "id": "115",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@priceline/docs",
+      "path": "apps/docs/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@priceline/storybook",
+      "path": "apps/storybook/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "rush-prettier",
+      "path": "common/autoinstallers/rush-prettier/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "heft-styled-components-plugin",
+      "path": "heft-plugins/heft-styled-components-plugin/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "pcln-autocomplete",
+      "path": "packages/autocomplete/package.json",
+      "version": "6.1.10"
+    },
+    {
+      "error": null,
+      "name": "pcln-carousel",
+      "path": "packages/carousel/package.json",
+      "version": "3.4.8"
+    },
+    {
+      "error": null,
+      "name": "pcln-codemods",
+      "path": "packages/codemods/package.json",
+      "version": "3.1.8"
+    },
+    {
+      "error": null,
+      "name": "pcln-design-system",
+      "path": "packages/core/package.json",
+      "version": "6.29.0"
+    },
+    {
+      "error": null,
+      "name": "pcln-icons",
+      "path": "packages/icons/package.json",
+      "version": "7.0.1"
+    },
+    {
+      "error": null,
+      "name": "pcln-menu",
+      "path": "packages/menu/package.json",
+      "version": "6.2.8"
+    },
+    {
+      "error": null,
+      "name": "pcln-modal",
+      "path": "packages/modal/package.json",
+      "version": "6.2.9"
+    },
+    {
+      "error": null,
+      "name": "pcln-popover",
+      "path": "packages/popover/package.json",
+      "version": "6.3.8"
+    },
+    {
+      "error": null,
+      "name": "pcln-slider",
+      "path": "packages/slider/package.json",
+      "version": "6.3.0"
+    },
+    {
+      "error": null,
+      "name": "@priceline/heft-component-rig",
+      "path": "rigs/component/package.json",
+      "version": "1.4.9"
+    },
+    {
+      "error": null,
+      "name": "@priceline/babel-preset",
+      "path": "tools/babel-preset/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@priceline/create-release-notes",
+      "path": "tools/create-release-notes/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@priceline/eslint-config",
+      "path": "tools/eslint-config/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@priceline/project-change-analyzer",
+      "path": "tools/project-change-analyzer/package.json",
+      "version": "0.0.1"
+    }
+  ],
+  "paths": [
+    "apps/docs/package.json",
+    "apps/storybook/package.json",
+    "common/autoinstallers/rush-prettier/package.json",
+    "heft-plugins/heft-styled-components-plugin/package.json",
+    "packages/autocomplete/package.json",
+    "packages/carousel/package.json",
+    "packages/codemods/package.json",
+    "packages/core/package.json",
+    "packages/icons/package.json",
+    "packages/menu/package.json",
+    "packages/modal/package.json",
+    "packages/popover/package.json",
+    "packages/slider/package.json",
+    "rigs/component/package.json",
+    "tools/babel-preset/package.json",
+    "tools/create-release-notes/package.json",
+    "tools/eslint-config/package.json",
+    "tools/project-change-analyzer/package.json"
+  ],
+  "repo_url": "https://github.com/priceline/design-system",
+  "root": null
+}

@@ -1,0 +1,129 @@
+{
+  "collected_at_utc": "2026-11-18T11:39:14Z",
+  "error": null,
+  "id": "216",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "dark-mode-addon",
+      "path": ".storybook/dark-mode-addon/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "font-size-addon",
+      "path": ".storybook/font-size-addon/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "platform-selector-addon",
+      "path": ".storybook/platform-selector-addon/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "theme-selector-addon",
+      "path": ".storybook/theme-selector-addon/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "cra-with-react-router",
+      "path": "examples/cra-with-react-router/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "create-react-app",
+      "path": "examples/create-react-app/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "mistica-example-css",
+      "path": "examples/css/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "custom-skin",
+      "path": "examples/custom-skin/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "next",
+      "path": "examples/next/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "mistica-example-vite",
+      "path": "examples/vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "icon-runtime/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-mistica-local-rules",
+      "path": "packages/eslint-plugin-mistica-local-rules/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "generate-design-tokens",
+      "path": "packages/generate-design-tokens/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "import-mistica-icons",
+      "path": "packages/import-mistica-icons/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@telefonica/mistica-icons",
+      "path": "packages/mistica-icons/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "app-test-lib-overhead",
+      "path": "scripts/size-stats/app-test-lib-overhead/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    ".storybook/dark-mode-addon/package.json",
+    ".storybook/font-size-addon/package.json",
+    ".storybook/platform-selector-addon/package.json",
+    ".storybook/theme-selector-addon/package.json",
+    "examples/cra-with-react-router/package.json",
+    "examples/create-react-app/package.json",
+    "examples/css/package.json",
+    "examples/custom-skin/package.json",
+    "examples/next/package.json",
+    "examples/vite/package.json",
+    "icon-runtime/package.json",
+    "package.json",
+    "packages/eslint-plugin-mistica-local-rules/package.json",
+    "packages/generate-design-tokens/package.json",
+    "packages/import-mistica-icons/package.json",
+    "packages/mistica-icons/package.json",
+    "scripts/size-stats/app-test-lib-overhead/package.json"
+  ],
+  "repo_url": "https://github.com/Telefonica/mistica-web",
+  "root": {
+    "error": null,
+    "name": "@telefonica/mistica",
+    "version": "18.0.0"
+  }
+}

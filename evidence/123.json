@@ -1,0 +1,15 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:40Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:41:41Z",
+    "http_status": 403,
+    "url": "https://experience.sap.com/fiori-design/"
+  },
+  "id": "123",
+  "name": "SAP Fiori",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "failed"
+}

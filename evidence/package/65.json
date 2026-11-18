@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:28:42Z",
+  "error": null,
+  "id": "65",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@gympass/yoga-common",
+      "path": "packages/common/package.json",
+      "version": "1.4.2"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga-doc",
+      "path": "packages/doc/package.json",
+      "version": "2.56.41"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga-helpers",
+      "path": "packages/helpers/package.json",
+      "version": "1.1.2"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga-icons",
+      "path": "packages/icons/package.json",
+      "version": "1.57.1"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga-illustrations",
+      "path": "packages/illustrations/package.json",
+      "version": "0.7.3"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga-labnative",
+      "path": "packages/labnative/package.json",
+      "version": "2.6.128"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga-system",
+      "path": "packages/system/package.json",
+      "version": "0.25.1"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga-tokens",
+      "path": "packages/tokens/package.json",
+      "version": "3.9.0"
+    },
+    {
+      "error": null,
+      "name": "@gympass/yoga",
+      "path": "packages/yoga/package.json",
+      "version": "7.145.3"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/common/package.json",
+    "packages/doc/package.json",
+    "packages/helpers/package.json",
+    "packages/icons/package.json",
+    "packages/illustrations/package.json",
+    "packages/labnative/package.json",
+    "packages/system/package.json",
+    "packages/tokens/package.json",
+    "packages/yoga/package.json"
+  ],
+  "repo_url": "https://github.com/gympass/yoga",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

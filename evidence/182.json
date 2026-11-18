@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:55Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:42:16Z",
+    "http_status": 403,
+    "url": "https://github.com/nulib/design-system"
+  },
+  "id": "182",
+  "name": "nulib design-system (Northwestern University Libraries)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:55Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2025-08-25T15:17:10Z",
+    "spdx_licence": null,
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

@@ -1,0 +1,377 @@
+{
+  "collected_at_utc": "2026-11-18T11:49:29Z",
+  "error": null,
+  "id": "297",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@bootstrap-vue/alert",
+      "path": "src/components/alert/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/aspect",
+      "path": "src/components/aspect/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/avatar",
+      "path": "src/components/avatar/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/badge",
+      "path": "src/components/badge/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/breadcrumb",
+      "path": "src/components/breadcrumb/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/button-group",
+      "path": "src/components/button-group/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/button-toolbar",
+      "path": "src/components/button-toolbar/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/button",
+      "path": "src/components/button/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/calendar",
+      "path": "src/components/calendar/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/card",
+      "path": "src/components/card/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/carousel",
+      "path": "src/components/carousel/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/collapse",
+      "path": "src/components/collapse/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/dropdown",
+      "path": "src/components/dropdown/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/embed",
+      "path": "src/components/embed/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-btn-label-control",
+      "path": "src/components/form-btn-label-control/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-checkbox",
+      "path": "src/components/form-checkbox/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-datepicker",
+      "path": "src/components/form-datepicker/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-file",
+      "path": "src/components/form-file/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-group",
+      "path": "src/components/form-group/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-input",
+      "path": "src/components/form-input/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-radio",
+      "path": "src/components/form-radio/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-rating",
+      "path": "src/components/form-rating/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-select",
+      "path": "src/components/form-select/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-spinbutton",
+      "path": "src/components/form-spinbutton/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-tags",
+      "path": "src/components/form-tags/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-textarea",
+      "path": "src/components/form-textarea/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form-timepicker",
+      "path": "src/components/form-timepicker/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/form",
+      "path": "src/components/form/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/image",
+      "path": "src/components/image/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/input-group",
+      "path": "src/components/input-group/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/jumbotron",
+      "path": "src/components/jumbotron/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/layout",
+      "path": "src/components/layout/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/link",
+      "path": "src/components/link/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/list-group",
+      "path": "src/components/list-group/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/media",
+      "path": "src/components/media/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/modal",
+      "path": "src/components/modal/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/nav",
+      "path": "src/components/nav/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/navbar",
+      "path": "src/components/navbar/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/overlay",
+      "path": "src/components/overlay/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/pagination-nav",
+      "path": "src/components/pagination-nav/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/pagination",
+      "path": "src/components/pagination/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/popover",
+      "path": "src/components/popover/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/progress",
+      "path": "src/components/progress/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/sidebar",
+      "path": "src/components/sidebar/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/skeleton",
+      "path": "src/components/skeleton/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/spinner",
+      "path": "src/components/spinner/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/table",
+      "path": "src/components/table/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/tabs",
+      "path": "src/components/tabs/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/time",
+      "path": "src/components/time/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@bootstrap-vue/toast",
+      "path": "src/components/toast/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "src/components/alert/package.json",
+    "src/components/aspect/package.json",
+    "src/components/avatar/package.json",
+    "src/components/badge/package.json",
+    "src/components/breadcrumb/package.json",
+    "src/components/button-group/package.json",
+    "src/components/button-toolbar/package.json",
+    "src/components/button/package.json",
+    "src/components/calendar/package.json",
+    "src/components/card/package.json",
+    "src/components/carousel/package.json",
+    "src/components/collapse/package.json",
+    "src/components/dropdown/package.json",
+    "src/components/embed/package.json",
+    "src/components/form-btn-label-control/package.json",
+    "src/components/form-checkbox/package.json",
+    "src/components/form-datepicker/package.json",
+    "src/components/form-file/package.json",
+    "src/components/form-group/package.json",
+    "src/components/form-input/package.json",
+    "src/components/form-radio/package.json",
+    "src/components/form-rating/package.json",
+    "src/components/form-select/package.json",
+    "src/components/form-spinbutton/package.json",
+    "src/components/form-tags/package.json",
+    "src/components/form-textarea/package.json",
+    "src/components/form-timepicker/package.json",
+    "src/components/form/package.json",
+    "src/components/image/package.json",
+    "src/components/input-group/package.json",
+    "src/components/jumbotron/package.json",
+    "src/components/layout/package.json",
+    "src/components/link/package.json",
+    "src/components/list-group/package.json",
+    "src/components/media/package.json",
+    "src/components/modal/package.json",
+    "src/components/nav/package.json",
+    "src/components/navbar/package.json",
+    "src/components/overlay/package.json",
+    "src/components/pagination-nav/package.json",
+    "src/components/pagination/package.json",
+    "src/components/popover/package.json",
+    "src/components/progress/package.json",
+    "src/components/sidebar/package.json",
+    "src/components/skeleton/package.json",
+    "src/components/spinner/package.json",
+    "src/components/table/package.json",
+    "src/components/tabs/package.json",
+    "src/components/time/package.json",
+    "src/components/toast/package.json",
+    "src/components/tooltip/package.json",
+    "src/components/transition/package.json",
+    "src/components/transporter/package.json",
+    "src/directives/hover/package.json",
+    "src/directives/popover/package.json",
+    "src/directives/scrollspy/package.json",
+    "src/directives/toggle/package.json",
+    "src/directives/tooltip/package.json",
+    "src/directives/visible/package.json",
+    "src/icons/package.json"
+  ],
+  "repo_url": "https://github.com/bootstrap-vue/bootstrap-vue",
+  "root": {
+    "error": null,
+    "name": "bootstrap-vue",
+    "version": "2.23.1"
+  }
+}

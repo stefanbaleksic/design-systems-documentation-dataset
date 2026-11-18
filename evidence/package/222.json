@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:39:33Z",
+  "error": null,
+  "id": "222",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@airbnb/lunar-apollo",
+      "path": "packages/apollo/package.json",
+      "version": "4.0.0"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar-app-shell",
+      "path": "packages/app-shell/package.json",
+      "version": "3.0.2"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar-composer",
+      "path": "packages/composer/package.json",
+      "version": "2.1.1"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar",
+      "path": "packages/core/package.json",
+      "version": "3.29.0"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar-forms",
+      "path": "packages/forms/package.json",
+      "version": "3.3.2"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar-icons",
+      "path": "packages/icons/package.json",
+      "version": "3.1.1"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar-layouts",
+      "path": "packages/layouts/package.json",
+      "version": "3.0.2"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar-metrics",
+      "path": "packages/metrics/package.json",
+      "version": "3.0.4"
+    },
+    {
+      "error": null,
+      "name": "@airbnb/lunar-test-utils",
+      "path": "packages/test-utils/package.json",
+      "version": "3.0.2"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/apollo/package.json",
+    "packages/app-shell/package.json",
+    "packages/composer/package.json",
+    "packages/core/package.json",
+    "packages/forms/package.json",
+    "packages/icons/package.json",
+    "packages/layouts/package.json",
+    "packages/metrics/package.json",
+    "packages/test-utils/package.json"
+  ],
+  "repo_url": "https://github.com/airbnb/lunar",
+  "root": {
+    "error": null,
+    "name": "lunar-root",
+    "version": "3.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:17Z",
+  "docs": {
+    "body_bytes_hashed": 19584,
+    "body_sha256": "93dceaae831ba2add8a4c59ce7216f7135d0e87c10fbb285dea1084829f7bfa8",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:22Z",
+    "final_url": "https://www.engie.design",
+    "http_status": 200,
+    "url": "https://www.engie.design"
+  },
+  "id": "46",
+  "name": "ENGIE Fluid Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

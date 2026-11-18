@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:00Z",
+  "docs": {
+    "body_bytes_hashed": 47865,
+    "body_sha256": "be5bbfb46578639a44623c96a1421cdda837b5a320440b03c49a2220c992f2f5",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:21Z",
+    "final_url": "https://guides.kontur.ru/",
+    "http_status": 200,
+    "url": "https://guides.kontur.ru/"
+  },
+  "id": "83",
+  "name": "Kontur",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:00Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v0.18.11",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-11-18T06:58:03Z",
+    "spdx_licence": null,
+    "tag_count": 965,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

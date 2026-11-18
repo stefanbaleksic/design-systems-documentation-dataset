@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:35Z",
+  "docs": {
+    "body_bytes_hashed": 4236,
+    "body_sha256": "e17da5cfbeb5f497c196f043bd2d5e0c65c2cf8aec4240e8cc360d499981e27e",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:32:19Z",
+    "final_url": "https://overdrive.autoguru.io/",
+    "http_status": 200,
+    "url": "https://overdrive.autoguru.io/"
+  },
+  "id": "16",
+  "name": "AutoGuru Overdrive",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:35Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v6.3.0",
+    "licence_detection": "text match",
+    "licence_file": "license",
+    "pushed_at_utc": "2026-11-12T05:32:12Z",
+    "spdx_licence": "MIT",
+    "tag_count": 444,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

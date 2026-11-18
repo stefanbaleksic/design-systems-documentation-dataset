@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:31Z",
+  "docs": {
+    "body_bytes_hashed": 1534,
+    "body_sha256": "07626e97874a59d617065d88371aa4ed9264b9f034c129b324e72af416b352de",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:27Z",
+    "final_url": "https://astrouxds.com/",
+    "http_status": 200,
+    "url": "https://astrouxds.com/"
+  },
+  "id": "11",
+  "name": "Astro UXDS",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": "git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+      "fetched_at_utc": "2026-11-18T09:43:31Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": null,
+    "latest_tag": null,
+    "licence_detection": null,
+    "licence_file": null,
+    "pushed_at_utc": null,
+    "spdx_licence": null,
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

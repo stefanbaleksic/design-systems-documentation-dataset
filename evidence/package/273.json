@@ -1,0 +1,412 @@
+{
+  "collected_at_utc": "2026-11-18T11:46:26Z",
+  "error": null,
+  "id": "273",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@spectrum-web-components/1st-gen",
+      "path": "1st-gen/package.json",
+      "version": "0.0.9"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/accordion",
+      "path": "1st-gen/packages/accordion/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/action-bar",
+      "path": "1st-gen/packages/action-bar/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/action-button",
+      "path": "1st-gen/packages/action-button/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/action-group",
+      "path": "1st-gen/packages/action-group/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/action-menu",
+      "path": "1st-gen/packages/action-menu/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/alert-banner",
+      "path": "1st-gen/packages/alert-banner/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/alert-dialog",
+      "path": "1st-gen/packages/alert-dialog/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/asset",
+      "path": "1st-gen/packages/asset/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/avatar",
+      "path": "1st-gen/packages/avatar/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/badge",
+      "path": "1st-gen/packages/badge/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/breadcrumbs",
+      "path": "1st-gen/packages/breadcrumbs/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/button-group",
+      "path": "1st-gen/packages/button-group/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/button",
+      "path": "1st-gen/packages/button/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/card",
+      "path": "1st-gen/packages/card/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/checkbox",
+      "path": "1st-gen/packages/checkbox/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/clear-button",
+      "path": "1st-gen/packages/clear-button/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/close-button",
+      "path": "1st-gen/packages/close-button/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/coachmark",
+      "path": "1st-gen/packages/coachmark/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/color-area",
+      "path": "1st-gen/packages/color-area/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/color-field",
+      "path": "1st-gen/packages/color-field/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/color-handle",
+      "path": "1st-gen/packages/color-handle/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/color-loupe",
+      "path": "1st-gen/packages/color-loupe/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/color-slider",
+      "path": "1st-gen/packages/color-slider/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/color-wheel",
+      "path": "1st-gen/packages/color-wheel/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/combobox",
+      "path": "1st-gen/packages/combobox/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/contextual-help",
+      "path": "1st-gen/packages/contextual-help/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/dialog",
+      "path": "1st-gen/packages/dialog/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/divider",
+      "path": "1st-gen/packages/divider/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/dropzone",
+      "path": "1st-gen/packages/dropzone/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/field-group",
+      "path": "1st-gen/packages/field-group/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/field-label",
+      "path": "1st-gen/packages/field-label/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/help-text",
+      "path": "1st-gen/packages/help-text/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/icon",
+      "path": "1st-gen/packages/icon/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/icons-ui",
+      "path": "1st-gen/packages/icons-ui/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/icons-workflow",
+      "path": "1st-gen/packages/icons-workflow/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/icons",
+      "path": "1st-gen/packages/icons/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/iconset",
+      "path": "1st-gen/packages/iconset/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/illustrated-message",
+      "path": "1st-gen/packages/illustrated-message/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/infield-button",
+      "path": "1st-gen/packages/infield-button/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/link",
+      "path": "1st-gen/packages/link/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/menu",
+      "path": "1st-gen/packages/menu/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/meter",
+      "path": "1st-gen/packages/meter/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/modal",
+      "path": "1st-gen/packages/modal/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/number-field",
+      "path": "1st-gen/packages/number-field/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/overlay",
+      "path": "1st-gen/packages/overlay/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/picker-button",
+      "path": "1st-gen/packages/picker-button/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/picker",
+      "path": "1st-gen/packages/picker/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/popover",
+      "path": "1st-gen/packages/popover/package.json",
+      "version": "1.12.6"
+    },
+    {
+      "error": null,
+      "name": "@spectrum-web-components/progress-bar",
+      "path": "1st-gen/packages/progress-bar/package.json",
+      "version": "1.12.6"
+    }
+  ],
+  "paths": [
+    "1st-gen/package.json",
+    "1st-gen/packages/accordion/package.json",
+    "1st-gen/packages/action-bar/package.json",
+    "1st-gen/packages/action-button/package.json",
+    "1st-gen/packages/action-group/package.json",
+    "1st-gen/packages/action-menu/package.json",
+    "1st-gen/packages/alert-banner/package.json",
+    "1st-gen/packages/alert-dialog/package.json",
+    "1st-gen/packages/asset/package.json",
+    "1st-gen/packages/avatar/package.json",
+    "1st-gen/packages/badge/package.json",
+    "1st-gen/packages/breadcrumbs/package.json",
+    "1st-gen/packages/button-group/package.json",
+    "1st-gen/packages/button/package.json",
+    "1st-gen/packages/card/package.json",
+    "1st-gen/packages/checkbox/package.json",
+    "1st-gen/packages/clear-button/package.json",
+    "1st-gen/packages/close-button/package.json",
+    "1st-gen/packages/coachmark/package.json",
+    "1st-gen/packages/color-area/package.json",
+    "1st-gen/packages/color-field/package.json",
+    "1st-gen/packages/color-handle/package.json",
+    "1st-gen/packages/color-loupe/package.json",
+    "1st-gen/packages/color-slider/package.json",
+    "1st-gen/packages/color-wheel/package.json",
+    "1st-gen/packages/combobox/package.json",
+    "1st-gen/packages/contextual-help/package.json",
+    "1st-gen/packages/dialog/package.json",
+    "1st-gen/packages/divider/package.json",
+    "1st-gen/packages/dropzone/package.json",
+    "1st-gen/packages/field-group/package.json",
+    "1st-gen/packages/field-label/package.json",
+    "1st-gen/packages/help-text/package.json",
+    "1st-gen/packages/icon/package.json",
+    "1st-gen/packages/icons-ui/package.json",
+    "1st-gen/packages/icons-workflow/package.json",
+    "1st-gen/packages/icons/package.json",
+    "1st-gen/packages/iconset/package.json",
+    "1st-gen/packages/illustrated-message/package.json",
+    "1st-gen/packages/infield-button/package.json",
+    "1st-gen/packages/link/package.json",
+    "1st-gen/packages/menu/package.json",
+    "1st-gen/packages/meter/package.json",
+    "1st-gen/packages/modal/package.json",
+    "1st-gen/packages/number-field/package.json",
+    "1st-gen/packages/overlay/package.json",
+    "1st-gen/packages/picker-button/package.json",
+    "1st-gen/packages/picker/package.json",
+    "1st-gen/packages/popover/package.json",
+    "1st-gen/packages/progress-bar/package.json",
+    "1st-gen/packages/progress-circle/package.json",
+    "1st-gen/packages/radio/package.json",
+    "1st-gen/packages/search/package.json",
+    "1st-gen/packages/sidenav/package.json",
+    "1st-gen/packages/slider/package.json",
+    "1st-gen/packages/split-view/package.json",
+    "1st-gen/packages/status-light/package.json",
+    "1st-gen/packages/swatch/package.json",
+    "1st-gen/packages/switch/package.json",
+    "1st-gen/packages/table/package.json",
+    "1st-gen/packages/tabs/package.json",
+    "1st-gen/packages/tags/package.json",
+    "1st-gen/packages/textfield/package.json",
+    "1st-gen/packages/thumbnail/package.json",
+    "1st-gen/packages/toast/package.json",
+    "1st-gen/packages/tooltip/package.json",
+    "1st-gen/packages/top-nav/package.json",
+    "1st-gen/packages/tray/package.json",
+    "1st-gen/packages/underlay/package.json",
+    "1st-gen/projects/css-custom-vars-viewer/package.json",
+    "1st-gen/projects/documentation/package.json",
+    "1st-gen/projects/story-decorator/package.json",
+    "1st-gen/projects/templates/package.json",
+    "1st-gen/projects/types/package.json",
+    "1st-gen/projects/vrt-compare/package.json",
+    "1st-gen/tools/base/package.json",
+    "1st-gen/tools/bundle/package.json",
+    "1st-gen/tools/grid/package.json",
+    "1st-gen/tools/opacity-checkerboard/package.json",
+    "1st-gen/tools/reactive-controllers/package.json",
+    "1st-gen/tools/shared/package.json",
+    "1st-gen/tools/styles/package.json",
+    "1st-gen/tools/theme/package.json",
+    "1st-gen/tools/truncated/package.json",
+    "gen2/package.json",
+    "gen2/packages/core/package.json",
+    "gen2/packages/icons/package.json",
+    "gen2/packages/swc/.storybook/addons/screen-reader-addon/package.json",
+    "gen2/packages/swc/package.json",
+    "gen2/packages/tools/postcss-token/package.json",
+    "gen2/packages/tools/swc-tokens/package.json",
+    "gen2/packages/tools/swc-vscode-token/package.json",
+    "gen2/packages/tools/vite-global-elements-css/package.json",
+    "linters/eslint-plugin/package.json",
+    "linters/stylelint-header-plugin/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/adobe/spectrum-web-components",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": "0.0.9"
+  }
+}

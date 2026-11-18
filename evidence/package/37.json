@@ -1,0 +1,370 @@
+{
+  "collected_at_utc": "2026-11-18T11:26:40Z",
+  "error": null,
+  "id": "37",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "cf-builder-card",
+      "path": "packages/cf-builder-card/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "cf-builder-pagination",
+      "path": "packages/cf-builder-pagination/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "cf-builder-table",
+      "path": "packages/cf-builder-table/package.json",
+      "version": "2.2.6"
+    },
+    {
+      "error": null,
+      "name": "cf-component-box",
+      "path": "packages/cf-component-box/package.json",
+      "version": "2.6.13"
+    },
+    {
+      "error": null,
+      "name": "cf-component-button",
+      "path": "packages/cf-component-button/package.json",
+      "version": "6.1.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-callout",
+      "path": "packages/cf-component-callout/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-card",
+      "path": "packages/cf-component-card/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "cf-component-checkbox",
+      "path": "packages/cf-component-checkbox/package.json",
+      "version": "3.2.1"
+    },
+    {
+      "error": null,
+      "name": "cf-component-code",
+      "path": "packages/cf-component-code/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "cf-component-copyable-textarea",
+      "path": "packages/cf-component-copyable-textarea/package.json",
+      "version": "4.0.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-dropdown",
+      "path": "packages/cf-component-dropdown/package.json",
+      "version": "4.0.4"
+    },
+    {
+      "error": null,
+      "name": "cf-component-dynamic-content",
+      "path": "packages/cf-component-dynamic-content/package.json",
+      "version": "2.4.0"
+    },
+    {
+      "error": null,
+      "name": "cf-component-form",
+      "path": "packages/cf-component-form/package.json",
+      "version": "7.1.3"
+    },
+    {
+      "error": null,
+      "name": "cf-component-header",
+      "path": "packages/cf-component-header/package.json",
+      "version": "1.1.3"
+    },
+    {
+      "error": null,
+      "name": "cf-component-heading",
+      "path": "packages/cf-component-heading/package.json",
+      "version": "4.8.11"
+    },
+    {
+      "error": null,
+      "name": "cf-component-icon",
+      "path": "packages/cf-component-icon/package.json",
+      "version": "3.0.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-input",
+      "path": "packages/cf-component-input/package.json",
+      "version": "5.7.0"
+    },
+    {
+      "error": null,
+      "name": "cf-component-label",
+      "path": "packages/cf-component-label/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "cf-component-link",
+      "path": "packages/cf-component-link/package.json",
+      "version": "4.2.1"
+    },
+    {
+      "error": null,
+      "name": "cf-component-list",
+      "path": "packages/cf-component-list/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "cf-component-loading",
+      "path": "packages/cf-component-loading/package.json",
+      "version": "2.4.4"
+    },
+    {
+      "error": null,
+      "name": "cf-component-logo",
+      "path": "packages/cf-component-logo/package.json",
+      "version": "1.1.1"
+    },
+    {
+      "error": null,
+      "name": "cf-component-modal",
+      "path": "packages/cf-component-modal/package.json",
+      "version": "6.8.14"
+    },
+    {
+      "error": null,
+      "name": "cf-component-notifications",
+      "path": "packages/cf-component-notifications/package.json",
+      "version": "2.2.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-page",
+      "path": "packages/cf-component-page/package.json",
+      "version": "4.1.1"
+    },
+    {
+      "error": null,
+      "name": "cf-component-pagination",
+      "path": "packages/cf-component-pagination/package.json",
+      "version": "5.4.4"
+    },
+    {
+      "error": null,
+      "name": "cf-component-progress",
+      "path": "packages/cf-component-progress/package.json",
+      "version": "6.0.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-radio",
+      "path": "packages/cf-component-radio/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-select",
+      "path": "packages/cf-component-select/package.json",
+      "version": "4.0.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-table",
+      "path": "packages/cf-component-table/package.json",
+      "version": "2.5.0"
+    },
+    {
+      "error": null,
+      "name": "cf-component-tabs",
+      "path": "packages/cf-component-tabs/package.json",
+      "version": "6.7.6"
+    },
+    {
+      "error": null,
+      "name": "cf-component-text",
+      "path": "packages/cf-component-text/package.json",
+      "version": "4.5.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-textarea",
+      "path": "packages/cf-component-textarea/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "cf-component-toast",
+      "path": "packages/cf-component-toast/package.json",
+      "version": "1.1.2"
+    },
+    {
+      "error": null,
+      "name": "cf-component-toggle",
+      "path": "packages/cf-component-toggle/package.json",
+      "version": "4.0.9"
+    },
+    {
+      "error": null,
+      "name": "cf-component-tooltip",
+      "path": "packages/cf-component-tooltip/package.json",
+      "version": "2.3.0"
+    },
+    {
+      "error": null,
+      "name": "cf-style-const",
+      "path": "packages/cf-style-const/package.json",
+      "version": "2.5.2"
+    },
+    {
+      "error": null,
+      "name": "cf-style-container",
+      "path": "packages/cf-style-container/package.json",
+      "version": "5.0.0"
+    },
+    {
+      "error": null,
+      "name": "cf-style-provider",
+      "path": "packages/cf-style-provider/package.json",
+      "version": "2.3.8"
+    },
+    {
+      "error": null,
+      "name": "cf-test-focus",
+      "path": "packages/cf-test-focus/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "cf-test-store",
+      "path": "packages/cf-test-store/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "cf-test-stub",
+      "path": "packages/cf-test-stub/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "cf-test-www-api",
+      "path": "packages/cf-test-www-api/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "cf-util-adwords",
+      "path": "packages/cf-util-adwords/package.json",
+      "version": "4.2.1"
+    },
+    {
+      "error": null,
+      "name": "cf-util-async",
+      "path": "packages/cf-util-async/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "cf-util-cache",
+      "path": "packages/cf-util-cache/package.json",
+      "version": "2.2.1"
+    },
+    {
+      "error": null,
+      "name": "cf-util-http-file",
+      "path": "packages/cf-util-http-file/package.json",
+      "version": "4.7.8"
+    },
+    {
+      "error": null,
+      "name": "cf-util-http-poll",
+      "path": "packages/cf-util-http-poll/package.json",
+      "version": "2.7.7"
+    },
+    {
+      "error": null,
+      "name": "cf-util-http",
+      "path": "packages/cf-util-http/package.json",
+      "version": "4.0.5"
+    },
+    {
+      "error": null,
+      "name": "cf-util-logger",
+      "path": "packages/cf-util-logger/package.json",
+      "version": "2.2.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/cf-builder-card/package.json",
+    "packages/cf-builder-pagination/package.json",
+    "packages/cf-builder-table/package.json",
+    "packages/cf-component-box/package.json",
+    "packages/cf-component-button/package.json",
+    "packages/cf-component-callout/package.json",
+    "packages/cf-component-card/package.json",
+    "packages/cf-component-checkbox/package.json",
+    "packages/cf-component-code/package.json",
+    "packages/cf-component-copyable-textarea/package.json",
+    "packages/cf-component-dropdown/package.json",
+    "packages/cf-component-dynamic-content/package.json",
+    "packages/cf-component-form/package.json",
+    "packages/cf-component-header/package.json",
+    "packages/cf-component-heading/package.json",
+    "packages/cf-component-icon/package.json",
+    "packages/cf-component-input/package.json",
+    "packages/cf-component-label/package.json",
+    "packages/cf-component-link/package.json",
+    "packages/cf-component-list/package.json",
+    "packages/cf-component-loading/package.json",
+    "packages/cf-component-logo/package.json",
+    "packages/cf-component-modal/package.json",
+    "packages/cf-component-notifications/package.json",
+    "packages/cf-component-page/package.json",
+    "packages/cf-component-pagination/package.json",
+    "packages/cf-component-progress/package.json",
+    "packages/cf-component-radio/package.json",
+    "packages/cf-component-select/package.json",
+    "packages/cf-component-table/package.json",
+    "packages/cf-component-tabs/package.json",
+    "packages/cf-component-text/package.json",
+    "packages/cf-component-textarea/package.json",
+    "packages/cf-component-toast/package.json",
+    "packages/cf-component-toggle/package.json",
+    "packages/cf-component-tooltip/package.json",
+    "packages/cf-style-const/package.json",
+    "packages/cf-style-container/package.json",
+    "packages/cf-style-provider/package.json",
+    "packages/cf-test-focus/package.json",
+    "packages/cf-test-store/package.json",
+    "packages/cf-test-stub/package.json",
+    "packages/cf-test-www-api/package.json",
+    "packages/cf-util-adwords/package.json",
+    "packages/cf-util-async/package.json",
+    "packages/cf-util-cache/package.json",
+    "packages/cf-util-http-file/package.json",
+    "packages/cf-util-http-poll/package.json",
+    "packages/cf-util-http/package.json",
+    "packages/cf-util-logger/package.json",
+    "packages/cf-util-markdown/package.json",
+    "packages/cf-util-route-handler/package.json",
+    "packages/example/package.json"
+  ],
+  "repo_url": "https://github.com/cloudflare/cf-ui",
+  "root": {
+    "error": null,
+    "name": "cf-ui",
+    "version": null
+  }
+}

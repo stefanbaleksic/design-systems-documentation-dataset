@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:45Z",
+  "docs": {
+    "body_bytes_hashed": 46658,
+    "body_sha256": "aeb0ec67a3689e82637091611d7f4e9cc2ae2e9696041204503833800ce744d1",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:40Z",
+    "final_url": "https://designsystem.umd.edu/getting-started/for-developers",
+    "http_status": 200,
+    "url": "https://designsystem.umd.edu/getting-started/for-developers"
+  },
+  "id": "172",
+  "name": "UMD Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:45Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T17:09:45Z",
+    "spdx_licence": "MIT",
+    "tag_count": 160,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:08Z",
+  "docs": null,
+  "id": "277",
+  "name": "Skeleton",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:49:08Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "1.6.2",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T17:51:10Z",
+    "spdx_licence": "MIT",
+    "tag_count": 640,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

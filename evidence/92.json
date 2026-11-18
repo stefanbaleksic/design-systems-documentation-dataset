@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:06Z",
+  "docs": {
+    "body_bytes_hashed": 25146,
+    "body_sha256": "5a3a0496da779f796747a909648de772018f56da4a92f27d81172c188d29a640",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:43Z",
+    "final_url": "https://materializecss.com/",
+    "http_status": 200,
+    "url": "https://materializecss.com/"
+  },
+  "id": "92",
+  "name": "Materialize CSS",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:06Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "v1-dev",
+    "latest_tag": "1.0.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2020-06-01T16:39:49Z",
+    "spdx_licence": "MIT",
+    "tag_count": 44,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

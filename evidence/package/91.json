@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:30:30Z",
+  "error": null,
+  "id": "91",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/mdbootstrap/mdb-ui-kit",
+  "root": {
+    "error": null,
+    "name": "mdb-ui-kit",
+    "version": "9.3.0"
+  }
+}

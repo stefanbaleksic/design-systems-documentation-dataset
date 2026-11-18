@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:27Z",
+  "docs": {
+    "body_bytes_hashed": 422,
+    "body_sha256": "30119bfd19a26ca0a291434463d97baa5acce711fea11b08dc7952b3f0092c96",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:18Z",
+    "final_url": "https://styleguide.vtex.com/",
+    "http_status": 200,
+    "url": "https://styleguide.vtex.com/"
+  },
+  "id": "154",
+  "name": "VTEX Styleguide",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:27Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v9.146.14",
+    "licence_detection": "text match",
+    "licence_file": "COPYING",
+    "pushed_at_utc": "2026-05-14T19:52:34Z",
+    "spdx_licence": "GPL-3.0",
+    "tag_count": 728,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

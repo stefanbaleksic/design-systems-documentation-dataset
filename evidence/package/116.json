@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:32:16Z",
+  "error": null,
+  "id": "116",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/pusher/chameleon",
+  "root": {
+    "error": null,
+    "name": "pusher-chameleon",
+    "version": "1.4.6"
+  }
+}

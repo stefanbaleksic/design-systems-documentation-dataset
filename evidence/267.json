@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:52Z",
+  "docs": null,
+  "id": "267",
+  "name": "Vaadin Web Components",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:52Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v25.3.6",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-11-18T07:43:23Z",
+    "spdx_licence": null,
+    "tag_count": 726,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

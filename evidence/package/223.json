@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:39:37Z",
+  "error": null,
+  "id": "223",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@travelmakers-design/core",
+      "path": "packages/travelmakers-design-core/package.json",
+      "version": "0.0.63"
+    },
+    {
+      "error": null,
+      "name": "@travelmakers-design/hooks",
+      "path": "packages/travelmakers-design-hooks/package.json",
+      "version": "0.0.5-alpha.0"
+    },
+    {
+      "error": null,
+      "name": "@travelmakers-design/react-native-core",
+      "path": "packages/travelmakers-design-react-native-core/package.json",
+      "version": "0.0.7"
+    },
+    {
+      "error": null,
+      "name": "@travelmakers-design/styles",
+      "path": "packages/travelmakers-design-styles/package.json",
+      "version": "0.0.7"
+    },
+    {
+      "error": null,
+      "name": "@travelmakers-design/utils",
+      "path": "packages/travelmakers-design-utils/package.json",
+      "version": "0.0.34"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/travelmakers-design-core/package.json",
+    "packages/travelmakers-design-hooks/package.json",
+    "packages/travelmakers-design-react-native-core/package.json",
+    "packages/travelmakers-design-styles/package.json",
+    "packages/travelmakers-design-utils/package.json"
+  ],
+  "repo_url": "https://github.com/travelmakers/travelmakers-design",
+  "root": {
+    "error": null,
+    "name": "@travelmakers/travelmakers-design",
+    "version": null
+  }
+}

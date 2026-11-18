@@ -1,0 +1,73 @@
+{
+  "collected_at_utc": "2026-11-18T11:38:15Z",
+  "error": null,
+  "id": "205",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "polaris-for-vscode",
+      "path": "polaris-for-vscode/package.json",
+      "version": "1.0.7"
+    },
+    {
+      "error": null,
+      "name": "@shopify/polaris-icons",
+      "path": "polaris-icons/package.json",
+      "version": "9.3.1"
+    },
+    {
+      "error": null,
+      "name": "@shopify/polaris-migrator",
+      "path": "polaris-migrator/package.json",
+      "version": "1.0.7"
+    },
+    {
+      "error": null,
+      "name": "@shopify/polaris",
+      "path": "polaris-react/package.json",
+      "version": "13.10.1"
+    },
+    {
+      "error": null,
+      "name": "@shopify/polaris-tokens",
+      "path": "polaris-tokens/package.json",
+      "version": "9.4.2"
+    },
+    {
+      "error": null,
+      "name": "polaris.shopify.com",
+      "path": "polaris.shopify.com/package.json",
+      "version": "1.1.7"
+    },
+    {
+      "error": null,
+      "name": "polaris.shopify.com-get-props",
+      "path": "polaris.shopify.com/scripts/get-props/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@shopify/stylelint-polaris",
+      "path": "stylelint-polaris/package.json",
+      "version": "16.0.7"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "polaris-for-vscode/package.json",
+    "polaris-icons/package.json",
+    "polaris-migrator/package.json",
+    "polaris-react/package.json",
+    "polaris-tokens/package.json",
+    "polaris.shopify.com/package.json",
+    "polaris.shopify.com/scripts/get-props/package.json",
+    "stylelint-polaris/package.json"
+  ],
+  "repo_url": "https://github.com/Shopify/polaris",
+  "root": {
+    "error": null,
+    "name": "polaris",
+    "version": "0.0.0"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:47Z",
+  "docs": {
+    "body_bytes_hashed": 208419,
+    "body_sha256": "0e3130905c2ed52938565db4aa32d87382095ec5830aea171714654c0e48dca3",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:03Z",
+    "final_url": "https://www.carbondesignsystem.com/",
+    "http_status": 200,
+    "url": "https://www.carbondesignsystem.com/"
+  },
+  "id": "72",
+  "name": "IBM Carbon",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:47Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v11.120.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T08:10:08Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 1145,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

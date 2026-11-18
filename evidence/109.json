@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:17Z",
+  "docs": {
+    "body_bytes_hashed": 28410,
+    "body_sha256": "664c1f3d0834d2d461b786e354da23f4e72cd35a45903cd93559695fb0342c1c",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:03Z",
+    "final_url": "https://privy-open-source.github.io/design-system/",
+    "http_status": 200,
+    "url": "https://privy-open-source.github.io/design-system/"
+  },
+  "id": "109",
+  "name": "Persona Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:17Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "1.2.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-10-19T02:44:14Z",
+    "spdx_licence": "MIT",
+    "tag_count": 47,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

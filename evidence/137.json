@@ -1,0 +1,14 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:00Z",
+  "docs": {
+    "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1035)>",
+    "fetched_at_utc": "2026-11-18T09:41:56Z",
+    "url": "https://creative.starbucks.com"
+  },
+  "id": "137",
+  "name": "Starbucks Style Guide",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "failed"
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:42Z",
+  "docs": {
+    "body_bytes_hashed": 39334,
+    "body_sha256": "6772da25e4c11e05c9d56478fe882fa37b8baa6241c294388534e67db4e61bc1",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:40Z",
+    "final_url": "https://basis.vercel.app/",
+    "http_status": 200,
+    "url": "https://basis.now.sh"
+  },
+  "id": "19",
+  "name": "Basis Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:42Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "1.73.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2021-10-21T04:51:02Z",
+    "spdx_licence": "MIT",
+    "tag_count": 148,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,94 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:15Z",
+  "error": null,
+  "id": "179",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": null,
+      "path": ".storybook-config/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@asu/app-degree-pages",
+      "path": "packages/app-degree-pages/package.json",
+      "version": "3.2.5"
+    },
+    {
+      "error": null,
+      "name": "@asu/app-rfi",
+      "path": "packages/app-rfi/package.json",
+      "version": "3.10.4"
+    },
+    {
+      "error": null,
+      "name": "@asu/app-webdir-ui",
+      "path": "packages/app-webdir-ui/package.json",
+      "version": "5.0.20"
+    },
+    {
+      "error": null,
+      "name": "@asu/component-events",
+      "path": "packages/component-events/package.json",
+      "version": "3.2.2"
+    },
+    {
+      "error": null,
+      "name": "@asu/component-header-footer",
+      "path": "packages/component-header-footer/package.json",
+      "version": "1.6.2"
+    },
+    {
+      "error": null,
+      "name": "@asu/component-news",
+      "path": "packages/component-news/package.json",
+      "version": "4.2.3"
+    },
+    {
+      "error": null,
+      "name": "@asu/shared",
+      "path": "packages/shared/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@asu/static-site",
+      "path": "packages/static-site/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@asu/unity-bootstrap-theme",
+      "path": "packages/unity-bootstrap-theme/package.json",
+      "version": "2.4.6"
+    },
+    {
+      "error": null,
+      "name": "@asu/unity-react-core",
+      "path": "packages/unity-react-core/package.json",
+      "version": "2.5.2"
+    }
+  ],
+  "paths": [
+    ".storybook-config/package.json",
+    "package.json",
+    "packages/app-degree-pages/package.json",
+    "packages/app-rfi/package.json",
+    "packages/app-webdir-ui/package.json",
+    "packages/component-events/package.json",
+    "packages/component-header-footer/package.json",
+    "packages/component-news/package.json",
+    "packages/shared/package.json",
+    "packages/static-site/package.json",
+    "packages/unity-bootstrap-theme/package.json",
+    "packages/unity-react-core/package.json"
+  ],
+  "repo_url": "https://github.com/asu/asu-unity-stack",
+  "root": {
+    "error": null,
+    "name": "asu",
+    "version": null
+  }
+}

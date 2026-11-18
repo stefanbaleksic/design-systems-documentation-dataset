@@ -1,0 +1,32 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:37Z",
+  "docs": {
+    "error": "RemoteDisconnected: Remote end closed connection without response",
+    "fetched_at_utc": "2026-11-18T09:41:39Z",
+    "url": "https://www.lightningdesignsystem.com"
+  },
+  "id": "121",
+  "name": "Salesforce Lightning Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:37Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v2.27.2",
+    "licence_detection": "no known licence text",
+    "licence_file": "LICENSE-icons-images.txt",
+    "pushed_at_utc": "2026-06-02T19:25:47Z",
+    "spdx_licence": null,
+    "tag_count": 452,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

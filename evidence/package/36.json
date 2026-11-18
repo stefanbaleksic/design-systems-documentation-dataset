@@ -1,0 +1,213 @@
+{
+  "collected_at_utc": "2026-11-18T11:26:27Z",
+  "error": null,
+  "id": "36",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@cityofboston/config-babel",
+      "path": "modules-js/config-babel/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/config-typescript",
+      "path": "modules-js/config-typescript/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/deploy-tools",
+      "path": "modules-js/deploy-tools/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/form-common",
+      "path": "modules-js/form-common/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/graphql-typescript",
+      "path": "modules-js/graphql-typescript/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/hapi-common",
+      "path": "modules-js/hapi-common/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/hapi-next",
+      "path": "modules-js/hapi-next/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/mssql-common",
+      "path": "modules-js/mssql-common/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/mssql-typescript",
+      "path": "modules-js/mssql-typescript/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/next-client-common",
+      "path": "modules-js/next-client-common/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/percy-common",
+      "path": "modules-js/percy-common/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/react-fleet",
+      "path": "modules-js/react-fleet/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/srv-decrypt-env",
+      "path": "modules-js/srv-decrypt-env/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/storybook-common",
+      "path": "modules-js/storybook-common/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.access-boston",
+      "path": "services-js/access-boston/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.commissions-app",
+      "path": "services-js/commissions-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.commissions-search",
+      "path": "services-js/commissions-search/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.group-mgmt",
+      "path": "services-js/group-mgmt/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.internal-slack-bot",
+      "path": "services-js/internal-slack-bot/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "services-js.payment-webhooks",
+      "path": "services-js/payment-webhooks/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.permit-finder",
+      "path": "services-js/permit-finder/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.public-notices",
+      "path": "services-js/public-notices/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "services-js.registry-certs",
+      "path": "services-js/registry-certs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "services-ruby.official-header",
+      "path": "services-ruby/official-header/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "templates.js-browser-module",
+      "path": "templates/js-browser-module/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/{{name}}",
+      "path": "templates/js-browser-module/template/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "templates.js-server-module",
+      "path": "templates/js-server-module/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cityofboston/{{name}}",
+      "path": "templates/js-server-module/template/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "modules-js/config-babel/package.json",
+    "modules-js/config-typescript/package.json",
+    "modules-js/deploy-tools/package.json",
+    "modules-js/form-common/package.json",
+    "modules-js/graphql-typescript/package.json",
+    "modules-js/hapi-common/package.json",
+    "modules-js/hapi-next/package.json",
+    "modules-js/mssql-common/package.json",
+    "modules-js/mssql-typescript/package.json",
+    "modules-js/next-client-common/package.json",
+    "modules-js/percy-common/package.json",
+    "modules-js/react-fleet/package.json",
+    "modules-js/srv-decrypt-env/package.json",
+    "modules-js/storybook-common/package.json",
+    "package.json",
+    "services-js/access-boston/package.json",
+    "services-js/commissions-app/package.json",
+    "services-js/commissions-search/package.json",
+    "services-js/group-mgmt/package.json",
+    "services-js/internal-slack-bot/package.json",
+    "services-js/payment-webhooks/package.json",
+    "services-js/permit-finder/package.json",
+    "services-js/public-notices/package.json",
+    "services-js/registry-certs/package.json",
+    "services-ruby/official-header/package.json",
+    "templates/js-browser-module/package.json",
+    "templates/js-browser-module/template/package.json",
+    "templates/js-server-module/package.json",
+    "templates/js-server-module/template/package.json"
+  ],
+  "repo_url": "https://github.com/CityOfBoston/digital",
+  "root": {
+    "error": null,
+    "name": "digital",
+    "version": "0.0.0"
+  }
+}

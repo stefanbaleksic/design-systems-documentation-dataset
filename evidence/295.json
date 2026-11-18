@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:34Z",
+  "docs": null,
+  "id": "295",
+  "name": "HMCTS Design System",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:49:34Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2021-04-27T14:59:07Z",
+    "spdx_licence": "MIT",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

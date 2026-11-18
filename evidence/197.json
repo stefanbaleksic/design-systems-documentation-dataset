@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:03Z",
+  "docs": {
+    "body_bytes_hashed": 4048,
+    "body_sha256": "3558543c30316130382312fa6ebc2a453ccc893ed43c471dbbdb27b4210d080a",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:11Z",
+    "final_url": "https://designsystem.ca.gov/",
+    "http_status": 200,
+    "url": "https://designsystem.ca.gov/"
+  },
+  "id": "197",
+  "name": "California Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:03Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "1.0.12",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-07-01T20:22:55Z",
+    "spdx_licence": "MIT",
+    "tag_count": 14,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

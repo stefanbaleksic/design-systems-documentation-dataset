@@ -1,0 +1,382 @@
+{
+  "collected_at_utc": "2026-11-18T11:36:25Z",
+  "error": null,
+  "id": "153",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "core-angular-cli",
+      "path": "apps/core-angular-cli/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "core-angular-js",
+      "path": "apps/core-angular-js/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "core-angular-universal",
+      "path": "apps/core-angular-universal/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "core-cdn-demo",
+      "path": "apps/core-cdn-demo/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "core-create-react-app",
+      "path": "apps/core-create-react-app/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "core-parcel-js",
+      "path": "apps/core-parcel-js/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "core-rollup-js",
+      "path": "apps/core-rollup-js/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "clarity-addons",
+      "path": "apps/core-simple-devapp/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "core-snowpack",
+      "path": "apps/core-snowpack/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "hello-world",
+      "path": "apps/core-vue-cli/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "clarity-demo-apps",
+      "path": "apps/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "shim-clr-ui",
+      "path": "apps/shim-clr-ui/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "website",
+      "path": "apps/website/package.json",
+      "version": "5.0.0"
+    },
+    {
+      "error": null,
+      "name": "angular",
+      "path": "packages/angular/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cds/angular",
+      "path": "packages/angular/projects/cds-angular/package.json",
+      "version": "6.0.0-next.6"
+    },
+    {
+      "error": null,
+      "name": "core-build",
+      "path": "packages/core/build/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/core",
+      "path": "packages/core/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@clr/eslint-plugin-clarity-adoption",
+      "path": "packages/eslint-plugin-clarity-adoption/package.json",
+      "version": "6.0.0-next.6"
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-clarity",
+      "path": "packages/eslint-plugin-clarity/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cds/react",
+      "path": "packages/react/package.json",
+      "version": "6.0.0-next.6"
+    },
+    {
+      "error": null,
+      "name": "@cds/react/accordion",
+      "path": "packages/react/src/accordion/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/alert",
+      "path": "packages/react/src/alert/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/badge",
+      "path": "packages/react/src/badge/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/breadcrumb",
+      "path": "packages/react/src/breadcrumb/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/button-action",
+      "path": "packages/react/src/button-action/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/button-expand",
+      "path": "packages/react/src/button-expand/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/button-handle",
+      "path": "packages/react/src/button-handle/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/button-inline",
+      "path": "packages/react/src/button-inline/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/button-sort",
+      "path": "packages/react/src/button-sort/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/button",
+      "path": "packages/react/src/button/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/card",
+      "path": "packages/react/src/card/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/checkbox",
+      "path": "packages/react/src/checkbox/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/datalist",
+      "path": "packages/react/src/datalist/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/date",
+      "path": "packages/react/src/date/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/divider",
+      "path": "packages/react/src/divider/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/dropdown",
+      "path": "packages/react/src/dropdown/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/file",
+      "path": "packages/react/src/file/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/forms",
+      "path": "packages/react/src/forms/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/icon",
+      "path": "packages/react/src/icon/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/input",
+      "path": "packages/react/src/input/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/internal-components/close-button",
+      "path": "packages/react/src/internal-components/close-button/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/internal-components/overlay",
+      "path": "packages/react/src/internal-components/overlay/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/internal-components/panel",
+      "path": "packages/react/src/internal-components/panel/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/internal-components/popup",
+      "path": "packages/react/src/internal-components/popup/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/internal-components/visual-checkbox",
+      "path": "packages/react/src/internal-components/visual-checkbox/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/modal",
+      "path": "packages/react/src/modal/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/navigation",
+      "path": "packages/react/src/navigation/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/pagination",
+      "path": "packages/react/src/pagination/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/password",
+      "path": "packages/react/src/password/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@cds/react/progress-circle",
+      "path": "packages/react/src/progress-circle/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "apps/core-angular-cli/package.json",
+    "apps/core-angular-js/package.json",
+    "apps/core-angular-universal/package.json",
+    "apps/core-cdn-demo/package.json",
+    "apps/core-create-react-app/package.json",
+    "apps/core-parcel-js/package.json",
+    "apps/core-rollup-js/package.json",
+    "apps/core-simple-devapp/package.json",
+    "apps/core-snowpack/package.json",
+    "apps/core-vue-cli/package.json",
+    "apps/package.json",
+    "apps/shim-clr-ui/package.json",
+    "apps/website/package.json",
+    "package.json",
+    "packages/angular/package.json",
+    "packages/angular/projects/cds-angular/package.json",
+    "packages/core/build/package.json",
+    "packages/core/package.json",
+    "packages/eslint-plugin-clarity-adoption/package.json",
+    "packages/eslint-plugin-clarity/package.json",
+    "packages/react/package.json",
+    "packages/react/src/accordion/package.json",
+    "packages/react/src/alert/package.json",
+    "packages/react/src/badge/package.json",
+    "packages/react/src/breadcrumb/package.json",
+    "packages/react/src/button-action/package.json",
+    "packages/react/src/button-expand/package.json",
+    "packages/react/src/button-handle/package.json",
+    "packages/react/src/button-inline/package.json",
+    "packages/react/src/button-sort/package.json",
+    "packages/react/src/button/package.json",
+    "packages/react/src/card/package.json",
+    "packages/react/src/checkbox/package.json",
+    "packages/react/src/datalist/package.json",
+    "packages/react/src/date/package.json",
+    "packages/react/src/divider/package.json",
+    "packages/react/src/dropdown/package.json",
+    "packages/react/src/file/package.json",
+    "packages/react/src/forms/package.json",
+    "packages/react/src/icon/package.json",
+    "packages/react/src/input/package.json",
+    "packages/react/src/internal-components/close-button/package.json",
+    "packages/react/src/internal-components/overlay/package.json",
+    "packages/react/src/internal-components/panel/package.json",
+    "packages/react/src/internal-components/popup/package.json",
+    "packages/react/src/internal-components/visual-checkbox/package.json",
+    "packages/react/src/modal/package.json",
+    "packages/react/src/navigation/package.json",
+    "packages/react/src/pagination/package.json",
+    "packages/react/src/password/package.json",
+    "packages/react/src/progress-circle/package.json",
+    "packages/react/src/radio/package.json",
+    "packages/react/src/range/package.json",
+    "packages/react/src/search/package.json",
+    "packages/react/src/select/package.json",
+    "packages/react/src/selection-panels/checkbox/package.json",
+    "packages/react/src/selection-panels/radio/package.json",
+    "packages/react/src/tag/package.json",
+    "packages/react/src/textarea/package.json",
+    "packages/react/src/time/package.json",
+    "packages/react/src/toggle/package.json",
+    "packages/react/src/tree-view/package.json",
+    "packages/schematics/package.json",
+    "tools/audit-website/package.json",
+    "tools/link-checker/package.json",
+    "tools/visual-tester/package.json"
+  ],
+  "repo_url": "https://github.com/vmware/clarity",
+  "root": {
+    "error": null,
+    "name": "clarity",
+    "version": "6.0.0-next.6"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "collected_at_utc": "2026-11-18T11:30:06Z",
+  "error": null,
+  "id": "83",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@skbkontur/colors",
+      "path": "packages/colors/package.json",
+      "version": "3.0.0"
+    },
+    {
+      "error": null,
+      "name": "react-ui-codemod",
+      "path": "packages/react-ui-codemod/package.json",
+      "version": "2.2.4"
+    },
+    {
+      "error": null,
+      "name": "cra-template-react-ui",
+      "path": "packages/react-ui-smoke-test/cra-template-react-ui/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "react-ui-smoke-test",
+      "path": "packages/react-ui-smoke-test/package.json",
+      "version": "3.4.2"
+    },
+    {
+      "error": null,
+      "name": "react-ui-ssr-test",
+      "path": "packages/react-ui-smoke-test/react-ui-ssr/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "react-ui-test-pages",
+      "path": "packages/react-ui-testing/TestPages/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "test-page",
+      "path": "packages/react-ui-testing/TestPages/test-page-template/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "react-ui-testing",
+      "path": "packages/react-ui-testing/package.json",
+      "version": "4.2.1"
+    },
+    {
+      "error": null,
+      "name": "@skbkontur/react-ui-validations",
+      "path": "packages/react-ui-validations/package.json",
+      "version": "3.1.6"
+    },
+    {
+      "error": null,
+      "name": "@skbkontur/react-ui",
+      "path": "packages/react-ui/package.json",
+      "version": "6.5.3"
+    },
+    {
+      "error": null,
+      "name": "@skbkontur/table",
+      "path": "packages/table/package.json",
+      "version": "1.3.0"
+    },
+    {
+      "error": null,
+      "name": "@skbkontur/typography",
+      "path": "packages/typography/package.json",
+      "version": "1.0.4"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/colors/package.json",
+    "packages/react-ui-codemod/package.json",
+    "packages/react-ui-smoke-test/cra-template-react-ui/package.json",
+    "packages/react-ui-smoke-test/package.json",
+    "packages/react-ui-smoke-test/react-ui-ssr/package.json",
+    "packages/react-ui-testing/TestPages/package.json",
+    "packages/react-ui-testing/TestPages/test-page-template/package.json",
+    "packages/react-ui-testing/package.json",
+    "packages/react-ui-validations/package.json",
+    "packages/react-ui/package.json",
+    "packages/table/package.json",
+    "packages/typography/package.json"
+  ],
+  "repo_url": "https://github.com/skbkontur/retail-ui",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

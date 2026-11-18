@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:34Z",
+  "docs": {
+    "body_bytes_hashed": 195144,
+    "body_sha256": "ec053b85c6b4b0e2d4151e026aa69c53b23b2d1eed278b967e2f1b73d66a42eb",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:32:32Z",
+    "final_url": "https://www.welcome-ui.com/",
+    "http_status": 200,
+    "url": "https://www.welcome-ui.com/"
+  },
+  "id": "157",
+  "name": "Welcome UI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:34Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v10.7.6",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T09:45:30Z",
+    "spdx_licence": "MIT",
+    "tag_count": 843,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

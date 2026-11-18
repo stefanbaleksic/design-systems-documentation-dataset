@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:21Z",
+  "docs": {
+    "body_bytes_hashed": 502,
+    "body_sha256": "4fa3d1ff67bceaea818c07b53376fa3554c7db1752e6bbf4246ef9c1bf961b86",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:06Z",
+    "final_url": "https://pinterest.github.io/gestalt/#/",
+    "http_status": 200,
+    "url": "https://pinterest.github.io/gestalt/#/"
+  },
+  "id": "111",
+  "name": "Pinterest Gestalt",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:21Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v177.0.13",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-10-05T18:41:34Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 2783,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

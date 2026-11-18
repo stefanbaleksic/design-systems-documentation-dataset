@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:48:20Z",
+  "error": null,
+  "id": "286",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "playground",
+      "path": "apps/playground/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/themes",
+      "path": "packages/radix-ui-themes/package.json",
+      "version": "3.3.0"
+    }
+  ],
+  "paths": [
+    "apps/playground/package.json",
+    "package.json",
+    "packages/radix-ui-themes/package.json"
+  ],
+  "repo_url": "https://github.com/radix-ui/themes",
+  "root": {
+    "error": null,
+    "name": "monorepo",
+    "version": null
+  }
+}

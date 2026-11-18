@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:10Z",
+  "docs": {
+    "body_bytes_hashed": 101867,
+    "body_sha256": "701a5075a5954c88be07397f451b579b46411720eac661d9a5d9e73b2ac36de4",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:49Z",
+    "final_url": "https://protocol.mozilla.org/",
+    "http_status": 200,
+    "url": "https://protocol.mozilla.org/"
+  },
+  "id": "99",
+  "name": "Mozilla Protocol",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:10Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v22.0.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T18:14:25Z",
+    "spdx_licence": "MPL-2.0",
+    "tag_count": 61,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

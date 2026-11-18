@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:24:48Z",
+  "error": null,
+  "id": "5",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/ant-design/ant-design",
+  "root": {
+    "error": null,
+    "name": "antd",
+    "version": "6.7.1"
+  }
+}

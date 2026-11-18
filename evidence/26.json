@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:51Z",
+  "docs": {
+    "body_bytes_hashed": 79876,
+    "body_sha256": "5b5d08e2eb6a54af46d2f5256e783a9a931667c58979a629c895869703ecc659",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:52Z",
+    "final_url": "https://seek-oss.github.io/braid-design-system/",
+    "http_status": 200,
+    "url": "https://seek-oss.github.io/braid-design-system/"
+  },
+  "id": "26",
+  "name": "Braid Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:51Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v31.16.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T02:53:03Z",
+    "spdx_licence": "MIT",
+    "tag_count": 541,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

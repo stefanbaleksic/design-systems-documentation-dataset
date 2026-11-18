@@ -1,0 +1,94 @@
+{
+  "collected_at_utc": "2026-11-18T11:47:12Z",
+  "error": null,
+  "id": "277",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "skeleton",
+      "path": "packages/cli/package.json",
+      "version": "5.0.5"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/docs",
+      "path": "packages/docs/package.json",
+      "version": "5.0.5"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/skeleton-common",
+      "path": "packages/skeleton-common/package.json",
+      "version": "5.0.5"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/skeleton-react",
+      "path": "packages/skeleton-react/package.json",
+      "version": "5.0.5"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/skeleton-svelte",
+      "path": "packages/skeleton-svelte/package.json",
+      "version": "5.0.5"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/skeleton",
+      "path": "packages/skeleton/package.json",
+      "version": "5.0.5"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/playground-skeleton-react",
+      "path": "playgrounds/skeleton-react/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/playground-skeleton-svelte",
+      "path": "playgrounds/skeleton-svelte/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/plus.skeleton.dev",
+      "path": "sites/plus.skeleton.dev/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/skeleton.dev",
+      "path": "sites/skeleton.dev/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@skeletonlabs/themes.skeleton.dev",
+      "path": "sites/themes.skeleton.dev/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/cli/package.json",
+    "packages/docs/package.json",
+    "packages/skeleton-common/package.json",
+    "packages/skeleton-react/package.json",
+    "packages/skeleton-svelte/package.json",
+    "packages/skeleton/package.json",
+    "playgrounds/skeleton-react/package.json",
+    "playgrounds/skeleton-svelte/package.json",
+    "sites/plus.skeleton.dev/package.json",
+    "sites/skeleton.dev/package.json",
+    "sites/themes.skeleton.dev/package.json"
+  ],
+  "repo_url": "https://github.com/skeletonlabs/skeleton",
+  "root": {
+    "error": null,
+    "name": "@skeletonlabs/monorepo",
+    "version": null
+  }
+}

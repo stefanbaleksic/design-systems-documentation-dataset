@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:25Z",
+  "docs": {
+    "body_bytes_hashed": 193312,
+    "body_sha256": "8b6b64d0303000ee8f8c4aeda00aef8d0070ca5ce783a683a2934481acad064f",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:17Z",
+    "final_url": "https://clarity.design/",
+    "http_status": 200,
+    "url": "https://clarity.design/"
+  },
+  "id": "153",
+  "name": "VMware Clarity",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:25Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "next",
+    "latest_tag": "v12.0.6",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2022-05-05T19:42:23Z",
+    "spdx_licence": "MIT",
+    "tag_count": 408,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

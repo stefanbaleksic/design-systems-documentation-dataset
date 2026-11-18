@@ -1,0 +1,108 @@
+{
+  "collected_at_utc": "2026-11-18T11:31:27Z",
+  "error": null,
+  "id": "109",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@privyid/browserslist-config",
+      "path": "packages/browserslist-config/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "@privyid/eslint-config-persona",
+      "path": "packages/eslint-config-persona/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "@privyid/persona-icon",
+      "path": "packages/persona-icon/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "@privyid/persona-ilustration",
+      "path": "packages/persona-ilustration/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "@privyid/persona",
+      "path": "packages/persona/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "persona-playground",
+      "path": "packages/persona/playground/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@privyid/tailwind-animation",
+      "path": "packages/tailwind-animation/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "@privyid/tailwind-extended",
+      "path": "packages/tailwind-extended/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "@privyid/tailwind-preset",
+      "path": "packages/tailwind-preset/package.json",
+      "version": "1.2.2-rc.7"
+    },
+    {
+      "error": null,
+      "name": "pdfjs-dist",
+      "path": "src/public/js/pdfjs-dist@5.0.375/package.json",
+      "version": "5.0.375"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/public/js/pspdfkit@2024.3.1/dist/pspdfkit-lib/gdpicture-8c000cff/aot/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/public/js/pspdfkit@2024.3.1/dist/pspdfkit-lib/gdpicture-8c000cff/jit/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "pspdfkit",
+      "path": "src/public/js/pspdfkit@2024.3.1/package.json",
+      "version": "2024.3.1"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/browserslist-config/package.json",
+    "packages/eslint-config-persona/package.json",
+    "packages/persona-icon/package.json",
+    "packages/persona-ilustration/package.json",
+    "packages/persona/package.json",
+    "packages/persona/playground/package.json",
+    "packages/tailwind-animation/package.json",
+    "packages/tailwind-extended/package.json",
+    "packages/tailwind-preset/package.json",
+    "src/public/js/pdfjs-dist@5.0.375/package.json",
+    "src/public/js/pspdfkit@2024.3.1/dist/pspdfkit-lib/gdpicture-8c000cff/aot/package.json",
+    "src/public/js/pspdfkit@2024.3.1/dist/pspdfkit-lib/gdpicture-8c000cff/jit/package.json",
+    "src/public/js/pspdfkit@2024.3.1/package.json"
+  ],
+  "repo_url": "https://github.com/privy-open-source/design-system",
+  "root": {
+    "error": null,
+    "name": "@privyid/design-system",
+    "version": "1.2.2-rc.7"
+  }
+}

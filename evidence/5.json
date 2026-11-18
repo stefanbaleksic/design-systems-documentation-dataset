@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:22Z",
+  "docs": {
+    "body_bytes_hashed": 345703,
+    "body_sha256": "3e04d76e1dee8c36171c3daf6758929f9805b98759c53a32fa8720cf8cf04239",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:40:47Z",
+    "final_url": "https://ant.design",
+    "http_status": 200,
+    "url": "https://ant.design"
+  },
+  "id": "5",
+  "name": "Ant Design",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:22Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "6.7.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T08:26:39Z",
+    "spdx_licence": "MIT",
+    "tag_count": 826,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

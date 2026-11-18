@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:45Z",
+  "docs": {
+    "body_bytes_hashed": 615584,
+    "body_sha256": "e7967c46203bb083d87dd0e65fcc202749131a4c3754705d46e54221f12eecfc",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:37Z",
+    "final_url": "https://heroui.com/",
+    "http_status": 200,
+    "url": "https://www.heroui.com"
+  },
+  "id": "169",
+  "name": "HeroUI",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

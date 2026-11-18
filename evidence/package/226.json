@@ -1,0 +1,497 @@
+{
+  "collected_at_utc": "2026-11-18T11:40:32Z",
+  "error": null,
+  "id": "226",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@utrecht/preact-app",
+      "path": "apps/preact/package.json",
+      "version": "1.0.53"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/accordion-css",
+      "path": "components/accordion/package.json",
+      "version": "4.1.0"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/action-group-css",
+      "path": "components/action-group/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/alert-dialog-css",
+      "path": "components/alert-dialog/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/alert-css",
+      "path": "components/alert/package.json",
+      "version": "4.0.2"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/alternate-lang-nav-css",
+      "path": "components/alternate-lang-nav/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/article-css",
+      "path": "components/article/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/backdrop-css",
+      "path": "components/backdrop/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/badge-counter-css",
+      "path": "components/badge-counter/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/badge-list-css",
+      "path": "components/badge-list/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/badge-css",
+      "path": "components/badge/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/blockquote-css",
+      "path": "components/blockquote/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/body-css",
+      "path": "components/body/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/breadcrumb-nav-css",
+      "path": "components/breadcrumb-nav/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/button-group-css",
+      "path": "components/button-group/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/button-link-css",
+      "path": "components/button-link/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/button-css",
+      "path": "components/button/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/calendar-css",
+      "path": "components/calendar/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/card-css",
+      "path": "components/card/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/checkbox-css",
+      "path": "components/checkbox/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/code-block-css",
+      "path": "components/code-block/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/code-css",
+      "path": "components/code/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/color-sample-css",
+      "path": "components/color-sample/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/column-layout-css",
+      "path": "components/column-layout/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/combobox-css",
+      "path": "components/combobox/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/contact-card-css",
+      "path": "components/contact-card/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/currency-data-css",
+      "path": "components/currency-data/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/custom-checkbox-css",
+      "path": "components/custom-checkbox/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/customizable-text-input-css",
+      "path": "components/customizable-text-input/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/data-badge-css",
+      "path": "components/data-badge/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/data-list-css",
+      "path": "components/data-list/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/data-placeholder-css",
+      "path": "components/data-placeholder/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/digid-button-css",
+      "path": "components/digid-button/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/document-css",
+      "path": "components/document/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/drawer-css",
+      "path": "components/drawer/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/emphasis-css",
+      "path": "components/emphasis/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/figure-css",
+      "path": "components/figure/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/flex-wrap-fallback-css",
+      "path": "components/flex-wrap-fallback/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/flolegal-decision-tree-css",
+      "path": "components/flo-legal-decision-tree/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/focus-ring-css",
+      "path": "components/focus-ring/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/form-field-description-css",
+      "path": "components/form-field-description/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/form-field-error-message-css",
+      "path": "components/form-field-error-message/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/form-field-css",
+      "path": "components/form-field/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/form-fieldset-css",
+      "path": "components/form-fieldset/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/form-label-css",
+      "path": "components/form-label/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/form-toggle-css",
+      "path": "components/form-toggle/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/form-css",
+      "path": "components/form/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/grid-css",
+      "path": "components/grid/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/heading-1-css",
+      "path": "components/heading-1/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@utrecht/heading-2-css",
+      "path": "components/heading-2/package.json",
+      "version": "3.0.1"
+    }
+  ],
+  "paths": [
+    "apps/preact/package.json",
+    "components/accordion/package.json",
+    "components/action-group/package.json",
+    "components/alert-dialog/package.json",
+    "components/alert/package.json",
+    "components/alternate-lang-nav/package.json",
+    "components/article/package.json",
+    "components/backdrop/package.json",
+    "components/badge-counter/package.json",
+    "components/badge-list/package.json",
+    "components/badge/package.json",
+    "components/blockquote/package.json",
+    "components/body/package.json",
+    "components/breadcrumb-nav/package.json",
+    "components/button-group/package.json",
+    "components/button-link/package.json",
+    "components/button/package.json",
+    "components/calendar/package.json",
+    "components/card/package.json",
+    "components/checkbox/package.json",
+    "components/code-block/package.json",
+    "components/code/package.json",
+    "components/color-sample/package.json",
+    "components/column-layout/package.json",
+    "components/combobox/package.json",
+    "components/contact-card/package.json",
+    "components/currency-data/package.json",
+    "components/custom-checkbox/package.json",
+    "components/customizable-text-input/package.json",
+    "components/data-badge/package.json",
+    "components/data-list/package.json",
+    "components/data-placeholder/package.json",
+    "components/digid-button/package.json",
+    "components/document/package.json",
+    "components/drawer/package.json",
+    "components/emphasis/package.json",
+    "components/figure/package.json",
+    "components/flex-wrap-fallback/package.json",
+    "components/flo-legal-decision-tree/package.json",
+    "components/focus-ring/package.json",
+    "components/form-field-description/package.json",
+    "components/form-field-error-message/package.json",
+    "components/form-field/package.json",
+    "components/form-fieldset/package.json",
+    "components/form-label/package.json",
+    "components/form-toggle/package.json",
+    "components/form/package.json",
+    "components/grid/package.json",
+    "components/heading-1/package.json",
+    "components/heading-2/package.json",
+    "components/heading-3/package.json",
+    "components/heading-4/package.json",
+    "components/heading-5/package.json",
+    "components/heading-6/package.json",
+    "components/heading-group/package.json",
+    "components/heading/package.json",
+    "components/html-content/package.json",
+    "components/iban-data/package.json",
+    "components/icon/package.json",
+    "components/img/package.json",
+    "components/index-char-nav/package.json",
+    "components/link-button/package.json",
+    "components/link-list/package.json",
+    "components/link-social/package.json",
+    "components/link/package.json",
+    "components/list-social/package.json",
+    "components/listbox/package.json",
+    "components/logo-button/package.json",
+    "components/logo-image/package.json",
+    "components/logo/package.json",
+    "components/map-marker/package.json",
+    "components/mapcontrolbutton/package.json",
+    "components/mark/package.json",
+    "components/multiline-data/package.json",
+    "components/nav-bar/package.json",
+    "components/nav-list/package.json",
+    "components/navigation/package.json",
+    "components/note/package.json",
+    "components/number-badge/package.json",
+    "components/number-data/package.json",
+    "components/open-forms-container/package.json",
+    "components/ordered-list/package.json",
+    "components/page-body/package.json",
+    "components/page-content/package.json",
+    "components/page-footer/package.json",
+    "components/page-header/package.json",
+    "components/page-layout/package.json",
+    "components/page/package.json",
+    "components/pagination/package.json",
+    "components/paragraph/package.json",
+    "components/pre-heading/package.json",
+    "components/preserve-data/package.json",
+    "components/radio-button/package.json",
+    "components/rich-text/package.json",
+    "components/root/package.json",
+    "components/search-bar/package.json",
+    "components/select/package.json",
+    "components/separator/package.json",
+    "components/skip-link/package.json",
+    "components/spotlight-section/package.json",
+    "components/status-badge/package.json",
+    "components/subscript/package.json",
+    "components/superscript/package.json",
+    "components/surface/package.json",
+    "components/table-of-contents/package.json",
+    "components/table/package.json",
+    "components/textarea/package.json",
+    "components/textbox/package.json",
+    "components/tooltip/package.json",
+    "components/toptask-link/package.json",
+    "components/toptask-nav/package.json",
+    "components/unordered-list/package.json",
+    "components/url-data/package.json",
+    "components/vega-visualization/package.json",
+    "components/youtube-video/package.json",
+    "documentation/package.json",
+    "package.json",
+    "packages/astro/package.json",
+    "packages/build-utils-css/package.json",
+    "packages/build-utils-react/package.json",
+    "packages/component-library-angular/package.json",
+    "packages/component-library-css/package.json",
+    "packages/component-library-design-tokens/package.json",
+    "packages/component-library-pdf/package.json",
+    "packages/component-library-react/package.json",
+    "packages/component-library-vue/package.json",
+    "packages/components-react/action-group-react/package.json",
+    "packages/components-react/body-react/package.json",
+    "packages/components-react/button-group-react/package.json",
+    "packages/components-react/button-react/package.json",
+    "packages/components-react/calendar-react/package.json",
+    "packages/components-react/card-react/package.json",
+    "packages/components-react/checkbox-group-react/package.json",
+    "packages/components-react/checkbox-react/package.json",
+    "packages/components-react/combobox-react/package.json",
+    "packages/components-react/contact-card-react/package.json",
+    "packages/components-react/customizable-text-input/package.json",
+    "packages/components-react/data-badge-react/package.json",
+    "packages/components-react/fieldset-react/package.json",
+    "packages/components-react/form-field-checkbox-react/package.json",
+    "packages/components-react/form-field-description-react/package.json",
+    "packages/components-react/form-field-error-message-react/package.json",
+    "packages/components-react/form-field-react/package.json",
+    "packages/components-react/form-label-react/package.json",
+    "packages/components-react/grid-react/package.json",
+    "packages/components-react/link-react/package.json",
+    "packages/components-react/listbox-react/package.json",
+    "packages/components-react/nav-bar-react/package.json",
+    "packages/components-react/note-react/package.json",
+    "packages/components-react/open-forms-container-react/package.json",
+    "packages/components-react/page-body-react/package.json",
+    "packages/components-react/page-footer-react/package.json",
+    "packages/components-react/page-header-react/package.json",
+    "packages/components-react/page-layout-react/package.json",
+    "packages/components-react/radio-button-react/package.json",
+    "packages/components-react/radio-group-react/package.json",
+    "packages/components-react/root-react/package.json",
+    "packages/components-react/select-combobox-react/package.json",
+    "packages/components-react/textbox-react/package.json",
+    "packages/components-react/tooltip-react/package.json",
+    "packages/components-react/vega-visualization-react/package.json",
+    "packages/components-react/youtube-video-react/package.json",
+    "packages/design-system-website/package.json",
+    "packages/docusaurus/package.json",
+    "packages/flolegal-decision-tree-client/package.json",
+    "packages/icon/package.json",
+    "packages/storybook-angular/package.json",
+    "packages/storybook-css/package.json",
+    "packages/storybook-helpers/package.json",
+    "packages/storybook-html/package.json",
+    "packages/storybook-pdf/package.json",
+    "packages/storybook-react/package.json",
+    "packages/storybook-vue/package.json",
+    "packages/storybook-web-component/package.json",
+    "packages/storybook/package.json",
+    "packages/web-component-library-angular/package.json",
+    "packages/web-component-library-react/package.json",
+    "packages/web-component-library-stencil/package.json",
+    "packages/web-component-library-vue/package.json",
+    "proprietary/assets/package.json",
+    "proprietary/design-tokens/package.json"
+  ],
+  "repo_url": "https://github.com/nl-design-system/utrecht",
+  "root": {
+    "error": null,
+    "name": "@utrecht/design-system",
+    "version": "0.0.1"
+  }
+}

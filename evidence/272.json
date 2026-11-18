@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:59Z",
+  "docs": null,
+  "id": "272",
+  "name": "Material Web (Google)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:59Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v2.5.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T18:01:49Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 81,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

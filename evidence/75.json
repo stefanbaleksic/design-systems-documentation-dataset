@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:49Z",
+  "docs": {
+    "body_bytes_hashed": 142347,
+    "body_sha256": "5696f844d877161629b91d0ca5aa94142ad0674a62a226da35adabcb4cc68a77",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:08Z",
+    "final_url": "https://design.intuit.com/",
+    "http_status": 200,
+    "url": "https://designsystem.quickbooks.com/"
+  },
+  "id": "75",
+  "name": "Intuit Harmony",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:13Z",
+  "docs": {
+    "body_bytes_hashed": 92780,
+    "body_sha256": "7d02616e8a8aeeedb1f52c606dfae4573666604647cf0f65e9344c831d318d50",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:17Z",
+    "final_url": "https://blog.duolingo.com/hub/design/",
+    "http_status": 200,
+    "url": "https://design.duolingo.com/"
+  },
+  "id": "43",
+  "name": "Duolingo",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,87 @@
+# Open items
+
+Differences between the coded dataset and the evidence that were not corrected automatically.
+
+- 6 Amplify UI (version): 49 packages with versions and none at the root; not changed
+- 7 Appear Here Styleguide (version): 3 packages with versions and none at the root; not changed
+- 15 Aurora (Government of Canada) (version): 2 packages with versions and none at the root; not changed
+- 18 Backpack (Skyscanner) (version): package.json (root) has version 0.0.1, probably a placeholder; not changed
+- 21 Bento DS (version): 3 packages with versions and none at the root; not changed
+- 23 Blueprint (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 28 Buildit Gravity (version): 10 packages with versions and none at the root; not changed
+- 29 Bumbag UI (version): 16 packages with versions and none at the root; not changed
+- 36 City of Boston Fleet (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 37 Cloudflare cf-ui (version): 50 packages with versions and none at the root; not changed
+- 39 Contentful Forma 36 (version): 50 packages with versions and none at the root; not changed
+- 40 Decathlon Vitamin (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 41 Decentraland UI (version): package.json (root) has version 0.0.0-development, probably a placeholder; not changed
+- 65 Gympass Yoga (version): 9 packages with versions and none at the root; not changed
+- 66 HashiCorp Helios (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 70 HubSpot Canvas (version): package.json (canvas-core/package.json) has version 0.0.4, probably a placeholder; not changed
+- 72 IBM Carbon (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 78 JetBrains Ring UI (version): coded package '@ring-ui/storybook-header'; 0 package.json with that name and a version; not changed
+- 81 Kaizen (Culture Amp) (version): 4 packages with versions and none at the root; not changed
+- 83 Kontur (version): 12 packages with versions and none at the root; not changed
+- 96 MongoDB Design System (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 106 Okta Odyssey Design System (version): 9 packages with versions and none at the root; not changed
+- 110 Pharos (JSTOR) (version): package.json (root) has version 0.0.1, probably a placeholder; not changed
+- 111 Pinterest Gestalt (version): 7 packages with versions and none at the root; not changed
+- 113 Pluralsight Design System (version): coded package '@pluralsight/ps-tab'; 0 package.json with that name and a version; not changed
+- 115 Priceline Design System (version): 18 packages with versions and none at the root; not changed
+- 122 Sage by Kajabi (version): 5 packages with versions and none at the root; not changed
+- 128 SEEK Style Guide (version): package.json (root) has version 0.0.0-development, probably a placeholder; not changed
+- 129 Semi Design (version): package.json (root) has version 0.0.1, probably a placeholder; not changed
+- 130 Semrush Intergalactic (version): 50 packages with versions and none at the root; not changed
+- 133 Shadcn/ui (version): package.json (root) has version 0.0.1, probably a placeholder; not changed
+- 134 Siemens iX (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 136 Stacks (Stack Overflow) (version): 4 packages with versions and none at the root; not changed
+- 141 Thumbprint (version): 9 packages with versions and none at the root; not changed
+- 147 Untitled UI (React) (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 150 U.S. CMS.gov Design System (repo_licence): coded 'mixed (LICENSE.md)' (other or custom), evidence MIT from LICENSE.md; not changed automatically
+- 150 U.S. CMS.gov Design System (version): 14 packages with versions and none at the root; not changed
+- 151 Vibe (monday.com) (version): coded package '@vibe/wizard'; 0 package.json with that name and a version; not changed
+- 156 Ray (WeWork) (version): 5 packages with versions and none at the root; not changed
+- 157 Welcome UI (version): 2 packages with versions and none at the root; not changed
+- 161 Workday Canvas (version): 14 packages with versions and none at the root; not changed
+- 166 New Zealand Government Design System (alpha) (version): 4 packages with versions and none at the root; not changed
+- 179 ASU Unity Stack (Arizona State University) (version): 10 packages with versions and none at the root; not changed
+- 180 UNI Core (uni-design-system) (version): package.json (root) has version 0.0.36, probably a placeholder; not changed
+- 200 B.C. Government Design System (version): 3 packages with versions and none at the root; not changed
+- 201 CFT Elephas (Center of Financial Technologies) (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 202 Scale (Deutsche Telekom) (version): 23 packages with versions and none at the root; not changed
+- 205 Polaris (Shopify) (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 210 Lion (ING) (version): coded package '@lion/validate'; 0 package.json with that name and a version; not changed
+- 213 NHS Digital website design system (version): package.json (root) has version 0.0.2, probably a placeholder; not changed
+- 215 SpareBank 1 Design System (version): coded package '@sparebank1/designsystem'; 0 package.json with that name and a version; not changed
+- 219 OTTO B2B Design System (version): package.json (root) has version 0.0.1, probably a placeholder; not changed
+- 223 Travelmakers Design System (version): package.json (packages/travelmakers-design-utils/package.json) has version 0.0.34, probably a placeholder; not changed
+- 225 Porsche Design System (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 226 Utrecht Design System (Municipality of Utrecht) (version): coded package '@utrecht/youtube-video-react'; 0 package.json with that name and a version; not changed
+- 227 Paragon (Open edX) (version): package.json (root) has version 0.0.0-dev, probably a placeholder; not changed
+- 228 Government of Ireland Design System (GOV.IE) (version): 18 packages with versions and none at the root; not changed
+- 230 Designsystemet (Digdir, Norway) (version): coded package '@digdir/design-system-tokens'; 0 package.json with that name and a version; not changed
+- 242 WISE Design System (Education) (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 244 Vuetify (version): 3 packages with versions and none at the root; not changed
+- 245 Quasar Framework (version): 37 packages with versions and none at the root; not changed
+- 249 Element Plus (version): 12 packages with versions and none at the root; not changed
+- 250 PatternFly (version): package.json (root) has version 0.0.0-development, probably a placeholder; not changed
+- 257 Rivet (Indiana University) (version): coded package '@rivet-iu/tokens'; 0 package.json with that name and a version; not changed
+- 259 Astryx (Meta) (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 261 Guardian Source (The Guardian) (version): coded package '@guardian/src-user-feedback'; 0 package.json with that name and a version; not changed
+- 267 Vaadin Web Components (version): 50 packages with versions and none at the root; not changed
+- 269 Vant (Youzan) (version): 10 packages with versions and none at the root; not changed
+- 270 Ionic Framework (version): 24 packages with versions and none at the root; not changed
+- 273 Spectrum Web Components (Adobe) (version): package.json (root) has version 0.0.9, probably a placeholder; not changed
+- 275 PrimeNG (repo_licence): coded 'PrimeNG community licence (LICENSE.md; custom terms)' (other or custom), evidence MIT from LICENSE.md; not changed automatically
+- 276 NG-ZORRO (Ant Design for Angular) (version): package.json (root) has version 0.0.0-NOT-USED, probably a placeholder; not changed
+- 277 Skeleton (version): coded package '@skeletonlabs/tw-plugin'; 0 package.json with that name and a version; not changed
+- 278 Spectrum CSS (Adobe) (version): coded package '@spectrum-tools/theme-alignment'; 0 package.json with that name and a version; not changed
+- 279 Headless UI (Tailwind Labs) (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 283 Tamagui (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 284 Gluestack UI (version): 14 packages with versions and none at the root; not changed
+- 285 Park UI (version): coded package '@park-ui/tailwind-plugin'; 0 package.json with that name and a version; not changed
+- 286 Radix Themes (version): 2 packages with versions and none at the root; not changed
+- 289 Rebass (version): 11 packages with versions and none at the root; not changed
+- 291 Framework7 (version): package.json (root) has version 0.0.0, probably a placeholder; not changed
+- 294 Helsinki Design System (City of Helsinki) (version): 6 packages with versions and none at the root; not changed
+- 298 Flowbite React (version): package.json (root) has version 0.0.0, probably a placeholder; not changed

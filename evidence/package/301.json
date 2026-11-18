@@ -1,0 +1,101 @@
+{
+  "collected_at_utc": "2026-11-18T11:50:12Z",
+  "error": null,
+  "id": "301",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@nuxt/ui-cli",
+      "path": "cli/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-docs",
+      "path": "docs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-playground",
+      "path": "playgrounds/nuxt/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "playground-repl",
+      "path": "playgrounds/repl/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "playground-vue",
+      "path": "playgrounds/vue/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-bundle-nuxt-detection",
+      "path": "test/bundle/nuxt-detection/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-bundle-nuxt-full",
+      "path": "test/bundle/nuxt-full/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-bundle-nuxt",
+      "path": "test/bundle/nuxt/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-bundle-vue-detection",
+      "path": "test/bundle/vue-detection/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-bundle-vue",
+      "path": "test/bundle/vue/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-consumer-full",
+      "path": "test/fixtures/consumer/full/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nuxt/ui-consumer-minimal",
+      "path": "test/fixtures/consumer/minimal/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "cli/package.json",
+    "docs/package.json",
+    "package.json",
+    "playgrounds/nuxt/package.json",
+    "playgrounds/repl/package.json",
+    "playgrounds/vue/package.json",
+    "test/bundle/nuxt-detection/package.json",
+    "test/bundle/nuxt-full/package.json",
+    "test/bundle/nuxt/package.json",
+    "test/bundle/vue-detection/package.json",
+    "test/bundle/vue/package.json",
+    "test/fixtures/consumer/full/package.json",
+    "test/fixtures/consumer/minimal/package.json"
+  ],
+  "repo_url": "https://github.com/nuxt/ui",
+  "root": {
+    "error": null,
+    "name": "@nuxt/ui",
+    "version": "4.12.2"
+  }
+}

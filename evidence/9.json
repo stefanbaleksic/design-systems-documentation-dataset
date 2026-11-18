@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:27Z",
+  "docs": {
+    "body_bytes_hashed": 525037,
+    "body_sha256": "edacf251361f2f5a207ff051d7d826fcd0655c7346b4e939686b27e522d98694",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:23Z",
+    "final_url": "https://legacy-docs.aragon.org/",
+    "http_status": 200,
+    "url": "https://ui.aragon.org/"
+  },
+  "id": "9",
+  "name": "Aragon UI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:27Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v1.9.3",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2021-10-22T16:27:53Z",
+    "spdx_licence": "MIT",
+    "tag_count": 102,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

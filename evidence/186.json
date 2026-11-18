@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:59Z",
+  "docs": {
+    "body_bytes_hashed": 138065,
+    "body_sha256": "a1d72043219c3d1fc6e50c4ae10e7509d105e03d44331921946530640a8291da",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:59Z",
+    "final_url": "https://design-system.dwp.gov.uk/",
+    "http_status": 200,
+    "url": "https://design-system.dwp.gov.uk/"
+  },
+  "id": "186",
+  "name": "DWP Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

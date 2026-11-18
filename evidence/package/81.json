@@ -1,0 +1,94 @@
+{
+  "collected_at_utc": "2026-11-18T11:29:46Z",
+  "error": null,
+  "id": "81",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@docs/storybook",
+      "path": "docs/package.json",
+      "version": "0.2.27"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/components/alpha/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/components/libs/react-aria-components/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/components/libs/react-aria/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/components/next/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@kaizen/components",
+      "path": "packages/components/package.json",
+      "version": "3.3.24"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/components/v3/react-aria-components/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/components/v3/react-aria/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/design-tokens/js/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@kaizen/design-tokens",
+      "path": "packages/design-tokens/package.json",
+      "version": "11.0.25"
+    },
+    {
+      "error": null,
+      "name": "@kaizen/tailwind",
+      "path": "packages/tailwind/package.json",
+      "version": "1.5.27"
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "package.json",
+    "packages/components/alpha/package.json",
+    "packages/components/libs/react-aria-components/package.json",
+    "packages/components/libs/react-aria/package.json",
+    "packages/components/next/package.json",
+    "packages/components/package.json",
+    "packages/components/v3/react-aria-components/package.json",
+    "packages/components/v3/react-aria/package.json",
+    "packages/design-tokens/js/package.json",
+    "packages/design-tokens/package.json",
+    "packages/tailwind/package.json"
+  ],
+  "repo_url": "https://github.com/cultureamp/kaizen-design-system",
+  "root": {
+    "error": null,
+    "name": "kaizen",
+    "version": null
+  }
+}

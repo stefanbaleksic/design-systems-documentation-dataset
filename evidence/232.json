@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:58Z",
+  "docs": null,
+  "id": "232",
+  "name": "SSB designsystem (Statistics Norway)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:58Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v0.2.4",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-06T15:32:05Z",
+    "spdx_licence": "MIT",
+    "tag_count": 14,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

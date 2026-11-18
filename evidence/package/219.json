@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:39:28Z",
+  "error": null,
+  "id": "219",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "b2b-core-components-loader",
+      "path": "packages/core-components/dist/loader/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@otto-de/b2b-core-components/hydrate",
+      "path": "packages/core-components/hydrate/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@otto-de/b2b-core-components",
+      "path": "packages/core-components/package.json",
+      "version": "1.38.9"
+    },
+    {
+      "error": null,
+      "name": "@otto-de/b2b-react-components",
+      "path": "packages/react-components/package.json",
+      "version": "1.38.9"
+    },
+    {
+      "error": null,
+      "name": "@otto-de/b2b-tokens",
+      "path": "packages/tokens/package.json",
+      "version": "1.38.9"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/core-components/dist/loader/package.json",
+    "packages/core-components/hydrate/package.json",
+    "packages/core-components/package.json",
+    "packages/react-components/package.json",
+    "packages/tokens/package.json"
+  ],
+  "repo_url": "https://github.com/otto-de/b2b-design-system",
+  "root": {
+    "error": null,
+    "name": "@otto-de/b2b-design-system",
+    "version": "0.0.1"
+  }
+}

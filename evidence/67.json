@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:42Z",
+  "docs": {
+    "body_bytes_hashed": 655171,
+    "body_sha256": "3ab7a5bca61b2b52ba50dd910775b39ffdd0e920d5fc8e28637bacb914c1aba3",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:57Z",
+    "final_url": "https://www.helpscout.com/brand/",
+    "http_status": 200,
+    "url": "https://style.helpscout.com/"
+  },
+  "id": "67",
+  "name": "Help Scout",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:42Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v2.0.21",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2017-11-02T22:33:14Z",
+    "spdx_licence": "MIT",
+    "tag_count": 32,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

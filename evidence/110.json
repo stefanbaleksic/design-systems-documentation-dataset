@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:19Z",
+  "docs": {
+    "body_bytes_hashed": 23371,
+    "body_sha256": "8e2bbdf19c4255467ddaf0b3fe2d5095f452b7d94a17c11c672dce523aa6494a",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:04Z",
+    "final_url": "https://pharos.jstor.org",
+    "http_status": 200,
+    "url": "https://pharos.jstor.org"
+  },
+  "id": "110",
+  "name": "Pharos (JSTOR)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:19Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-11T19:50:22Z",
+    "spdx_licence": "MIT",
+    "tag_count": 188,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

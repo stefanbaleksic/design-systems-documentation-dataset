@@ -1,0 +1,346 @@
+{
+  "collected_at_utc": "2026-11-18T11:27:23Z",
+  "error": null,
+  "id": "40",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@vtmn/showcase-core",
+      "path": "packages/showcases/core/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/showcase-css",
+      "path": "packages/showcases/css/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/showcase-icons",
+      "path": "packages/showcases/icons/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/showcase-react",
+      "path": "packages/showcases/react/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/showcase-svelte",
+      "path": "packages/showcases/svelte/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/showcase-vue",
+      "path": "packages/showcases/vue/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/assets",
+      "path": "packages/sources/assets/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-postcss-config",
+      "path": "packages/sources/css/config/postcss/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css",
+      "path": "packages/sources/css/package.json",
+      "version": "3.0.2"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-tailwind-preset",
+      "path": "packages/sources/css/presets/tailwind/package.json",
+      "version": "1.1.18"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-button",
+      "path": "packages/sources/css/src/components/actions/button/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-dropdown",
+      "path": "packages/sources/css/src/components/actions/dropdown/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-link",
+      "path": "packages/sources/css/src/components/actions/link/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-select",
+      "path": "packages/sources/css/src/components/forms/select/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-text-input",
+      "path": "packages/sources/css/src/components/forms/text-input/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-badge",
+      "path": "packages/sources/css/src/components/indicators/badge/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-loader",
+      "path": "packages/sources/css/src/components/indicators/loader/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-price",
+      "path": "packages/sources/css/src/components/indicators/price/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-progressbar",
+      "path": "packages/sources/css/src/components/indicators/progressbar/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-rating",
+      "path": "packages/sources/css/src/components/indicators/rating/package.json",
+      "version": "1.1.7"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-tag",
+      "path": "packages/sources/css/src/components/indicators/tag/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-breadcrumb",
+      "path": "packages/sources/css/src/components/navigation/breadcrumb/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-navbar",
+      "path": "packages/sources/css/src/components/navigation/navbar/package.json",
+      "version": "2.0.3"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-search",
+      "path": "packages/sources/css/src/components/navigation/search/package.json",
+      "version": "1.1.10"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-tabs",
+      "path": "packages/sources/css/src/components/navigation/tabs/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-alert",
+      "path": "packages/sources/css/src/components/overlays/alert/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-modal",
+      "path": "packages/sources/css/src/components/overlays/modal/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-popover",
+      "path": "packages/sources/css/src/components/overlays/popover/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-snackbar",
+      "path": "packages/sources/css/src/components/overlays/snackbar/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-toast",
+      "path": "packages/sources/css/src/components/overlays/toast/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-tooltip",
+      "path": "packages/sources/css/src/components/overlays/tooltip/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-checkbox",
+      "path": "packages/sources/css/src/components/selection-controls/checkbox/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-chip",
+      "path": "packages/sources/css/src/components/selection-controls/chip/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-quantity",
+      "path": "packages/sources/css/src/components/selection-controls/quantity/package.json",
+      "version": "1.1.5"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-radio-button",
+      "path": "packages/sources/css/src/components/selection-controls/radio-button/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-toggle",
+      "path": "packages/sources/css/src/components/selection-controls/toggle/package.json",
+      "version": "1.1.5"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-accordion",
+      "path": "packages/sources/css/src/components/structure/accordion/package.json",
+      "version": "1.1.7"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-card",
+      "path": "packages/sources/css/src/components/structure/card/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-divider",
+      "path": "packages/sources/css/src/components/structure/divider/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-list",
+      "path": "packages/sources/css/src/components/structure/list/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-skeleton",
+      "path": "packages/sources/css/src/components/structure/skeleton/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-design-tokens",
+      "path": "packages/sources/css/src/design-tokens/package.json",
+      "version": "1.1.3"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/css-utilities",
+      "path": "packages/sources/css/src/utilities/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/icons",
+      "path": "packages/sources/icons/package.json",
+      "version": "1.3.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/react",
+      "path": "packages/sources/react/package.json",
+      "version": "4.2.0"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/svelte",
+      "path": "packages/sources/svelte/package.json",
+      "version": "4.6.4"
+    },
+    {
+      "error": null,
+      "name": "@vtmn/vue",
+      "path": "packages/sources/vue/package.json",
+      "version": "4.2.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/showcases/core/package.json",
+    "packages/showcases/css/package.json",
+    "packages/showcases/icons/package.json",
+    "packages/showcases/react/package.json",
+    "packages/showcases/svelte/package.json",
+    "packages/showcases/vue/package.json",
+    "packages/sources/assets/package.json",
+    "packages/sources/css/config/postcss/package.json",
+    "packages/sources/css/package.json",
+    "packages/sources/css/presets/tailwind/package.json",
+    "packages/sources/css/src/components/actions/button/package.json",
+    "packages/sources/css/src/components/actions/dropdown/package.json",
+    "packages/sources/css/src/components/actions/link/package.json",
+    "packages/sources/css/src/components/forms/select/package.json",
+    "packages/sources/css/src/components/forms/text-input/package.json",
+    "packages/sources/css/src/components/indicators/badge/package.json",
+    "packages/sources/css/src/components/indicators/loader/package.json",
+    "packages/sources/css/src/components/indicators/price/package.json",
+    "packages/sources/css/src/components/indicators/progressbar/package.json",
+    "packages/sources/css/src/components/indicators/rating/package.json",
+    "packages/sources/css/src/components/indicators/tag/package.json",
+    "packages/sources/css/src/components/navigation/breadcrumb/package.json",
+    "packages/sources/css/src/components/navigation/navbar/package.json",
+    "packages/sources/css/src/components/navigation/search/package.json",
+    "packages/sources/css/src/components/navigation/tabs/package.json",
+    "packages/sources/css/src/components/overlays/alert/package.json",
+    "packages/sources/css/src/components/overlays/modal/package.json",
+    "packages/sources/css/src/components/overlays/popover/package.json",
+    "packages/sources/css/src/components/overlays/snackbar/package.json",
+    "packages/sources/css/src/components/overlays/toast/package.json",
+    "packages/sources/css/src/components/overlays/tooltip/package.json",
+    "packages/sources/css/src/components/selection-controls/checkbox/package.json",
+    "packages/sources/css/src/components/selection-controls/chip/package.json",
+    "packages/sources/css/src/components/selection-controls/quantity/package.json",
+    "packages/sources/css/src/components/selection-controls/radio-button/package.json",
+    "packages/sources/css/src/components/selection-controls/toggle/package.json",
+    "packages/sources/css/src/components/structure/accordion/package.json",
+    "packages/sources/css/src/components/structure/card/package.json",
+    "packages/sources/css/src/components/structure/divider/package.json",
+    "packages/sources/css/src/components/structure/list/package.json",
+    "packages/sources/css/src/components/structure/skeleton/package.json",
+    "packages/sources/css/src/design-tokens/package.json",
+    "packages/sources/css/src/utilities/package.json",
+    "packages/sources/icons/package.json",
+    "packages/sources/react/package.json",
+    "packages/sources/svelte/package.json",
+    "packages/sources/vue/package.json"
+  ],
+  "repo_url": "https://github.com/decathlon/vitamin-web",
+  "root": {
+    "error": null,
+    "name": "@vtmn/do-not-install-vitamin-web",
+    "version": "0.0.0"
+  }
+}

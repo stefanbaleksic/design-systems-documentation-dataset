@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:03Z",
+  "docs": {
+    "body_bytes_hashed": 104953,
+    "body_sha256": "474b32f07b52b8136742380479f72e765f1ef2e981068c8916d0c753ba9a18f4",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:55Z",
+    "final_url": "https://developer.samsung.com/one-ui-watch-tizen/principle.html",
+    "http_status": 200,
+    "url": "https://developer.samsung.com/one-ui-watch-tizen"
+  },
+  "id": "142",
+  "name": "Tizen CircularUI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:03Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": null,
+    "licence_detection": "no known licence text",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2021-09-14T08:40:35Z",
+    "spdx_licence": null,
+    "tag_count": 18,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

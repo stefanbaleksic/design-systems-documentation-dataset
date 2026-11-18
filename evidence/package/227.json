@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:40:59Z",
+  "error": null,
+  "id": "227",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "component-generator",
+      "path": "component-generator/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "dependency-analysis",
+      "path": "dependent-usage-analyzer/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "example",
+      "path": "example/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "icons",
+      "path": "icons/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "paragon-pattern-library-documentation",
+      "path": "www/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "component-generator/package.json",
+    "dependent-usage-analyzer/package.json",
+    "example/package.json",
+    "icons/package.json",
+    "package.json",
+    "www/package.json"
+  ],
+  "repo_url": "https://github.com/openedx/paragon",
+  "root": {
+    "error": null,
+    "name": "@openedx/paragon",
+    "version": "0.0.0-dev"
+  }
+}

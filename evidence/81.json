@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:56Z",
+  "docs": {
+    "body_bytes_hashed": 5582,
+    "body_sha256": "661d7aba451a87e32b08ba3bb7968a0c532e29e1fb02def7b38b7008e4cd6e29",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:18Z",
+    "final_url": "https://cultureamp.design/",
+    "http_status": 200,
+    "url": "https://cultureamp.design/"
+  },
+  "id": "81",
+  "name": "Kaizen (Culture Amp)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:56Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T05:56:02Z",
+    "spdx_licence": "MIT",
+    "tag_count": 13461,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

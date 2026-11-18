@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:37Z",
+  "docs": {
+    "body_bytes_hashed": 240684,
+    "body_sha256": "8085979bae50a46897ce67e20654cf12a810026fbd0f5330ab326a2522be67f2",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:20Z",
+    "final_url": "https://www.reshaped.so/",
+    "http_status": 200,
+    "url": "https://reshaped.so"
+  },
+  "id": "120",
+  "name": "Reshaped",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,59 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:29Z",
+  "error": null,
+  "id": "18",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@skyscanner/backpack-adoption-analyzer",
+      "path": "libs/backpack-adoption-analyzer/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "backpack-storybook-host",
+      "path": "libs/backpack-storybook-host/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "bpk-storybook-utils",
+      "path": "libs/backpack-storybook-utils/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@skyscanner/backpack-adoption-guard",
+      "path": "packages/backpack-adoption-guard/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@skyscanner/backpack-adoption-nx-plugin",
+      "path": "packages/backpack-adoption-nx-plugin/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@skyscanner/backpack-web",
+      "path": "packages/backpack-web/package.json",
+      "version": "21.0.1"
+    }
+  ],
+  "paths": [
+    "libs/backpack-adoption-analyzer/package.json",
+    "libs/backpack-storybook-host/package.json",
+    "libs/backpack-storybook-utils/package.json",
+    "package.json",
+    "packages/backpack-adoption-guard/package.json",
+    "packages/backpack-adoption-nx-plugin/package.json",
+    "packages/backpack-web/package.json"
+  ],
+  "repo_url": "https://github.com/skyscanner/backpack",
+  "root": {
+    "error": null,
+    "name": "backpack",
+    "version": "0.0.1"
+  }
+}

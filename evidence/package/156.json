@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:36:48Z",
+  "error": null,
+  "id": "156",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@wework/ray-core-react",
+      "path": "packages/core-react/package.json",
+      "version": "1.16.9"
+    },
+    {
+      "error": null,
+      "name": "@wework/ray-core",
+      "path": "packages/core/package.json",
+      "version": "1.16.9"
+    },
+    {
+      "error": null,
+      "name": "ray-website-gatsby",
+      "path": "packages/docs-app/package.json",
+      "version": "1.16.9"
+    },
+    {
+      "error": null,
+      "name": "@wework/ray-product-react",
+      "path": "packages/product-react/package.json",
+      "version": "1.16.9"
+    },
+    {
+      "error": null,
+      "name": "rehype-react",
+      "path": "packages/rehype-react/package.json",
+      "version": "1.9.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/core-react/package.json",
+    "packages/core/package.json",
+    "packages/docs-app/package.json",
+    "packages/product-react/package.json",
+    "packages/rehype-react/package.json"
+  ],
+  "repo_url": "https://github.com/wework/ray",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": null
+  }
+}

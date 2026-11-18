@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:20Z",
+  "docs": {
+    "body_bytes_hashed": 14468,
+    "body_sha256": "d982629ef15e7b5660b60de5835a396af7b8e4345631699b042385c6bfe56147",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:13Z",
+    "final_url": "https://atlas.adeven.com",
+    "http_status": 200,
+    "url": "https://atlas.adeven.com"
+  },
+  "id": "3",
+  "name": "Adjust Atlas",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:21Z",
+  "docs": {
+    "body_bytes_hashed": 1742,
+    "body_sha256": "4d54f857ff17f5fe7ba329368014cd2623182eb0f8c248ea618bb26c56d60aea",
+    "content_type": "text/html;charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:33Z",
+    "final_url": "https://auth.supernova.io/login?response_type=code&redirect_uri=https%3A%2F%2Fdefault.supernova-docs.io%2Fauth%2Fcallback&state=01a1eded-eda7-7c97-a449-bde58044e734&code_challenge_method=S256&code_challenge=wSIaEsT3nRcnstkJroBWzjRidYAI72ep43lWGfDztAU&email_hint=&email_readonly=false&docs_domain=acorn.firefox.com",
+    "http_status": 200,
+    "url": "https://design.firefox.com/photon"
+  },
+  "id": "53",
+  "name": "Firefox Photon",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:21Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v0.6.8",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2022-09-15T20:24:10Z",
+    "spdx_licence": "GPL-3.0",
+    "tag_count": 17,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

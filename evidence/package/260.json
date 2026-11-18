@@ -1,0 +1,304 @@
+{
+  "collected_at_utc": "2026-11-18T11:44:56Z",
+  "error": null,
+  "id": "260",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@uqds/accordion",
+      "path": "packages/accordion/package.json",
+      "version": "7.0.8"
+    },
+    {
+      "error": null,
+      "name": "@uqds/acknowledgement",
+      "path": "packages/acknowledgement/package.json",
+      "version": "0.1.5"
+    },
+    {
+      "error": null,
+      "name": "@uqds/alert",
+      "path": "packages/alert/package.json",
+      "version": "7.0.11"
+    },
+    {
+      "error": null,
+      "name": "@uqds/app-maps",
+      "path": "packages/app-maps/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "@uqds/avatar",
+      "path": "packages/avatar/package.json",
+      "version": "1.0.4"
+    },
+    {
+      "error": null,
+      "name": "@uqds/blockquote",
+      "path": "packages/blockquote/package.json",
+      "version": "6.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/body",
+      "path": "packages/body/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@uqds/breadcrumb",
+      "path": "packages/breadcrumb/package.json",
+      "version": "8.0.9"
+    },
+    {
+      "error": null,
+      "name": "@uqds/button",
+      "path": "packages/button/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/captcha",
+      "path": "packages/captcha/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@uqds/card",
+      "path": "packages/card/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@uqds/collapsible-text",
+      "path": "packages/collapsible-text/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@uqds/core",
+      "path": "packages/core/package.json",
+      "version": "5.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/footer",
+      "path": "packages/footer/package.json",
+      "version": "7.0.10"
+    },
+    {
+      "error": null,
+      "name": "@uqds/form",
+      "path": "packages/form/package.json",
+      "version": "4.0.9"
+    },
+    {
+      "error": null,
+      "name": "@uqds/grid-menu",
+      "path": "packages/grid-menu/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@uqds/header",
+      "path": "packages/header/package.json",
+      "version": "7.0.11"
+    },
+    {
+      "error": null,
+      "name": "@uqds/hero",
+      "path": "packages/hero/package.json",
+      "version": "7.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/icon",
+      "path": "packages/icon/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "@uqds/image",
+      "path": "packages/image/package.json",
+      "version": "6.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/layout",
+      "path": "packages/layout/package.json",
+      "version": "7.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/lists",
+      "path": "packages/lists/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/loading-spinner",
+      "path": "packages/loading-spinner/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@uqds/navigation",
+      "path": "packages/navigation/package.json",
+      "version": "7.0.9"
+    },
+    {
+      "error": null,
+      "name": "@uqds/pagination",
+      "path": "packages/pagination/package.json",
+      "version": "4.0.4"
+    },
+    {
+      "error": null,
+      "name": "@uqds/pane",
+      "path": "packages/pane/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/pill",
+      "path": "packages/pill/package.json",
+      "version": "6.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/previous-next",
+      "path": "packages/previous-next/package.json",
+      "version": "4.0.9"
+    },
+    {
+      "error": null,
+      "name": "@uqds/profile",
+      "path": "packages/profile/package.json",
+      "version": "1.0.4"
+    },
+    {
+      "error": null,
+      "name": "@uqds/progression",
+      "path": "packages/progression/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/react",
+      "path": "packages/react/package.json",
+      "version": "2.0.10"
+    },
+    {
+      "error": null,
+      "name": "@uqds/sections",
+      "path": "packages/sections/package.json",
+      "version": "4.0.4"
+    },
+    {
+      "error": null,
+      "name": "@uqds/side-nav",
+      "path": "packages/side-nav/package.json",
+      "version": "4.0.8"
+    },
+    {
+      "error": null,
+      "name": "@uqds/site-header",
+      "path": "packages/site-header/package.json",
+      "version": "7.0.9"
+    },
+    {
+      "error": null,
+      "name": "@uqds/social",
+      "path": "packages/social/package.json",
+      "version": "6.0.3"
+    },
+    {
+      "error": null,
+      "name": "storybook-email",
+      "path": "packages/storybook-email/package.json",
+      "version": "1.1.7"
+    },
+    {
+      "error": null,
+      "name": "storybook-html",
+      "path": "packages/storybook-html/package.json",
+      "version": "8.2.0"
+    },
+    {
+      "error": null,
+      "name": "storybook-react",
+      "path": "packages/storybook-react/package.json",
+      "version": "2.1.7"
+    },
+    {
+      "error": null,
+      "name": "@uqds/table",
+      "path": "packages/table/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "@uqds/tabs",
+      "path": "packages/tabs/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "uqds-builder",
+      "path": "packages/uqds-builder/package.json",
+      "version": "4.1.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/accordion/package.json",
+    "packages/acknowledgement/package.json",
+    "packages/alert/package.json",
+    "packages/app-maps/package.json",
+    "packages/avatar/package.json",
+    "packages/blockquote/package.json",
+    "packages/body/package.json",
+    "packages/breadcrumb/package.json",
+    "packages/button/package.json",
+    "packages/captcha/package.json",
+    "packages/card/package.json",
+    "packages/collapsible-text/package.json",
+    "packages/core/package.json",
+    "packages/footer/package.json",
+    "packages/form/package.json",
+    "packages/grid-menu/package.json",
+    "packages/header/package.json",
+    "packages/hero/package.json",
+    "packages/icon/package.json",
+    "packages/image/package.json",
+    "packages/layout/package.json",
+    "packages/lists/package.json",
+    "packages/loading-spinner/package.json",
+    "packages/navigation/package.json",
+    "packages/pagination/package.json",
+    "packages/pane/package.json",
+    "packages/pill/package.json",
+    "packages/previous-next/package.json",
+    "packages/profile/package.json",
+    "packages/progression/package.json",
+    "packages/react/package.json",
+    "packages/sections/package.json",
+    "packages/side-nav/package.json",
+    "packages/site-header/package.json",
+    "packages/social/package.json",
+    "packages/storybook-email/package.json",
+    "packages/storybook-html/package.json",
+    "packages/storybook-react/package.json",
+    "packages/table/package.json",
+    "packages/tabs/package.json",
+    "packages/uqds-builder/package.json"
+  ],
+  "repo_url": "https://github.com/uq-its-ss/design-system",
+  "root": {
+    "error": null,
+    "name": "@uqds/design-system",
+    "version": "1.0.0"
+  }
+}

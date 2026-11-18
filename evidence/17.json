@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:37Z",
+  "docs": {
+    "body_bytes_hashed": 151181,
+    "body_sha256": "8b5611049e4564eaad1cd86da03a848f31b3b8f31c342c3c413d5b599e96d7bc",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:36Z",
+    "final_url": "https://cloudscape.design/",
+    "http_status": 200,
+    "url": "https://cloudscape.design/"
+  },
+  "id": "17",
+  "name": "AWS Cloudscape Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:37Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "3.0.1419",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T08:24:27Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 1287,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

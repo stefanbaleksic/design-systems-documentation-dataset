@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:12Z",
+  "docs": {
+    "body_bytes_hashed": 14663,
+    "body_sha256": "15c70bd6f045840d1d3a2785ec0d5d38aecb3bb4ad7379b0a4ef513e2f79c741",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:50Z",
+    "final_url": "https://nasa.github.io/nasawds-site/",
+    "http_status": 200,
+    "url": "https://nasa.github.io/nasawds-site/"
+  },
+  "id": "100",
+  "name": "NASA Web Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:12Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": "v4.0.72",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-09-15T05:36:06Z",
+    "spdx_licence": null,
+    "tag_count": 57,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

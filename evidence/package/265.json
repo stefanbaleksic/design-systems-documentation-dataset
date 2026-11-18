@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:45:33Z",
+  "error": null,
+  "id": "265",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/twbs/bootstrap",
+  "root": {
+    "error": null,
+    "name": "bootstrap",
+    "version": "6.0.0-alpha.1"
+  }
+}

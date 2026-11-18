@@ -1,0 +1,108 @@
+{
+  "collected_at_utc": "2026-11-18T11:41:18Z",
+  "error": null,
+  "id": "230",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@web/storybook",
+      "path": "apps/storybook/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@web/themebuilder",
+      "path": "apps/themebuilder/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@web/www",
+      "path": "apps/www/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "figma-plugin",
+      "path": "figma/plugin/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "figma-ui-kit",
+      "path": "figma/ui-kit/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "@internal/components",
+      "path": "internal/components/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@internal/digdir",
+      "path": "internal/digdir/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@digdir/designsystemet",
+      "path": "packages/cli/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "@digdir/designsystemet-css",
+      "path": "packages/css/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "@digdir/designsystemet-react",
+      "path": "packages/react/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "@digdir/designsystemet-types",
+      "path": "packages/types/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "@digdir/designsystemet-web",
+      "path": "packages/web/package.json",
+      "version": "1.24.0"
+    },
+    {
+      "error": null,
+      "name": "@test/react-18",
+      "path": "test/react-18/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "apps/storybook/package.json",
+    "apps/themebuilder/package.json",
+    "apps/www/package.json",
+    "figma/plugin/package.json",
+    "figma/ui-kit/package.json",
+    "internal/components/package.json",
+    "internal/digdir/package.json",
+    "package.json",
+    "packages/cli/package.json",
+    "packages/css/package.json",
+    "packages/react/package.json",
+    "packages/types/package.json",
+    "packages/web/package.json",
+    "test/react-18/package.json"
+  ],
+  "repo_url": "https://github.com/digdir/designsystemet",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": "0.0.0"
+  }
+}

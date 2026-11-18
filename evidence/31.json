@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:58Z",
+  "docs": {
+    "body_bytes_hashed": 76663,
+    "body_sha256": "ca00380c8f3ae19f2baf31de47e3dd32ad1f195061b982293e7f3149454d575d",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:58Z",
+    "final_url": "https://design.buzzvil.com/",
+    "http_status": 200,
+    "url": "https://design.buzzvil.com/"
+  },
+  "id": "31",
+  "name": "Buzzvil Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

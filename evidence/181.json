@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:54Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:42:12Z",
+    "http_status": 403,
+    "url": "https://github.com/uiowa/uids"
+  },
+  "id": "181",
+  "name": "Iowa Design System (UIDS)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:54Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "5.x",
+    "latest_tag": "4.0.1",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-10-19T18:41:14Z",
+    "spdx_licence": null,
+    "tag_count": 129,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

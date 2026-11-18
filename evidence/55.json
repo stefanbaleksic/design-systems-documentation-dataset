@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:25Z",
+  "docs": {
+    "body_bytes_hashed": 86562,
+    "body_sha256": "0bd02078ab1bc83f067e6abff6c2ac76b945986468057e9f62970ab66c778c0d",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:39Z",
+    "final_url": "https://developer.microsoft.com/en-us/fluentui#/",
+    "http_status": 200,
+    "url": "https://developer.microsoft.com/en-us/fluentui#/"
+  },
+  "id": "55",
+  "name": "Fluent UI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:25Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v0.70.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T11:10:38Z",
+    "spdx_licence": "MIT",
+    "tag_count": 34890,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

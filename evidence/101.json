@@ -1,0 +1,15 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:14Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:41:24Z",
+    "http_status": 403,
+    "url": "https://www.nationbuilder.design/"
+  },
+  "id": "101",
+  "name": "NationBuilder Radius",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "failed"
+}

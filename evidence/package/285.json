@@ -1,0 +1,66 @@
+{
+  "collected_at_utc": "2026-11-18T11:48:16Z",
+  "error": null,
+  "id": "285",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@park-ui/react",
+      "path": "components/react/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@park-ui/solid",
+      "path": "components/solid/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@park-ui/vue",
+      "path": "components/vue/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@park-ui/cli",
+      "path": "packages/cli/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@park-ui/preset",
+      "path": "packages/preset/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@park-ui/scripts",
+      "path": "packages/scripts/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@park-ui/website",
+      "path": "website/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "components/react/package.json",
+    "components/solid/package.json",
+    "components/vue/package.json",
+    "package.json",
+    "packages/cli/package.json",
+    "packages/preset/package.json",
+    "packages/scripts/package.json",
+    "website/package.json"
+  ],
+  "repo_url": "https://github.com/cschroeter/park-ui",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": null
+  }
+}

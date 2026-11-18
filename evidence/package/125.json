@@ -1,0 +1,413 @@
+{
+  "collected_at_utc": "2026-11-18T11:32:58Z",
+  "error": null,
+  "id": "125",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "cldr-openui5",
+      "path": "lib/cldr-openui5/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "html5-element-generator",
+      "path": "lib/html/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@openui5/sap.f",
+      "path": "src/sap.f/package.json",
+      "version": "1.156.0-SNAPSHOT"
+    },
+    {
+      "error": null,
+      "name": "sap-f-flexible-column-layout-column-resize",
+      "path": "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutColumnResize/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "sap-f-flexible-column-layout-with-fullscreen-page",
+      "path": "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutWithFullscreenPage/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "sap-f-flexible-column-layout-with-one-column-start",
+      "path": "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutWithOneColumnStart/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "sap-f-flexible-column-layout-with-two-column-start",
+      "path": "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutWithTwoColumnStart/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "sap-f-shell-bar-with-flexible-column-layout",
+      "path": "src/sap.f/test/sap/f/demokit/sample/ShellBarWithFlexibleColumnLayout/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/01/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/02/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/03/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/04/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/05/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/06/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/07/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/08/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/09/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/10/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/11/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/12/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "tutorial.fcl",
+      "path": "src/sap.f/test/sap/f/demokit/tutorial/fcl/13/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@openui5/sap.html",
+      "path": "src/sap.html/package.json",
+      "version": "1.156.0-SNAPSHOT"
+    },
+    {
+      "error": null,
+      "name": "@openui5/sap.m",
+      "path": "src/sap.m/package.json",
+      "version": "1.156.0-SNAPSHOT"
+    },
+    {
+      "error": null,
+      "name": "shopping-cart",
+      "path": "src/sap.m/test/sap/m/demokit/cart/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "icon-explorer",
+      "path": "src/sap.m/test/sap/m/demokit/iconExplorer/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "illustration-explorer",
+      "path": "src/sap.m/test/sap/m/demokit/illustrationExplorer/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "master-detail",
+      "path": "src/sap.m/test/sap/m/demokit/master-detail/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "browse-orders",
+      "path": "src/sap.m/test/sap/m/demokit/orderbrowser/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "ui5-illustrations-library",
+      "path": "src/sap.m/test/sap/m/demokit/sample/IllustratedMessageInAppCustom/mock-external-package/ui5-illustrations-library/package.json",
+      "version": "1.0.5"
+    },
+    {
+      "error": null,
+      "name": "ui5-custom-illustrations-app",
+      "path": "src/sap.m/test/sap/m/demokit/sample/IllustratedMessageInAppCustom/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "sap-m-table-scroll-to-index",
+      "path": "src/sap.m/test/sap/m/demokit/sample/TableScrollToIndex/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "team-calendar",
+      "path": "src/sap.m/test/sap/m/demokit/teamCalendar/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "theme-parameter-toolbox",
+      "path": "src/sap.m/test/sap/m/demokit/theming/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/01/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/02/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/03/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/04/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/05/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/06/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/07/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/08/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/09/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/10/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/11/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/12/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/13/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/14/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/15/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "testing-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/testing/16/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "worklist-tutorial",
+      "path": "src/sap.m/test/sap/m/demokit/tutorial/worklist/01/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "lib/cldr-openui5/package.json",
+    "lib/html/package.json",
+    "package.json",
+    "src/sap.f/package.json",
+    "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutColumnResize/package.json",
+    "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutWithFullscreenPage/package.json",
+    "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutWithOneColumnStart/package.json",
+    "src/sap.f/test/sap/f/demokit/sample/FlexibleColumnLayoutWithTwoColumnStart/package.json",
+    "src/sap.f/test/sap/f/demokit/sample/ShellBarWithFlexibleColumnLayout/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/01/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/02/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/03/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/04/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/05/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/06/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/07/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/08/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/09/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/10/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/11/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/12/package.json",
+    "src/sap.f/test/sap/f/demokit/tutorial/fcl/13/package.json",
+    "src/sap.html/package.json",
+    "src/sap.m/package.json",
+    "src/sap.m/test/sap/m/demokit/cart/package.json",
+    "src/sap.m/test/sap/m/demokit/iconExplorer/package.json",
+    "src/sap.m/test/sap/m/demokit/illustrationExplorer/package.json",
+    "src/sap.m/test/sap/m/demokit/master-detail/package.json",
+    "src/sap.m/test/sap/m/demokit/orderbrowser/package.json",
+    "src/sap.m/test/sap/m/demokit/sample/IllustratedMessageInAppCustom/mock-external-package/ui5-illustrations-library/package.json",
+    "src/sap.m/test/sap/m/demokit/sample/IllustratedMessageInAppCustom/package.json",
+    "src/sap.m/test/sap/m/demokit/sample/TableScrollToIndex/package.json",
+    "src/sap.m/test/sap/m/demokit/teamCalendar/package.json",
+    "src/sap.m/test/sap/m/demokit/theming/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/01/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/02/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/03/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/04/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/05/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/06/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/07/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/08/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/09/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/10/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/11/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/12/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/13/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/14/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/15/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/testing/16/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/worklist/01/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/worklist/02/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/worklist/03/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/worklist/04/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/worklist/05/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/worklist/06/package.json",
+    "src/sap.m/test/sap/m/demokit/tutorial/worklist/07/package.json",
+    "src/sap.m/test/sap/m/demokit/worklist/package.json",
+    "src/sap.tnt/package.json",
+    "src/sap.tnt/test/sap/tnt/demokit/toolpageapp/package.json",
+    "src/sap.ui.codeeditor/package.json",
+    "src/sap.ui.commons/package.json",
+    "src/sap.ui.core/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/sample/Messaging/ODataBackendMessagesComp/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/sample/ViewTemplate/tiny/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/sample/matcher/BindingPath/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/sample/matcher/Descendant/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/sample/matcher/I18NText/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/sample/matcher/LabelFor/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/tutorial/mockserver/01/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/tutorial/mockserver/02/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/tutorial/mockserver/03/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/tutorial/mockserver/04/package.json",
+    "src/sap.ui.core/test/sap/ui/core/demokit/tutorial/troubleshooting/01/package.json",
+    "src/sap.ui.core/test/sap/ui/core/samples/databinding/UnitTable/package.json",
+    "src/sap.ui.documentation/package.json",
+    "src/sap.ui.dt/package.json",
+    "src/sap.ui.fl/package.json",
+    "src/sap.ui.geomap/package.json",
+    "src/sap.ui.integration/package.json",
+    "src/sap.ui.integration/test/sap/ui/integration/demokit/cardExplorer/package.json",
+    "src/sap.ui.integration/test/sap/ui/integration/demokit/cardExplorer/webapp/samples/component/componentPreload/package.json",
+    "src/sap.ui.layout/package.json",
+    "src/sap.ui.mdc/package.json",
+    "src/sap.ui.rta/package.json",
+    "src/sap.ui.suite/package.json",
+    "src/sap.ui.support/package.json",
+    "src/sap.ui.table/package.json",
+    "src/sap.ui.testrecorder/package.json",
+    "src/sap.ui.unified/package.json",
+    "src/sap.ui.ux3/package.json",
+    "src/sap.uxap/package.json",
+    "src/testsuite/package.json",
+    "src/themelib_sap_belize/package.json",
+    "src/themelib_sap_bluecrystal/package.json",
+    "src/themelib_sap_fiori_3/package.json",
+    "src/themelib_sap_horizon/package.json"
+  ],
+  "repo_url": "https://github.com/SAP/openui5",
+  "root": {
+    "error": null,
+    "name": "openui5",
+    "version": "1.156.0-SNAPSHOT"
+  }
+}

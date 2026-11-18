@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:43Z",
+  "docs": {
+    "body_bytes_hashed": 15035,
+    "body_sha256": "cf4c56504196b44f3b9eede7310e669b6631feec0bde96f281a244dae91cd60c",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:43Z",
+    "final_url": "https://bento-ds.com",
+    "http_status": 200,
+    "url": "https://bento-ds.com"
+  },
+  "id": "21",
+  "name": "Bento DS",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:43Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v0.23.6",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-09-09T06:16:35Z",
+    "spdx_licence": "MIT",
+    "tag_count": 144,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

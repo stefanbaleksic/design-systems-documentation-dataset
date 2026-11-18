@@ -1,0 +1,87 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:59Z",
+  "error": null,
+  "id": "28",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@buildit/eslint-config",
+      "path": "packages/eslint/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@buildit/gravity-ui-nunjucks",
+      "path": "packages/gravity-ui-nunjucks/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@buildit/gravity-ui-web",
+      "path": "packages/gravity-ui-web/package.json",
+      "version": "3.3.0"
+    },
+    {
+      "error": null,
+      "name": "@buildit/semantic-release",
+      "path": "packages/semantic-release/config/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@buildit/semantic-release-lerna-analyzer",
+      "path": "packages/semantic-release/lerna-analyzer/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@buildit/semantic-release-lerna-release-notes-generator",
+      "path": "packages/semantic-release/release-notes-generator/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ui-web-sass",
+      "path": "packages/tests/ui-web-eyeglass/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ui-web-node-sass-import",
+      "path": "packages/tests/ui-web-node-sass-import/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ui-web-sass-loader",
+      "path": "packages/tests/ui-web-sass-loader/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ui-web-eyeglass",
+      "path": "packages/tests/ui-web-sass/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/eslint/package.json",
+    "packages/gravity-ui-nunjucks/package.json",
+    "packages/gravity-ui-web/package.json",
+    "packages/semantic-release/config/package.json",
+    "packages/semantic-release/lerna-analyzer/package.json",
+    "packages/semantic-release/release-notes-generator/package.json",
+    "packages/tests/ui-web-eyeglass/package.json",
+    "packages/tests/ui-web-node-sass-import/package.json",
+    "packages/tests/ui-web-sass-loader/package.json",
+    "packages/tests/ui-web-sass/package.json"
+  ],
+  "repo_url": "https://github.com/buildit/gravity-ui-web",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:00Z",
+  "docs": {
+    "body_bytes_hashed": 3879,
+    "body_sha256": "18f288db54ffb8d635b57730c6bd8fe9f2bd60a3b481ece5f9d3ff75a8868589",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:49Z",
+    "final_url": "https://design-system.strapi.io/",
+    "http_status": 200,
+    "url": "https://design-system.strapi.io/"
+  },
+  "id": "138",
+  "name": "Strapi Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:00Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v1.19.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-12T11:03:15Z",
+    "spdx_licence": "MIT",
+    "tag_count": 203,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

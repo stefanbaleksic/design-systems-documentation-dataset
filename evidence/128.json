@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:44Z",
+  "docs": {
+    "body_bytes_hashed": 37666,
+    "body_sha256": "40bc00618c2e9f297eab37333187473b8bc1814153be9d36706b53ede7a523dd",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:34Z",
+    "final_url": "https://seek-oss.github.io/seek-style-guide/",
+    "http_status": 200,
+    "url": "https://seek-oss.github.io/seek-style-guide/"
+  },
+  "id": "128",
+  "name": "SEEK Style Guide",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:44Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v42.0.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2020-08-06T23:18:03Z",
+    "spdx_licence": "MIT",
+    "tag_count": 351,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

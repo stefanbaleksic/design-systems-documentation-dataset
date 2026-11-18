@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:14Z",
+  "docs": {
+    "body_bytes_hashed": 14027,
+    "body_sha256": "3fb17fe76bfd4867cb0c2c0e9a82574a49f35246941939f8bdbed3b7de465f25",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:52Z",
+    "final_url": "https://service-manual.nhs.uk/",
+    "http_status": 200,
+    "url": "https://service-manual.nhs.uk/"
+  },
+  "id": "102",
+  "name": "NHS.UK Service Manual",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:45Z",
+  "docs": {
+    "body_bytes_hashed": 21256,
+    "body_sha256": "591eb2c83129474973ca5ae5586ab9586d3632047dc600771246e3bb3e5f7015",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:35Z",
+    "final_url": "https://tailwindcss.com/plus/login",
+    "http_status": 200,
+    "url": "https://tailwindcss.com/plus/ui-blocks"
+  },
+  "id": "167",
+  "name": "Tailwind UI",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

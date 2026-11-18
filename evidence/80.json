@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:53Z",
+  "docs": {
+    "body_bytes_hashed": 187388,
+    "body_sha256": "50ba56491762e5fdd3ff62dcabb445adf7bd6f66c49930798f019bdfcf10999d",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:16Z",
+    "final_url": "https://pie.design/",
+    "http_status": 200,
+    "url": "https://pie.design/"
+  },
+  "id": "80",
+  "name": "Just Eat Takeaway.com PIE",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:53Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T08:40:12Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 5951,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

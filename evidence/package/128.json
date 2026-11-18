@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:33:28Z",
+  "error": null,
+  "id": "128",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/seek-oss/seek-style-guide",
+  "root": {
+    "error": null,
+    "name": "seek-style-guide",
+    "version": "0.0.0-development"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "collected_at_utc": "2026-11-18T11:46:50Z",
+  "error": null,
+  "id": "274",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "material-angular-io",
+      "path": "docs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "example-app",
+      "path": "docs/src/assets/stackblitz/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ng-add-standalone",
+      "path": "integration/ng-add-standalone/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ng-add",
+      "path": "integration/ng-add/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "integration/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "vitest",
+      "path": "integration/vitest/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "yarn-pnp-compat",
+      "path": "integration/yarn-pnp-compat/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@angular/aria",
+      "path": "src/aria/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": "@angular/cdk-experimental",
+      "path": "src/cdk-experimental/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": "@angular/cdk",
+      "path": "src/cdk/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/cdk/schematics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@angular/components-examples",
+      "path": "src/components-examples/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/dev-app/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/e2e-app/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@angular/google-maps",
+      "path": "src/google-maps/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/google-maps/schematics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@angular/material-date-fns-adapter",
+      "path": "src/material-date-fns-adapter/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/material-date-fns-adapter/schematics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@angular/material-experimental",
+      "path": "src/material-experimental/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": "@angular/material-luxon-adapter",
+      "path": "src/material-luxon-adapter/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/material-luxon-adapter/schematics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@angular/material-moment-adapter",
+      "path": "src/material-moment-adapter/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/material-moment-adapter/schematics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@angular/material",
+      "path": "src/material/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/material/schematics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/universal-app/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@angular/youtube-player",
+      "path": "src/youtube-player/package.json",
+      "version": "0.0.0-PLACEHOLDER"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "src/youtube-player/schematics/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "docs/src/assets/stackblitz/package.json",
+    "integration/ng-add-standalone/package.json",
+    "integration/ng-add/package.json",
+    "integration/package.json",
+    "integration/vitest/package.json",
+    "integration/yarn-pnp-compat/package.json",
+    "package.json",
+    "src/aria/package.json",
+    "src/cdk-experimental/package.json",
+    "src/cdk/package.json",
+    "src/cdk/schematics/package.json",
+    "src/components-examples/package.json",
+    "src/dev-app/package.json",
+    "src/e2e-app/package.json",
+    "src/google-maps/package.json",
+    "src/google-maps/schematics/package.json",
+    "src/material-date-fns-adapter/package.json",
+    "src/material-date-fns-adapter/schematics/package.json",
+    "src/material-experimental/package.json",
+    "src/material-luxon-adapter/package.json",
+    "src/material-luxon-adapter/schematics/package.json",
+    "src/material-moment-adapter/package.json",
+    "src/material-moment-adapter/schematics/package.json",
+    "src/material/package.json",
+    "src/material/schematics/package.json",
+    "src/package.json",
+    "src/universal-app/package.json",
+    "src/youtube-player/package.json",
+    "src/youtube-player/schematics/package.json"
+  ],
+  "repo_url": "https://github.com/angular/components",
+  "root": {
+    "error": null,
+    "name": "components-srcs",
+    "version": "22.4.0-next.0"
+  }
+}

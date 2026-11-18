@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:56Z",
+  "docs": {
+    "body_bytes_hashed": 9218,
+    "body_sha256": "b8e7d794bcb5dcf3784c7f26ff00963af386f57e77ab0b03bafbb4bd21e62d81",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:57Z",
+    "final_url": "https://www.buzzfeed.com/static-assets/solid-docs/index.html",
+    "http_status": 200,
+    "url": "https://solid.buzzfeed.com/"
+  },
+  "id": "30",
+  "name": "BuzzFeed Solid",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:56Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "2.7.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2019-09-05T11:23:43Z",
+    "spdx_licence": "MIT",
+    "tag_count": 46,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

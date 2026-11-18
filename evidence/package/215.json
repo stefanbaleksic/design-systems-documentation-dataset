@@ -1,0 +1,387 @@
+{
+  "collected_at_utc": "2026-11-18T11:38:55Z",
+  "error": null,
+  "id": "215",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@sb1/ffe-analytics",
+      "path": "analytics/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-buildtool",
+      "path": "buildtool/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "DSBanken",
+      "path": "examples/DSBanken/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@sb1/eslint-config-ffe-base",
+      "path": "linting/eslint-config-ffe-base/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/eslint-config-ffe",
+      "path": "linting/eslint-config-ffe/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/stylelint-config-ffe",
+      "path": "linting/stylelint-config-ffe/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-accordion-react",
+      "path": "packages/ffe-accordion-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-accordion",
+      "path": "packages/ffe-accordion/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-account-selector-react",
+      "path": "packages/ffe-account-selector-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-badge-react",
+      "path": "packages/ffe-badge-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-badge",
+      "path": "packages/ffe-badge/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-buttons-react",
+      "path": "packages/ffe-buttons-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-buttons",
+      "path": "packages/ffe-buttons/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-cards-react",
+      "path": "packages/ffe-cards-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-cards",
+      "path": "packages/ffe-cards/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-chart-donut-react",
+      "path": "packages/ffe-chart-donut-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-chips-react",
+      "path": "packages/ffe-chips-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-chips",
+      "path": "packages/ffe-chips/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-collapse-react",
+      "path": "packages/ffe-collapse-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-context-message-react",
+      "path": "packages/ffe-context-message-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-context-message",
+      "path": "packages/ffe-context-message/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-core-react",
+      "path": "packages/ffe-core-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-core",
+      "path": "packages/ffe-core/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-datepicker-react",
+      "path": "packages/ffe-datepicker-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-datepicker",
+      "path": "packages/ffe-datepicker/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-dropdown-react",
+      "path": "packages/ffe-dropdown-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-feedback-react",
+      "path": "packages/ffe-feedback-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-feedback",
+      "path": "packages/ffe-feedback/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-file-upload-react",
+      "path": "packages/ffe-file-upload-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-file-upload",
+      "path": "packages/ffe-file-upload/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-form-react",
+      "path": "packages/ffe-form-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-form",
+      "path": "packages/ffe-form/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-formatters",
+      "path": "packages/ffe-formatters/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-grid-react",
+      "path": "packages/ffe-grid-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-grid",
+      "path": "packages/ffe-grid/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-header",
+      "path": "packages/ffe-header/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-icons-react",
+      "path": "packages/ffe-icons-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-icons",
+      "path": "packages/ffe-icons/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-lists-react",
+      "path": "packages/ffe-lists-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-lists",
+      "path": "packages/ffe-lists/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-message-box-react",
+      "path": "packages/ffe-message-box-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-message-box",
+      "path": "packages/ffe-message-box/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-messages-react",
+      "path": "packages/ffe-messages-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-messages",
+      "path": "packages/ffe-messages/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-modals-react",
+      "path": "packages/ffe-modals-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-modals",
+      "path": "packages/ffe-modals/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-pagination-react",
+      "path": "packages/ffe-pagination-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-pagination",
+      "path": "packages/ffe-pagination/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-progressbar-react",
+      "path": "packages/ffe-progressbar-react/package.json",
+      "version": "102.0.16"
+    },
+    {
+      "error": null,
+      "name": "@sb1/ffe-progressbar",
+      "path": "packages/ffe-progressbar/package.json",
+      "version": "102.0.16"
+    }
+  ],
+  "paths": [
+    "analytics/package.json",
+    "buildtool/package.json",
+    "examples/DSBanken/package.json",
+    "linting/eslint-config-ffe-base/package.json",
+    "linting/eslint-config-ffe/package.json",
+    "linting/stylelint-config-ffe/package.json",
+    "package.json",
+    "packages/ffe-accordion-react/package.json",
+    "packages/ffe-accordion/package.json",
+    "packages/ffe-account-selector-react/package.json",
+    "packages/ffe-badge-react/package.json",
+    "packages/ffe-badge/package.json",
+    "packages/ffe-buttons-react/package.json",
+    "packages/ffe-buttons/package.json",
+    "packages/ffe-cards-react/package.json",
+    "packages/ffe-cards/package.json",
+    "packages/ffe-chart-donut-react/package.json",
+    "packages/ffe-chips-react/package.json",
+    "packages/ffe-chips/package.json",
+    "packages/ffe-collapse-react/package.json",
+    "packages/ffe-context-message-react/package.json",
+    "packages/ffe-context-message/package.json",
+    "packages/ffe-core-react/package.json",
+    "packages/ffe-core/package.json",
+    "packages/ffe-datepicker-react/package.json",
+    "packages/ffe-datepicker/package.json",
+    "packages/ffe-dropdown-react/package.json",
+    "packages/ffe-feedback-react/package.json",
+    "packages/ffe-feedback/package.json",
+    "packages/ffe-file-upload-react/package.json",
+    "packages/ffe-file-upload/package.json",
+    "packages/ffe-form-react/package.json",
+    "packages/ffe-form/package.json",
+    "packages/ffe-formatters/package.json",
+    "packages/ffe-grid-react/package.json",
+    "packages/ffe-grid/package.json",
+    "packages/ffe-header/package.json",
+    "packages/ffe-icons-react/package.json",
+    "packages/ffe-icons/package.json",
+    "packages/ffe-lists-react/package.json",
+    "packages/ffe-lists/package.json",
+    "packages/ffe-message-box-react/package.json",
+    "packages/ffe-message-box/package.json",
+    "packages/ffe-messages-react/package.json",
+    "packages/ffe-messages/package.json",
+    "packages/ffe-modals-react/package.json",
+    "packages/ffe-modals/package.json",
+    "packages/ffe-pagination-react/package.json",
+    "packages/ffe-pagination/package.json",
+    "packages/ffe-progressbar-react/package.json",
+    "packages/ffe-progressbar/package.json",
+    "packages/ffe-sb1-logos/package.json",
+    "packages/ffe-searchable-dropdown-react/package.json",
+    "packages/ffe-shapes-react/package.json",
+    "packages/ffe-shapes/package.json",
+    "packages/ffe-skeleton-react/package.json",
+    "packages/ffe-skeleton/package.json",
+    "packages/ffe-spinner-react/package.json",
+    "packages/ffe-spinner/package.json",
+    "packages/ffe-symbols-react/package.json",
+    "packages/ffe-symbols/package.json",
+    "packages/ffe-system-message-react/package.json",
+    "packages/ffe-system-message/package.json",
+    "packages/ffe-tables-react/package.json",
+    "packages/ffe-tables/package.json",
+    "packages/ffe-tabs-react/package.json",
+    "packages/ffe-tabs/package.json",
+    "packages/ffe-tags-react/package.json",
+    "packages/ffe-tags/package.json",
+    "packages/ffe-vite-less/package.json",
+    "packages/ffe-webfonts/package.json"
+  ],
+  "repo_url": "https://github.com/SpareBank1/designsystem",
+  "root": {
+    "error": null,
+    "name": "@sb1/ffe",
+    "version": "1.0.0"
+  }
+}

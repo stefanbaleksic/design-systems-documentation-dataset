@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:17Z",
+  "docs": null,
+  "id": "244",
+  "name": "Vuetify",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:17Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v4.3.4",
+    "licence_detection": "no known licence text",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-18T00:32:12Z",
+    "spdx_licence": null,
+    "tag_count": 711,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

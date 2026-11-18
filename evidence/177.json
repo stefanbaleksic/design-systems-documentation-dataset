@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:47Z",
+  "docs": {
+    "body_bytes_hashed": 128600,
+    "body_sha256": "3f42a57599dae2b9592331b2de293e147b71ee17850c6f6e8b343cd3d2ebd52f",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:46Z",
+    "final_url": "https://ux.tti.tamu.edu/design/tux/",
+    "http_status": 200,
+    "url": "https://ux.tti.tamu.edu/design/tux/"
+  },
+  "id": "177",
+  "name": "TAMU TUX Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

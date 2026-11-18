@@ -1,0 +1,32 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:23Z",
+  "docs": {
+    "error": "URLError: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1035)>",
+    "fetched_at_utc": "2026-11-18T09:41:30Z",
+    "url": "https://styleguide.pivotal.io/"
+  },
+  "id": "112",
+  "name": "Pivotal",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:23Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v19.2.5",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2024-05-15T20:16:43Z",
+    "spdx_licence": "MIT",
+    "tag_count": 181,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

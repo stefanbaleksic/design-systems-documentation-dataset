@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:13Z",
+  "docs": {
+    "body_bytes_hashed": 101898,
+    "body_sha256": "3f5411bcb165e1d19145eb5509886c99b7261428c5431d576326242b8c8ca93b",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:17Z",
+    "final_url": "https://www.duetds.com",
+    "http_status": 200,
+    "url": "https://www.duetds.com"
+  },
+  "id": "42",
+  "name": "Duet",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:33Z",
+  "docs": {
+    "body_bytes_hashed": 1079,
+    "body_sha256": "912f138bc84a7e7fb8474aea95a34865c7f7de1e8c180353571ad1441334bd96",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:17Z",
+    "final_url": "https://ui-kit.rambler.ru/",
+    "http_status": 200,
+    "url": "https://rambler-digital-solutions.github.io/rambler-ui/"
+  },
+  "id": "118",
+  "name": "Rambler UI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:33Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v5.15.5",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2025-01-15T11:27:02Z",
+    "spdx_licence": "MIT",
+    "tag_count": 254,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:10Z",
+  "docs": {
+    "body_bytes_hashed": 35847,
+    "body_sha256": "07a60bfb7518189c5fe8730a87487a08faf564c52af1216e19e37ee9466d93de",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:32:29Z",
+    "final_url": "https://designsystem.morningstar.com/",
+    "http_status": 200,
+    "url": "https://designsystem.morningstar.com/"
+  },
+  "id": "98",
+  "name": "Morningstar Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

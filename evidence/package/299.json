@@ -1,0 +1,115 @@
+{
+  "collected_at_utc": "2026-11-18T11:49:58Z",
+  "error": null,
+  "id": "299",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "",
+      "path": "css-components-previewer/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ngx-onsenui",
+      "path": "ngx-onsenui/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ngx-onsenui",
+      "path": "ngx-onsenui/projects/ngx-onsenui/package.json",
+      "version": "7.1.1-beta.0"
+    },
+    {
+      "error": null,
+      "name": "angularjs-onsenui",
+      "path": "onsenui/bindings/angular1/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "ngx-onsenui-dev",
+      "path": "onsenui/bindings/angular2/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "onsenui",
+      "path": "onsenui/package.json",
+      "version": "2.12.9"
+    },
+    {
+      "error": null,
+      "name": "react-onsenui-examples",
+      "path": "react-onsenui-examples/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "react-onsenui",
+      "path": "react-onsenui/package.json",
+      "version": "1.13.4-beta.0"
+    },
+    {
+      "error": null,
+      "name": "vue-onsenui-examples",
+      "path": "vue-onsenui-examples/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "vue-onsenui",
+      "path": "vue-onsenui/package.json",
+      "version": "2.7.2"
+    },
+    {
+      "error": null,
+      "name": "vue-onsenui-helper-json",
+      "path": "vue-onsenui/packages/vue-onsenui-helper-json/package.json",
+      "version": "1.0.2"
+    },
+    {
+      "error": null,
+      "name": "vue3-onsenui-examples",
+      "path": "vue3-onsenui-examples/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "vue-onsenui",
+      "path": "vue3-onsenui/package.json",
+      "version": "3.0.1-beta.0"
+    },
+    {
+      "error": null,
+      "name": "vue-onsenui-helper-json",
+      "path": "vue3-onsenui/packages/vue-onsenui-helper-json/package.json",
+      "version": "1.0.2"
+    }
+  ],
+  "paths": [
+    "css-components-previewer/package.json",
+    "ngx-onsenui/package.json",
+    "ngx-onsenui/projects/ngx-onsenui/package.json",
+    "onsenui/bindings/angular1/package.json",
+    "onsenui/bindings/angular2/package.json",
+    "onsenui/package.json",
+    "package.json",
+    "react-onsenui-examples/package.json",
+    "react-onsenui/package.json",
+    "vue-onsenui-examples/package.json",
+    "vue-onsenui/package.json",
+    "vue-onsenui/packages/vue-onsenui-helper-json/package.json",
+    "vue3-onsenui-examples/package.json",
+    "vue3-onsenui/package.json",
+    "vue3-onsenui/packages/vue-onsenui-helper-json/package.json"
+  ],
+  "repo_url": "https://github.com/onsenui/onsenui",
+  "root": {
+    "error": null,
+    "name": "onsenui-monorepo",
+    "version": "1.0.0"
+  }
+}

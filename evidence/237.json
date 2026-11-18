@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:05Z",
+  "docs": null,
+  "id": "237",
+  "name": "NHS App frontend",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:05Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v5.4.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T17:31:09Z",
+    "spdx_licence": "MIT",
+    "tag_count": 22,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

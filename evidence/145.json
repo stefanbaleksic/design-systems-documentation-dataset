@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:09Z",
+  "docs": {
+    "body_bytes_hashed": 19936,
+    "body_sha256": "b4fc2f961639c51a66146ba69aac5835e6037aa02a4046d9ef86198960c19ef0",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:02Z",
+    "final_url": "https://vanillaframework.io/",
+    "http_status": 200,
+    "url": "https://vanillaframework.io/"
+  },
+  "id": "145",
+  "name": "Ubuntu Vanilla framework",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:09Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v4.62.2",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T10:13:49Z",
+    "spdx_licence": "GPL-3.0",
+    "tag_count": 313,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,531 @@
+{
+  "collected_at_utc": "2026-11-18T11:47:47Z",
+  "error": null,
+  "id": "283",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@tamagui/bento",
+      "path": "code/bento/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/comparison-conformance-native",
+      "path": "code/comparisons/conformance/native/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/comparison-conformance",
+      "path": "code/comparisons/conformance/web/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "tailwind-coverage",
+      "path": "code/comparisons/tailwind-coverage/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@tamagui/comparison-tamagui-bench",
+      "path": "code/comparisons/tamagui-bench/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/comparison-v2-control",
+      "path": "code/comparisons/v2-control/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/analyzer-spike",
+      "path": "code/compiler/analyzer-spike/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/compiler-core",
+      "path": "code/compiler/compiler-core/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "tamagui-loader",
+      "path": "code/compiler/loader/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/metro-plugin",
+      "path": "code/compiler/metro-plugin/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/next-plugin",
+      "path": "code/compiler/next-plugin/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/static-tests",
+      "path": "code/compiler/static-tests/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/static",
+      "path": "code/compiler/static/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/vite-plugin-cjs",
+      "path": "code/compiler/vite-plugin-cjs/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/vite-plugin",
+      "path": "code/compiler/vite-plugin/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@fixture/module-runner-app",
+      "path": "code/compiler/vite-plugin/test/fixtures/module-runner/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@tamagui/compiler-condition-fixture",
+      "path": "code/compiler/vite-plugin/test/fixtures/module-runner/packages/compiler-condition-fixture/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@fixture/components",
+      "path": "code/compiler/vite-plugin/test/fixtures/module-runner/packages/components/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@fixture/conditional",
+      "path": "code/compiler/vite-plugin/test/fixtures/module-runner/packages/conditional/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@tamagui/user-no-external-fixture",
+      "path": "code/compiler/vite-plugin/test/fixtures/module-runner/packages/user-no-external-fixture/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@tamagui/animation-helpers",
+      "path": "code/core/animation-helpers/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/animations-css",
+      "path": "code/core/animations-css/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/animations-motion",
+      "path": "code/core/animations-motion/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/animations-react-native",
+      "path": "code/core/animations-react-native/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/animations-reanimated",
+      "path": "code/core/animations-reanimated/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/assert",
+      "path": "code/core/assert/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/calc",
+      "path": "code/core/calc/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/cli",
+      "path": "code/core/cli/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/codemod-flat-values",
+      "path": "code/core/codemod-flat-values/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/colors",
+      "path": "code/core/colors/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/compose-refs",
+      "path": "code/core/compose-refs/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/config-base",
+      "path": "code/core/config-base/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/config-default",
+      "path": "code/core/config-default/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/config-v5",
+      "path": "code/core/config-v5/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/config",
+      "path": "code/core/config/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/constants",
+      "path": "code/core/constants/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/core-test",
+      "path": "code/core/core-test/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/core",
+      "path": "code/core/core/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/create-context",
+      "path": "code/core/create-context/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/create-system-font",
+      "path": "code/core/create-system-font/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "create-tamagui",
+      "path": "code/core/create-tamagui/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/create-theme",
+      "path": "code/core/create-theme/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/cubic-bezier-animator",
+      "path": "code/core/cubic-bezier-animator/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/dom",
+      "path": "code/core/dom/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/eslint-plugin",
+      "path": "code/core/eslint-plugin/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/floating",
+      "path": "code/core/floating/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/font-cherry-bomb",
+      "path": "code/core/font-cherry-bomb/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/font-dm-sans",
+      "path": "code/core/font-dm-sans/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/font-dm-serif-display",
+      "path": "code/core/font-dm-serif-display/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@tamagui/font-fira-mono",
+      "path": "code/core/font-fira-mono/package.json",
+      "version": "3.3.3"
+    }
+  ],
+  "paths": [
+    "code/bento/package.json",
+    "code/comparisons/conformance/native/package.json",
+    "code/comparisons/conformance/web/package.json",
+    "code/comparisons/tailwind-coverage/package.json",
+    "code/comparisons/tamagui-bench/package.json",
+    "code/comparisons/v2-control/package.json",
+    "code/compiler/analyzer-spike/package.json",
+    "code/compiler/compiler-core/package.json",
+    "code/compiler/loader/package.json",
+    "code/compiler/metro-plugin/package.json",
+    "code/compiler/next-plugin/package.json",
+    "code/compiler/static-tests/package.json",
+    "code/compiler/static/package.json",
+    "code/compiler/vite-plugin-cjs/package.json",
+    "code/compiler/vite-plugin/package.json",
+    "code/compiler/vite-plugin/test/fixtures/module-runner/package.json",
+    "code/compiler/vite-plugin/test/fixtures/module-runner/packages/compiler-condition-fixture/package.json",
+    "code/compiler/vite-plugin/test/fixtures/module-runner/packages/components/package.json",
+    "code/compiler/vite-plugin/test/fixtures/module-runner/packages/conditional/package.json",
+    "code/compiler/vite-plugin/test/fixtures/module-runner/packages/user-no-external-fixture/package.json",
+    "code/core/animation-helpers/package.json",
+    "code/core/animations-css/package.json",
+    "code/core/animations-motion/package.json",
+    "code/core/animations-react-native/package.json",
+    "code/core/animations-reanimated/package.json",
+    "code/core/assert/package.json",
+    "code/core/calc/package.json",
+    "code/core/cli/package.json",
+    "code/core/codemod-flat-values/package.json",
+    "code/core/colors/package.json",
+    "code/core/compose-refs/package.json",
+    "code/core/config-base/package.json",
+    "code/core/config-default/package.json",
+    "code/core/config-v5/package.json",
+    "code/core/config/package.json",
+    "code/core/constants/package.json",
+    "code/core/core-test/package.json",
+    "code/core/core/package.json",
+    "code/core/create-context/package.json",
+    "code/core/create-system-font/package.json",
+    "code/core/create-tamagui/package.json",
+    "code/core/create-theme/package.json",
+    "code/core/cubic-bezier-animator/package.json",
+    "code/core/dom/package.json",
+    "code/core/eslint-plugin/package.json",
+    "code/core/floating/package.json",
+    "code/core/font-cherry-bomb/package.json",
+    "code/core/font-dm-sans/package.json",
+    "code/core/font-dm-serif-display/package.json",
+    "code/core/font-fira-mono/package.json",
+    "code/core/font-glusp/package.json",
+    "code/core/font-inter/package.json",
+    "code/core/font-munro/package.json",
+    "code/core/font-nohemi/package.json",
+    "code/core/font-silkscreen/package.json",
+    "code/core/font-size/package.json",
+    "code/core/font/package.json",
+    "code/core/generate-themes/package.json",
+    "code/core/get-font-sized/package.json",
+    "code/core/get-token/package.json",
+    "code/core/helpers-icon/package.json",
+    "code/core/helpers-node/package.json",
+    "code/core/helpers-tamagui/package.json",
+    "code/core/helpers/package.json",
+    "code/core/language-service-vscode/package.json",
+    "code/core/language-service/package.json",
+    "code/core/monorepo-test/package.json",
+    "code/core/native-registry/package.json",
+    "code/core/native/package.json",
+    "code/core/normalize-css-color/package.json",
+    "code/core/polyfill-dev/package.json",
+    "code/core/proxy-worm/package.json",
+    "code/core/react-native-media-driver/package.json",
+    "code/core/react-native-pan-responder/package.json",
+    "code/core/react-native-types/package.json",
+    "code/core/react-native-use-pressable/package.json",
+    "code/core/react-native-use-responder-events/package.json",
+    "code/core/react-native-web-internals/package.json",
+    "code/core/shorthands/package.json",
+    "code/core/simple-hash/package.json",
+    "code/core/start-transition/package.json",
+    "code/core/style-grammar/package.json",
+    "code/core/tailwind/package.json",
+    "code/core/test-design-system/package.json",
+    "code/core/theme-base/package.json",
+    "code/core/theme/package.json",
+    "code/core/themes/package.json",
+    "code/core/to-tailwind/package.json",
+    "code/core/types/package.json",
+    "code/core/use-callback-ref/package.json",
+    "code/core/use-constant/package.json",
+    "code/core/use-controllable-state/package.json",
+    "code/core/use-debounce/package.json",
+    "code/core/use-did-finish-ssr/package.json",
+    "code/core/use-direction/package.json",
+    "code/core/use-element-layout/package.json",
+    "code/core/use-escape-keydown/package.json",
+    "code/core/use-event/package.json",
+    "code/core/use-force-update/package.json",
+    "code/core/use-keyboard-visible/package.json",
+    "code/core/use-presence/package.json",
+    "code/core/use-previous/package.json",
+    "code/core/use-window-dimensions/package.json",
+    "code/core/web/package.json",
+    "code/demos/package.json",
+    "code/kitchen-sink-go/package.json",
+    "code/kitchen-sink-shared/package.json",
+    "code/kitchen-sink/package.json",
+    "code/lsp/npm/tamagui-lsp/package.json",
+    "code/packages/babel-plugin-fully-specified/package.json",
+    "code/packages/bento-get/package.json",
+    "code/packages/build/__tests__/fixtures/inferred-native-props/package.json",
+    "code/packages/build/__tests__/fixtures/js-main-package/package.json",
+    "code/packages/build/__tests__/fixtures/platform-package/package.json",
+    "code/packages/build/__tests__/fixtures/simple-package/package.json",
+    "code/packages/build/__tests__/fixtures/subpath-only-package/package.json",
+    "code/packages/build/__tests__/fixtures/watch-package/package.json",
+    "code/packages/build/package.json",
+    "code/packages/cli-color/package.json",
+    "code/packages/code-to-html/package.json",
+    "code/packages/conditional-hooks/package.json",
+    "code/packages/element/package.json",
+    "code/packages/fake-react-native/package.json",
+    "code/packages/is-equal-shallow/package.json",
+    "code/packages/local-icons/package.json",
+    "code/packages/logo/package.json",
+    "code/packages/native-bundle/package.json",
+    "code/packages/native-ci/package.json",
+    "code/packages/next-theme/package.json",
+    "code/packages/react-native-svg/package.json",
+    "code/packages/react-native-web-lite/package.json",
+    "code/packages/sandbox-ui/package.json",
+    "code/packages/tamagui-dev-config/package.json",
+    "code/packages/timer/package.json",
+    "code/packages/use-async/package.json",
+    "code/packages/use-store/package.json",
+    "code/packages/vite-plugin-internal/package.json",
+    "code/sandbox/package.json",
+    "code/starters/remix/package.json",
+    "code/starters/zero-runtime/package.json",
+    "code/tamagui.dev/package.json",
+    "code/tests/configs/package.json",
+    "code/tests/integration/package.json",
+    "code/tests/next-site/package.json",
+    "code/tests/next-turbopack/package.json",
+    "code/tests/next-webpack/package.json",
+    "code/tests/next-webpack/packages/app/package.json",
+    "code/tests/next-webpack/packages/config/package.json",
+    "code/tests/next-webpack/packages/ui/package.json",
+    "code/tests/v3-canary/package.json",
+    "code/tests/zero-runtime/package.json",
+    "code/ui/accordion/package.json",
+    "code/ui/adapt/package.json",
+    "code/ui/alert-dialog/package.json",
+    "code/ui/animate-presence/package.json",
+    "code/ui/animate/package.json",
+    "code/ui/avatar/package.json",
+    "code/ui/button/package.json",
+    "code/ui/card/package.json",
+    "code/ui/checkbox-headless/package.json",
+    "code/ui/checkbox/package.json",
+    "code/ui/collapsible/package.json",
+    "code/ui/collection/package.json",
+    "code/ui/components-test/package.json",
+    "code/ui/context-menu/package.json",
+    "code/ui/create-menu/package.json",
+    "code/ui/dialog/package.json",
+    "code/ui/dismissable/package.json",
+    "code/ui/field/package.json",
+    "code/ui/focus-guard/package.json",
+    "code/ui/focus-scope/package.json",
+    "code/ui/focusable/package.json",
+    "code/ui/form/package.json",
+    "code/ui/group/package.json",
+    "code/ui/image/package.json",
+    "code/ui/input/package.json",
+    "code/ui/label/package.json",
+    "code/ui/linear-gradient/package.json",
+    "code/ui/list-item/package.json",
+    "code/ui/menu/package.json",
+    "code/ui/popover/package.json",
+    "code/ui/popper/package.json",
+    "code/ui/portal/package.json",
+    "code/ui/progress/package.json",
+    "code/ui/radio-group/package.json",
+    "code/ui/radio-headless/package.json",
+    "code/ui/react-native-web/package.json",
+    "code/ui/remove-scroll/package.json",
+    "code/ui/roving-focus/package.json",
+    "code/ui/scroll-view/package.json",
+    "code/ui/select/package.json",
+    "code/ui/separator/package.json",
+    "code/ui/shapes/package.json",
+    "code/ui/sheet/package.json",
+    "code/ui/slider/package.json",
+    "code/ui/spacer/package.json",
+    "code/ui/spinner/package.json",
+    "code/ui/stacks/package.json",
+    "code/ui/switch-headless/package.json",
+    "code/ui/switch/package.json",
+    "code/ui/tabs-headless/package.json",
+    "code/ui/tabs/package.json",
+    "code/ui/tamagui/package.json",
+    "code/ui/text-test/package.json",
+    "code/ui/text/package.json",
+    "code/ui/toast/package.json",
+    "code/ui/toggle-group/package.json",
+    "code/ui/tooltip/package.json",
+    "code/ui/ui/package.json",
+    "code/ui/visually-hidden/package.json",
+    "code/ui/z-index-stack/package.json",
+    "docs/validation/bun-lockfile-v2/package.json",
+    "package.json",
+    "registry/ci/blank-expo/package.json",
+    "registry/ci/blank-web/package.json"
+  ],
+  "repo_url": "https://github.com/tamagui/tamagui",
+  "root": {
+    "error": null,
+    "name": "tamagui-monorepo",
+    "version": "0.0.0"
+  }
+}

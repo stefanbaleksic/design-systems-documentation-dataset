@@ -1,0 +1,276 @@
+{
+  "collected_at_utc": "2026-11-18T11:43:12Z",
+  "error": null,
+  "id": "245",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@quasar/app-vite",
+      "path": "app-vite/package.json",
+      "version": "3.10.4"
+    },
+    {
+      "error": null,
+      "name": "app-vite-playground-js",
+      "path": "app-vite/playground-js/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "app-vite-playground-ts",
+      "path": "app-vite/playground-ts/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "quasar-bex-app",
+      "path": "app-vite/templates/bex/js/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-bex-app",
+      "path": "app-vite/templates/bex/ts/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-capacitor-app",
+      "path": "app-vite/templates/capacitor/common/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-electron-app",
+      "path": "app-vite/templates/electron/common/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-pwa-app",
+      "path": "app-vite/templates/pwa/common/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssg-app",
+      "path": "app-vite/templates/ssg/common/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-express",
+      "path": "app-vite/templates/ssr/express/js/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-express",
+      "path": "app-vite/templates/ssr/express/ts/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-fastify",
+      "path": "app-vite/templates/ssr/fastify/common/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-hono",
+      "path": "app-vite/templates/ssr/hono/common/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-koa",
+      "path": "app-vite/templates/ssr/koa/js/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-koa",
+      "path": "app-vite/templates/ssr/koa/ts/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "ae-host-app",
+      "path": "app-vite/test/fixtures/ae-host-app/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "quasar-app-extension-qe2e",
+      "path": "app-vite/test/fixtures/quasar-app-extension-qe2e/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@quasar/cli",
+      "path": "cli/package.json",
+      "version": "5.0.10"
+    },
+    {
+      "error": null,
+      "name": "create-quasar",
+      "path": "create-quasar/package.json",
+      "version": "5.0.38"
+    },
+    {
+      "error": null,
+      "name": "quasar.dev",
+      "path": "docs/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-pwa-app",
+      "path": "docs/src-pwa/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssg-app",
+      "path": "docs/src-ssg/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-hono",
+      "path": "docs/src-ssr/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@quasar/extras",
+      "path": "extras/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@quasar/icongenie",
+      "path": "icongenie/package.json",
+      "version": "7.0.1"
+    },
+    {
+      "error": null,
+      "name": "@quasar/mcp",
+      "path": "mcp/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "quasar",
+      "path": "ui/package.json",
+      "version": "2.35.5"
+    },
+    {
+      "error": null,
+      "name": "quasar-ui-playground",
+      "path": "ui/playground/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "quasar-ssr-app-hono",
+      "path": "ui/playground/src-ssr/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "upload-server",
+      "path": "ui/playground/upload-server/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@quasar/art",
+      "path": "utils/art/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@quasar/render-ssr-error",
+      "path": "utils/render-ssr-error/package.json",
+      "version": "2.2.6"
+    },
+    {
+      "error": null,
+      "name": "do-not-publish-this-folder",
+      "path": "utils/render-ssr-error/src-ui/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@quasar/ssl-certificate",
+      "path": "utils/ssl-certificate/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@quasar/update-notifier",
+      "path": "utils/update-notifier/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@quasar/vite-plugin",
+      "path": "vite-plugin/package.json",
+      "version": "2.0.2"
+    },
+    {
+      "error": null,
+      "name": "quasar-vite-plugin-playground",
+      "path": "vite-plugin/playground/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "app-vite/package.json",
+    "app-vite/playground-js/package.json",
+    "app-vite/playground-ts/package.json",
+    "app-vite/templates/bex/js/package.json",
+    "app-vite/templates/bex/ts/package.json",
+    "app-vite/templates/capacitor/common/package.json",
+    "app-vite/templates/electron/common/package.json",
+    "app-vite/templates/pwa/common/package.json",
+    "app-vite/templates/ssg/common/package.json",
+    "app-vite/templates/ssr/express/js/package.json",
+    "app-vite/templates/ssr/express/ts/package.json",
+    "app-vite/templates/ssr/fastify/common/package.json",
+    "app-vite/templates/ssr/hono/common/package.json",
+    "app-vite/templates/ssr/koa/js/package.json",
+    "app-vite/templates/ssr/koa/ts/package.json",
+    "app-vite/test/fixtures/ae-host-app/package.json",
+    "app-vite/test/fixtures/quasar-app-extension-qe2e/package.json",
+    "cli/package.json",
+    "create-quasar/package.json",
+    "docs/package.json",
+    "docs/src-pwa/package.json",
+    "docs/src-ssg/package.json",
+    "docs/src-ssr/package.json",
+    "extras/package.json",
+    "icongenie/package.json",
+    "mcp/package.json",
+    "package.json",
+    "ui/package.json",
+    "ui/playground/package.json",
+    "ui/playground/src-ssr/package.json",
+    "ui/playground/upload-server/package.json",
+    "utils/art/package.json",
+    "utils/render-ssr-error/package.json",
+    "utils/render-ssr-error/src-ui/package.json",
+    "utils/ssl-certificate/package.json",
+    "utils/update-notifier/package.json",
+    "vite-plugin/package.json",
+    "vite-plugin/playground/package.json"
+  ],
+  "repo_url": "https://github.com/quasarframework/quasar",
+  "root": {
+    "error": null,
+    "name": "quasar-monorepo",
+    "version": null
+  }
+}

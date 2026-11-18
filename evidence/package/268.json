@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:46:00Z",
+  "error": null,
+  "id": "268",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@arco-design/web-react-hooks",
+      "path": "hooks/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@arco-design/web-react-icon",
+      "path": "icon/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@arco-design/static-pc-site",
+      "path": "site/package.json",
+      "version": "2.4.0"
+    }
+  ],
+  "paths": [
+    "hooks/package.json",
+    "icon/package.json",
+    "package.json",
+    "site/package.json"
+  ],
+  "repo_url": "https://github.com/arco-design/arco-design",
+  "root": {
+    "error": null,
+    "name": "@arco-design/web-react",
+    "version": "2.66.18"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "collected_at_utc": "2026-11-18T11:36:55Z",
+  "error": null,
+  "id": "161",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-codemod",
+      "path": "modules/codemod/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-css",
+      "path": "modules/css/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-docs",
+      "path": "modules/docs/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-labs-css",
+      "path": "modules/labs-css/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-labs-react",
+      "path": "modules/labs-react/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-mcp",
+      "path": "modules/mcp/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-popup-stack",
+      "path": "modules/popup-stack/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-preview-css",
+      "path": "modules/preview-css/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-preview-react",
+      "path": "modules/preview-react/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-react-fonts",
+      "path": "modules/react-fonts/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-react",
+      "path": "modules/react/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-styling-transform",
+      "path": "modules/styling-transform/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "@workday/canvas-kit-styling",
+      "path": "modules/styling/package.json",
+      "version": "16.2.21"
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-workday-custom-rules",
+      "path": "utils/custom-lint-rules/package.json",
+      "version": "0.0.1"
+    }
+  ],
+  "paths": [
+    "modules/codemod/package.json",
+    "modules/css/package.json",
+    "modules/docs/package.json",
+    "modules/labs-css/package.json",
+    "modules/labs-react/package.json",
+    "modules/mcp/package.json",
+    "modules/popup-stack/package.json",
+    "modules/preview-css/package.json",
+    "modules/preview-react/package.json",
+    "modules/react-fonts/package.json",
+    "modules/react/package.json",
+    "modules/styling-transform/package.json",
+    "modules/styling/package.json",
+    "package.json",
+    "utils/custom-lint-rules/package.json"
+  ],
+  "repo_url": "https://github.com/Workday/canvas-kit",
+  "root": {
+    "error": null,
+    "name": "canvas-kit",
+    "version": null
+  }
+}

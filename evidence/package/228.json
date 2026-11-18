@@ -1,0 +1,171 @@
+{
+  "collected_at_utc": "2026-11-18T11:41:03Z",
+  "error": null,
+  "id": "228",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@ogcio/design-system-docs",
+      "path": "apps/docs/package.json",
+      "version": "1.50.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/examples-angular",
+      "path": "examples/angular/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@ogcio/examples-html",
+      "path": "examples/html/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@ogcio/examples-nextjs",
+      "path": "examples/nextjs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@ogcio/examples-vite",
+      "path": "examples/vite/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-angular",
+      "path": "packages/angular/package.json",
+      "version": "0.7.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-eslint-config",
+      "path": "packages/build/eslint-config/package.json",
+      "version": "1.4.1"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-prettier-config",
+      "path": "packages/build/prettier-config/package.json",
+      "version": "1.1.1"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-core",
+      "path": "packages/core/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-figma",
+      "path": "packages/design/figma/package.json",
+      "version": "1.0.8"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-tailwind",
+      "path": "packages/design/tailwind/package.json",
+      "version": "1.27.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/theme-builder",
+      "path": "packages/design/theme-builder/package.json",
+      "version": "1.24.3"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-token-utils",
+      "path": "packages/design/token-utils/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-tokens-builder",
+      "path": "packages/design/tokens-builder/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-tokens",
+      "path": "packages/design/tokens/package.json",
+      "version": "1.22.3"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-html",
+      "path": "packages/html/ds/package.json",
+      "version": "1.21.8"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-inspector",
+      "path": "packages/inspector/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-react",
+      "path": "packages/react/package.json",
+      "version": "1.52.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/theme-doete",
+      "path": "packages/themes/doete/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/theme-govie",
+      "path": "packages/themes/govie/package.json",
+      "version": "1.21.8"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/theme-hse",
+      "path": "packages/themes/hse/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ogcio/design-system-vue",
+      "path": "packages/vue/package.json",
+      "version": "0.7.0"
+    }
+  ],
+  "paths": [
+    "apps/docs/package.json",
+    "examples/angular/package.json",
+    "examples/html/package.json",
+    "examples/nextjs/package.json",
+    "examples/vite/package.json",
+    "package.json",
+    "packages/angular/package.json",
+    "packages/build/eslint-config/package.json",
+    "packages/build/prettier-config/package.json",
+    "packages/core/package.json",
+    "packages/design/figma/package.json",
+    "packages/design/tailwind/package.json",
+    "packages/design/theme-builder/package.json",
+    "packages/design/token-utils/package.json",
+    "packages/design/tokens-builder/package.json",
+    "packages/design/tokens/package.json",
+    "packages/html/ds/package.json",
+    "packages/inspector/package.json",
+    "packages/react/package.json",
+    "packages/themes/doete/package.json",
+    "packages/themes/govie/package.json",
+    "packages/themes/hse/package.json",
+    "packages/vue/package.json"
+  ],
+  "repo_url": "https://github.com/ogcio/govie-ds",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": null
+  }
+}

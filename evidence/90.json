@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:05Z",
+  "docs": {
+    "body_bytes_hashed": 2794,
+    "body_sha256": "fabc07b566d43ed7fa1c8c4d9485064307205f95a86f31210a0f841c2d9a1069",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:39Z",
+    "final_url": "https://marvelapp.com/styleguide/",
+    "http_status": 200,
+    "url": "https://marvelapp.com/styleguide"
+  },
+  "id": "90",
+  "name": "Marvel Styleguide",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

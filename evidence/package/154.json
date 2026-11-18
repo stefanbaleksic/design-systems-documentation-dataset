@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:36:45Z",
+  "error": null,
+  "id": "154",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "vtex.styleguide",
+      "path": "react/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "package.json",
+    "react/package.json"
+  ],
+  "repo_url": "https://github.com/vtex/styleguide",
+  "root": {
+    "error": null,
+    "name": "@vtex/styleguide",
+    "version": "9.146.16"
+  }
+}

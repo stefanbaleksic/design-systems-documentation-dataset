@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:36Z",
+  "docs": {
+    "body_bytes_hashed": 30287,
+    "body_sha256": "2020928e7002ca7ab06680413f747bb0ae89b08f0d610ce008faf29efecba8d9",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:24Z",
+    "final_url": "https://designsystem.tfwm.org.uk/",
+    "http_status": 200,
+    "url": "https://designsystem.wmnetwork.co.uk/"
+  },
+  "id": "158",
+  "name": "West Midlands Network Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:36Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v2.4.0",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-06-01T14:58:50Z",
+    "spdx_licence": null,
+    "tag_count": 25,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

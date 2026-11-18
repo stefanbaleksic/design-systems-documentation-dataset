@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:47Z",
+  "docs": {
+    "body_bytes_hashed": 47037,
+    "body_sha256": "6548c026a3a63e954ed1db161fc7e0fc1403a27c0fdf6c16ff7b4fa8d3481c2c",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:43Z",
+    "final_url": "https://designsystem.brand.ucla.edu/build/v2.6.0/docs/developers/overview.html",
+    "http_status": 200,
+    "url": "https://designsystem.brand.ucla.edu/build/v2.6.0/docs/developers/overview.html"
+  },
+  "id": "174",
+  "name": "UCLA Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

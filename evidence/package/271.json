@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:46:21Z",
+  "error": null,
+  "id": "271",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "docs",
+      "path": "docs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "react-native-paper-example",
+      "path": "example/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "scripts/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "example/package.json",
+    "package.json",
+    "scripts/package.json"
+  ],
+  "repo_url": "https://github.com/callstack/react-native-paper",
+  "root": {
+    "error": null,
+    "name": "react-native-paper",
+    "version": "6.0.0-alpha.3"
+  }
+}

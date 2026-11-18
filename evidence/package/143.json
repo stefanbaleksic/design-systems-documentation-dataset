@@ -1,0 +1,446 @@
+{
+  "collected_at_utc": "2026-11-18T11:35:24Z",
+  "error": null,
+  "id": "143",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "mock-package",
+      "path": ".danger/__fixtures__/mock_package/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "mock-package-2",
+      "path": ".danger/__fixtures__/mock_package_2/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "mock-package-3",
+      "path": ".danger/__fixtures__/mock_package_3/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/backend",
+      "path": "apps/backend/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "vs-code-intellisense",
+      "path": "apps/vs-code-intellisense/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/codemods",
+      "path": "packages/paste-codemods/package.json",
+      "version": "0.17.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/color-contrast-utils",
+      "path": "packages/paste-color-contrast-utils/package.json",
+      "version": "5.0.0"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/account-switcher",
+      "path": "packages/paste-core/components/account-switcher/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/ai-chat-log",
+      "path": "packages/paste-core/components/ai-chat-log/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/alert-dialog",
+      "path": "packages/paste-core/components/alert-dialog/package.json",
+      "version": "10.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/alert",
+      "path": "packages/paste-core/components/alert/package.json",
+      "version": "15.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/anchor",
+      "path": "packages/paste-core/components/anchor/package.json",
+      "version": "13.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/avatar",
+      "path": "packages/paste-core/components/avatar/package.json",
+      "version": "10.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/badge",
+      "path": "packages/paste-core/components/badge/package.json",
+      "version": "9.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/base-radio-checkbox",
+      "path": "packages/paste-core/components/base-radio-checkbox/package.json",
+      "version": "14.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/blockquote",
+      "path": "packages/paste-core/components/blockquote/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/breadcrumb",
+      "path": "packages/paste-core/components/breadcrumb/package.json",
+      "version": "12.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/button-group",
+      "path": "packages/paste-core/components/button-group/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/button",
+      "path": "packages/paste-core/components/button/package.json",
+      "version": "15.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/callout",
+      "path": "packages/paste-core/components/callout/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/card",
+      "path": "packages/paste-core/components/card/package.json",
+      "version": "10.2.0"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/chart-provider",
+      "path": "packages/paste-core/components/chart-provider/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/chat-composer",
+      "path": "packages/paste-core/components/chat-composer/package.json",
+      "version": "6.2.0"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/chat-log",
+      "path": "packages/paste-core/components/chat-log/package.json",
+      "version": "6.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/checkbox",
+      "path": "packages/paste-core/components/checkbox/package.json",
+      "version": "14.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/code-block",
+      "path": "packages/paste-core/components/code-block/package.json",
+      "version": "6.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/combobox",
+      "path": "packages/paste-core/components/combobox/package.json",
+      "version": "17.0.3"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/corner-ornament",
+      "path": "packages/paste-core/components/corner-ornament/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/data-grid",
+      "path": "packages/paste-core/components/data-grid/package.json",
+      "version": "9.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/date-picker",
+      "path": "packages/paste-core/components/date-picker/package.json",
+      "version": "7.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/description-list",
+      "path": "packages/paste-core/components/description-list/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/detail-text",
+      "path": "packages/paste-core/components/detail-text/package.json",
+      "version": "4.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/disclosure",
+      "path": "packages/paste-core/components/disclosure/package.json",
+      "version": "13.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/display-heading",
+      "path": "packages/paste-core/components/display-heading/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/display-pill-group",
+      "path": "packages/paste-core/components/display-pill-group/package.json",
+      "version": "9.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/editable-code-block",
+      "path": "packages/paste-core/components/editable-code-block/package.json",
+      "version": "3.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/example-text",
+      "path": "packages/paste-core/components/example-text/package.json",
+      "version": "2.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/file-picker",
+      "path": "packages/paste-core/components/file-picker/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/file-uploader",
+      "path": "packages/paste-core/components/file-uploader/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/footnote",
+      "path": "packages/paste-core/components/footnote/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/form-pill-group",
+      "path": "packages/paste-core/components/form-pill-group/package.json",
+      "version": "9.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/form",
+      "path": "packages/paste-core/components/form/package.json",
+      "version": "12.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/heading",
+      "path": "packages/paste-core/components/heading/package.json",
+      "version": "12.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/help-text",
+      "path": "packages/paste-core/components/help-text/package.json",
+      "version": "14.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/in-page-navigation",
+      "path": "packages/paste-core/components/in-page-navigation/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/inline-code",
+      "path": "packages/paste-core/components/inline-code/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/inline-control-group",
+      "path": "packages/paste-core/components/inline-control-group/package.json",
+      "version": "14.0.1"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/input-box",
+      "path": "packages/paste-core/components/input-box/package.json",
+      "version": "11.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/input",
+      "path": "packages/paste-core/components/input/package.json",
+      "version": "10.0.2"
+    },
+    {
+      "error": null,
+      "name": "@twilio-paste/keyboard-key",
+      "path": "packages/paste-core/components/keyboard-key/package.json",
+      "version": "2.0.1"
+    }
+  ],
+  "paths": [
+    ".danger/__fixtures__/mock_package/package.json",
+    ".danger/__fixtures__/mock_package_2/package.json",
+    ".danger/__fixtures__/mock_package_3/package.json",
+    "apps/backend/package.json",
+    "apps/vs-code-intellisense/package.json",
+    "package.json",
+    "packages/paste-codemods/package.json",
+    "packages/paste-color-contrast-utils/package.json",
+    "packages/paste-core/components/account-switcher/package.json",
+    "packages/paste-core/components/ai-chat-log/package.json",
+    "packages/paste-core/components/alert-dialog/package.json",
+    "packages/paste-core/components/alert/package.json",
+    "packages/paste-core/components/anchor/package.json",
+    "packages/paste-core/components/avatar/package.json",
+    "packages/paste-core/components/badge/package.json",
+    "packages/paste-core/components/base-radio-checkbox/package.json",
+    "packages/paste-core/components/blockquote/package.json",
+    "packages/paste-core/components/breadcrumb/package.json",
+    "packages/paste-core/components/button-group/package.json",
+    "packages/paste-core/components/button/package.json",
+    "packages/paste-core/components/callout/package.json",
+    "packages/paste-core/components/card/package.json",
+    "packages/paste-core/components/chart-provider/package.json",
+    "packages/paste-core/components/chat-composer/package.json",
+    "packages/paste-core/components/chat-log/package.json",
+    "packages/paste-core/components/checkbox/package.json",
+    "packages/paste-core/components/code-block/package.json",
+    "packages/paste-core/components/combobox/package.json",
+    "packages/paste-core/components/corner-ornament/package.json",
+    "packages/paste-core/components/data-grid/package.json",
+    "packages/paste-core/components/date-picker/package.json",
+    "packages/paste-core/components/description-list/package.json",
+    "packages/paste-core/components/detail-text/package.json",
+    "packages/paste-core/components/disclosure/package.json",
+    "packages/paste-core/components/display-heading/package.json",
+    "packages/paste-core/components/display-pill-group/package.json",
+    "packages/paste-core/components/editable-code-block/package.json",
+    "packages/paste-core/components/example-text/package.json",
+    "packages/paste-core/components/file-picker/package.json",
+    "packages/paste-core/components/file-uploader/package.json",
+    "packages/paste-core/components/footnote/package.json",
+    "packages/paste-core/components/form-pill-group/package.json",
+    "packages/paste-core/components/form/package.json",
+    "packages/paste-core/components/heading/package.json",
+    "packages/paste-core/components/help-text/package.json",
+    "packages/paste-core/components/in-page-navigation/package.json",
+    "packages/paste-core/components/inline-code/package.json",
+    "packages/paste-core/components/inline-control-group/package.json",
+    "packages/paste-core/components/input-box/package.json",
+    "packages/paste-core/components/input/package.json",
+    "packages/paste-core/components/keyboard-key/package.json",
+    "packages/paste-core/components/label/package.json",
+    "packages/paste-core/components/list/package.json",
+    "packages/paste-core/components/menu/package.json",
+    "packages/paste-core/components/meter/package.json",
+    "packages/paste-core/components/minimizable-dialog/package.json",
+    "packages/paste-core/components/modal/package.json",
+    "packages/paste-core/components/page-header/package.json",
+    "packages/paste-core/components/pagination/package.json",
+    "packages/paste-core/components/paragraph/package.json",
+    "packages/paste-core/components/popover/package.json",
+    "packages/paste-core/components/product-switcher/package.json",
+    "packages/paste-core/components/progress-bar/package.json",
+    "packages/paste-core/components/progress-steps/package.json",
+    "packages/paste-core/components/radio-button-group/package.json",
+    "packages/paste-core/components/radio-group/package.json",
+    "packages/paste-core/components/screen-reader-only/package.json",
+    "packages/paste-core/components/select/package.json",
+    "packages/paste-core/components/separator/package.json",
+    "packages/paste-core/components/side-modal/package.json",
+    "packages/paste-core/components/side-panel/package.json",
+    "packages/paste-core/components/sidebar/package.json",
+    "packages/paste-core/components/skeleton-loader/package.json",
+    "packages/paste-core/components/slider/package.json",
+    "packages/paste-core/components/spinner/package.json",
+    "packages/paste-core/components/status/package.json",
+    "packages/paste-core/components/summary-detail/package.json",
+    "packages/paste-core/components/switch/package.json",
+    "packages/paste-core/components/table/package.json",
+    "packages/paste-core/components/tabs/package.json",
+    "packages/paste-core/components/textarea/package.json",
+    "packages/paste-core/components/time-picker/package.json",
+    "packages/paste-core/components/timeline/package.json",
+    "packages/paste-core/components/toast/package.json",
+    "packages/paste-core/components/tooltip/package.json",
+    "packages/paste-core/components/topbar/package.json",
+    "packages/paste-core/components/truncate/package.json",
+    "packages/paste-core/components/user-dialog/package.json",
+    "packages/paste-core/components/visual-picker/package.json",
+    "packages/paste-core/core-bundle/package.json",
+    "packages/paste-core/layout/aspect-ratio/package.json",
+    "packages/paste-core/layout/flex/package.json",
+    "packages/paste-core/layout/grid/package.json",
+    "packages/paste-core/layout/media-object/package.json",
+    "packages/paste-core/layout/stack/package.json",
+    "packages/paste-core/primitives/box/package.json",
+    "packages/paste-core/primitives/combobox/package.json",
+    "packages/paste-core/primitives/disclosure/package.json",
+    "packages/paste-core/primitives/listbox/package.json",
+    "packages/paste-core/primitives/menu/package.json",
+    "packages/paste-core/primitives/modal-dialog/package.json",
+    "packages/paste-core/primitives/non-modal-dialog/package.json",
+    "packages/paste-core/primitives/sibling-box/package.json",
+    "packages/paste-core/primitives/tabs/package.json",
+    "packages/paste-core/primitives/text/package.json",
+    "packages/paste-core/primitives/tooltip/package.json",
+    "packages/paste-customization/package.json",
+    "packages/paste-design-tokens/package.json",
+    "packages/paste-eslint/eslint-plugin-paste-internal/package.json",
+    "packages/paste-icons/package.json",
+    "packages/paste-libraries/animation/package.json",
+    "packages/paste-libraries/clipboard-copy/package.json",
+    "packages/paste-libraries/code-editor/package.json",
+    "packages/paste-libraries/data-visualization/package.json",
+    "packages/paste-libraries/dropdown/package.json",
+    "packages/paste-libraries/lexical/package.json",
+    "packages/paste-libraries/react-spectrum/package.json",
+    "packages/paste-libraries/react-textarea-autosize/package.json",
+    "packages/paste-libraries/reakit/package.json",
+    "packages/paste-libraries/styling/package.json",
+    "packages/paste-libraries/syntax-highlighter/package.json",
+    "packages/paste-libraries/uid/package.json",
+    "packages/paste-style-props/package.json",
+    "packages/paste-theme-designer/package.json",
+    "packages/paste-theme/package.json",
+    "packages/paste-token-contrast-checker/package.json",
+    "packages/paste-types/package.json",
+    "packages/paste-utils/package.json",
+    "packages/paste-website/package.json",
+    "templates/paste-nextjs-template/package.json"
+  ],
+  "repo_url": "https://github.com/twilio-labs/paste",
+  "root": {
+    "error": null,
+    "name": "paste",
+    "version": "2020.05.19"
+  }
+}

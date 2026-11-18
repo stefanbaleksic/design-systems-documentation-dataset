@@ -1,0 +1,401 @@
+{
+  "collected_at_utc": "2026-11-18T11:34:02Z",
+  "error": null,
+  "id": "130",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "playground",
+      "path": "playground/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/accordion",
+      "path": "semcore/accordion/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/add-filter",
+      "path": "semcore/add-filter/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/badge",
+      "path": "semcore/badge/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/base-components",
+      "path": "semcore/base-components/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/base-trigger",
+      "path": "semcore/base-trigger/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/breadcrumbs",
+      "path": "semcore/breadcrumbs/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/bulk-textarea",
+      "path": "semcore/bulk-textarea/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/button",
+      "path": "semcore/button/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/card",
+      "path": "semcore/card/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/carousel",
+      "path": "semcore/carousel/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/checkbox",
+      "path": "semcore/checkbox/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/color-picker",
+      "path": "semcore/color-picker/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/core",
+      "path": "semcore/core/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/counter",
+      "path": "semcore/counter/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/d3-chart",
+      "path": "semcore/d3-chart/package.json",
+      "version": "18.1.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/data-table",
+      "path": "semcore/data-table/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/date-picker",
+      "path": "semcore/date-picker/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/divider",
+      "path": "semcore/divider/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/dot",
+      "path": "semcore/dot/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/drag-and-drop",
+      "path": "semcore/drag-and-drop/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/dropdown-menu",
+      "path": "semcore/dropdown-menu/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/dropdown",
+      "path": "semcore/dropdown/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/ellipsis",
+      "path": "semcore/ellipsis/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/errors",
+      "path": "semcore/errors/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/feature-highlight",
+      "path": "semcore/feature-highlight/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/feature-popover",
+      "path": "semcore/feature-popover/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/feedback-form",
+      "path": "semcore/feedback-form/package.json",
+      "version": "18.1.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/flags",
+      "path": "semcore/flags/package.json",
+      "version": "18.1.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/fullscreen-modal",
+      "path": "semcore/fullscreen-modal/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/icon",
+      "path": "semcore/icon/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/illustration",
+      "path": "semcore/illustration/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/inline-edit",
+      "path": "semcore/inline-edit/package.json",
+      "version": "18.1.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/inline-input",
+      "path": "semcore/inline-input/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/input-mask",
+      "path": "semcore/input-mask/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/input-number",
+      "path": "semcore/input-number/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/input-tags",
+      "path": "semcore/input-tags/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/input",
+      "path": "semcore/input/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/link",
+      "path": "semcore/link/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/mini-chart",
+      "path": "semcore/mini-chart/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/modal",
+      "path": "semcore/modal/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/notice-bubble",
+      "path": "semcore/notice-bubble/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/notice",
+      "path": "semcore/notice/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/pagination",
+      "path": "semcore/pagination/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/pills",
+      "path": "semcore/pills/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/product-head",
+      "path": "semcore/product-head/package.json",
+      "version": "18.1.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/progress-bar",
+      "path": "semcore/progress-bar/package.json",
+      "version": "18.0.0"
+    },
+    {
+      "error": null,
+      "name": "@semcore/radio-cards",
+      "path": "semcore/radio-cards/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/radio",
+      "path": "semcore/radio/package.json",
+      "version": "18.0.1"
+    },
+    {
+      "error": null,
+      "name": "@semcore/select",
+      "path": "semcore/select/package.json",
+      "version": "18.0.1"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "playground/package.json",
+    "semcore/accordion/package.json",
+    "semcore/add-filter/package.json",
+    "semcore/badge/package.json",
+    "semcore/base-components/package.json",
+    "semcore/base-trigger/package.json",
+    "semcore/breadcrumbs/package.json",
+    "semcore/bulk-textarea/package.json",
+    "semcore/button/package.json",
+    "semcore/card/package.json",
+    "semcore/carousel/package.json",
+    "semcore/checkbox/package.json",
+    "semcore/color-picker/package.json",
+    "semcore/core/package.json",
+    "semcore/counter/package.json",
+    "semcore/d3-chart/package.json",
+    "semcore/data-table/package.json",
+    "semcore/date-picker/package.json",
+    "semcore/divider/package.json",
+    "semcore/dot/package.json",
+    "semcore/drag-and-drop/package.json",
+    "semcore/dropdown-menu/package.json",
+    "semcore/dropdown/package.json",
+    "semcore/ellipsis/package.json",
+    "semcore/errors/package.json",
+    "semcore/feature-highlight/package.json",
+    "semcore/feature-popover/package.json",
+    "semcore/feedback-form/package.json",
+    "semcore/flags/package.json",
+    "semcore/fullscreen-modal/package.json",
+    "semcore/icon/package.json",
+    "semcore/illustration/package.json",
+    "semcore/inline-edit/package.json",
+    "semcore/inline-input/package.json",
+    "semcore/input-mask/package.json",
+    "semcore/input-number/package.json",
+    "semcore/input-tags/package.json",
+    "semcore/input/package.json",
+    "semcore/link/package.json",
+    "semcore/mini-chart/package.json",
+    "semcore/modal/package.json",
+    "semcore/notice-bubble/package.json",
+    "semcore/notice/package.json",
+    "semcore/pagination/package.json",
+    "semcore/pills/package.json",
+    "semcore/product-head/package.json",
+    "semcore/progress-bar/package.json",
+    "semcore/radio-cards/package.json",
+    "semcore/radio/package.json",
+    "semcore/select/package.json",
+    "semcore/side-panel/package.json",
+    "semcore/skeleton/package.json",
+    "semcore/slider/package.json",
+    "semcore/spin-container/package.json",
+    "semcore/spin/package.json",
+    "semcore/switch/package.json",
+    "semcore/tab-line/package.json",
+    "semcore/tab-panel/package.json",
+    "semcore/tag/package.json",
+    "semcore/textarea/package.json",
+    "semcore/time-picker/package.json",
+    "semcore/tooltip/package.json",
+    "semcore/typography/package.json",
+    "semcore/ui/package.json",
+    "semcore/widget-empty/package.json",
+    "semcore/wizard/package.json",
+    "stories/package.json",
+    "tools/@types/package.json",
+    "tools/babel-plugin-react-semcore/package.json",
+    "tools/babel-plugin-root/package.json",
+    "tools/babel-plugin-styles/package.json",
+    "tools/babel-preset-ui/package.json",
+    "tools/builder/package.json",
+    "tools/continuous-delivery/package.json",
+    "tools/esbuild-plugin-semcore/package.json",
+    "tools/gcs-upload/package.json",
+    "tools/i18n-unplugin/package.json",
+    "tools/process-css-unplugin/package.json",
+    "tools/shadow-loader/package.json",
+    "tools/stylelint-plugin/package.json",
+    "tools/testing-utils/package.json",
+    "tools/theme/package.json",
+    "website/package.json",
+    "website/server/package.json"
+  ],
+  "repo_url": "https://github.com/semrush/intergalactic",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

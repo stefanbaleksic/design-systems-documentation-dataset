@@ -1,0 +1,94 @@
+{
+  "collected_at_utc": "2026-11-18T11:50:18Z",
+  "error": null,
+  "id": "302",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "docs",
+      "path": "docs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "base-ui-tanstack-start",
+      "path": "examples/tanstack-start-tailwind-css/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "vite-css-base-ui-example",
+      "path": "examples/vite-css/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@base-ui/react",
+      "path": "packages/react/package.json",
+      "version": "1.9.0"
+    },
+    {
+      "error": null,
+      "name": "@base-ui/utils",
+      "path": "packages/utils/package.json",
+      "version": "0.5.0"
+    },
+    {
+      "error": null,
+      "name": "base-ui-playground-vite-app",
+      "path": "playground/vite-app/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "test/benchmark/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "test/bundle-size/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@base-ui/test-node-resolution",
+      "path": "test/node-resolution/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@base-ui/monorepo-tests",
+      "path": "test/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "test/public-types/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "examples/tanstack-start-tailwind-css/package.json",
+    "examples/vite-css/package.json",
+    "package.json",
+    "packages/react/package.json",
+    "packages/utils/package.json",
+    "playground/vite-app/package.json",
+    "test/benchmark/package.json",
+    "test/bundle-size/package.json",
+    "test/node-resolution/package.json",
+    "test/package.json",
+    "test/public-types/package.json"
+  ],
+  "repo_url": "https://github.com/mui/base-ui",
+  "root": {
+    "error": null,
+    "name": "@base-ui/monorepo",
+    "version": "1.9.0"
+  }
+}

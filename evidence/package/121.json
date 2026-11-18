@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:32:43Z",
+  "error": null,
+  "id": "121",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/salesforce-ux/design-system",
+  "root": {
+    "error": null,
+    "name": "design-system",
+    "version": "2.28.1"
+  }
+}

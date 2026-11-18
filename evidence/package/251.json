@@ -1,0 +1,45 @@
+{
+  "collected_at_utc": "2026-11-18T11:44:10Z",
+  "error": null,
+  "id": "251",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "daisyui",
+      "path": "packages/daisyui/package.json",
+      "version": "5.8.1"
+    },
+    {
+      "error": null,
+      "name": "daisyui-docs",
+      "path": "packages/docs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "daisyui-playground",
+      "path": "packages/playground/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "daisyui-tailwind-play-share",
+      "path": "packages/tailwind-play-share/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/daisyui/package.json",
+    "packages/docs/package.json",
+    "packages/playground/package.json",
+    "packages/tailwind-play-share/package.json"
+  ],
+  "repo_url": "https://github.com/saadeghi/daisyui",
+  "root": {
+    "error": null,
+    "name": "daisyui-monorepo",
+    "version": null
+  }
+}

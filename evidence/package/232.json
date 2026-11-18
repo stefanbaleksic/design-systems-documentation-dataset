@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:41:53Z",
+  "error": null,
+  "id": "232",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@statisticsnorway/storybook",
+      "path": "apps/storybook/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@statisticsnorway/design-css",
+      "path": "packages/css/package.json",
+      "version": "0.2.4"
+    },
+    {
+      "error": null,
+      "name": "@statisticsnorway/design-react",
+      "path": "packages/react/package.json",
+      "version": "0.2.4"
+    }
+  ],
+  "paths": [
+    "apps/storybook/package.json",
+    "package.json",
+    "packages/css/package.json",
+    "packages/react/package.json"
+  ],
+  "repo_url": "https://github.com/statisticsnorway/ssb-designsystem",
+  "root": {
+    "error": null,
+    "name": "ssb-designsystem",
+    "version": null
+  }
+}

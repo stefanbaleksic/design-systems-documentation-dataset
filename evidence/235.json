@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:03Z",
+  "docs": null,
+  "id": "235",
+  "name": "Able design system resources (Telstra)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:03Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2023-06-23T06:36:02Z",
+    "spdx_licence": null,
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

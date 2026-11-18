@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:10Z",
+  "error": null,
+  "id": "178",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-a11y",
+      "path": "apps/a11y/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-docs",
+      "path": "apps/docs/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-example-laravel-inertia",
+      "path": "apps/examples/laravel-inertia/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-example-vue-spa",
+      "path": "apps/examples/vue-spa/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-site",
+      "path": "apps/site/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-css",
+      "path": "packages/css/package.json",
+      "version": "2.0.8"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-registry",
+      "path": "packages/registry/package.json",
+      "version": "2.0.8"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-tokens",
+      "path": "packages/tokens/package.json",
+      "version": "2.0.8"
+    },
+    {
+      "error": null,
+      "name": "@waynestate/wayne-ui-vue",
+      "path": "packages/vue/package.json",
+      "version": "2.0.8"
+    }
+  ],
+  "paths": [
+    "apps/a11y/package.json",
+    "apps/docs/package.json",
+    "apps/examples/laravel-inertia/package.json",
+    "apps/examples/vue-spa/package.json",
+    "apps/site/package.json",
+    "package.json",
+    "packages/css/package.json",
+    "packages/registry/package.json",
+    "packages/tokens/package.json",
+    "packages/vue/package.json"
+  ],
+  "repo_url": "https://github.com/waynestate/wayne-ui",
+  "root": {
+    "error": null,
+    "name": "wayne-ui",
+    "version": "2.0.8"
+  }
+}

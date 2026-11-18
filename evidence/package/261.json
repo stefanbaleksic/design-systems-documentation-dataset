@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:45:13Z",
+  "error": null,
+  "id": "261",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@guardian/eslint-plugin-source-foundations",
+      "path": "packages/@guardian/eslint-plugin-source-foundations/package.json",
+      "version": "8.0.0"
+    },
+    {
+      "error": null,
+      "name": "@guardian/eslint-plugin-source-react-components",
+      "path": "packages/@guardian/eslint-plugin-source-react-components/package.json",
+      "version": "10.0.0"
+    },
+    {
+      "error": null,
+      "name": "@guardian/source-foundations",
+      "path": "packages/@guardian/source-foundations/package.json",
+      "version": "7.0.1"
+    },
+    {
+      "error": null,
+      "name": "@guardian/source-react-components-development-kitchen",
+      "path": "packages/@guardian/source-react-components-development-kitchen/package.json",
+      "version": "7.0.0"
+    },
+    {
+      "error": null,
+      "name": "@guardian/source-react-components",
+      "path": "packages/@guardian/source-react-components/package.json",
+      "version": "9.1.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/@guardian/eslint-plugin-source-foundations/package.json",
+    "packages/@guardian/eslint-plugin-source-react-components/package.json",
+    "packages/@guardian/source-foundations/package.json",
+    "packages/@guardian/source-react-components-development-kitchen/package.json",
+    "packages/@guardian/source-react-components/package.json"
+  ],
+  "repo_url": "https://github.com/guardian/source",
+  "root": {
+    "error": null,
+    "name": "source",
+    "version": "3.12.0"
+  }
+}

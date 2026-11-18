@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:39Z",
+  "docs": null,
+  "id": "220",
+  "name": "Dress Code (Zalando)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:39Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "2.4.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2018-01-17T15:46:53Z",
+    "spdx_licence": "MIT",
+    "tag_count": 27,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

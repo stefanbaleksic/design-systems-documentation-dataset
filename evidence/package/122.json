@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:32:45Z",
+  "error": null,
+  "id": "122",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@kajabi/sage",
+      "path": "docs/package.json",
+      "version": "6.3.5"
+    },
+    {
+      "error": null,
+      "name": "@kajabi/sage-assets",
+      "path": "packages/sage-assets/package.json",
+      "version": "6.3.3"
+    },
+    {
+      "error": null,
+      "name": "@kajabi/sage-packs",
+      "path": "packages/sage-packs/package.json",
+      "version": "6.3.5"
+    },
+    {
+      "error": null,
+      "name": "@kajabi/sage-react",
+      "path": "packages/sage-react/package.json",
+      "version": "6.3.5"
+    },
+    {
+      "error": null,
+      "name": "@kajabi/sage-system",
+      "path": "packages/sage-system/package.json",
+      "version": "6.3.4"
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "package.json",
+    "packages/sage-assets/package.json",
+    "packages/sage-packs/package.json",
+    "packages/sage-react/package.json",
+    "packages/sage-system/package.json"
+  ],
+  "repo_url": "https://github.com/Kajabi/sage-lib",
+  "root": {
+    "error": null,
+    "name": "root",
+    "version": null
+  }
+}

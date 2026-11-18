@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:03Z",
+  "docs": {
+    "body_bytes_hashed": 183897,
+    "body_sha256": "702195909df9cc9e39162979bbd972f3628fc0248ad487c44debaeb4ecfbf26b",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:06Z",
+    "final_url": "https://designsystem.health.gov.au/docs/getting-started",
+    "http_status": 200,
+    "url": "https://designsystem.health.gov.au/docs/getting-started"
+  },
+  "id": "194",
+  "name": "Australian Health Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

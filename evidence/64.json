@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:35Z",
+  "docs": {
+    "body_bytes_hashed": 51674,
+    "body_sha256": "7ace9acd46816eac25db28a444dd104b50cd68659cc6b11579c48dea84769ac6",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:51Z",
+    "final_url": "https://design-system.service.gov.uk/",
+    "http_status": 200,
+    "url": "https://www.gov.uk/design-system"
+  },
+  "id": "64",
+  "name": "GOV.UK Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:35Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T12:13:03Z",
+    "spdx_licence": "MIT",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

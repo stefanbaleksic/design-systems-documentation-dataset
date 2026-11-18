@@ -1,0 +1,353 @@
+{
+  "collected_at_utc": "2026-11-18T11:39:57Z",
+  "error": null,
+  "id": "225",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@porsche-design-system/assets",
+      "path": "packages/assets/package.json",
+      "version": "5.0.2"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/crest",
+      "path": "packages/assets/projects/crest/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/flags",
+      "path": "packages/assets/projects/flags/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/font-face",
+      "path": "packages/assets/projects/font-face/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/fonts",
+      "path": "packages/assets/projects/fonts/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/icons",
+      "path": "packages/assets/projects/icons/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/marque",
+      "path": "packages/assets/projects/marque/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/meta-icons",
+      "path": "packages/assets/projects/meta-icons/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/model-signatures",
+      "path": "packages/assets/projects/model-signatures/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/component-meta",
+      "path": "packages/component-meta/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/angular",
+      "path": "packages/components-angular/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/components-angular",
+      "path": "packages/components-angular/projects/angular-wrapper/package.json",
+      "version": "4.10.1"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/js",
+      "path": "packages/components-js/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/components-manager-cli",
+      "path": "packages/components-js/projects/components-manager-cli/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/components-manager-core",
+      "path": "packages/components-js/projects/components-manager-core/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/components-js",
+      "path": "packages/components-js/projects/components-wrapper/package.json",
+      "version": "4.10.1"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/jsdom-polyfill",
+      "path": "packages/components-js/projects/jsdom-polyfill/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/partials",
+      "path": "packages/components-js/projects/partials/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/react",
+      "path": "packages/components-react/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/nextjs",
+      "path": "packages/components-react/projects/nextjs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/react-router",
+      "path": "packages/components-react/projects/react-router/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/react-ssr-wrapper",
+      "path": "packages/components-react/projects/react-ssr-wrapper/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/components-react",
+      "path": "packages/components-react/projects/react-wrapper/package.json",
+      "version": "4.10.1"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/vue",
+      "path": "packages/components-vue/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/components-vue",
+      "path": "packages/components-vue/projects/vue-wrapper/package.json",
+      "version": "4.10.1"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/components",
+      "path": "packages/components/package.json",
+      "version": "4.10.1"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/figma-code-connect",
+      "path": "packages/components/projects/figma-code-connect/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/stylesheets",
+      "path": "packages/components/projects/stylesheets/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/examples",
+      "path": "packages/examples/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/shared",
+      "path": "packages/shared/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/testing",
+      "path": "packages/shared/projects/testing/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/storefront",
+      "path": "packages/storefront/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/skills",
+      "path": "packages/storefront/projects/skills/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/stackblitz",
+      "path": "packages/storefront/projects/stackblitz/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/stackblitz-angular",
+      "path": "packages/storefront/projects/stackblitz/src/angular/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/stackblitz-react",
+      "path": "packages/storefront/projects/stackblitz/src/react/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/stackblitz-vanilla-js",
+      "path": "packages/storefront/projects/stackblitz/src/vanilla-js/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/stackblitz-vue",
+      "path": "packages/storefront/projects/stackblitz/src/vue/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/story-generator",
+      "path": "packages/storefront/projects/story-generator/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/styles",
+      "path": "packages/styles/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/emotion",
+      "path": "packages/styles/projects/emotion/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/scss",
+      "path": "packages/styles/projects/scss/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/tailwindcss",
+      "path": "packages/styles/projects/tailwindcss/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/vanilla-extract",
+      "path": "packages/styles/projects/vanilla-extract/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/tokens",
+      "path": "packages/tokens/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/tokens-meta",
+      "path": "packages/tokens/projects/tokens-meta/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "utilities-v2",
+      "path": "packages/utilities/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@porsche-design-system/ag-grid",
+      "path": "packages/utilities/projects/ag-grid/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/assets/package.json",
+    "packages/assets/projects/crest/package.json",
+    "packages/assets/projects/flags/package.json",
+    "packages/assets/projects/font-face/package.json",
+    "packages/assets/projects/fonts/package.json",
+    "packages/assets/projects/icons/package.json",
+    "packages/assets/projects/marque/package.json",
+    "packages/assets/projects/meta-icons/package.json",
+    "packages/assets/projects/model-signatures/package.json",
+    "packages/component-meta/package.json",
+    "packages/components-angular/package.json",
+    "packages/components-angular/projects/angular-wrapper/package.json",
+    "packages/components-js/package.json",
+    "packages/components-js/projects/components-manager-cli/package.json",
+    "packages/components-js/projects/components-manager-core/package.json",
+    "packages/components-js/projects/components-wrapper/package.json",
+    "packages/components-js/projects/jsdom-polyfill/package.json",
+    "packages/components-js/projects/partials/package.json",
+    "packages/components-react/package.json",
+    "packages/components-react/projects/nextjs/package.json",
+    "packages/components-react/projects/react-router/package.json",
+    "packages/components-react/projects/react-ssr-wrapper/package.json",
+    "packages/components-react/projects/react-wrapper/package.json",
+    "packages/components-vue/package.json",
+    "packages/components-vue/projects/vue-wrapper/package.json",
+    "packages/components/package.json",
+    "packages/components/projects/figma-code-connect/package.json",
+    "packages/components/projects/stylesheets/package.json",
+    "packages/examples/package.json",
+    "packages/shared/package.json",
+    "packages/shared/projects/testing/package.json",
+    "packages/storefront/package.json",
+    "packages/storefront/projects/skills/package.json",
+    "packages/storefront/projects/stackblitz/package.json",
+    "packages/storefront/projects/stackblitz/src/angular/package.json",
+    "packages/storefront/projects/stackblitz/src/react/package.json",
+    "packages/storefront/projects/stackblitz/src/vanilla-js/package.json",
+    "packages/storefront/projects/stackblitz/src/vue/package.json",
+    "packages/storefront/projects/story-generator/package.json",
+    "packages/styles/package.json",
+    "packages/styles/projects/emotion/package.json",
+    "packages/styles/projects/scss/package.json",
+    "packages/styles/projects/tailwindcss/package.json",
+    "packages/styles/projects/vanilla-extract/package.json",
+    "packages/tokens/package.json",
+    "packages/tokens/projects/tokens-meta/package.json",
+    "packages/utilities/package.json",
+    "packages/utilities/projects/ag-grid/package.json"
+  ],
+  "repo_url": "https://github.com/porsche-design-system/porsche-design-system",
+  "root": {
+    "error": null,
+    "name": "porsche-design-system",
+    "version": "0.0.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:23Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:41:08Z",
+    "http_status": 403,
+    "url": "https://www.figma.com/community/file/1179442320711977498"
+  },
+  "id": "54",
+  "name": "Flowbite",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:23Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v4.0.2",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-06-27T08:36:07Z",
+    "spdx_licence": "MIT",
+    "tag_count": 57,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

@@ -1,0 +1,368 @@
+{
+  "collected_at_utc": "2026-11-18T11:38:29Z",
+  "error": null,
+  "id": "210",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "overlays",
+      "path": "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/overlays/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "page-a",
+      "path": "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/page-a/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "overlays",
+      "path": "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/page-b/node_modules/overlays/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "page-b",
+      "path": "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/page-b/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "fail-demo-app",
+      "path": "docs/fundamentals/tools/singleton-manager/example-complex/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "overlays",
+      "path": "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/overlays/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "page-c",
+      "path": "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/page-c/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "overlays",
+      "path": "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/page-d/node_modules/overlays/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "page-d",
+      "path": "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/page-d/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "fail-demo-app",
+      "path": "docs/fundamentals/tools/singleton-manager/example-fail/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "overlays",
+      "path": "docs/fundamentals/tools/singleton-manager/example-success/node_modules/overlays/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "page-e",
+      "path": "docs/fundamentals/tools/singleton-manager/example-success/node_modules/page-e/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "overlays",
+      "path": "docs/fundamentals/tools/singleton-manager/example-success/node_modules/page-f/node_modules/overlays/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "page-f",
+      "path": "docs/fundamentals/tools/singleton-manager/example-success/node_modules/page-f/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "fail-demo-app",
+      "path": "docs/fundamentals/tools/singleton-manager/example-success/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/astro-lit",
+      "path": "packages-node/astro-lit/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/awesome-phonenumber",
+      "path": "packages-node/awesome-phonenumber/package.json",
+      "version": "7.9.0-tlouisse.libphonenumber-9.0.41"
+    },
+    {
+      "error": null,
+      "name": "awesome-phonenumber",
+      "path": "packages-node/awesome-phonenumber/upstream/awesome-phonenumber/package.json",
+      "version": "0.0.0-development"
+    },
+    {
+      "error": null,
+      "name": "babel-plugin-extend-docs",
+      "path": "packages-node/babel-plugin-extend-docs/package.json",
+      "version": "0.5.3"
+    },
+    {
+      "error": null,
+      "name": "change-graph",
+      "path": "packages-node/change-graph/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/lit-ssr-patch-tests",
+      "path": "packages-node/lit-ssr-patch-tests/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/lockfile-interop",
+      "path": "packages-node/lockfile-interop/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/nodejs-helpers",
+      "path": "packages-node/nodejs-helpers/package.json",
+      "version": "0.1.2"
+    },
+    {
+      "error": null,
+      "name": "simple-export-map",
+      "path": "packages-node/nodejs-helpers/test-node/fixtures/components-with-3rd-party-imports/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "deep-search-exports-directory",
+      "path": "packages-node/nodejs-helpers/test-node/fixtures/deep-search-exports-directory/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "error-can-not-resolve-resource",
+      "path": "packages-node/nodejs-helpers/test-node/fixtures/error-can-not-resolve-resource/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "error-can-not-overwrite-existing-file",
+      "path": "packages-node/nodejs-helpers/test-node/fixtures/error-can-not-write-existing-file/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "multiple-export-map-items",
+      "path": "packages-node/nodejs-helpers/test-node/fixtures/multiple-export-map-items/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "simple-export-map",
+      "path": "packages-node/nodejs-helpers/test-node/fixtures/simple-export-map/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "simple-import-map",
+      "path": "packages-node/nodejs-helpers/test-node/fixtures/simple-import-map/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "providence-analytics",
+      "path": "packages-node/providence-analytics/package.json",
+      "version": "0.23.0"
+    },
+    {
+      "error": null,
+      "name": "dep-a",
+      "path": "packages-node/providence-analytics/test-helpers/project-mocks/importing-target-project/node_modules/dep-a/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "my-dep-b",
+      "path": "packages-node/providence-analytics/test-helpers/project-mocks/importing-target-project/node_modules/my-dep-b/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "publish-docs",
+      "path": "packages-node/publish-docs/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "remark-extend",
+      "path": "packages-node/remark-extend/package.json",
+      "version": "0.5.3"
+    },
+    {
+      "error": null,
+      "name": "rocket-preset-extend-lion-docs",
+      "path": "packages-node/rocket-preset-extend-lion-docs/package.json",
+      "version": "0.4.2"
+    },
+    {
+      "error": null,
+      "name": "@lion/ui",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/01-star-export/@lion/ui/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@lion/ui",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/02-file-export/@lion/ui/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@lion/ui",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/03-multiple/@lion/ui/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@lion/ui",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/04-none-js-entrypoints/@lion/ui/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@lion/ui",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/accordion/@lion/ui/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@lion/checkbox-group",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/checkbox-group/@lion/checkbox-group/package.json",
+      "version": "0.17.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/ui",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/core/@lion/ui/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@lion/accordion",
+      "path": "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/no-node-modules-scope-folder/accordion/package.json",
+      "version": "0.5.0"
+    },
+    {
+      "error": null,
+      "name": "test-runner-sr",
+      "path": "packages-node/test-runner-sr/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/ajax",
+      "path": "packages/ajax/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "singleton-manager",
+      "path": "packages/singleton-manager/package.json",
+      "version": "1.8.0"
+    },
+    {
+      "error": null,
+      "name": "@lion/ui",
+      "path": "packages/ui/package.json",
+      "version": "0.27.0"
+    },
+    {
+      "error": null,
+      "name": "lion-portal",
+      "path": "portal/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "lion-prev-portal",
+      "path": "prev-portal/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/overlays/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/page-a/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/page-b/node_modules/overlays/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-complex/node_modules/page-b/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-complex/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/overlays/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/page-c/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/page-d/node_modules/overlays/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-fail/node_modules/page-d/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-fail/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-success/node_modules/overlays/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-success/node_modules/page-e/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-success/node_modules/page-f/node_modules/overlays/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-success/node_modules/page-f/package.json",
+    "docs/fundamentals/tools/singleton-manager/example-success/package.json",
+    "package.json",
+    "packages-node/astro-lit/package.json",
+    "packages-node/awesome-phonenumber/package.json",
+    "packages-node/awesome-phonenumber/upstream/awesome-phonenumber/package.json",
+    "packages-node/babel-plugin-extend-docs/package.json",
+    "packages-node/change-graph/package.json",
+    "packages-node/lit-ssr-patch-tests/package.json",
+    "packages-node/lockfile-interop/package.json",
+    "packages-node/nodejs-helpers/package.json",
+    "packages-node/nodejs-helpers/test-node/fixtures/components-with-3rd-party-imports/package.json",
+    "packages-node/nodejs-helpers/test-node/fixtures/deep-search-exports-directory/package.json",
+    "packages-node/nodejs-helpers/test-node/fixtures/error-can-not-resolve-resource/package.json",
+    "packages-node/nodejs-helpers/test-node/fixtures/error-can-not-write-existing-file/package.json",
+    "packages-node/nodejs-helpers/test-node/fixtures/multiple-export-map-items/package.json",
+    "packages-node/nodejs-helpers/test-node/fixtures/simple-export-map/package.json",
+    "packages-node/nodejs-helpers/test-node/fixtures/simple-import-map/package.json",
+    "packages-node/providence-analytics/package.json",
+    "packages-node/providence-analytics/test-helpers/project-mocks/importing-target-project/node_modules/dep-a/package.json",
+    "packages-node/providence-analytics/test-helpers/project-mocks/importing-target-project/node_modules/my-dep-b/package.json",
+    "packages-node/publish-docs/package.json",
+    "packages-node/remark-extend/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/01-star-export/@lion/ui/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/02-file-export/@lion/ui/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/03-multiple/@lion/ui/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/01-public-api/04-none-js-entrypoints/@lion/ui/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/accordion/@lion/ui/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/checkbox-group/@lion/checkbox-group/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/core/@lion/ui/package.json",
+    "packages-node/rocket-preset-extend-lion-docs/test-node/fixtures/no-node-modules-scope-folder/accordion/package.json",
+    "packages-node/test-runner-sr/package.json",
+    "packages/ajax/package.json",
+    "packages/singleton-manager/package.json",
+    "packages/ui/package.json",
+    "portal/package.json",
+    "prev-portal/package.json",
+    "test/typescript-legacy/package.json"
+  ],
+  "repo_url": "https://github.com/ing-bank/lion",
+  "root": {
+    "error": null,
+    "name": "@lion/root",
+    "version": null
+  }
+}

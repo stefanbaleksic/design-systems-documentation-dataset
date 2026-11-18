@@ -1,0 +1,269 @@
+{
+  "collected_at_utc": "2026-11-18T11:45:17Z",
+  "error": null,
+  "id": "263",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "android-app",
+      "path": "apps/android-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "docs",
+      "path": "apps/docs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "expo-app",
+      "path": "apps/expo-app/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "ios-gallery",
+      "path": "apps/ios-gallery/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-storybook",
+      "path": "apps/storybook/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "vite-app",
+      "path": "apps/vite-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cds/codegen",
+      "path": "libs/codegen/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/docusaurus-plugin-docgen",
+      "path": "libs/docusaurus-plugin-docgen/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/docusaurus-plugin-kbar",
+      "path": "libs/docusaurus-plugin-kbar/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/docusaurus-plugin-llm-dev-server",
+      "path": "libs/docusaurus-plugin-llm-dev-server/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/eslint-plugin-internal",
+      "path": "libs/eslint-plugin-internal/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cds/figma-api",
+      "path": "libs/figma-api/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/static-assets",
+      "path": "libs/static-assets/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@cds/type-analyzer",
+      "path": "libs/type-analyzer/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-web-utils",
+      "path": "libs/web-utils/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "cds-android",
+      "path": "packages/cds-android/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "cds-ios",
+      "path": "packages/cds-ios/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-common",
+      "path": "packages/common/package.json",
+      "version": "9.30.1"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/eslint-plugin-cds",
+      "path": "packages/eslint-plugin-cds/package.json",
+      "version": "3.5.1"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-icons",
+      "path": "packages/icons/package.json",
+      "version": "5.26.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-illustrations",
+      "path": "packages/illustrations/package.json",
+      "version": "4.51.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-lottie-files",
+      "path": "packages/lottie-files/package.json",
+      "version": "3.3.4"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-mcp-server",
+      "path": "packages/mcp-server/package.json",
+      "version": "9.30.1"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-migrator",
+      "path": "packages/migrator/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/mobile-visreg",
+      "path": "packages/mobile-visreg/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-mobile-visualization",
+      "path": "packages/mobile-visualization/package.json",
+      "version": "4.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-mobile",
+      "path": "packages/mobile/package.json",
+      "version": "9.30.1"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-utils",
+      "path": "packages/utils/package.json",
+      "version": "2.3.5"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-vscode-plugin",
+      "path": "packages/vscode-plugin/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-web-visualization",
+      "path": "packages/web-visualization/package.json",
+      "version": "4.0.0"
+    },
+    {
+      "error": null,
+      "name": "@coinbase/cds-web",
+      "path": "packages/web/package.json",
+      "version": "9.30.1"
+    },
+    {
+      "error": null,
+      "name": "cds-expo-app",
+      "path": "templates/expo-app/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "next-app",
+      "path": "templates/next-app/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "cds-vite-app",
+      "path": "templates/vite-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "cds-webpack-app",
+      "path": "templates/webpack-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "tools",
+      "path": "tools/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "apps/android-app/package.json",
+    "apps/docs/package.json",
+    "apps/expo-app/package.json",
+    "apps/ios-gallery/package.json",
+    "apps/storybook/package.json",
+    "apps/vite-app/package.json",
+    "libs/codegen/package.json",
+    "libs/docusaurus-plugin-docgen/package.json",
+    "libs/docusaurus-plugin-kbar/package.json",
+    "libs/docusaurus-plugin-llm-dev-server/package.json",
+    "libs/eslint-plugin-internal/package.json",
+    "libs/figma-api/package.json",
+    "libs/static-assets/package.json",
+    "libs/type-analyzer/package.json",
+    "libs/web-utils/package.json",
+    "package.json",
+    "packages/cds-android/package.json",
+    "packages/cds-ios/package.json",
+    "packages/common/package.json",
+    "packages/eslint-plugin-cds/package.json",
+    "packages/icons/package.json",
+    "packages/illustrations/package.json",
+    "packages/lottie-files/package.json",
+    "packages/mcp-server/package.json",
+    "packages/migrator/package.json",
+    "packages/mobile-visreg/package.json",
+    "packages/mobile-visualization/package.json",
+    "packages/mobile/package.json",
+    "packages/utils/package.json",
+    "packages/vscode-plugin/package.json",
+    "packages/web-visualization/package.json",
+    "packages/web/package.json",
+    "templates/expo-app/package.json",
+    "templates/next-app/package.json",
+    "templates/vite-app/package.json",
+    "templates/webpack-app/package.json",
+    "tools/package.json"
+  ],
+  "repo_url": "https://github.com/coinbase/cds",
+  "root": {
+    "error": null,
+    "name": "design-system",
+    "version": "1.0.0"
+  }
+}

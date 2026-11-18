@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:45Z",
+  "docs": {
+    "body_bytes_hashed": 54401,
+    "body_sha256": "8d857fd694087ed719f39eac1b2e96d2472b0e1cc3fe3dedb2e04410383983f8",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:37Z",
+    "final_url": "https://design.airfrance.com/latest/aero/welcome-71e1EvAH",
+    "http_status": 200,
+    "url": "https://design.airfrance.com/latest/aero/welcome-71e1EvAH"
+  },
+  "id": "170",
+  "name": "Air France Aero Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

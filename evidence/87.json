@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:03Z",
+  "docs": {
+    "body_bytes_hashed": 65655,
+    "body_sha256": "2111e8486453d18876ca7fab840265cde95de58296adb1240577f41f4c043284",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:35Z",
+    "final_url": "https://design.mail.ru/",
+    "http_status": 200,
+    "url": "https://design.mail.ru/"
+  },
+  "id": "87",
+  "name": "Mail.ru Group Paradigm",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

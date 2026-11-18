@@ -1,0 +1,31 @@
+{
+  "collected_at_utc": "2026-11-18T11:30:55Z",
+  "error": null,
+  "id": "99",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@mozilla-protocol/core",
+      "path": "assets/package/package.json",
+      "version": "22.0.0"
+    },
+    {
+      "error": null,
+      "name": "protocol-fractal",
+      "path": "theme/package.json",
+      "version": "0.0.1"
+    }
+  ],
+  "paths": [
+    "assets/package/package.json",
+    "package.json",
+    "theme/package.json"
+  ],
+  "repo_url": "https://github.com/mozilla/protocol",
+  "root": {
+    "error": null,
+    "name": "protocol",
+    "version": "22.0.0"
+  }
+}

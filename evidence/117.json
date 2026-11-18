@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:31Z",
+  "docs": {
+    "body_bytes_hashed": 142228,
+    "body_sha256": "b2cae33d42b656ef509aabb2f41d6d7d10e94c58405b340feb4c9bcb48a1abd8",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:16Z",
+    "final_url": "https://www.radix-ui.com/",
+    "http_status": 200,
+    "url": "https://www.radix-ui.com/"
+  },
+  "id": "117",
+  "name": "Radix",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:31Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "1.6.7",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-10-14T19:06:36Z",
+    "spdx_licence": "MIT",
+    "tag_count": 1,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

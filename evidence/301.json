@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:43Z",
+  "docs": null,
+  "id": "301",
+  "name": "Nuxt UI",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:49:43Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "v4",
+    "latest_tag": "v4.12.2",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-17T15:44:08Z",
+    "spdx_licence": "MIT",
+    "tag_count": 177,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

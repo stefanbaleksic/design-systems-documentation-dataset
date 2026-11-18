@@ -1,0 +1,220 @@
+{
+  "collected_at_utc": "2026-11-18T11:34:54Z",
+  "error": null,
+  "id": "134",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "angular-examples",
+      "path": "examples/angular-examples/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "angular-standalone-examples",
+      "path": "examples/angular-standalone-examples/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "html-examples",
+      "path": "examples/html-examples/package.json",
+      "version": "2.1.2"
+    },
+    {
+      "error": null,
+      "name": "react-examples",
+      "path": "examples/react-examples/package.json",
+      "version": "2.1.2"
+    },
+    {
+      "error": null,
+      "name": "vue-examples",
+      "path": "examples/vue-examples/package.json",
+      "version": "2.1.2"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix-aggrid",
+      "path": "packages/aggrid/package.json",
+      "version": "5.1.0"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix-angular",
+      "path": "packages/angular/package.json",
+      "version": "5.2.1"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix-cli",
+      "path": "packages/cli/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix",
+      "path": "packages/core/package.json",
+      "version": "5.2.1"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix/components",
+      "path": "packages/core/scripts/custom-elements/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix-docs",
+      "path": "packages/documentation/package.json",
+      "version": "5.2.1"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix-echarts",
+      "path": "packages/echarts/package.json",
+      "version": "4.1.1"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix-react",
+      "path": "packages/react/package.json",
+      "version": "5.2.1"
+    },
+    {
+      "error": null,
+      "name": "storybook-docs",
+      "path": "packages/storybook-docs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@siemens/ix-vue",
+      "path": "packages/vue/package.json",
+      "version": "5.2.1"
+    },
+    {
+      "error": null,
+      "name": "angular-standalone-patterns",
+      "path": "patterns/angular-standalone-patterns/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "react-patterns",
+      "path": "patterns/react-patterns/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "angular-standalone-test-app",
+      "path": "testing/angular-standalone-test-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "angular-test-app",
+      "path": "testing/angular-test-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "framework-tests",
+      "path": "testing/framework-tests/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "html-test-app",
+      "path": "testing/html-test-app/package.json",
+      "version": "2.1.2"
+    },
+    {
+      "error": null,
+      "name": "nextjs-test-app",
+      "path": "testing/nextjs-test-app/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "performance-memlab",
+      "path": "testing/performance-memlab/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "react-test-app",
+      "path": "testing/react-test-app/package.json",
+      "version": "2.1.2"
+    },
+    {
+      "error": null,
+      "name": "visual-testing",
+      "path": "testing/visual-testing/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "vue-test-app",
+      "path": "testing/vue-test-app/package.json",
+      "version": "2.1.2"
+    },
+    {
+      "error": null,
+      "name": "eslint-config-ix",
+      "path": "tooling/eslint-config-ix/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "oss-clearing",
+      "path": "tooling/oss-clearing/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "registry",
+      "path": "tooling/registry/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "examples/angular-examples/package.json",
+    "examples/angular-standalone-examples/package.json",
+    "examples/html-examples/package.json",
+    "examples/react-examples/package.json",
+    "examples/vue-examples/package.json",
+    "package.json",
+    "packages/aggrid/package.json",
+    "packages/angular/package.json",
+    "packages/cli/package.json",
+    "packages/core/package.json",
+    "packages/core/scripts/custom-elements/package.json",
+    "packages/documentation/package.json",
+    "packages/echarts/package.json",
+    "packages/react/package.json",
+    "packages/storybook-docs/package.json",
+    "packages/vue/package.json",
+    "patterns/angular-standalone-patterns/package.json",
+    "patterns/react-patterns/package.json",
+    "testing/angular-standalone-test-app/package.json",
+    "testing/angular-test-app/package.json",
+    "testing/framework-tests/package.json",
+    "testing/html-test-app/package.json",
+    "testing/nextjs-test-app/package.json",
+    "testing/performance-memlab/package.json",
+    "testing/react-test-app/package.json",
+    "testing/visual-testing/package.json",
+    "testing/vue-test-app/package.json",
+    "tooling/eslint-config-ix/package.json",
+    "tooling/oss-clearing/package.json",
+    "tooling/registry/package.json"
+  ],
+  "repo_url": "https://github.com/siemens/ix",
+  "root": {
+    "error": null,
+    "name": "mono-repo-ix",
+    "version": "0.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:03Z",
+  "docs": {
+    "body_bytes_hashed": 130733,
+    "body_sha256": "7aa4067c883d12c664b523a082c3fd7d511bbe959827aed023644f26428e192b",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:05Z",
+    "final_url": "https://design-system.agriculture.gov.au/",
+    "http_status": 200,
+    "url": "https://design-system.agriculture.gov.au/"
+  },
+  "id": "192",
+  "name": "Agriculture Design System (Australia)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

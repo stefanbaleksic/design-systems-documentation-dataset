@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:31:34Z",
+  "error": null,
+  "id": "110",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@ithaka/pharos-cli",
+      "path": "packages/pharos-cli/package.json",
+      "version": "5.6.1"
+    },
+    {
+      "error": null,
+      "name": "@ithaka/pharos-site",
+      "path": "packages/pharos-site/package.json",
+      "version": "8.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ithaka/pharos",
+      "path": "packages/pharos/package.json",
+      "version": "14.27.1"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/pharos-cli/package.json",
+    "packages/pharos-site/package.json",
+    "packages/pharos/package.json"
+  ],
+  "repo_url": "https://github.com/ithaka/pharos",
+  "root": {
+    "error": null,
+    "name": "pharos",
+    "version": "0.0.1"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "collected_at_utc": "2026-11-18T11:32:18Z",
+  "error": null,
+  "id": "117",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@repo/ssr-testing",
+      "path": "apps/ssr-testing/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@repo/storybook",
+      "path": "apps/storybook/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@repo/builder",
+      "path": "internal/builder/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@repo/test-data",
+      "path": "internal/test-data/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@repo/test-utils",
+      "path": "internal/test-utils/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@repo/typescript-config",
+      "path": "internal/typescript-config/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/env-check",
+      "path": "packages/core/env-check/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/number",
+      "path": "packages/core/number/package.json",
+      "version": "1.1.3"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/primitive",
+      "path": "packages/core/primitive/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/rect",
+      "path": "packages/core/rect/package.json",
+      "version": "1.1.3"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-accessible-icon",
+      "path": "packages/react/accessible-icon/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-accordion",
+      "path": "packages/react/accordion/package.json",
+      "version": "1.3.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-alert-dialog",
+      "path": "packages/react/alert-dialog/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-announce",
+      "path": "packages/react/announce/package.json",
+      "version": "0.3.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-arrow",
+      "path": "packages/react/arrow/package.json",
+      "version": "1.1.17"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-aspect-ratio",
+      "path": "packages/react/aspect-ratio/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-avatar",
+      "path": "packages/react/avatar/package.json",
+      "version": "1.3.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-checkbox",
+      "path": "packages/react/checkbox/package.json",
+      "version": "1.4.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-collapsible",
+      "path": "packages/react/collapsible/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-collection",
+      "path": "packages/react/collection/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-compose-refs",
+      "path": "packages/react/compose-refs/package.json",
+      "version": "1.1.5"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-context-menu",
+      "path": "packages/react/context-menu/package.json",
+      "version": "2.4.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-context",
+      "path": "packages/react/context/package.json",
+      "version": "1.3.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-dialog",
+      "path": "packages/react/dialog/package.json",
+      "version": "1.3.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-direction",
+      "path": "packages/react/direction/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-dismissable-layer",
+      "path": "packages/react/dismissable-layer/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-dropdown-menu",
+      "path": "packages/react/dropdown-menu/package.json",
+      "version": "2.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-focus-guards",
+      "path": "packages/react/focus-guards/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-focus-scope",
+      "path": "packages/react/focus-scope/package.json",
+      "version": "1.3.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-form",
+      "path": "packages/react/form/package.json",
+      "version": "0.3.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-hover-card",
+      "path": "packages/react/hover-card/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-id",
+      "path": "packages/react/id/package.json",
+      "version": "1.1.4"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-label",
+      "path": "packages/react/label/package.json",
+      "version": "2.1.17"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-menu",
+      "path": "packages/react/menu/package.json",
+      "version": "2.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-menubar",
+      "path": "packages/react/menubar/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-navigation-menu",
+      "path": "packages/react/navigation-menu/package.json",
+      "version": "1.4.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-one-time-password-field",
+      "path": "packages/react/one-time-password-field/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-password-toggle-field",
+      "path": "packages/react/password-toggle-field/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-popover",
+      "path": "packages/react/popover/package.json",
+      "version": "1.3.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-popper",
+      "path": "packages/react/popper/package.json",
+      "version": "1.4.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-portal",
+      "path": "packages/react/portal/package.json",
+      "version": "1.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-presence",
+      "path": "packages/react/presence/package.json",
+      "version": "1.1.11"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-primitive",
+      "path": "packages/react/primitive/package.json",
+      "version": "2.2.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-progress",
+      "path": "packages/react/progress/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-radio-group",
+      "path": "packages/react/radio-group/package.json",
+      "version": "1.5.1"
+    },
+    {
+      "error": null,
+      "name": "radix-ui",
+      "path": "packages/react/radix-ui/package.json",
+      "version": "1.8.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-roving-focus",
+      "path": "packages/react/roving-focus/package.json",
+      "version": "1.2.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-scroll-area",
+      "path": "packages/react/scroll-area/package.json",
+      "version": "1.4.0"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-select",
+      "path": "packages/react/select/package.json",
+      "version": "2.4.1"
+    },
+    {
+      "error": null,
+      "name": "@radix-ui/react-separator",
+      "path": "packages/react/separator/package.json",
+      "version": "1.2.0"
+    }
+  ],
+  "paths": [
+    "apps/ssr-testing/package.json",
+    "apps/storybook/package.json",
+    "internal/builder/package.json",
+    "internal/test-data/package.json",
+    "internal/test-utils/package.json",
+    "internal/typescript-config/package.json",
+    "package.json",
+    "packages/core/env-check/package.json",
+    "packages/core/number/package.json",
+    "packages/core/primitive/package.json",
+    "packages/core/rect/package.json",
+    "packages/react/accessible-icon/package.json",
+    "packages/react/accordion/package.json",
+    "packages/react/alert-dialog/package.json",
+    "packages/react/announce/package.json",
+    "packages/react/arrow/package.json",
+    "packages/react/aspect-ratio/package.json",
+    "packages/react/avatar/package.json",
+    "packages/react/checkbox/package.json",
+    "packages/react/collapsible/package.json",
+    "packages/react/collection/package.json",
+    "packages/react/compose-refs/package.json",
+    "packages/react/context-menu/package.json",
+    "packages/react/context/package.json",
+    "packages/react/dialog/package.json",
+    "packages/react/direction/package.json",
+    "packages/react/dismissable-layer/package.json",
+    "packages/react/dropdown-menu/package.json",
+    "packages/react/focus-guards/package.json",
+    "packages/react/focus-scope/package.json",
+    "packages/react/form/package.json",
+    "packages/react/hover-card/package.json",
+    "packages/react/id/package.json",
+    "packages/react/label/package.json",
+    "packages/react/menu/package.json",
+    "packages/react/menubar/package.json",
+    "packages/react/navigation-menu/package.json",
+    "packages/react/one-time-password-field/package.json",
+    "packages/react/password-toggle-field/package.json",
+    "packages/react/popover/package.json",
+    "packages/react/popper/package.json",
+    "packages/react/portal/package.json",
+    "packages/react/presence/package.json",
+    "packages/react/primitive/package.json",
+    "packages/react/progress/package.json",
+    "packages/react/radio-group/package.json",
+    "packages/react/radix-ui/package.json",
+    "packages/react/roving-focus/package.json",
+    "packages/react/scroll-area/package.json",
+    "packages/react/select/package.json",
+    "packages/react/separator/package.json",
+    "packages/react/slider/package.json",
+    "packages/react/slot/package.json",
+    "packages/react/switch/package.json",
+    "packages/react/tabs/package.json",
+    "packages/react/toast/package.json",
+    "packages/react/toggle-group/package.json",
+    "packages/react/toggle/package.json",
+    "packages/react/toolbar/package.json",
+    "packages/react/tooltip/package.json",
+    "packages/react/use-callback-ref/package.json",
+    "packages/react/use-controllable-state/package.json",
+    "packages/react/use-effect-event/package.json",
+    "packages/react/use-escape-keydown/package.json",
+    "packages/react/use-is-hydrated/package.json",
+    "packages/react/use-layout-effect/package.json",
+    "packages/react/use-previous/package.json",
+    "packages/react/use-rect/package.json",
+    "packages/react/use-size/package.json",
+    "packages/react/visually-hidden/package.json"
+  ],
+  "repo_url": "https://github.com/radix-ui/primitives",
+  "root": {
+    "error": null,
+    "name": "primitives",
+    "version": "0.1.0"
+  }
+}

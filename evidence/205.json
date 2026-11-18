@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:15Z",
+  "docs": {
+    "body_bytes_hashed": 3889,
+    "body_sha256": "211fbbe6b0a89210b87643b3d7f7ebc3e7d25df6dc6e7a5901663fdcde53442b",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:24Z",
+    "final_url": "https://storybook.polaris.shopify.dev/",
+    "http_status": 200,
+    "url": "https://shopify.github.io/polaris-react-archive/"
+  },
+  "id": "205",
+  "name": "Polaris (Shopify)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:15Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v9.8.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-09-09T18:59:03Z",
+    "spdx_licence": "MIT",
+    "tag_count": 1169,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

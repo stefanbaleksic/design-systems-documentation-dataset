@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:44Z",
+  "docs": {
+    "body_bytes_hashed": 2312,
+    "body_sha256": "550d139ad273af6066ff9168ffe54c76185537c95b2309c30f68a05eaf12f67c",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:45Z",
+    "final_url": "https://travelmakers.github.io/travelmakers-design/",
+    "http_status": 200,
+    "url": "https://travelmakers.github.io/travelmakers-design/"
+  },
+  "id": "223",
+  "name": "Travelmakers Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:44Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2023-06-16T04:09:43Z",
+    "spdx_licence": "MIT",
+    "tag_count": 163,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

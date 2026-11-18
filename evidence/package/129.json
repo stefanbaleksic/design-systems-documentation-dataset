@@ -1,0 +1,178 @@
+{
+  "collected_at_utc": "2026-11-18T11:33:32Z",
+  "error": null,
+  "id": "129",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "pr-story",
+      "path": ".codesandbox/examples/pr-story/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-mcp",
+      "path": "ecosystem/semi-mcp/package.json",
+      "version": "1.0.22"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-animation-react",
+      "path": "packages/semi-animation-react/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-animation-styled",
+      "path": "packages/semi-animation-styled/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-animation",
+      "path": "packages/semi-animation/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-semi-design",
+      "path": "packages/semi-eslint-plugin/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": "package.json larger than 512 KiB; not parsed",
+      "name": null,
+      "path": "packages/semi-foundation/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-icons-lab",
+      "path": "packages/semi-icons-lab/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-icons",
+      "path": "packages/semi-icons/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-illustrations",
+      "path": "packages/semi-illustrations/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-json-viewer-core",
+      "path": "packages/semi-json-viewer-core/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-next",
+      "path": "packages/semi-next/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-rspack-plugin",
+      "path": "packages/semi-rspack/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-scss-compile",
+      "path": "packages/semi-scss-compile/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-theme-default",
+      "path": "packages/semi-theme-default/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-ui",
+      "path": "packages/semi-ui/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-vite-plugin",
+      "path": "packages/semi-vite/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "@douyinfe/semi-webpack-plugin",
+      "path": "packages/semi-webpack/package.json",
+      "version": "2.105.0"
+    },
+    {
+      "error": null,
+      "name": "gatsby-remark-unwrap",
+      "path": "plugins/gatsby-remark-unwrap/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "gatsby-remark-wrap-in-section",
+      "path": "plugins/gatsby-remark-wrap-in-section/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "gatsby-source-semi-icons",
+      "path": "plugins/gatsby-source-semi-icons/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "semi-live-for-ai",
+      "path": "semi-live-for-ai/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "semi-playground-for-ai",
+      "path": "semi-playground-for-ai/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    ".codesandbox/examples/pr-story/package.json",
+    "ecosystem/semi-mcp/package.json",
+    "package.json",
+    "packages/semi-animation-react/package.json",
+    "packages/semi-animation-styled/package.json",
+    "packages/semi-animation/package.json",
+    "packages/semi-eslint-plugin/package.json",
+    "packages/semi-foundation/package.json",
+    "packages/semi-icons-lab/package.json",
+    "packages/semi-icons/package.json",
+    "packages/semi-illustrations/package.json",
+    "packages/semi-json-viewer-core/package.json",
+    "packages/semi-next/package.json",
+    "packages/semi-rspack/package.json",
+    "packages/semi-scss-compile/package.json",
+    "packages/semi-theme-default/package.json",
+    "packages/semi-ui/package.json",
+    "packages/semi-vite/package.json",
+    "packages/semi-webpack/package.json",
+    "plugins/gatsby-remark-unwrap/package.json",
+    "plugins/gatsby-remark-wrap-in-section/package.json",
+    "plugins/gatsby-source-semi-icons/package.json",
+    "semi-live-for-ai/package.json",
+    "semi-playground-for-ai/package.json"
+  ],
+  "repo_url": "https://github.com/DouyinFE/semi-design",
+  "root": {
+    "error": null,
+    "name": "semi",
+    "version": "0.0.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:33Z",
+  "docs": {
+    "body_bytes_hashed": 116220,
+    "body_sha256": "6959e5982075a0ec14a1e3ce9e01b281d31b67e3da872930ca4408d34249e40e",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:48Z",
+    "final_url": "https://www.goodbarber.com/uxdesign/",
+    "http_status": 200,
+    "url": "https://www.goodbarber.com/uxdesign/"
+  },
+  "id": "62",
+  "name": "GoodBarber Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

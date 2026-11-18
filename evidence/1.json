@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:18Z",
+  "docs": {
+    "body_bytes_hashed": 2301,
+    "body_sha256": "054b5cb40c4f5ca3bfe3224f05bded2a41ad8449fa1210e59ecc499683bcd274",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:10Z",
+    "final_url": "https://brand.aalto.fi/",
+    "http_status": 200,
+    "url": "https://brand.aalto.fi/"
+  },
+  "id": "1",
+  "name": "Aalto University",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

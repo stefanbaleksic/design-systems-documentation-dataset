@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:31:42Z",
+  "error": null,
+  "id": "112",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "pivotal-ui-sandbox",
+      "path": "sandbox/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "pivotal-ui-styleguide",
+      "path": "styleguide/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "gatsby-pivotal-ui-styleguide",
+      "path": "styleguide/plugins/gatsby-pivotal-ui-styleguide/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "package.json",
+    "sandbox/package.json",
+    "styleguide/package.json",
+    "styleguide/plugins/gatsby-pivotal-ui-styleguide/package.json"
+  ],
+  "repo_url": "https://github.com/pivotal-cf/pivotal-ui",
+  "root": {
+    "error": null,
+    "name": "pivotal-ui",
+    "version": "19.0.0"
+  }
+}

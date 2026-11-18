@@ -1,0 +1,94 @@
+{
+  "collected_at_utc": "2026-11-18T11:48:45Z",
+  "error": null,
+  "id": "289",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "rebass-sandbox",
+      "path": "examples/sandbox/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "@rebass/styled-components-example",
+      "path": "examples/styled-components/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "@rebass/bundler",
+      "path": "packages/bundler/package.json",
+      "version": "4.0.5"
+    },
+    {
+      "error": null,
+      "name": "docs",
+      "path": "packages/docs/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "@rebass/forms",
+      "path": "packages/forms/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@rebass/layout",
+      "path": "packages/layout/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@rebass/preset-material",
+      "path": "packages/preset-material/package.json",
+      "version": "4.0.5"
+    },
+    {
+      "error": null,
+      "name": "@rebass/preset",
+      "path": "packages/preset/package.json",
+      "version": "4.0.5"
+    },
+    {
+      "error": null,
+      "name": "rebass",
+      "path": "packages/rebass/package.json",
+      "version": "4.0.7"
+    },
+    {
+      "error": null,
+      "name": "reflexbox",
+      "path": "packages/reflexbox/package.json",
+      "version": "4.0.6"
+    },
+    {
+      "error": null,
+      "name": "@rebass/space",
+      "path": "packages/space/package.json",
+      "version": "4.0.5"
+    }
+  ],
+  "paths": [
+    "examples/sandbox/package.json",
+    "examples/styled-components/package.json",
+    "package.json",
+    "packages/bundler/package.json",
+    "packages/docs/package.json",
+    "packages/forms/package.json",
+    "packages/layout/package.json",
+    "packages/preset-material/package.json",
+    "packages/preset/package.json",
+    "packages/rebass/package.json",
+    "packages/reflexbox/package.json",
+    "packages/space/package.json"
+  ],
+  "repo_url": "https://github.com/rebassjs/rebass",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

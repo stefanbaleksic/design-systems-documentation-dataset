@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:37Z",
+  "docs": {
+    "body_bytes_hashed": 777,
+    "body_sha256": "841415548671b6232f9ec3134beeb7f63a533c3d58ba390247117a19fa1e43f5",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:26Z",
+    "final_url": "https://www.wix-style-react.com/storybook/",
+    "http_status": 200,
+    "url": "https://www.wix-style-react.com/storybook/"
+  },
+  "id": "159",
+  "name": "Wix Style React",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

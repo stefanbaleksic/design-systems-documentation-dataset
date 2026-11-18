@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:45Z",
+  "docs": {
+    "body_bytes_hashed": 401580,
+    "body_sha256": "0e15dcac929f8854911caf6db0b048f15b2e073362625619ad52d8afcfc9496a",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:01Z",
+    "final_url": "https://blog.hubspot.com/website/design-system",
+    "http_status": 200,
+    "url": "https://canvas.hubspot.com/"
+  },
+  "id": "70",
+  "name": "HubSpot Canvas",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:45Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": null,
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2018-02-26T02:00:49Z",
+    "spdx_licence": null,
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

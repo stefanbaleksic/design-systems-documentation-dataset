@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:26Z",
+  "docs": null,
+  "id": "250",
+  "name": "PatternFly",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:26Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v6.7.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.txt",
+    "pushed_at_utc": "2026-11-18T00:19:41Z",
+    "spdx_licence": "MIT",
+    "tag_count": 1893,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:08Z",
+  "docs": {
+    "body_bytes_hashed": 208004,
+    "body_sha256": "b41f852e2a3629e3a6bd7e4c7d6946a76fff3e4729b3de7da2278a7c4669e4d9",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:45Z",
+    "final_url": "https://brand.mixpanel.com:443/",
+    "http_status": 200,
+    "url": "https://design.mixpanel.com"
+  },
+  "id": "95",
+  "name": "Mixpanel Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

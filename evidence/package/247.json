@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:43:34Z",
+  "error": null,
+  "id": "247",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "semantic",
+      "path": "tasks/config/admin/templates/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "tasks/config/admin/templates/package.json"
+  ],
+  "repo_url": "https://github.com/Semantic-Org/Semantic-UI",
+  "root": {
+    "error": null,
+    "name": "semantic-ui",
+    "version": "2.5.0"
+  }
+}

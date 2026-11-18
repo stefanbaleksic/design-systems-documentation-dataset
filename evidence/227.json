@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:51Z",
+  "docs": null,
+  "id": "227",
+  "name": "Paragon (Open edX)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:51Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "release-23.x",
+    "latest_tag": "v23.23.2",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T00:22:31Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 756,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

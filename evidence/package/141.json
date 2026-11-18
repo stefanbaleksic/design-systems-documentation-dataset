@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:35:17Z",
+  "error": null,
+  "id": "141",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "next",
+      "path": "next/package.json",
+      "version": "0.1.6"
+    },
+    {
+      "error": null,
+      "name": "@thumbtack/gatsby-source-coda",
+      "path": "packages/gatsby-source-coda/package.json",
+      "version": "0.0.6"
+    },
+    {
+      "error": null,
+      "name": "@thumbtack/thumbprint-atomic",
+      "path": "packages/thumbprint-atomic/package.json",
+      "version": "4.4.0"
+    },
+    {
+      "error": null,
+      "name": "@thumbtack/thumbprint-codemods",
+      "path": "packages/thumbprint-codemods/package.json",
+      "version": "0.5.5"
+    },
+    {
+      "error": null,
+      "name": "@thumbtack/thumbprint-font-face",
+      "path": "packages/thumbprint-font-face/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@thumbtack/thumbprint-global-css",
+      "path": "packages/thumbprint-global-css/package.json",
+      "version": "0.1.21"
+    },
+    {
+      "error": null,
+      "name": "@thumbtack/thumbprint-react",
+      "path": "packages/thumbprint-react/package.json",
+      "version": "14.18.2"
+    },
+    {
+      "error": null,
+      "name": "@thumbtack/thumbprint-scss",
+      "path": "packages/thumbprint-scss/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "www",
+      "path": "www/package.json",
+      "version": "0.0.158"
+    }
+  ],
+  "paths": [
+    "next/package.json",
+    "package.json",
+    "packages/gatsby-source-coda/package.json",
+    "packages/thumbprint-atomic/package.json",
+    "packages/thumbprint-codemods/package.json",
+    "packages/thumbprint-font-face/package.json",
+    "packages/thumbprint-global-css/package.json",
+    "packages/thumbprint-react/package.json",
+    "packages/thumbprint-scss/package.json",
+    "www/package.json"
+  ],
+  "repo_url": "https://github.com/thumbtack/thumbprint",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

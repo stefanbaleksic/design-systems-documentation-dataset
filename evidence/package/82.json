@@ -1,0 +1,241 @@
+{
+  "collected_at_utc": "2026-11-18T11:29:52Z",
+  "error": null,
+  "id": "82",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@public-ui/angular-v20",
+      "path": "packages/adapters/angular/v20/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/angular-v21",
+      "path": "packages/adapters/angular/v21/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/hydrate",
+      "path": "packages/adapters/hydrate/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/preact",
+      "path": "packages/adapters/preact/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/react-hook-form-adapter",
+      "path": "packages/adapters/react-hook-form-adapter/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/react-standalone",
+      "path": "packages/adapters/react-standalone/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/react-v19",
+      "path": "packages/adapters/react-v19/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/react",
+      "path": "packages/adapters/react/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/solid",
+      "path": "packages/adapters/solid/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/svelte",
+      "path": "packages/adapters/svelte/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/vue",
+      "path": "packages/adapters/vue/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/components",
+      "path": "packages/components/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/ecl-icons",
+      "path": "packages/ecl-icons/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/icons",
+      "path": "packages/icons/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/sample-angular",
+      "path": "packages/samples/angular/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@public-ui/presentation",
+      "path": "packages/samples/presentation/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/sample-react",
+      "path": "packages/samples/react/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/test-tag-name-transformer",
+      "path": "packages/test-tag-name-transformer/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@public-ui/theme-bwst",
+      "path": "packages/themes/bwst/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/theme-default",
+      "path": "packages/themes/default/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/theme-desy",
+      "path": "packages/themes/desy/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/theme-ecl",
+      "path": "packages/themes/ecl/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/theme-kern",
+      "path": "packages/themes/kern/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/themes",
+      "path": "packages/themes/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/benchmark-tests",
+      "path": "packages/tools/benchmark-tests/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@public-ui/eslint-config",
+      "path": "packages/tools/eslint-config/package.json",
+      "version": "4.3.0-rc.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/hydrate-server",
+      "path": "packages/tools/hydrate-server/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/kolibri-cli",
+      "path": "packages/tools/kolibri-cli/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/mcp",
+      "path": "packages/tools/mcp/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/stylelint-rules",
+      "path": "packages/tools/stylelint-rules/package.json",
+      "version": "4.1.2-rc.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/visual-tests",
+      "path": "packages/tools/visual-tests/package.json",
+      "version": "5.0.0-beta.1"
+    },
+    {
+      "error": null,
+      "name": "@public-ui/unstyled",
+      "path": "packages/unstyled/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/adapters/angular/v20/package.json",
+    "packages/adapters/angular/v21/package.json",
+    "packages/adapters/hydrate/package.json",
+    "packages/adapters/preact/package.json",
+    "packages/adapters/react-hook-form-adapter/package.json",
+    "packages/adapters/react-standalone/package.json",
+    "packages/adapters/react-v19/package.json",
+    "packages/adapters/react/package.json",
+    "packages/adapters/solid/package.json",
+    "packages/adapters/svelte/package.json",
+    "packages/adapters/vue/package.json",
+    "packages/components/package.json",
+    "packages/ecl-icons/package.json",
+    "packages/icons/package.json",
+    "packages/samples/angular/package.json",
+    "packages/samples/presentation/package.json",
+    "packages/samples/react/package.json",
+    "packages/test-tag-name-transformer/package.json",
+    "packages/themes/bwst/package.json",
+    "packages/themes/default/package.json",
+    "packages/themes/desy/package.json",
+    "packages/themes/ecl/package.json",
+    "packages/themes/kern/package.json",
+    "packages/themes/package.json",
+    "packages/tools/benchmark-tests/package.json",
+    "packages/tools/eslint-config/package.json",
+    "packages/tools/hydrate-server/package.json",
+    "packages/tools/kolibri-cli/package.json",
+    "packages/tools/mcp/package.json",
+    "packages/tools/stylelint-rules/package.json",
+    "packages/tools/visual-tests/package.json",
+    "packages/unstyled/package.json"
+  ],
+  "repo_url": "https://github.com/public-ui/kolibri",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": "5.0.0-beta.1"
+  }
+}

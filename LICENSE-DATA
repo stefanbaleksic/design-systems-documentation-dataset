@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Stefan B. Aleksić
+
+This license applies to the dataset content: the records in data/ and the
+tables in results/ (and the data array embedded in source/index.html; the page code is under MIT). It does not
+apply to scripts/, tests/ or the documentation, which are under the MIT
+License in LICENSE.
+
+You are free to share and adapt the dataset for any purpose, including
+commercial use, provided you give appropriate credit, provide a link to the
+license, and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Suggested attribution:
+Aleksić, S. B. (2026). Design System Documentation Dataset (v1.0) [Data set].
+DOI: to be added.

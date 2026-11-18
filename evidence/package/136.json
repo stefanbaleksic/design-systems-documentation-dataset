@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:35:09Z",
+  "error": null,
+  "id": "136",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@stackoverflow/stacks",
+      "path": "packages/stacks-classic/package.json",
+      "version": "3.0.2"
+    },
+    {
+      "error": null,
+      "name": "@stackoverflow/stacks-docs",
+      "path": "packages/stacks-docs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@stackoverflow/stacks-email",
+      "path": "packages/stacks-email/package.json",
+      "version": "1.0.0-beta.0"
+    },
+    {
+      "error": null,
+      "name": "@stackoverflow/stacks-svelte",
+      "path": "packages/stacks-svelte/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@stackoverflow/stacks-utils",
+      "path": "packages/stacks-utils/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/stacks-classic/package.json",
+    "packages/stacks-docs/package.json",
+    "packages/stacks-email/package.json",
+    "packages/stacks-svelte/package.json",
+    "packages/stacks-utils/package.json"
+  ],
+  "repo_url": "https://github.com/StackExchange/Stacks",
+  "root": {
+    "error": null,
+    "name": "stacks",
+    "version": null
+  }
+}

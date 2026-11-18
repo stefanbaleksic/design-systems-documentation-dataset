@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:45Z",
+  "docs": {
+    "body_bytes_hashed": 703034,
+    "body_sha256": "c1dbb94aa17ece2caeb265ae25554aeed73b62a78de32db7ffbfdf75d5996889",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:36Z",
+    "final_url": "https://preline.co",
+    "http_status": 200,
+    "url": "https://preline.co"
+  },
+  "id": "168",
+  "name": "Preline UI",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

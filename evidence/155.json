@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:29Z",
+  "docs": {
+    "body_bytes_hashed": 31351,
+    "body_sha256": "7c8180fe1b234a13b86ceaa8b18cbac3346f6a830b87f120aefd7854deb13de5",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:20Z",
+    "final_url": "https://vueds.com/",
+    "http_status": 200,
+    "url": "https://vueds.com/"
+  },
+  "id": "155",
+  "name": "Vue Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:29Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "3.5.7",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2023-01-24T08:00:30Z",
+    "spdx_licence": "MIT",
+    "tag_count": 49,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,346 @@
+{
+  "collected_at_utc": "2026-11-18T11:48:24Z",
+  "error": null,
+  "id": "288",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "gatsby-plugin-theme-ui-example",
+      "path": "examples/gatsby-plugin/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "gatsby-theme-ui-example",
+      "path": "examples/gatsby/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "next-theme-ui-example",
+      "path": "examples/next/package.json",
+      "version": "9.9.9"
+    },
+    {
+      "error": null,
+      "name": "typography-js-theme-ui-example",
+      "path": "examples/typography/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/color-modes",
+      "path": "packages/color-modes/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/color",
+      "path": "packages/color/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/components",
+      "path": "packages/components/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/core-jsx-dev-runtime",
+      "path": "packages/core/jsx-dev-runtime/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/core-jsx-runtime",
+      "path": "packages/core/jsx-runtime/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/core",
+      "path": "packages/core/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/css",
+      "path": "packages/css/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/css/utils/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/custom-properties",
+      "path": "packages/custom-properties/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "docs",
+      "path": "packages/docs/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "e2e",
+      "path": "packages/e2e/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "gatsby-plugin-theme-ui",
+      "path": "packages/gatsby-plugin-theme-ui/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "gatsby-theme-style-guide",
+      "path": "packages/gatsby-theme-style-guide/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "gatsby-theme-ui-layout",
+      "path": "packages/gatsby-theme-ui-layout/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/global",
+      "path": "packages/global/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/match-media",
+      "path": "packages/match-media/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/mdx",
+      "path": "packages/mdx/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-base",
+      "path": "packages/preset-base/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-bootstrap",
+      "path": "packages/preset-bootstrap/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-bulma",
+      "path": "packages/preset-bulma/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-dark",
+      "path": "packages/preset-dark/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-deep",
+      "path": "packages/preset-deep/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-funk",
+      "path": "packages/preset-funk/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-future",
+      "path": "packages/preset-future/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-polaris",
+      "path": "packages/preset-polaris/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-roboto",
+      "path": "packages/preset-roboto/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-sketchy",
+      "path": "packages/preset-sketchy/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-swiss",
+      "path": "packages/preset-swiss/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-system",
+      "path": "packages/preset-system/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-tailwind",
+      "path": "packages/preset-tailwind/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/preset-tosh",
+      "path": "packages/preset-tosh/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/presets",
+      "path": "packages/presets/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/prism",
+      "path": "packages/prism/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/style-guide",
+      "path": "packages/style-guide/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/tachyons",
+      "path": "packages/tachyons/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/tailwind",
+      "path": "packages/tailwind/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/test-utils",
+      "path": "packages/test-utils/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/theme-provider",
+      "path": "packages/theme-provider/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/theme-ui/jsx-dev-runtime/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "packages/theme-ui/jsx-runtime/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "theme-ui",
+      "path": "packages/theme-ui/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": "@theme-ui/typography",
+      "path": "packages/typography/package.json",
+      "version": "0.17.4"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "scripts/typecheck-built-files/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "examples/gatsby-plugin/package.json",
+    "examples/gatsby/package.json",
+    "examples/next/package.json",
+    "examples/typography/package.json",
+    "package.json",
+    "packages/color-modes/package.json",
+    "packages/color/package.json",
+    "packages/components/package.json",
+    "packages/core/jsx-dev-runtime/package.json",
+    "packages/core/jsx-runtime/package.json",
+    "packages/core/package.json",
+    "packages/css/package.json",
+    "packages/css/utils/package.json",
+    "packages/custom-properties/package.json",
+    "packages/docs/package.json",
+    "packages/e2e/package.json",
+    "packages/gatsby-plugin-theme-ui/package.json",
+    "packages/gatsby-theme-style-guide/package.json",
+    "packages/gatsby-theme-ui-layout/package.json",
+    "packages/global/package.json",
+    "packages/match-media/package.json",
+    "packages/mdx/package.json",
+    "packages/preset-base/package.json",
+    "packages/preset-bootstrap/package.json",
+    "packages/preset-bulma/package.json",
+    "packages/preset-dark/package.json",
+    "packages/preset-deep/package.json",
+    "packages/preset-funk/package.json",
+    "packages/preset-future/package.json",
+    "packages/preset-polaris/package.json",
+    "packages/preset-roboto/package.json",
+    "packages/preset-sketchy/package.json",
+    "packages/preset-swiss/package.json",
+    "packages/preset-system/package.json",
+    "packages/preset-tailwind/package.json",
+    "packages/preset-tosh/package.json",
+    "packages/presets/package.json",
+    "packages/prism/package.json",
+    "packages/style-guide/package.json",
+    "packages/tachyons/package.json",
+    "packages/tailwind/package.json",
+    "packages/test-utils/package.json",
+    "packages/theme-provider/package.json",
+    "packages/theme-ui/jsx-dev-runtime/package.json",
+    "packages/theme-ui/jsx-runtime/package.json",
+    "packages/theme-ui/package.json",
+    "packages/typography/package.json",
+    "scripts/typecheck-built-files/package.json"
+  ],
+  "repo_url": "https://github.com/system-ui/theme-ui",
+  "root": {
+    "error": null,
+    "name": "@theme-ui/monorepo",
+    "version": "0.17.4"
+  }
+}

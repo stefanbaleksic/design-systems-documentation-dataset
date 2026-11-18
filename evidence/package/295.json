@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:49:26Z",
+  "error": null,
+  "id": "295",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/hmcts/hmcts-design-system",
+  "root": {
+    "error": null,
+    "name": "hmcts-design-system",
+    "version": "1.0.0-alpha"
+  }
+}

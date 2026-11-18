@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:13Z",
+  "docs": {
+    "body_bytes_hashed": 268,
+    "body_sha256": "8669ded32f4031360918512fb69b7a1ba87b28105c88206ae2a97bc962ec8903",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:19Z",
+    "final_url": "https://opensource.ebay.com/skin/",
+    "http_status": 200,
+    "url": "https://ebay.github.io/skin/"
+  },
+  "id": "44",
+  "name": "eBay Skin",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:13Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v19.2.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2025-04-28T18:07:57Z",
+    "spdx_licence": "MIT",
+    "tag_count": 237,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:03Z",
+  "docs": {
+    "body_bytes_hashed": 39348,
+    "body_sha256": "df5c2ceb92a6d2886b73937f0877323a702a88c3ccf2367d318c3d2816b812be",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:07Z",
+    "final_url": "https://design.quebec.ca/a-propos/systeme-design",
+    "http_status": 200,
+    "url": "https://design.quebec.ca/a-propos/systeme-design"
+  },
+  "id": "195",
+  "name": "Government of Quebec Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

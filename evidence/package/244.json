@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:43:09Z",
+  "error": null,
+  "id": "244",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@vuetify/api-generator",
+      "path": "packages/api-generator/package.json",
+      "version": "4.3.4"
+    },
+    {
+      "error": null,
+      "name": "vuetifyjs.com",
+      "path": "packages/docs/package.json",
+      "version": "4.3.4"
+    },
+    {
+      "error": null,
+      "name": "vuetify",
+      "path": "packages/vuetify/package.json",
+      "version": "4.3.4"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/api-generator/package.json",
+    "packages/docs/package.json",
+    "packages/vuetify/package.json"
+  ],
+  "repo_url": "https://github.com/vuetifyjs/vuetify",
+  "root": {
+    "error": null,
+    "name": "@vuetify/vuetify-root",
+    "version": null
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:53Z",
+  "error": null,
+  "id": "26",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@braid-design-system/integration-tests",
+      "path": "integration/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "braid-design-system",
+      "path": "packages/braid-design-system/package.json",
+      "version": "34.11.1"
+    },
+    {
+      "error": null,
+      "name": "@braid-design-system/codemod",
+      "path": "packages/codemod/package.json",
+      "version": "1.0.2"
+    },
+    {
+      "error": null,
+      "name": "@braid-design-system/docs-ui",
+      "path": "packages/docs-ui/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "@braid-design-system/generate-component-docs",
+      "path": "packages/generate-component-docs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@braid-design-system/icons",
+      "path": "packages/icons/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@braid-design-system/source.macro",
+      "path": "packages/source.macro/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "site",
+      "path": "site/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@braid-design-system/storybook",
+      "path": "storybook/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "integration/package.json",
+    "package.json",
+    "packages/braid-design-system/package.json",
+    "packages/codemod/package.json",
+    "packages/docs-ui/package.json",
+    "packages/generate-component-docs/package.json",
+    "packages/icons/package.json",
+    "packages/source.macro/package.json",
+    "site/package.json",
+    "storybook/package.json"
+  ],
+  "repo_url": "https://github.com/seek-oss/braid-design-system",
+  "root": {
+    "error": null,
+    "name": "braid",
+    "version": "1.0.0"
+  }
+}

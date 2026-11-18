@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:12Z",
+  "docs": {
+    "body_bytes_hashed": 78028,
+    "body_sha256": "6592e809a4f208f46790c96eda3b318db3896386168c98b39337f03283b813c5",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:17:48Z",
+    "final_url": "https://design.va.gov/",
+    "http_status": 200,
+    "url": "https://design.va.gov/"
+  },
+  "id": "280",
+  "name": "VA.gov Design System (Veterans Affairs)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

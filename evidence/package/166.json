@@ -1,0 +1,45 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:03Z",
+  "error": null,
+  "id": "166",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@govtnz/ds-website",
+      "path": "packages/govtnz-ds-website/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@govtnz/ds",
+      "path": "packages/govtnz-ds/package.json",
+      "version": "0.2.2"
+    },
+    {
+      "error": null,
+      "name": "@springload/metatemplate",
+      "path": "packages/metatemplate/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "prismjs-mt",
+      "path": "packages/prismjs-mt/package.json",
+      "version": "1.16.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/govtnz-ds-website/package.json",
+    "packages/govtnz-ds/package.json",
+    "packages/metatemplate/package.json",
+    "packages/prismjs-mt/package.json"
+  ],
+  "repo_url": "https://github.com/GOVTNZ/govtnz-design-system",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

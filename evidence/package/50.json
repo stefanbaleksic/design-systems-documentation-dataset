@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:28:05Z",
+  "error": null,
+  "id": "50",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "evergreen-ui-codemods",
+      "path": "codemods/package.json",
+      "version": "5.0.0"
+    },
+    {
+      "error": null,
+      "name": "evergreen-docs",
+      "path": "docs/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "ssr-next",
+      "path": "examples/ssr-next/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "codemods/package.json",
+    "docs/package.json",
+    "examples/ssr-next/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/segmentio/evergreen",
+  "root": {
+    "error": null,
+    "name": "evergreen-ui",
+    "version": "7.1.9"
+  }
+}

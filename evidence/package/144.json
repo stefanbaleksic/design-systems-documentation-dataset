@@ -1,0 +1,45 @@
+{
+  "collected_at_utc": "2026-11-18T11:35:45Z",
+  "error": null,
+  "id": "144",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@uber-web-ui/baseui-codemods",
+      "path": "packages/baseui-codemods/package.json",
+      "version": "2.0.5"
+    },
+    {
+      "error": null,
+      "name": "baseweb",
+      "path": "packages/baseweb-vscode-extension/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-baseui",
+      "path": "packages/eslint-plugin-baseui/__tests__/example-config/node_modules/eslint-plugin-baseui/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-baseui",
+      "path": "packages/eslint-plugin-baseui/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/baseui-codemods/package.json",
+    "packages/baseweb-vscode-extension/package.json",
+    "packages/eslint-plugin-baseui/__tests__/example-config/node_modules/eslint-plugin-baseui/package.json",
+    "packages/eslint-plugin-baseui/package.json"
+  ],
+  "repo_url": "https://github.com/uber-web/baseui",
+  "root": {
+    "error": null,
+    "name": "baseui",
+    "version": "18.2.0"
+  }
+}

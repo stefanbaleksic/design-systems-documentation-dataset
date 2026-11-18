@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:17Z",
+  "docs": {
+    "body_bytes_hashed": 49369,
+    "body_sha256": "33428964438c5576616699915f10652a85497dd7974ed236ee3e21ad8ef1820e",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:01Z",
+    "final_url": "https://redwood.oracle.com",
+    "http_status": 200,
+    "url": "https://redwood.oracle.com"
+  },
+  "id": "108",
+  "name": "Oracle Redwood",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

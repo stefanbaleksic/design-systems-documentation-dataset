@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:43Z",
+  "docs": {
+    "body_bytes_hashed": 27270,
+    "body_sha256": "1b3096da4145e9a8af8b19defa875dd74fa8671a42cf9e147de996bff33c5911",
+    "content_type": "text/html;charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:32Z",
+    "final_url": "https://designsystem.gov.scot/about",
+    "http_status": 200,
+    "url": "https://designsystem.gov.scot/about"
+  },
+  "id": "165",
+  "name": "Scottish Government Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

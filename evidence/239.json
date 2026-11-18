@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:09Z",
+  "docs": null,
+  "id": "239",
+  "name": "Instructure UI (Canvas LMS)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:09Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v11.7.10",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-17T15:12:33Z",
+    "spdx_licence": "MIT",
+    "tag_count": 484,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

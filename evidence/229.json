@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:54Z",
+  "docs": {
+    "body_bytes_hashed": 64241,
+    "body_sha256": "26b8a3b47cb2362fc4254e6b5aaf7acf0472d5bd6840367f8223010d074ae9c5",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:51Z",
+    "final_url": "https://designsystem.volvocars.com/web/developing/installation/",
+    "http_status": 200,
+    "url": "https://designsystem.volvocars.com/web/developing/installation/"
+  },
+  "id": "229",
+  "name": "Volvo Cars Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

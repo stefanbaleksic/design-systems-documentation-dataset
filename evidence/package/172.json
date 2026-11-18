@@ -1,0 +1,80 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:06Z",
+  "error": null,
+  "id": "172",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-builder-library",
+      "path": "packages/builder/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-components-library",
+      "path": "packages/components/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-elements-library",
+      "path": "packages/elements/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-feeds-library",
+      "path": "packages/feeds/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-icons-library",
+      "path": "packages/icons/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-model-library",
+      "path": "packages/model/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-styles-library",
+      "path": "packages/styles/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-token-library",
+      "path": "packages/tokens/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@universityofmaryland/web-utilities-library",
+      "path": "packages/utilities/package.json",
+      "version": "2.1.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/builder/package.json",
+    "packages/components/package.json",
+    "packages/elements/package.json",
+    "packages/feeds/package.json",
+    "packages/icons/package.json",
+    "packages/model/package.json",
+    "packages/styles/package.json",
+    "packages/tokens/package.json",
+    "packages/utilities/package.json"
+  ],
+  "repo_url": "https://github.com/umd-digital/design-system",
+  "root": {
+    "error": null,
+    "name": "@universityofmaryland/design-system",
+    "version": "1.9.10"
+  }
+}

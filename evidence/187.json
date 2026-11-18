@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:59Z",
+  "docs": {
+    "body_bytes_hashed": 19195,
+    "body_sha256": "650ce69e388e79f0b1ea76685d67d22d37c649bb0046f94391c2d75aad2c7f97",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:00Z",
+    "final_url": "https://design.tax.service.gov.uk/hmrc-design-patterns/",
+    "http_status": 200,
+    "url": "https://design.tax.service.gov.uk/hmrc-design-patterns/"
+  },
+  "id": "187",
+  "name": "HMRC Design Patterns",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

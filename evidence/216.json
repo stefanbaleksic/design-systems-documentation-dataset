@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:33Z",
+  "docs": null,
+  "id": "216",
+  "name": "Mistica Web (Telefónica)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:33Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v18.0.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-13T10:29:05Z",
+    "spdx_licence": "MIT",
+    "tag_count": 422,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:35Z",
+  "docs": null,
+  "id": "217",
+  "name": "Meteor (Shopware)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:35Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-13T15:00:06Z",
+    "spdx_licence": "MIT",
+    "tag_count": 169,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

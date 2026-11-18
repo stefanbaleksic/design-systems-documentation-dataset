@@ -1,0 +1,73 @@
+{
+  "collected_at_utc": "2026-11-18T11:31:37Z",
+  "error": null,
+  "id": "111",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "gestalt-docs",
+      "path": "docs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "eslint-plugin-gestalt",
+      "path": "packages/eslint-plugin-gestalt/package.json",
+      "version": "177.0.13"
+    },
+    {
+      "error": null,
+      "name": "gestalt-charts",
+      "path": "packages/gestalt-charts/package.json",
+      "version": "177.0.13"
+    },
+    {
+      "error": null,
+      "name": "gestalt-core",
+      "path": "packages/gestalt-core/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "gestalt-datepicker",
+      "path": "packages/gestalt-datepicker/package.json",
+      "version": "177.0.13"
+    },
+    {
+      "error": null,
+      "name": "gestalt-design-tokens",
+      "path": "packages/gestalt-design-tokens/package.json",
+      "version": "177.0.13"
+    },
+    {
+      "error": null,
+      "name": "gestalt",
+      "path": "packages/gestalt/package.json",
+      "version": "177.0.13"
+    },
+    {
+      "error": null,
+      "name": "stylelint-plugin-gestalt",
+      "path": "packages/stylelint-plugin-gestalt/package.json",
+      "version": "155.1.3"
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "package.json",
+    "packages/eslint-plugin-gestalt/package.json",
+    "packages/gestalt-charts/package.json",
+    "packages/gestalt-core/package.json",
+    "packages/gestalt-datepicker/package.json",
+    "packages/gestalt-design-tokens/package.json",
+    "packages/gestalt/package.json",
+    "packages/stylelint-plugin-gestalt/package.json"
+  ],
+  "repo_url": "https://github.com/pinterest/gestalt",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

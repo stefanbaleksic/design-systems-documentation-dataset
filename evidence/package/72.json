@@ -1,0 +1,471 @@
+{
+  "collected_at_utc": "2026-11-18T11:28:57Z",
+  "error": null,
+  "id": "72",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@carbon/actions-issues",
+      "path": "actions/issues/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "promote-packages-to-latest",
+      "path": "actions/promote/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "release-notifications",
+      "path": "actions/release-notifications/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@carbon/actions-wait-for-it",
+      "path": "actions/wait-for-it/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "babel-preset-carbon",
+      "path": "config/babel-preset-carbon/package.json",
+      "version": "0.9.0"
+    },
+    {
+      "error": null,
+      "name": "browserslist-config-carbon",
+      "path": "config/browserslist-config-carbon/package.json",
+      "version": "11.2.0"
+    },
+    {
+      "error": null,
+      "name": "eslint-config-carbon",
+      "path": "config/eslint-config-carbon/package.json",
+      "version": "3.30.0"
+    },
+    {
+      "error": null,
+      "name": "jest-config-carbon",
+      "path": "config/jest-config-carbon/package.json",
+      "version": "1.32.0"
+    },
+    {
+      "error": null,
+      "name": "prettier-config-carbon",
+      "path": "config/prettier-config-carbon/package.json",
+      "version": "0.12.0"
+    },
+    {
+      "error": null,
+      "name": "stylelint-config-carbon",
+      "path": "config/stylelint-config-carbon/package.json",
+      "version": "1.26.0"
+    },
+    {
+      "error": null,
+      "name": "typescript-config-carbon",
+      "path": "config/typescript-config-carbon/package.json",
+      "version": "0.11.0"
+    },
+    {
+      "error": null,
+      "name": "class-prefix",
+      "path": "examples/class-prefix/package.json",
+      "version": "0.101.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "codesandbox-styles",
+      "path": "examples/codesandbox-styles/package.json",
+      "version": "0.106.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "custom-theme",
+      "path": "examples/custom-theme/package.json",
+      "version": "0.102.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "id-prefix",
+      "path": "examples/id-prefix/package.json",
+      "version": "0.101.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "examples-light-dark",
+      "path": "examples/light-dark-mode/package.json",
+      "version": "0.102.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "examples-nextjs",
+      "path": "examples/nextjs/package.json",
+      "version": "0.104.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "v10-token-compat-in-v11",
+      "path": "examples/v10-token-compat-in-v11/package.json",
+      "version": "0.102.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "vite",
+      "path": "examples/vite/package.json",
+      "version": "0.102.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "carbon-components-react",
+      "path": "packages/carbon-components-react/package.json",
+      "version": "8.121.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "carbon-components",
+      "path": "packages/carbon-components/package.json",
+      "version": "11.120.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/cli-reporter",
+      "path": "packages/cli-reporter/package.json",
+      "version": "10.9.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/cli",
+      "path": "packages/cli/package.json",
+      "version": "11.53.0"
+    },
+    {
+      "error": null,
+      "name": "colors-explorer",
+      "path": "packages/colors/examples/colors-explorer/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "colors-examples-preview",
+      "path": "packages/colors/examples/preview/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "carbon-colors-sass-modules",
+      "path": "packages/colors/examples/sass-modules/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/colors",
+      "path": "packages/colors/package.json",
+      "version": "11.62.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/elements",
+      "path": "packages/elements/package.json",
+      "version": "11.102.0-rc.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/feature-flags",
+      "path": "packages/feature-flags/package.json",
+      "version": "1.12.0"
+    },
+    {
+      "error": null,
+      "name": "grid-examples-css-grid",
+      "path": "packages/grid/examples/css-grid/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "grid-basic-example",
+      "path": "packages/grid/examples/preview/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/grid",
+      "path": "packages/grid/package.json",
+      "version": "11.66.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/icon-build-helpers",
+      "path": "packages/icon-build-helpers/package.json",
+      "version": "1.68.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/icon-helpers",
+      "path": "packages/icon-helpers/package.json",
+      "version": "10.85.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/icons-react",
+      "path": "packages/icons-react/package.json",
+      "version": "11.92.0"
+    },
+    {
+      "error": null,
+      "name": "vue-cli",
+      "path": "packages/icons-vue/examples/vue-cli/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/icons-vue",
+      "path": "packages/icons-vue/package.json",
+      "version": "10.141.0"
+    },
+    {
+      "error": null,
+      "name": "icon-preview-example",
+      "path": "packages/icons/examples/preview/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@carbon/icons",
+      "path": "packages/icons/package.json",
+      "version": "11.92.0"
+    },
+    {
+      "error": null,
+      "name": "layout-explorer",
+      "path": "packages/layout/examples/layout-explorer/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "layout-basic-example",
+      "path": "packages/layout/examples/preview/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/layout",
+      "path": "packages/layout/package.json",
+      "version": "11.63.0"
+    },
+    {
+      "error": null,
+      "name": "token-explorer",
+      "path": "packages/motion/examples/token-explorer/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@carbon/motion",
+      "path": "packages/motion/package.json",
+      "version": "11.56.0"
+    },
+    {
+      "error": null,
+      "name": "@carbon/pictograms-react",
+      "path": "packages/pictograms-react/package.json",
+      "version": "11.114.0"
+    },
+    {
+      "error": null,
+      "name": "pictogram-preview-example",
+      "path": "packages/pictograms/examples/preview/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@carbon/pictograms",
+      "path": "packages/pictograms/package.json",
+      "version": "12.88.0"
+    },
+    {
+      "error": null,
+      "name": "custom-data-table-state-manager-vite",
+      "path": "packages/react/examples/custom-data-table-state-manager-vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "drag-and-drop-file-uploader-vite",
+      "path": "packages/react/examples/drag-and-drop-file-uploader-vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "react-router-vite",
+      "path": "packages/react/examples/react-router-vite/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "actions/issues/package.json",
+    "actions/promote/package.json",
+    "actions/release-notifications/package.json",
+    "actions/wait-for-it/package.json",
+    "config/babel-preset-carbon/package.json",
+    "config/browserslist-config-carbon/package.json",
+    "config/eslint-config-carbon/package.json",
+    "config/jest-config-carbon/package.json",
+    "config/prettier-config-carbon/package.json",
+    "config/stylelint-config-carbon/package.json",
+    "config/typescript-config-carbon/package.json",
+    "examples/class-prefix/package.json",
+    "examples/codesandbox-styles/package.json",
+    "examples/custom-theme/package.json",
+    "examples/id-prefix/package.json",
+    "examples/light-dark-mode/package.json",
+    "examples/nextjs/package.json",
+    "examples/v10-token-compat-in-v11/package.json",
+    "examples/vite/package.json",
+    "package.json",
+    "packages/carbon-components-react/package.json",
+    "packages/carbon-components/package.json",
+    "packages/cli-reporter/package.json",
+    "packages/cli/package.json",
+    "packages/colors/examples/colors-explorer/package.json",
+    "packages/colors/examples/preview/package.json",
+    "packages/colors/examples/sass-modules/package.json",
+    "packages/colors/package.json",
+    "packages/elements/package.json",
+    "packages/feature-flags/package.json",
+    "packages/grid/examples/css-grid/package.json",
+    "packages/grid/examples/preview/package.json",
+    "packages/grid/package.json",
+    "packages/icon-build-helpers/package.json",
+    "packages/icon-helpers/package.json",
+    "packages/icons-react/package.json",
+    "packages/icons-vue/examples/vue-cli/package.json",
+    "packages/icons-vue/package.json",
+    "packages/icons/examples/preview/package.json",
+    "packages/icons/package.json",
+    "packages/layout/examples/layout-explorer/package.json",
+    "packages/layout/examples/preview/package.json",
+    "packages/layout/package.json",
+    "packages/motion/examples/token-explorer/package.json",
+    "packages/motion/package.json",
+    "packages/pictograms-react/package.json",
+    "packages/pictograms/examples/preview/package.json",
+    "packages/pictograms/package.json",
+    "packages/react/examples/custom-data-table-state-manager-vite/package.json",
+    "packages/react/examples/drag-and-drop-file-uploader-vite/package.json",
+    "packages/react/examples/react-router-vite/package.json",
+    "packages/react/icons/package.json",
+    "packages/react/package.json",
+    "packages/react/src/examples/AboutModal/example/package.json",
+    "packages/react/src/examples/AddSelect/example/package.json",
+    "packages/react/src/examples/Carousel/example/package.json",
+    "packages/react/src/examples/Coachmark/CoachmarkFixed/example/package.json",
+    "packages/react/src/examples/Coachmark/CoachmarkOverlayElements/example/package.json",
+    "packages/react/src/examples/Coachmark/CoachmarkStacked/example/package.json",
+    "packages/react/src/examples/CreateFullPage/example/package.json",
+    "packages/react/src/examples/CreateModal/example/package.json",
+    "packages/react/src/examples/CreateSidePanel/example/package.json",
+    "packages/react/src/examples/CreateTearsheet/example/package.json",
+    "packages/react/src/examples/CreateTearsheetNarrow/example/package.json",
+    "packages/react/src/examples/DeleteAndRemove/example/package.json",
+    "packages/react/src/examples/EmptyState/example/package.json",
+    "packages/react/src/examples/ExportModal/example/package.json",
+    "packages/react/src/examples/GenerateAnAPIKey/example/package.json",
+    "packages/react/src/examples/GetStartedCard/example/package.json",
+    "packages/react/src/examples/ImportAndUpload/example/package.json",
+    "packages/react/src/examples/Saving/example/package.json",
+    "packages/react/src/examples/WebTerminal/example/package.json",
+    "packages/scss-generator/package.json",
+    "packages/styles/package.json",
+    "packages/test-utils/package.json",
+    "packages/themes/examples/preview-v10/package.json",
+    "packages/themes/examples/preview/package.json",
+    "packages/themes/examples/sass-modules/package.json",
+    "packages/themes/examples/token-explorer/package.json",
+    "packages/themes/package.json",
+    "packages/type/examples/preview/package.json",
+    "packages/type/package.json",
+    "packages/upgrade/package.json",
+    "packages/utilities-react/package.json",
+    "packages/utilities/package.json",
+    "packages/web-components/examples/autoalign/package.json",
+    "packages/web-components/examples/components/accordion/package.json",
+    "packages/web-components/examples/components/ai-label/package.json",
+    "packages/web-components/examples/components/ai-skeleton/package.json",
+    "packages/web-components/examples/components/breadcrumb/package.json",
+    "packages/web-components/examples/components/button/package.json",
+    "packages/web-components/examples/components/chat-button/package.json",
+    "packages/web-components/examples/components/checkbox/package.json",
+    "packages/web-components/examples/components/code-snippet/package.json",
+    "packages/web-components/examples/components/combo-box/package.json",
+    "packages/web-components/examples/components/content-switcher/package.json",
+    "packages/web-components/examples/components/copy-button/package.json",
+    "packages/web-components/examples/components/data-table/package.json",
+    "packages/web-components/examples/components/date-picker/package.json",
+    "packages/web-components/examples/components/dropdown/package.json",
+    "packages/web-components/examples/components/file-uploader/package.json",
+    "packages/web-components/examples/components/form-group/package.json",
+    "packages/web-components/examples/components/icon-button/package.json",
+    "packages/web-components/examples/components/icon-indicator/package.json",
+    "packages/web-components/examples/components/inline-loading/package.json",
+    "packages/web-components/examples/components/layer/package.json",
+    "packages/web-components/examples/components/link/package.json",
+    "packages/web-components/examples/components/list/package.json",
+    "packages/web-components/examples/components/loading/package.json",
+    "packages/web-components/examples/components/modal/package.json",
+    "packages/web-components/examples/components/multi-select/package.json",
+    "packages/web-components/examples/components/notification/package.json",
+    "packages/web-components/examples/components/number-input/package.json",
+    "packages/web-components/examples/components/overflow-menu/package.json",
+    "packages/web-components/examples/components/pagination/package.json",
+    "packages/web-components/examples/components/popover/package.json",
+    "packages/web-components/examples/components/progress-bar/package.json",
+    "packages/web-components/examples/components/progress-indicator/package.json",
+    "packages/web-components/examples/components/radio-button/package.json",
+    "packages/web-components/examples/components/search/package.json",
+    "packages/web-components/examples/components/select/package.json",
+    "packages/web-components/examples/components/side-panel/package.json",
+    "packages/web-components/examples/components/skeleton-icon/package.json",
+    "packages/web-components/examples/components/skeleton-placeholder/package.json",
+    "packages/web-components/examples/components/skeleton-text/package.json",
+    "packages/web-components/examples/components/skip-to-content/package.json",
+    "packages/web-components/examples/components/slider/package.json",
+    "packages/web-components/examples/components/stack/package.json",
+    "packages/web-components/examples/components/structured-list/package.json",
+    "packages/web-components/examples/components/tabs/package.json",
+    "packages/web-components/examples/components/tag/package.json",
+    "packages/web-components/examples/components/tearsheet/package.json",
+    "packages/web-components/examples/components/text-input/package.json",
+    "packages/web-components/examples/components/textarea/package.json",
+    "packages/web-components/examples/components/tile/package.json",
+    "packages/web-components/examples/components/toggle/package.json",
+    "packages/web-components/examples/components/toggletip/package.json",
+    "packages/web-components/examples/components/tooltip/package.json",
+    "packages/web-components/examples/components/ui-shell/package.json",
+    "packages/web-components/package.json",
+    "packages/web-components/src/examples/about-modal/example/package.json",
+    "packages/web-components/src/examples/add-select/example/package.json",
+    "packages/web-components/src/examples/coachmark/coachmark-fixed/example/package.json",
+    "packages/web-components/src/examples/coachmark/coachmark-overlay-elements/example/package.json",
+    "packages/web-components/src/examples/coachmark/coachmark-stacked/example/package.json",
+    "packages/web-components/src/examples/create-flows/create-full-page/example/package.json",
+    "packages/web-components/src/examples/create-flows/create-modal/example/package.json",
+    "packages/web-components/src/examples/create-flows/create-side-panel/example/package.json",
+    "packages/web-components/src/examples/create-flows/create-tearsheet/example/package.json",
+    "packages/web-components/src/examples/delete-and-remove/example/package.json",
+    "packages/web-components/src/examples/empty-state/example/package.json",
+    "packages/web-components/src/examples/export-modal/example/package.json",
+    "packages/web-components/src/examples/generate-an-api-key/example/package.json",
+    "packages/web-components/src/examples/import-and-upload/example/package.json",
+    "packages/web-components/src/examples/saving/example/package.json"
+  ],
+  "repo_url": "https://github.com/ibm/carbon-components",
+  "root": {
+    "error": null,
+    "name": "carbon",
+    "version": "0.0.0"
+  }
+}

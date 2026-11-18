@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:19Z",
+  "docs": {
+    "body_bytes_hashed": 270417,
+    "body_sha256": "d432740a9c67303a98edb344886e3f8b947e4da28fd46aa0f094c921a55725eb",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:26Z",
+    "final_url": "https://brand.estonia.ee",
+    "http_status": 200,
+    "url": "https://brand.estonia.ee"
+  },
+  "id": "49",
+  "name": "Estonia Country Design Guidelines",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

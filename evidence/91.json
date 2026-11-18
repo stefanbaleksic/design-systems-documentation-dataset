@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:05Z",
+  "docs": {
+    "body_bytes_hashed": 13680,
+    "body_sha256": "bf43b7e3e285d3cbab63d6525a4ccf32882f99e56ed102e2247e822cf6a96854",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:41Z",
+    "final_url": "https://material-minimal.com/",
+    "http_status": 200,
+    "url": "https://material-minimal.com/"
+  },
+  "id": "91",
+  "name": "Material Minimal",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:05Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "9.3.0",
+    "licence_detection": "text match",
+    "licence_file": "License.txt",
+    "pushed_at_utc": "2026-03-24T12:10:47Z",
+    "spdx_licence": "MIT",
+    "tag_count": 58,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

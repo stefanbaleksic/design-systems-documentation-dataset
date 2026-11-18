@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:01Z",
+  "docs": null,
+  "id": "234",
+  "name": "DB UX Design System (Deutsche Bank)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:01Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-07-29T08:13:45Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:46:24Z",
+  "error": null,
+  "id": "272",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "material-web-catalog",
+      "path": "catalog/package.json",
+      "version": "0.0.1"
+    }
+  ],
+  "paths": [
+    "catalog/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/material-components/material-web",
+  "root": {
+    "error": null,
+    "name": "@material/web",
+    "version": "2.5.0"
+  }
+}

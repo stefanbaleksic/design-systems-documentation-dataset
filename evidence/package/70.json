@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:28:55Z",
+  "error": null,
+  "id": "70",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@hubspot/canvas",
+      "path": "canvas-core/package.json",
+      "version": "0.0.4"
+    }
+  ],
+  "paths": [
+    "canvas-core/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/HubSpot/canvas",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

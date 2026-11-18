@@ -1,0 +1,32 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:53Z",
+  "docs": {
+    "error": "refused: not https",
+    "fetched_at_utc": "2026-11-18T09:32:21Z",
+    "url": "http://style.buildit.digital/"
+  },
+  "id": "28",
+  "name": "Buildit Gravity",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:53Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": "v2.1.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2020-08-21T08:24:22Z",
+    "spdx_licence": "MIT",
+    "tag_count": 38,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

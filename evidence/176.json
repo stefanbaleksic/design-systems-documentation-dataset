@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:47Z",
+  "docs": {
+    "body_bytes_hashed": 217326,
+    "body_sha256": "e72f1c199705ae4eb49143ce62d3e715c5cb612da3f880153752dc5c9b4a6312",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:45Z",
+    "final_url": "https://guidebook.devops.uis.cam.ac.uk/services/design-system/",
+    "http_status": 200,
+    "url": "https://guidebook.devops.uis.cam.ac.uk/services/design-system/"
+  },
+  "id": "176",
+  "name": "University of Cambridge Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

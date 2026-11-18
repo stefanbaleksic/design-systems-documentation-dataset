@@ -1,0 +1,376 @@
+{
+  "collected_at_utc": "2026-11-18T11:29:24Z",
+  "error": null,
+  "id": "80",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-docs",
+      "path": "apps/pie-docs/package.json",
+      "version": "5.23.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-storybook",
+      "path": "apps/pie-storybook/package.json",
+      "version": "1.90.2"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-code-connect",
+      "path": "configs/pie-code-connect/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-components-config",
+      "path": "configs/pie-components-config/package.json",
+      "version": "0.21.5"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-accordion",
+      "path": "packages/components/pie-accordion/package.json",
+      "version": "1.0.3"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-assistive-text",
+      "path": "packages/components/pie-assistive-text/package.json",
+      "version": "1.0.18"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-avatar",
+      "path": "packages/components/pie-avatar/package.json",
+      "version": "0.6.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-breadcrumb",
+      "path": "packages/components/pie-breadcrumb/package.json",
+      "version": "1.0.20"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-button",
+      "path": "packages/components/pie-button/package.json",
+      "version": "1.16.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-card",
+      "path": "packages/components/pie-card/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-checkbox-group",
+      "path": "packages/components/pie-checkbox-group/package.json",
+      "version": "1.2.14"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-checkbox",
+      "path": "packages/components/pie-checkbox/package.json",
+      "version": "1.4.12"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-chip",
+      "path": "packages/components/pie-chip/package.json",
+      "version": "1.0.19"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-cookie-banner",
+      "path": "packages/components/pie-cookie-banner/package.json",
+      "version": "1.12.2"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-data-table",
+      "path": "packages/components/pie-data-table/package.json",
+      "version": "0.4.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-divider",
+      "path": "packages/components/pie-divider/package.json",
+      "version": "1.5.38"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-dropdown",
+      "path": "packages/components/pie-dropdown/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-form-label",
+      "path": "packages/components/pie-form-label/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-icon-button",
+      "path": "packages/components/pie-icon-button/package.json",
+      "version": "2.8.3"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-icon-with-background",
+      "path": "packages/components/pie-icon-with-background/package.json",
+      "version": "0.4.6"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-link",
+      "path": "packages/components/pie-link/package.json",
+      "version": "1.5.11"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-list",
+      "path": "packages/components/pie-list/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-lottie-player",
+      "path": "packages/components/pie-lottie-player/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-modal",
+      "path": "packages/components/pie-modal/package.json",
+      "version": "1.27.17"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-notification",
+      "path": "packages/components/pie-notification/package.json",
+      "version": "1.0.4"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-pagination",
+      "path": "packages/components/pie-pagination/package.json",
+      "version": "0.1.2"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-radio-group",
+      "path": "packages/components/pie-radio-group/package.json",
+      "version": "1.2.15"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-radio",
+      "path": "packages/components/pie-radio/package.json",
+      "version": "1.2.9"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-select",
+      "path": "packages/components/pie-select/package.json",
+      "version": "0.10.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-skeleton",
+      "path": "packages/components/pie-skeleton/package.json",
+      "version": "0.2.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-spinner",
+      "path": "packages/components/pie-spinner/package.json",
+      "version": "1.5.11"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-switch",
+      "path": "packages/components/pie-switch/package.json",
+      "version": "2.7.9"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-tabs",
+      "path": "packages/components/pie-tabs/package.json",
+      "version": "0.1.38"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-tag",
+      "path": "packages/components/pie-tag/package.json",
+      "version": "1.1.6"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-text-input",
+      "path": "packages/components/pie-text-input/package.json",
+      "version": "0.31.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-textarea",
+      "path": "packages/components/pie-textarea/package.json",
+      "version": "0.23.13"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-thumbnail",
+      "path": "packages/components/pie-thumbnail/package.json",
+      "version": "1.0.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-toast-provider",
+      "path": "packages/components/pie-toast-provider/package.json",
+      "version": "1.3.5"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-toast",
+      "path": "packages/components/pie-toast/package.json",
+      "version": "1.2.8"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-tooltip",
+      "path": "packages/components/pie-tooltip/package.json",
+      "version": "0.8.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-webc-core",
+      "path": "packages/components/pie-webc-core/package.json",
+      "version": "22.0.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-webc-testing",
+      "path": "packages/components/pie-webc-testing/package.json",
+      "version": "0.13.6"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-webc",
+      "path": "packages/components/pie-webc/package.json",
+      "version": "1.0.8"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/browserslist-config-pie",
+      "path": "packages/tools/browserslist-config-pie/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/eslint-config-pie",
+      "path": "packages/tools/eslint-config-pie/package.json",
+      "version": "0.5.3"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/eslint-plugin-snacks-pie-migration",
+      "path": "packages/tools/eslint-plugin-snacks-pie-migration/package.json",
+      "version": "0.16.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/generator-pie-component",
+      "path": "packages/tools/generator-pie-component/package.json",
+      "version": "0.35.1"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-css",
+      "path": "packages/tools/pie-css/package.json",
+      "version": "1.9.3"
+    },
+    {
+      "error": null,
+      "name": "@justeat/pie-design-tokens",
+      "path": "packages/tools/pie-design-tokens/package.json",
+      "version": "7.16.0"
+    },
+    {
+      "error": null,
+      "name": "@justeattakeaway/pie-icons-configs",
+      "path": "packages/tools/pie-icons-configs/package.json",
+      "version": "5.21.0"
+    }
+  ],
+  "paths": [
+    "apps/pie-docs/package.json",
+    "apps/pie-storybook/package.json",
+    "configs/pie-code-connect/package.json",
+    "configs/pie-components-config/package.json",
+    "package.json",
+    "packages/components/pie-accordion/package.json",
+    "packages/components/pie-assistive-text/package.json",
+    "packages/components/pie-avatar/package.json",
+    "packages/components/pie-breadcrumb/package.json",
+    "packages/components/pie-button/package.json",
+    "packages/components/pie-card/package.json",
+    "packages/components/pie-checkbox-group/package.json",
+    "packages/components/pie-checkbox/package.json",
+    "packages/components/pie-chip/package.json",
+    "packages/components/pie-cookie-banner/package.json",
+    "packages/components/pie-data-table/package.json",
+    "packages/components/pie-divider/package.json",
+    "packages/components/pie-dropdown/package.json",
+    "packages/components/pie-form-label/package.json",
+    "packages/components/pie-icon-button/package.json",
+    "packages/components/pie-icon-with-background/package.json",
+    "packages/components/pie-link/package.json",
+    "packages/components/pie-list/package.json",
+    "packages/components/pie-lottie-player/package.json",
+    "packages/components/pie-modal/package.json",
+    "packages/components/pie-notification/package.json",
+    "packages/components/pie-pagination/package.json",
+    "packages/components/pie-radio-group/package.json",
+    "packages/components/pie-radio/package.json",
+    "packages/components/pie-select/package.json",
+    "packages/components/pie-skeleton/package.json",
+    "packages/components/pie-spinner/package.json",
+    "packages/components/pie-switch/package.json",
+    "packages/components/pie-tabs/package.json",
+    "packages/components/pie-tag/package.json",
+    "packages/components/pie-text-input/package.json",
+    "packages/components/pie-textarea/package.json",
+    "packages/components/pie-thumbnail/package.json",
+    "packages/components/pie-toast-provider/package.json",
+    "packages/components/pie-toast/package.json",
+    "packages/components/pie-tooltip/package.json",
+    "packages/components/pie-webc-core/package.json",
+    "packages/components/pie-webc-testing/package.json",
+    "packages/components/pie-webc/package.json",
+    "packages/tools/browserslist-config-pie/package.json",
+    "packages/tools/eslint-config-pie/package.json",
+    "packages/tools/eslint-plugin-snacks-pie-migration/package.json",
+    "packages/tools/generator-pie-component/package.json",
+    "packages/tools/pie-css/package.json",
+    "packages/tools/pie-design-tokens/package.json",
+    "packages/tools/pie-icons-configs/package.json",
+    "packages/tools/pie-icons-react/package.json",
+    "packages/tools/pie-icons-vue/package.json",
+    "packages/tools/pie-icons-webc/package.json",
+    "packages/tools/pie-icons/package.json",
+    "packages/tools/pie-monorepo-utils/package.json",
+    "packages/tools/pie-token-map/package.json",
+    "packages/tools/pie-wrapper-react/package.json",
+    "packages/tools/stylelint-config-pie/package.json",
+    "packages/tools/stylelint-no-logical-props-shorthands/package.json"
+  ],
+  "repo_url": "https://github.com/justeattakeaway/pie",
+  "root": {
+    "error": null,
+    "name": "pie-monorepo",
+    "version": "2.104.0"
+  }
+}

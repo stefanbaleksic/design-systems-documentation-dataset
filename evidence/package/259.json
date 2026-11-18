@@ -1,0 +1,346 @@
+{
+  "collected_at_utc": "2026-11-18T11:44:31Z",
+  "error": null,
+  "id": "259",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@astryxdesign/docsite",
+      "path": "apps/docsite/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/example-nextjs-source",
+      "path": "apps/example-nextjs-source/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/example-nextjs-stylex",
+      "path": "apps/example-nextjs-stylex/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/example-nextjs-tailwind",
+      "path": "apps/example-nextjs-tailwind/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/example-nextjs",
+      "path": "apps/example-nextjs/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/example-vite-tailwind",
+      "path": "apps/example-vite-tailwind/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/example-vite",
+      "path": "apps/example-vite/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/sandbox",
+      "path": "apps/sandbox/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/storybook",
+      "path": "apps/storybook/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/template-viewer",
+      "path": "apps/template-viewer/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/a11y-spec",
+      "path": "internal/a11y-spec/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@astryx/eslint-plugin",
+      "path": "internal/eslint-plugin-astryx/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/interaction-harness",
+      "path": "internal/interaction-harness/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/test-utils",
+      "path": "internal/test-utils/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/vibe-tests-baseline",
+      "path": "internal/vibe-tests/.baseline/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/vibe-tests-app",
+      "path": "internal/vibe-tests/app/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "my-app",
+      "path": "internal/vibe-tests/environments/project-astryx-tailwind/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "my-app",
+      "path": "internal/vibe-tests/environments/project-astryx/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "my-app",
+      "path": "internal/vibe-tests/environments/project-baseline/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "my-app",
+      "path": "internal/vibe-tests/environments/project-html/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "astryx-vite",
+      "path": "internal/vibe-tests/eval/arms/astryx-vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "shadcn-vite",
+      "path": "internal/vibe-tests/eval/arms/shadcn-vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "enterprise-scoped-synthetic-fixture",
+      "path": "internal/vibe-tests/fixtures/enterprise-scoped-synthetic/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "shadcn-tailwind-v4-established-fixture",
+      "path": "internal/vibe-tests/fixtures/shadcn-tailwind-v4-established/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "tailwind-v4-control-fixture",
+      "path": "internal/vibe-tests/fixtures/tailwind-v4-control/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/vibe-tests",
+      "path": "internal/vibe-tests/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "astryx-next-turbopack-fixture",
+      "path": "packages/build/__fixtures__/next-turbopack/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/build",
+      "path": "packages/build/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/charts",
+      "path": "packages/charts/package.json",
+      "version": "0.1.9"
+    },
+    {
+      "error": null,
+      "name": "astryx-theme-preview",
+      "path": "packages/cli/assets/preview-app/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/cli",
+      "path": "packages/cli/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/core",
+      "path": "packages/core/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/lab",
+      "path": "packages/lab/package.json",
+      "version": "0.1.9"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/native",
+      "path": "packages/native/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/richtext",
+      "path": "packages/richtext/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-butter",
+      "path": "packages/themes/butter/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-chocolate",
+      "path": "packages/themes/chocolate/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-gothic",
+      "path": "packages/themes/gothic/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-matcha",
+      "path": "packages/themes/matcha/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-neutral",
+      "path": "packages/themes/neutral/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-probe",
+      "path": "packages/themes/probe/package.json",
+      "version": "0.5.0"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-stone",
+      "path": "packages/themes/stone/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/theme-y2k",
+      "path": "packages/themes/y2k/package.json",
+      "version": "0.7.17"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/vega",
+      "path": "packages/vega/package.json",
+      "version": "0.1.3"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/canary",
+      "path": "scripts/api-report/__fixtures__/repo/packages/canary/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/demo",
+      "path": "scripts/api-report/__fixtures__/repo/packages/demo/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@astryxdesign/hidden",
+      "path": "scripts/api-report/__fixtures__/repo/packages/hidden/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "apps/docsite/package.json",
+    "apps/example-nextjs-source/package.json",
+    "apps/example-nextjs-stylex/package.json",
+    "apps/example-nextjs-tailwind/package.json",
+    "apps/example-nextjs/package.json",
+    "apps/example-vite-tailwind/package.json",
+    "apps/example-vite/package.json",
+    "apps/sandbox/package.json",
+    "apps/storybook/package.json",
+    "apps/template-viewer/package.json",
+    "internal/a11y-spec/package.json",
+    "internal/eslint-plugin-astryx/package.json",
+    "internal/interaction-harness/package.json",
+    "internal/test-utils/package.json",
+    "internal/vibe-tests/.baseline/package.json",
+    "internal/vibe-tests/app/package.json",
+    "internal/vibe-tests/environments/project-astryx-tailwind/package.json",
+    "internal/vibe-tests/environments/project-astryx/package.json",
+    "internal/vibe-tests/environments/project-baseline/package.json",
+    "internal/vibe-tests/environments/project-html/package.json",
+    "internal/vibe-tests/eval/arms/astryx-vite/package.json",
+    "internal/vibe-tests/eval/arms/shadcn-vite/package.json",
+    "internal/vibe-tests/fixtures/enterprise-scoped-synthetic/package.json",
+    "internal/vibe-tests/fixtures/shadcn-tailwind-v4-established/package.json",
+    "internal/vibe-tests/fixtures/tailwind-v4-control/package.json",
+    "internal/vibe-tests/package.json",
+    "package.json",
+    "packages/build/__fixtures__/next-turbopack/package.json",
+    "packages/build/package.json",
+    "packages/charts/package.json",
+    "packages/cli/assets/preview-app/package.json",
+    "packages/cli/package.json",
+    "packages/core/package.json",
+    "packages/lab/package.json",
+    "packages/native/package.json",
+    "packages/richtext/package.json",
+    "packages/themes/butter/package.json",
+    "packages/themes/chocolate/package.json",
+    "packages/themes/gothic/package.json",
+    "packages/themes/matcha/package.json",
+    "packages/themes/neutral/package.json",
+    "packages/themes/probe/package.json",
+    "packages/themes/stone/package.json",
+    "packages/themes/y2k/package.json",
+    "packages/vega/package.json",
+    "scripts/api-report/__fixtures__/repo/packages/canary/package.json",
+    "scripts/api-report/__fixtures__/repo/packages/demo/package.json",
+    "scripts/api-report/__fixtures__/repo/packages/hidden/package.json"
+  ],
+  "repo_url": "https://github.com/meta/astryx",
+  "root": {
+    "error": null,
+    "name": "astryx",
+    "version": "0.0.0"
+  }
+}

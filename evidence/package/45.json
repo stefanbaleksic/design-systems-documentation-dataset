@@ -1,0 +1,101 @@
+{
+  "collected_at_utc": "2026-11-18T11:27:46Z",
+  "error": null,
+  "id": "45",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@elastic/eui-docusaurus-preset",
+      "path": "packages/docusaurus-preset/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-docusaurus-theme",
+      "path": "packages/docusaurus-theme/package.json",
+      "version": "2.9.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eslint-plugin-eui",
+      "path": "packages/eslint-plugin/package.json",
+      "version": "4.0.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-docgen",
+      "path": "packages/eui-docgen/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-theme-borealis",
+      "path": "packages/eui-theme-borealis/package.json",
+      "version": "8.2.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-theme-common",
+      "path": "packages/eui-theme-common/package.json",
+      "version": "10.2.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui",
+      "path": "packages/eui/package.json",
+      "version": "123.5.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-illustrations",
+      "path": "packages/illustrations/package.json",
+      "version": "1.1.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-release-cli",
+      "path": "packages/release-cli/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-test-helpers",
+      "path": "packages/test-helpers/package.json",
+      "version": "2.4.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/eui-website",
+      "path": "packages/website/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@elastic/yarn-plugin-eui-validate-env",
+      "path": "packages/yarn-plugin-validate-env/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/docusaurus-preset/package.json",
+    "packages/docusaurus-theme/package.json",
+    "packages/eslint-plugin/package.json",
+    "packages/eui-docgen/package.json",
+    "packages/eui-theme-borealis/package.json",
+    "packages/eui-theme-common/package.json",
+    "packages/eui/package.json",
+    "packages/illustrations/package.json",
+    "packages/release-cli/package.json",
+    "packages/test-helpers/package.json",
+    "packages/website/package.json",
+    "packages/yarn-plugin-validate-env/package.json"
+  ],
+  "repo_url": "https://github.com/elastic/eui",
+  "root": {
+    "error": null,
+    "name": "@elastic/eui-monorepo",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:05Z",
+  "docs": {
+    "body_bytes_hashed": 45102,
+    "body_sha256": "72e49902774700bbe6634104a51be88a3ac13207a72d16827f4f3b9274cd863f",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:12Z",
+    "final_url": "https://www.gov.br/ds/home",
+    "http_status": 200,
+    "url": "https://www.gov.br/ds/home"
+  },
+  "id": "198",
+  "name": "Brazilian Government Design System (gov.br)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

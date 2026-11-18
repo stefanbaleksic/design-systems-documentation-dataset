@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:29Z",
+  "docs": {
+    "body_bytes_hashed": 3501,
+    "body_sha256": "4a1b92af97d56bf881e48e9a1878af14813aa8234ecdc9bb5689908b8415934b",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:25Z",
+    "final_url": "https://palette.artsy.net/",
+    "http_status": 200,
+    "url": "https://palette.artsy.net/"
+  },
+  "id": "10",
+  "name": "Artsy Palette",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:29Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v13.22.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-05T14:01:41Z",
+    "spdx_licence": "MIT",
+    "tag_count": 1513,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

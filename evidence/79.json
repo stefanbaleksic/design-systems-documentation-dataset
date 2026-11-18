@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:53Z",
+  "docs": {
+    "body_bytes_hashed": 3752,
+    "body_sha256": "46e3fee6d8fd1238d5c6ca76051c0110d82e6cac79822efa8ba91bb38d2959ad",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:14Z",
+    "final_url": "https://atlantis.getjobber.com",
+    "http_status": 200,
+    "url": "https://atlantis.getjobber.com"
+  },
+  "id": "79",
+  "name": "Jobber (Atlantis)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": "git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+      "fetched_at_utc": "2026-11-18T09:44:53Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": null,
+    "latest_tag": null,
+    "licence_detection": null,
+    "licence_file": null,
+    "pushed_at_utc": null,
+    "spdx_licence": null,
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

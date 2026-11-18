@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:47:45Z",
+  "error": null,
+  "id": "282",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@naive-ui/tusimple-theme",
+      "path": "themes/tusimple/package.json",
+      "version": "0.2.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "themes/tusimple/package.json"
+  ],
+  "repo_url": "https://github.com/tusen-ai/naive-ui",
+  "root": {
+    "error": null,
+    "name": "naive-ui",
+    "version": "2.45.3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:31Z",
+  "docs": {
+    "body_bytes_hashed": 4388,
+    "body_sha256": "e10c3393c87d37d79d935304b4e8bc7dde868d803bc2fec12eab63b187f9760b",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:29Z",
+    "final_url": "https://at-ui.github.io/at-ui/#/en",
+    "http_status": 200,
+    "url": "https://at-ui.github.io/at-ui/#/en"
+  },
+  "id": "12",
+  "name": "AT UIKIT",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:31Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v1.3.3",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2018-02-13T07:56:10Z",
+    "spdx_licence": "MIT",
+    "tag_count": 6,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

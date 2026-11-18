@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:29:21Z",
+  "error": null,
+  "id": "78",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@jetbrains/rollup-css-plugin",
+      "path": "packages/rollup-css-plugin/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ring-ui/screenshots",
+      "path": "packages/screenshots/package.json",
+      "version": "6.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-app",
+      "path": "test-helpers/test-app/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/rollup-css-plugin/package.json",
+    "packages/screenshots/package.json",
+    "test-helpers/test-app/package.json"
+  ],
+  "repo_url": "https://github.com/JetBrains/ring-ui",
+  "root": {
+    "error": null,
+    "name": "@jetbrains/ring-ui",
+    "version": "7.0.133"
+  }
+}

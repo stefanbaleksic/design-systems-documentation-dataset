@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:08Z",
+  "docs": {
+    "body_bytes_hashed": 35186,
+    "body_sha256": "12b465535560b44fcbd85c4f52a46a1aeafed7c5be6cf67cf1a52fe272f10121",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:11Z",
+    "final_url": "https://f36.contentful.com/",
+    "http_status": 200,
+    "url": "https://f36.contentful.com/"
+  },
+  "id": "39",
+  "name": "Contentful Forma 36",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:08Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-18T09:05:54Z",
+    "spdx_licence": "MIT",
+    "tag_count": 11630,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:47Z",
+  "docs": {
+    "body_bytes_hashed": 72354,
+    "body_sha256": "4fc5600811badd5fa1d9df25f9abe83fc92574905cedc3b24b023223e27a6498",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:42Z",
+    "final_url": "https://www.ucl.ac.uk/brand-and-experience/experience/ucl-design-system/developers",
+    "http_status": 200,
+    "url": "https://www.ucl.ac.uk/brand-and-experience/experience/ucl-design-system/developers"
+  },
+  "id": "173",
+  "name": "UCL Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

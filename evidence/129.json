@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:46Z",
+  "docs": {
+    "body_bytes_hashed": 150255,
+    "body_sha256": "ab8bdfb9097f5fa5d80ba676f7543f35f7dea335db97aacd6ba7a8c51f3be564",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:36Z",
+    "final_url": "https://semi.design/en-US",
+    "http_status": 200,
+    "url": "https://semi.design/en-US"
+  },
+  "id": "129",
+  "name": "Semi Design",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:46Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v2.105.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-16T11:41:08Z",
+    "spdx_licence": "MIT",
+    "tag_count": 468,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,185 @@
+{
+  "collected_at_utc": "2026-11-18T11:46:09Z",
+  "error": null,
+  "id": "270",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "eslint-plugin-custom-rules",
+      "path": "core/custom-rules/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ionic/core",
+      "path": "core/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "@ionic/core/components",
+      "path": "core/scripts/custom-elements/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ionic/angular-server",
+      "path": "packages/angular-server/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "@ionic/angular",
+      "path": "packages/angular/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "ionic-angular-test-app",
+      "path": "packages/angular/test/apps/ng18/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ionic-angular-test-app",
+      "path": "packages/angular/test/apps/ng19/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ionic-angular-test-app",
+      "path": "packages/angular/test/apps/ng20/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ionic-angular-test-app",
+      "path": "packages/angular/test/apps/ng21/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ionic-angular-test-app",
+      "path": "packages/angular/test/apps/ng22-zone/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "ionic-angular-test-app",
+      "path": "packages/angular/test/apps/ng22/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "code-split",
+      "path": "packages/angular/test/code-split/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@ionic/docs",
+      "path": "packages/docs/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "@ionic/migrate",
+      "path": "packages/migrate/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@ionic/react-router",
+      "path": "packages/react-router/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "test-app",
+      "path": "packages/react-router/test/apps/reactrouter6-react18/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "test-app",
+      "path": "packages/react-router/test/apps/reactrouter6-react19/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@ionic/react",
+      "path": "packages/react/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "@ionic/react/routing",
+      "path": "packages/react/src/routing/package.json",
+      "version": "5.0.1"
+    },
+    {
+      "error": null,
+      "name": "test-app",
+      "path": "packages/react/test/apps/react18/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "test-app",
+      "path": "packages/react/test/apps/react19/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@ionic/vue-router",
+      "path": "packages/vue-router/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "@ionic/vue",
+      "path": "packages/vue/package.json",
+      "version": "9.0.12"
+    },
+    {
+      "error": null,
+      "name": "test-app",
+      "path": "packages/vue/test/apps/vue3/package.json",
+      "version": "0.0.1"
+    }
+  ],
+  "paths": [
+    "core/custom-rules/package.json",
+    "core/package.json",
+    "core/scripts/custom-elements/package.json",
+    "package.json",
+    "packages/angular-server/package.json",
+    "packages/angular/package.json",
+    "packages/angular/test/apps/ng18/package.json",
+    "packages/angular/test/apps/ng19/package.json",
+    "packages/angular/test/apps/ng20/package.json",
+    "packages/angular/test/apps/ng21/package.json",
+    "packages/angular/test/apps/ng22-zone/package.json",
+    "packages/angular/test/apps/ng22/package.json",
+    "packages/angular/test/code-split/package.json",
+    "packages/docs/package.json",
+    "packages/migrate/package.json",
+    "packages/react-router/package.json",
+    "packages/react-router/test/apps/reactrouter6-react18/package.json",
+    "packages/react-router/test/apps/reactrouter6-react19/package.json",
+    "packages/react/package.json",
+    "packages/react/src/routing/package.json",
+    "packages/react/test/apps/react18/package.json",
+    "packages/react/test/apps/react19/package.json",
+    "packages/vue-router/package.json",
+    "packages/vue/package.json",
+    "packages/vue/test/apps/vue3/package.json"
+  ],
+  "repo_url": "https://github.com/ionic-team/ionic-framework",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

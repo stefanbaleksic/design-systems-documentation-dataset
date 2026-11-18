@@ -1,0 +1,59 @@
+{
+  "collected_at_utc": "2026-11-18T11:42:04Z",
+  "error": null,
+  "id": "236",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@nhsuk/frontend-review",
+      "path": "packages/nhsuk-frontend-review/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "nhsuk-frontend",
+      "path": "packages/nhsuk-frontend/package.json",
+      "version": "11.0.0-internal.0"
+    },
+    {
+      "error": null,
+      "name": "@nhsuk/frontend-config",
+      "path": "shared/config/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nhsuk/frontend-helpers",
+      "path": "shared/helpers/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nhsuk/frontend-lib",
+      "path": "shared/lib/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@nhsuk/frontend-tasks",
+      "path": "shared/tasks/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/nhsuk-frontend-review/package.json",
+    "packages/nhsuk-frontend/package.json",
+    "shared/config/package.json",
+    "shared/helpers/package.json",
+    "shared/lib/package.json",
+    "shared/tasks/package.json"
+  ],
+  "repo_url": "https://github.com/nhsuk/nhsuk-frontend",
+  "root": {
+    "error": null,
+    "name": "@nhsuk/frontend-repository",
+    "version": null
+  }
+}

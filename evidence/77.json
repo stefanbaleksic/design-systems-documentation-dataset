@@ -1,0 +1,21 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:51Z",
+  "docs": {
+    "body_bytes_hashed": 4124,
+    "body_sha256": "9b58c63f8afad5c1d0e5f07adfa8e54706225f3a1984d1c943f5b42e08a914eb",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:11Z",
+    "final_url": "https://javadbat.github.io/design-system/",
+    "http_status": 200,
+    "url": "https://javadbat.github.io/design-system"
+  },
+  "id": "77",
+  "name": "JB Design System",
+  "notes": [
+    "repository is not on github.com; not collected"
+  ],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

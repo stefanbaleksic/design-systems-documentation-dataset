@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:43Z",
+  "docs": {
+    "body_bytes_hashed": 13220,
+    "body_sha256": "0bd64b9dad78ec2af010bd2f4e920c6f887d6d90cc13a311ae0d05c73a97f964",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:58Z",
+    "final_url": "https://design.herokai.com/",
+    "http_status": 200,
+    "url": "https://design.herokai.com/"
+  },
+  "id": "68",
+  "name": "Heroku Purple3",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:35Z",
+  "docs": {
+    "body_bytes_hashed": 1164,
+    "body_sha256": "0fc15f118eec8d5a54a8f65be401fce43981264f7248e98d97fad60220f6f195",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:19Z",
+    "final_url": "https://balena-io-modules.github.io/rendition/",
+    "http_status": 200,
+    "url": "https://balena-io-modules.github.io/rendition/"
+  },
+  "id": "119",
+  "name": "Rendition",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:35Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v35.2.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2024-02-05T09:52:09Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 982,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

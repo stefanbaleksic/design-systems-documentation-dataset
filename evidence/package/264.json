@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:45:32Z",
+  "error": null,
+  "id": "264",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/bbc/gel",
+  "root": {
+    "error": null,
+    "name": "gel",
+    "version": "0.1.0"
+  }
+}

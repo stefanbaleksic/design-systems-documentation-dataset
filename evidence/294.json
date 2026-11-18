@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:49:33Z",
+  "docs": null,
+  "id": "294",
+  "name": "Helsinki Design System (City of Helsinki)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:49:33Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "development",
+    "latest_tag": "v6.0.8",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T13:55:37Z",
+    "spdx_licence": "MIT",
+    "tag_count": 171,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

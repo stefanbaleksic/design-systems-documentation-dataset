@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:51Z",
+  "docs": {
+    "body_bytes_hashed": 20450,
+    "body_sha256": "bd3c24966bdcbd3240dc55be8f19c7ee5394f136958270267289f47f0b5c0f73",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:50Z",
+    "final_url": "https://boltdesignsystem.com/",
+    "http_status": 200,
+    "url": "https://boltdesignsystem.com/"
+  },
+  "id": "25",
+  "name": "Bolt Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": "git exit 128: fatal: could not read Username for 'https://github.com': terminal prompts disabled",
+      "fetched_at_utc": "2026-11-18T09:43:51Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": null,
+    "latest_tag": null,
+    "licence_detection": null,
+    "licence_file": null,
+    "pushed_at_utc": null,
+    "spdx_licence": null,
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

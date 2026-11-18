@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:41Z",
+  "docs": {
+    "body_bytes_hashed": 113763,
+    "body_sha256": "67419a151a3867f2082b13e1013f9b450ae74162a74de045dc9e358a0e85e3b5",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:30Z",
+    "final_url": "https://garden.zendesk.com/",
+    "http_status": 200,
+    "url": "https://garden.zendesk.com/"
+  },
+  "id": "163",
+  "name": "Zendesk Garden",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:41Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v9.16.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-17T21:53:42Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 1691,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

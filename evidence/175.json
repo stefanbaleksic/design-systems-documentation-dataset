@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:47Z",
+  "docs": {
+    "body_bytes_hashed": 41168,
+    "body_sha256": "dc646d83837117412451b9a30894f86eb50016c26d877d5123c6ab913a82f75e",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:43Z",
+    "final_url": "https://design-system.uq.edu.au/",
+    "http_status": 200,
+    "url": "https://design-system.uq.edu.au/"
+  },
+  "id": "175",
+  "name": "UQ Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

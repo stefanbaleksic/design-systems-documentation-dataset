@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:50Z",
+  "docs": {
+    "body_bytes_hashed": 36021,
+    "body_sha256": "1beedfaddef5f5dbd4e2ffc0ed57652597e2a4142f09193a903b76d3c1920f48",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:40Z",
+    "final_url": "https://shoelace.style",
+    "http_status": 200,
+    "url": "https://shoelace.style"
+  },
+  "id": "131",
+  "name": "Shoelace",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:50Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "next",
+    "latest_tag": "v2.20.1",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-05-14T13:39:10Z",
+    "spdx_licence": "MIT",
+    "tag_count": 143,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

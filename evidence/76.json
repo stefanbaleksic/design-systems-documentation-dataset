@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:49Z",
+  "docs": {
+    "body_bytes_hashed": 752281,
+    "body_sha256": "152c31d77aef507990267da2238255f4d6e80ac7ea00a3049d1ed7b92650e18a",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:10Z",
+    "final_url": "https://designers.italia.it/design-system/",
+    "http_status": 200,
+    "url": "https://designers.italia.it/design-system/"
+  },
+  "id": "76",
+  "name": "Italia Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:49Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v2.18.3",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-12T14:35:51Z",
+    "spdx_licence": "BSD-3-Clause",
+    "tag_count": 245,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

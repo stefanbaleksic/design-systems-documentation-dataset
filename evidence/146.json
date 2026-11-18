@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:11Z",
+  "docs": {
+    "body_bytes_hashed": 290968,
+    "body_sha256": "829f3728391f292fbb7b11d6c9fff6a6e5b013ff500e03ceaa65d327242b4df8",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:15:04Z",
+    "final_url": "https://uiverse.io",
+    "http_status": 200,
+    "url": "https://uiverse.io"
+  },
+  "id": "146",
+  "name": "Uiverse",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:46:11Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2024-09-02T14:32:05Z",
+    "spdx_licence": "MIT",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

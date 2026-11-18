@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:41Z",
+  "docs": null,
+  "id": "260",
+  "name": "UQ Design System (University of Queensland)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:41Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v0.0.12-alpha.0",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-10-30T04:55:52Z",
+    "spdx_licence": null,
+    "tag_count": 1806,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

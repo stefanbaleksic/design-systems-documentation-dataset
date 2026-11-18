@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:41Z",
+  "docs": null,
+  "id": "221",
+  "name": "Orange Design System iOS",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:41Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "qualif",
+    "latest_tag": "1.4.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2025-06-04T14:01:35Z",
+    "spdx_licence": "MIT",
+    "tag_count": 84,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

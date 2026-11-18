@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:23Z",
+  "error": null,
+  "id": "182",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/nulib/design-system",
+  "root": {
+    "error": null,
+    "name": "@nulib/design-system",
+    "version": "1.6.2"
+  }
+}

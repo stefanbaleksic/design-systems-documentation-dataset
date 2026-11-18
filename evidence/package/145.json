@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:35:49Z",
+  "error": null,
+  "id": "145",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": null,
+      "path": "templates/static/js/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "package.json",
+    "templates/static/js/package.json"
+  ],
+  "repo_url": "https://github.com/canonical-web-and-design/vanilla-framework",
+  "root": {
+    "error": null,
+    "name": "vanilla-framework",
+    "version": "4.61.2"
+  }
+}

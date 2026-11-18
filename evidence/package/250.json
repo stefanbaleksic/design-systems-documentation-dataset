@@ -1,0 +1,24 @@
+{
+  "collected_at_utc": "2026-11-18T11:44:08Z",
+  "error": null,
+  "id": "250",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "tmp",
+      "path": "scripts/sizeReport/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "scripts/sizeReport/package.json"
+  ],
+  "repo_url": "https://github.com/patternfly/patternfly",
+  "root": {
+    "error": null,
+    "name": "@patternfly/patternfly",
+    "version": "0.0.0-development"
+  }
+}

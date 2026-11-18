@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:46:02Z",
+  "docs": {
+    "body_bytes_hashed": 20197,
+    "body_sha256": "bd230570036c60dc934fc028ef499044f39c55b6841ec70e9434ca7d47359d17",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:50Z",
+    "final_url": "https://design.teambition.com/",
+    "http_status": 200,
+    "url": "https://design.teambition.com/"
+  },
+  "id": "139",
+  "name": "Teambition Clarity Design",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

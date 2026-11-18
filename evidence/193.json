@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:03Z",
+  "docs": {
+    "body_bytes_hashed": 129670,
+    "body_sha256": "b6b4d465924735cc4b902434dd9133668930b2e96e22eaf92cbfe029d1b16d40",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:05Z",
+    "final_url": "https://digital.nsw.gov.au/delivery/digital-service-toolkit/design-system",
+    "http_status": 200,
+    "url": "https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/design-system"
+  },
+  "id": "193",
+  "name": "NSW Design System (Digital NSW)",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,385 @@
+{
+  "collected_at_utc": "2026-11-18T11:24:50Z",
+  "error": null,
+  "id": "6",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "canary-cypress",
+      "path": "build-system-tests/e2e/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "auth-with-email-environment",
+      "path": "build-system-tests/environments/auth-with-email/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-build-system-tests",
+      "path": "build-system-tests/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-docs",
+      "path": "docs/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "docs/scripts/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-gen2-ai-environment",
+      "path": "environments/ai/gen2/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments-ai",
+      "path": "environments/ai/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-all-attributes-environment",
+      "path": "environments/auth/auth-with-all-attributes/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-email-and-custom-attributes-environment",
+      "path": "environments/auth/auth-with-email-and-custom-attributes/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-email-lambda-signup-trigger-environment",
+      "path": "environments/auth/auth-with-email-lambda-signup-trigger/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-email-environment",
+      "path": "environments/auth/auth-with-email/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-federated-environment",
+      "path": "environments/auth/auth-with-federated/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-optional-totp-and-sms-mfa-environment",
+      "path": "environments/auth/auth-with-optional-totp-and-sms-mfa/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-passwordless-environment",
+      "path": "environments/auth/auth-with-passwordless/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-phone-and-sms-mfa-environment",
+      "path": "environments/auth/auth-with-phone-and-sms-mfa/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-phone-number-environment",
+      "path": "environments/auth/auth-with-phone-number/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-totp-and-sms-environment",
+      "path": "environments/auth/auth-with-totp-and-sms-mfa/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-totp-mfa-environment",
+      "path": "environments/auth/auth-with-totp-mfa/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-auth-with-username-no-attributes-environment",
+      "path": "environments/auth/auth-with-username-no-attributes/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/auth-with-email-mfa",
+      "path": "environments/auth/gen2/auth-with-email-mfa/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-gen2-auth-federated-react-native",
+      "path": "environments/auth/gen2/auth-with-federated-sign-in-react-native/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments-auth",
+      "path": "environments/auth/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-action-hooks-environment",
+      "path": "environments/datastore/action-hooks/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments-datastore",
+      "path": "environments/datastore/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-basic-map-environment",
+      "path": "environments/geo/basic-map/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments-geo",
+      "path": "environments/geo/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-in-app-messaging-with-pinpoint-campaign-environment",
+      "path": "environments/in-app-messaging/in-app-messaging-with-pinpoint-campaign/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments-in-app-messaging",
+      "path": "environments/in-app-messaging/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "livenessenvironment09873267",
+      "path": "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironment09873267/src/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "livenessenvironment3477af97",
+      "path": "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironment3477af97/src/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "livenessenvironment6105cfac",
+      "path": "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironment6105cfac/src/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "livenessenvironmentb20a0fc6",
+      "path": "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironmentb20a0fc6/src/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "overrides-dependencies",
+      "path": "environments/liveness/liveness-environment/amplify/backend/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-liveness-environment",
+      "path": "environments/liveness/liveness-environment/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments-liveness",
+      "path": "environments/liveness/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments",
+      "path": "environments/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-file-uploader-environment",
+      "path": "environments/storage/file-uploader/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-gen2-storage-environment",
+      "path": "environments/storage/gen2/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-environments-storage",
+      "path": "environments/storage/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-angular-example",
+      "path": "examples/angular/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-next-app-router-example",
+      "path": "examples/next-app-router/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-next-pages-router-example",
+      "path": "examples/next/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-react-native-example",
+      "path": "examples/react-native/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-react-router-example",
+      "path": "examples/react-router/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-svelte-example",
+      "path": "examples/svelte/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-vue-example",
+      "path": "examples/vue/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-angular-mono",
+      "path": "packages/angular/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/ui-angular",
+      "path": "packages/angular/projects/ui-angular/package.json",
+      "version": "6.0.2"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/eslint-config-amplify-ui",
+      "path": "packages/configs/eslint/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@aws-amplify/typescript-config",
+      "path": "packages/configs/typescript/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "build-system-tests/e2e/package.json",
+    "build-system-tests/environments/auth-with-email/package.json",
+    "build-system-tests/package.json",
+    "docs/package.json",
+    "docs/scripts/package.json",
+    "environments/ai/gen2/package.json",
+    "environments/ai/package.json",
+    "environments/auth/auth-with-all-attributes/package.json",
+    "environments/auth/auth-with-email-and-custom-attributes/package.json",
+    "environments/auth/auth-with-email-lambda-signup-trigger/package.json",
+    "environments/auth/auth-with-email/package.json",
+    "environments/auth/auth-with-federated/package.json",
+    "environments/auth/auth-with-optional-totp-and-sms-mfa/package.json",
+    "environments/auth/auth-with-passwordless/package.json",
+    "environments/auth/auth-with-phone-and-sms-mfa/package.json",
+    "environments/auth/auth-with-phone-number/package.json",
+    "environments/auth/auth-with-totp-and-sms-mfa/package.json",
+    "environments/auth/auth-with-totp-mfa/package.json",
+    "environments/auth/auth-with-username-no-attributes/package.json",
+    "environments/auth/gen2/auth-with-email-mfa/package.json",
+    "environments/auth/gen2/auth-with-federated-sign-in-react-native/package.json",
+    "environments/auth/package.json",
+    "environments/datastore/action-hooks/package.json",
+    "environments/datastore/package.json",
+    "environments/geo/basic-map/package.json",
+    "environments/geo/package.json",
+    "environments/in-app-messaging/in-app-messaging-with-pinpoint-campaign/package.json",
+    "environments/in-app-messaging/package.json",
+    "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironment09873267/src/package.json",
+    "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironment3477af97/src/package.json",
+    "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironment6105cfac/src/package.json",
+    "environments/liveness/liveness-environment/amplify/backend/function/livenessenvironmentb20a0fc6/src/package.json",
+    "environments/liveness/liveness-environment/amplify/backend/package.json",
+    "environments/liveness/liveness-environment/package.json",
+    "environments/liveness/package.json",
+    "environments/package.json",
+    "environments/storage/file-uploader/package.json",
+    "environments/storage/gen2/package.json",
+    "environments/storage/package.json",
+    "examples/angular/package.json",
+    "examples/next-app-router/package.json",
+    "examples/next/package.json",
+    "examples/react-native/package.json",
+    "examples/react-router/package.json",
+    "examples/svelte/package.json",
+    "examples/vue/package.json",
+    "package.json",
+    "packages/angular/package.json",
+    "packages/angular/projects/ui-angular/package.json",
+    "packages/configs/eslint/package.json",
+    "packages/configs/typescript/package.json",
+    "packages/e2e/package.json",
+    "packages/react-ai/package.json",
+    "packages/react-core-notifications/package.json",
+    "packages/react-core/elements/package.json",
+    "packages/react-core/package.json",
+    "packages/react-geo/package.json",
+    "packages/react-liveness/package.json",
+    "packages/react-native/package.json",
+    "packages/react-notifications/package.json",
+    "packages/react-storage/browser/package.json",
+    "packages/react-storage/package.json",
+    "packages/react/internal/package.json",
+    "packages/react/package.json",
+    "packages/react/server/package.json",
+    "packages/svelte/package.json",
+    "packages/test-utils/package.json",
+    "packages/ui/package.json",
+    "packages/vue/package.json"
+  ],
+  "repo_url": "https://github.com/aws-amplify/amplify-ui",
+  "root": {
+    "error": null,
+    "name": "@aws-amplify/ui-monorepo",
+    "version": null
+  }
+}

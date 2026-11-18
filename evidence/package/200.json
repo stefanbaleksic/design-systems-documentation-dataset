@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:39Z",
+  "error": null,
+  "id": "200",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@bcgov/design-tokens",
+      "path": "packages/design-tokens/dist/package.json",
+      "version": "5.0.0"
+    },
+    {
+      "error": null,
+      "name": "design-tokens",
+      "path": "packages/design-tokens/package.json",
+      "version": "5.1.0"
+    },
+    {
+      "error": null,
+      "name": "@bcgov/design-system-react-components",
+      "path": "packages/react-components/package.json",
+      "version": "0.9.1"
+    }
+  ],
+  "paths": [
+    "packages/design-tokens/dist/package.json",
+    "packages/design-tokens/package.json",
+    "packages/react-components/package.json"
+  ],
+  "repo_url": "https://github.com/bcgov/design-system",
+  "root": null
+}

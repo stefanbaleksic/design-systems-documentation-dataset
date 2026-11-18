@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:17Z",
+  "docs": {
+    "body_bytes_hashed": 6313,
+    "body_sha256": "3f28973ad40d0e79201cbb43b7cbbb43c8c267928e4b79b18bb1f9710ec3b51a",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:23Z",
+    "final_url": "https://dsyui.enelx.com/",
+    "http_status": 200,
+    "url": "https://dsyui.enelx.com/"
+  },
+  "id": "47",
+  "name": "Enel",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

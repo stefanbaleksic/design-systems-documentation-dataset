@@ -1,0 +1,129 @@
+{
+  "collected_at_utc": "2026-11-18T11:43:58Z",
+  "error": null,
+  "id": "249",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@element-plus/docs",
+      "path": "docs/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@element-plus/build-constants",
+      "path": "internal/build-constants/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/build-utils",
+      "path": "internal/build-utils/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/build",
+      "path": "internal/build/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/eslint-config",
+      "path": "internal/eslint-config/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/metadata",
+      "path": "internal/metadata/package.json",
+      "version": "0.0.1"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/components",
+      "path": "packages/components/package.json",
+      "version": "0.0.5"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/constants",
+      "path": "packages/constants/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@element-plus/directives",
+      "path": "packages/directives/package.json",
+      "version": "0.0.5"
+    },
+    {
+      "error": null,
+      "name": "element-plus",
+      "path": "packages/element-plus/package.json",
+      "version": "0.0.0-dev.1"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/hooks",
+      "path": "packages/hooks/package.json",
+      "version": "0.0.5"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/locale",
+      "path": "packages/locale/package.json",
+      "version": "0.0.5"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/test-utils",
+      "path": "packages/test-utils/package.json",
+      "version": "0.0.5"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/theme-chalk",
+      "path": "packages/theme-chalk/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@element-plus/utils",
+      "path": "packages/utils/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@element-plus/play",
+      "path": "play/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "docs/package.json",
+    "internal/build-constants/package.json",
+    "internal/build-utils/package.json",
+    "internal/build/package.json",
+    "internal/eslint-config/package.json",
+    "internal/metadata/package.json",
+    "package.json",
+    "packages/components/package.json",
+    "packages/constants/package.json",
+    "packages/directives/package.json",
+    "packages/element-plus/package.json",
+    "packages/hooks/package.json",
+    "packages/locale/package.json",
+    "packages/test-utils/package.json",
+    "packages/theme-chalk/package.json",
+    "packages/utils/package.json",
+    "play/package.json"
+  ],
+  "repo_url": "https://github.com/element-plus/element-plus",
+  "root": {
+    "error": null,
+    "name": null,
+    "version": null
+  }
+}

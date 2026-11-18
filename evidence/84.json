@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:01Z",
+  "docs": {
+    "body_bytes_hashed": 908,
+    "body_sha256": "e574b9404348e70470ef51a8a4a43e011f5676a3973bc47697984dbbaa96402c",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:41:20Z",
+    "final_url": "https://www.krds.go.kr",
+    "http_status": 200,
+    "url": "https://www.krds.go.kr"
+  },
+  "id": "84",
+  "name": "Korea Design System (KRDS)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:01Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "1.1.0",
+    "licence_detection": "no licence file at repository root",
+    "licence_file": null,
+    "pushed_at_utc": "2026-01-12T02:48:20Z",
+    "spdx_licence": null,
+    "tag_count": 7,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

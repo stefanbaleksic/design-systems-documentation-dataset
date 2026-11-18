@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:47Z",
+  "docs": {
+    "body_bytes_hashed": 372346,
+    "body_sha256": "35bc0f6c8056404d873220e1befb53a6d70a1358b0df1564fa9744accb5d3c33",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:02Z",
+    "final_url": "https://uniform.hudl.com/",
+    "http_status": 200,
+    "url": "https://uniform.hudl.com/"
+  },
+  "id": "71",
+  "name": "Hudl Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:29Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:41:14Z",
+    "http_status": 403,
+    "url": "https://www.systeme-de-design.gouv.fr/"
+  },
+  "id": "58",
+  "name": "French Government Design System (DSFR)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:29Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v1.15.4",
+    "licence_detection": "no known licence text",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-10-12T17:19:40Z",
+    "spdx_licence": null,
+    "tag_count": 59,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

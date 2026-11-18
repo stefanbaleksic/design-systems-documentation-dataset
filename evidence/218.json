@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:37Z",
+  "docs": {
+    "body_bytes_hashed": 70852,
+    "body_sha256": "e6f074eec09eff37c7b1f59924b7477b3941319d02e3ba9e0affa89a5892a8c0",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:38Z",
+    "final_url": "https://designsystem.backbase.com/latest/getting-started/backbase-design-system-kqnhGnGN",
+    "http_status": 200,
+    "url": "https://designsystem.backbase.com/latest/getting-started/backbase-design-system-kqnhGnGN"
+  },
+  "id": "218",
+  "name": "Backbase Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

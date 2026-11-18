@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:40Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:41:46Z",
+    "http_status": 403,
+    "url": "https://github.com/SAP/fundamental"
+  },
+  "id": "124",
+  "name": "SAP Fundamental",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:40Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v1.7.10",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-05-23T11:19:40Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 232,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

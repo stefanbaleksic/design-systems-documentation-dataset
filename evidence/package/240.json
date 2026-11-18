@@ -1,0 +1,66 @@
+{
+  "collected_at_utc": "2026-11-18T11:42:36Z",
+  "error": null,
+  "id": "240",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@amsterdam/design-system-assets",
+      "path": "packages-proprietary/assets/package.json",
+      "version": "2.7.0"
+    },
+    {
+      "error": null,
+      "name": "@amsterdam/design-system-react-icons",
+      "path": "packages-proprietary/react-icons/package.json",
+      "version": "2.3.0"
+    },
+    {
+      "error": null,
+      "name": "@amsterdam/design-system-tokens",
+      "path": "packages-proprietary/tokens/package.json",
+      "version": "4.4.0"
+    },
+    {
+      "error": null,
+      "name": "@amsterdam/design-system-css",
+      "path": "packages/css/package.json",
+      "version": "4.5.0"
+    },
+    {
+      "error": null,
+      "name": "@amsterdam/design-system-react",
+      "path": "packages/react/package.json",
+      "version": "4.5.0"
+    },
+    {
+      "error": null,
+      "name": "@amsterdam/storybook",
+      "path": "storybook/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@amsterdam/stylelint-plugin",
+      "path": "stylelint/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages-proprietary/assets/package.json",
+    "packages-proprietary/react-icons/package.json",
+    "packages-proprietary/tokens/package.json",
+    "packages/css/package.json",
+    "packages/react/package.json",
+    "storybook/package.json",
+    "stylelint/package.json"
+  ],
+  "repo_url": "https://github.com/Amsterdam/design-system",
+  "root": {
+    "error": null,
+    "name": "@amsterdam/design-system",
+    "version": "0.0.0"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "collected_at_utc": "2026-11-18T11:38:46Z",
+  "error": null,
+  "id": "211",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@iress-oss/ids-components",
+      "path": "packages/components/package.json",
+      "version": "6.4.10"
+    },
+    {
+      "error": null,
+      "name": "@iress-oss/ids-storybook-config",
+      "path": "packages/storybook-config/package.json",
+      "version": "0.6.0"
+    },
+    {
+      "error": null,
+      "name": "@iress-oss/ids-storybook-okta",
+      "path": "packages/storybook-okta/package.json",
+      "version": "0.1.2"
+    },
+    {
+      "error": null,
+      "name": "@iress-oss/ids-storybook-sandbox",
+      "path": "packages/storybook-sandbox/package.json",
+      "version": "0.2.2"
+    },
+    {
+      "error": null,
+      "name": "@iress-oss/ids-storybook-toggle-stories",
+      "path": "packages/storybook-toggle-stories/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@iress-oss/ids-storybook-version-badge",
+      "path": "packages/storybook-version-badge/package.json",
+      "version": "0.1.1"
+    },
+    {
+      "error": null,
+      "name": "@iress-oss/ids-theme-preset",
+      "path": "packages/theme-preset/package.json",
+      "version": "6.0.2"
+    },
+    {
+      "error": null,
+      "name": "@iress-oss/ids-tokens",
+      "path": "packages/tokens/package.json",
+      "version": "6.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/components/package.json",
+    "packages/storybook-config/package.json",
+    "packages/storybook-okta/package.json",
+    "packages/storybook-sandbox/package.json",
+    "packages/storybook-toggle-stories/package.json",
+    "packages/storybook-version-badge/package.json",
+    "packages/theme-preset/package.json",
+    "packages/tokens/package.json"
+  ],
+  "repo_url": "https://github.com/iress/design-system",
+  "root": {
+    "error": null,
+    "name": "@iress/design-system-monorepo",
+    "version": "0.0.0-development"
+  }
+}

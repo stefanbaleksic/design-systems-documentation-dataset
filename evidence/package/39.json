@@ -1,0 +1,370 @@
+{
+  "collected_at_utc": "2026-11-18T11:27:02Z",
+  "error": null,
+  "id": "39",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@contentful/f36-cdn",
+      "path": "packages/cdn/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-accordion",
+      "path": "packages/components/accordion/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-asset",
+      "path": "packages/components/asset/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-autocomplete",
+      "path": "packages/components/autocomplete/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-avatar",
+      "path": "packages/components/avatar/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-badge",
+      "path": "packages/components/badge/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-button",
+      "path": "packages/components/button/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-card",
+      "path": "packages/components/card/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-collapse",
+      "path": "packages/components/collapse/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-copybutton",
+      "path": "packages/components/copybutton/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-datepicker",
+      "path": "packages/components/datepicker/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-datetime",
+      "path": "packages/components/datetime/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-drag-handle",
+      "path": "packages/components/drag-handle/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-empty-state",
+      "path": "packages/components/empty-state/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-entity-list",
+      "path": "packages/components/entity-list/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-forms",
+      "path": "packages/components/forms/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-header",
+      "path": "packages/components/header/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-icon",
+      "path": "packages/components/icon/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-icons",
+      "path": "packages/components/icons/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-image",
+      "path": "packages/components/image/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-layout",
+      "path": "packages/components/layout/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-list",
+      "path": "packages/components/list/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-menu",
+      "path": "packages/components/menu/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-modal",
+      "path": "packages/components/modal/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-multiselect",
+      "path": "packages/components/multiselect/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-navbar",
+      "path": "packages/components/navbar/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-navlist",
+      "path": "packages/components/navlist/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-note",
+      "path": "packages/components/note/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-notification",
+      "path": "packages/components/notification/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-pagination",
+      "path": "packages/components/pagination/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-pill-next",
+      "path": "packages/components/pill-next/package.json",
+      "version": "6.0.1-alpha.8"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-pill",
+      "path": "packages/components/pill/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-popover",
+      "path": "packages/components/popover/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-progress-stepper",
+      "path": "packages/components/progress-stepper/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-skeleton",
+      "path": "packages/components/skeleton/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-spinner",
+      "path": "packages/components/spinner/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-table",
+      "path": "packages/components/table/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-table-next",
+      "path": "packages/components/tablenext/package.json",
+      "version": "6.0.1-alpha.3"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-tabs",
+      "path": "packages/components/tabs/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-text-link",
+      "path": "packages/components/text-link/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-tooltip",
+      "path": "packages/components/tooltip/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-typography",
+      "path": "packages/components/typography/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-usage-card",
+      "path": "packages/components/usage-card/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-usage-count",
+      "path": "packages/components/usage-count/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-utils",
+      "path": "packages/components/utils/package.json",
+      "version": "6.1.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-core",
+      "path": "packages/core/package.json",
+      "version": "6.31.2"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-ai-components",
+      "path": "packages/f36-ai-components/package.json",
+      "version": "0.0.2-alpha.11"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-docs-utils",
+      "path": "packages/f36-docs-utils/package.json",
+      "version": "5.1.1"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-i18n-utils",
+      "path": "packages/f36-i18n-utils/package.json",
+      "version": "1.0.0-alpha.7"
+    },
+    {
+      "error": null,
+      "name": "@contentful/f36-codemod",
+      "path": "packages/forma-36-codemod/package.json",
+      "version": "7.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/cdn/package.json",
+    "packages/components/accordion/package.json",
+    "packages/components/asset/package.json",
+    "packages/components/autocomplete/package.json",
+    "packages/components/avatar/package.json",
+    "packages/components/badge/package.json",
+    "packages/components/button/package.json",
+    "packages/components/card/package.json",
+    "packages/components/collapse/package.json",
+    "packages/components/copybutton/package.json",
+    "packages/components/datepicker/package.json",
+    "packages/components/datetime/package.json",
+    "packages/components/drag-handle/package.json",
+    "packages/components/empty-state/package.json",
+    "packages/components/entity-list/package.json",
+    "packages/components/forms/package.json",
+    "packages/components/header/package.json",
+    "packages/components/icon/package.json",
+    "packages/components/icons/package.json",
+    "packages/components/image/package.json",
+    "packages/components/layout/package.json",
+    "packages/components/list/package.json",
+    "packages/components/menu/package.json",
+    "packages/components/modal/package.json",
+    "packages/components/multiselect/package.json",
+    "packages/components/navbar/package.json",
+    "packages/components/navlist/package.json",
+    "packages/components/note/package.json",
+    "packages/components/notification/package.json",
+    "packages/components/pagination/package.json",
+    "packages/components/pill-next/package.json",
+    "packages/components/pill/package.json",
+    "packages/components/popover/package.json",
+    "packages/components/progress-stepper/package.json",
+    "packages/components/skeleton/package.json",
+    "packages/components/spinner/package.json",
+    "packages/components/table/package.json",
+    "packages/components/tablenext/package.json",
+    "packages/components/tabs/package.json",
+    "packages/components/text-link/package.json",
+    "packages/components/tooltip/package.json",
+    "packages/components/typography/package.json",
+    "packages/components/usage-card/package.json",
+    "packages/components/usage-count/package.json",
+    "packages/components/utils/package.json",
+    "packages/core/package.json",
+    "packages/f36-ai-components/package.json",
+    "packages/f36-docs-utils/package.json",
+    "packages/f36-i18n-utils/package.json",
+    "packages/forma-36-codemod/package.json",
+    "packages/forma-36-react-components/package.json",
+    "packages/forma-36-tokens/package.json",
+    "packages/website/package.json"
+  ],
+  "repo_url": "https://github.com/contentful/forma-36",
+  "root": {
+    "error": null,
+    "name": "forma-36-monorepo",
+    "version": null
+  }
+}

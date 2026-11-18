@@ -1,0 +1,281 @@
+id,name,field,old_value,new_value,basis,evidence_collected_utc,evidence_source
+2,Adobe Spectrum,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:18Z,https://github.com/adobe/react-spectrum
+2,Adobe Spectrum,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:43:18Z,https://github.com/adobe/react-spectrum
+2,Adobe Spectrum,version,not stated,2.21.0-beta.0,coded value has no version number; filled from package version from root (react-spectrum-monorepo),2026-11-18T11:24:25Z,https://github.com/adobe/react-spectrum
+4,Alaska Airlines,version,not stated,1.3.0,coded value has no version number; filled from package version from root (@alaskaairux/auro),2026-11-18T11:24:47Z,https://github.com/AlaskaAirlines/auro
+5,Ant Design,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:22Z,https://github.com/ant-design/ant-design/
+5,Ant Design,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:43:22Z,https://github.com/ant-design/ant-design/
+6,Amplify UI,repo_last_push,2026-11-14,2026-11-06 (last commit date),coded date is later than the newest commit on the default branch,2026-11-18T09:43:24Z,https://github.com/aws-amplify/amplify-ui/
+9,Aragon UI,repo_last_push,2023-03-08,2021-10-22 (last commit date),coded date is later than the newest commit on the default branch,2026-11-18T09:43:27Z,https://github.com/aragon/ui
+9,Aragon UI,version,not stated,1.9.3,coded value has no version number; filled from package version from root (@aragon/ui),2026-11-18T11:25:17Z,https://github.com/aragon/ui
+12,AT UIKIT,repo_last_push,2023-01-12,2018-02-13 (last commit date),coded date is later than the newest commit on the default branch,2026-11-18T09:43:31Z,https://github.com/at-ui/at-ui
+12,AT UIKIT,version,not stated,1.3.3,coded value has no version number; filled from package version from root (at-ui),2026-11-18T11:25:22Z,https://github.com/at-ui/at-ui
+16,AutoGuru Overdrive,version,@autoguru/overdrive@4.34.0 (latest tag seen),6.3.0,coded 4.34.0 differs from package version from root (@autoguru/overdrive),2026-11-18T11:25:25Z,https://github.com/autoguru-au/overdrive
+17,AWS Cloudscape Design System,repo_last_push,not checked,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:37Z,https://github.com/cloudscape-design/components
+17,AWS Cloudscape Design System,version,not stated,3.0.0,coded value has no version number; filled from package version from root (@cloudscape-design/components),2026-11-18T11:25:27Z,https://github.com/cloudscape-design/components
+19,Basis Design System,repo_last_push,2024-02-13,2021-10-21 (last commit date),coded date is later than the newest commit on the default branch,2026-11-18T09:43:42Z,https://github.com/moroshko/basis
+19,Basis Design System,version,"1.70.0 (unverified, may be package version)",1.71.0,coded 1.70.0 differs from package version from root (basis),2026-11-18T11:25:33Z,https://github.com/moroshko/basis
+21,Bento DS,repo_last_push,2026-11-11,2026-09-09 (last commit date),coded date is later than the newest commit on the default branch,2026-11-18T09:43:43Z,https://github.com/buildo/bento-design-system
+22,BLiP,repo_last_push,,2021-10-21 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:45Z,https://github.com/takenet/blip-toolkit
+22,BLiP,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:43:45Z,https://github.com/takenet/blip-toolkit
+22,BLiP,version,not stated,1.1.0,coded value has no version number; filled from package version from root (blip-toolkit),2026-11-18T11:25:39Z,https://github.com/takenet/blip-toolkit
+23,Blueprint,repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:47Z,https://github.com/palantir/blueprint
+23,Blueprint,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:43:47Z,https://github.com/palantir/blueprint
+24,Bold (Bridge Design System),repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:49Z,https://github.com/laboratoriobridge/bold
+24,Bold (Bridge Design System),repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:43:49Z,https://github.com/laboratoriobridge/bold
+24,Bold (Bridge Design System),version,not stated,1.4.1,coded value has no version number; filled from package version from root (bold-ui),2026-11-18T11:25:51Z,https://github.com/laboratoriobridge/bold
+26,Braid Design System,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:51Z,https://github.com/seek-oss/braid-design-system
+26,Braid Design System,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:43:51Z,https://github.com/seek-oss/braid-design-system
+26,Braid Design System,version,not stated,1.0.0,coded value has no version number; filled from package version from root (braid),2026-11-18T11:25:53Z,https://github.com/seek-oss/braid-design-system
+28,Buildit Gravity,repo_last_push,,2020-08-21 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:53Z,https://github.com/buildit/gravity-ui-web
+28,Buildit Gravity,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:43:53Z,https://github.com/buildit/gravity-ui-web
+29,Bumbag UI,repo_last_push,,2022-11-19 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:54Z,https://github.com/bumbag/bumbag-ui
+29,Bumbag UI,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:43:54Z,https://github.com/bumbag/bumbag-ui
+30,BuzzFeed Solid,repo_last_push,,2019-09-05 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:56Z,https://github.com/buzzfeed/solid
+30,BuzzFeed Solid,repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:43:56Z,https://github.com/buzzfeed/solid
+30,BuzzFeed Solid,version,not stated,2.11.2,coded value has no version number; filled from package version from root (bf-solid),2026-11-18T11:26:12Z,https://github.com/buzzfeed/solid
+32,CA Technologies Mineral UI,repo_last_push,,2020-08-03 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:43:58Z,https://github.com/mineral-ui/mineral-ui
+32,CA Technologies Mineral UI,repo_licence,,Apache-2.0 (LICENSE.md),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:43:58Z,https://github.com/mineral-ui/mineral-ui
+32,CA Technologies Mineral UI,version,not stated,0.58.0,coded value has no version number; filled from package version from root (mineral-ui),2026-11-18T11:26:14Z,https://github.com/mineral-ui/mineral-ui
+34,Cedar (REI),repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:00Z,https://github.com/rei/rei-cedar
+34,Cedar (REI),repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:00Z,https://github.com/rei/rei-cedar
+34,Cedar (REI),version,Summer 2022 (latest release notes listed),17.1.1-rc.0,coded value has no version number; filled from package version from root (@rei/cedar),2026-11-18T11:26:16Z,https://github.com/rei/rei-cedar
+35,Chakra UI,repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:02Z,https://github.com/chakra-ui/chakra-ui
+35,Chakra UI,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:02Z,https://github.com/chakra-ui/chakra-ui
+35,Chakra UI,version,not stated (blog chakra-3.38),2.0.0,coded value has no version number; filled from package version from root (chakra-ui),2026-11-18T11:26:18Z,https://github.com/chakra-ui/chakra-ui
+36,City of Boston Fleet,repo_last_push,,2026-10-15 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:04Z,https://github.com/CityOfBoston/digital
+37,Cloudflare cf-ui,repo_last_push,,2017-09-25 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:05Z,https://github.com/cloudflare/cf-ui
+37,Cloudflare cf-ui,repo_licence,,BSD-3-Clause (LICENSE),coded as missing or not identified; licence text in the repository matches BSD-3-Clause,2026-11-18T09:44:05Z,https://github.com/cloudflare/cf-ui
+39,Contentful Forma 36,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:08Z,https://github.com/contentful/forma-36
+39,Contentful Forma 36,repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:08Z,https://github.com/contentful/forma-36
+40,Decathlon Vitamin,repo_last_push,,2025-06-06 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:09Z,https://github.com/decathlon/vitamin-web
+40,Decathlon Vitamin,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:44:09Z,https://github.com/decathlon/vitamin-web
+44,eBay Skin,repo_last_push,,2025-04-28 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:13Z,https://github.com/eBay/skin
+44,eBay Skin,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:13Z,https://github.com/eBay/skin
+44,eBay Skin,version,not stated,19.2.0,coded value has no version number; filled from package version from root (@ebay/skin),2026-11-18T11:27:45Z,https://github.com/eBay/skin
+45,Elastic EUI,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:15Z,https://github.com/elastic/eui
+45,Elastic EUI,version,not stated,1.0.0,coded value has no version number; filled from package version from root (@elastic/eui-monorepo),2026-11-18T11:27:46Z,https://github.com/elastic/eui
+48,Enigma Boundless,repo_last_push,,2017-06-06 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:17Z,https://github.com/enigma-io/boundless
+48,Enigma Boundless,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:17Z,https://github.com/enigma-io/boundless
+48,Enigma Boundless,version,not stated,1.1.0,coded value has no version number; filled from package version from root (boundless),2026-11-18T11:27:53Z,https://github.com/enigma-io/boundless
+50,Evergreen,repo_last_push,,2025-06-11 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:19Z,https://github.com/segmentio/evergreen
+50,Evergreen,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:19Z,https://github.com/segmentio/evergreen
+50,Evergreen,version,not stated,7.1.9,coded value has no version number; filled from package version from root (evergreen-ui),2026-11-18T11:28:05Z,https://github.com/segmentio/evergreen
+53,Firefox Photon,repo_last_push,,2022-09-15 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:21Z,https://github.com/FirefoxUX/photon
+53,Firefox Photon,repo_licence,,GPL-3.0 (LICENSE),coded as missing or not identified; licence text in the repository matches GPL-3.0,2026-11-18T09:44:21Z,https://github.com/FirefoxUX/photon
+54,Flowbite,repo_last_push,,2026-06-27 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:23Z,https://github.com/themesberg/flowbite
+54,Flowbite,repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:23Z,https://github.com/themesberg/flowbite
+54,Flowbite,version,not stated,4.0.2,coded value has no version number; filled from package version from root (flowbite),2026-11-18T11:28:10Z,https://github.com/themesberg/flowbite
+55,Fluent UI,repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:25Z,https://github.com/microsoft/fluentui
+55,Fluent UI,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:25Z,https://github.com/microsoft/fluentui
+55,Fluent UI,version,not stated,1.0.0,coded value has no version number; filled from package version from root (@fluentui/fluentui-repo),2026-11-18T11:28:11Z,https://github.com/microsoft/fluentui
+56,Foundation,repo_last_push,,2026-11-06 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:27Z,https://github.com/foundation/foundation-sites
+56,Foundation,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:27Z,https://github.com/foundation/foundation-sites
+56,Foundation,version,not stated,7.0.0-alpha.2,coded value has no version number; filled from package version from root (@foundation/yeti),2026-11-18T11:28:32Z,https://github.com/foundation/foundation-sites
+58,French Government Design System (DSFR),repo_last_push,,2026-10-12 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:29Z,https://github.com/GouvernementFR/dsfr
+58,French Government Design System (DSFR),version,"v1 (RC, 2021), old page",1.15.4,coded value has no version number; filled from package version from root (@gouvfr/dsfr),2026-11-18T11:28:34Z,https://github.com/GouvernementFR/dsfr
+60,GitHub Primer,version,not stated,22.3.3,coded value has no version number; filled from package version from root (@primer/css),2026-11-18T11:28:37Z,https://github.com/primer/primer
+63,Google Material Design,repo_last_push,,2020-04-08 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:33Z,https://github.com/material-components/material-components
+63,Google Material Design,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:44:33Z,https://github.com/material-components/material-components
+65,Gympass Yoga,repo_last_push,,2026-11-13 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:37Z,https://github.com/gympass/yoga
+65,Gympass Yoga,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:37Z,https://github.com/gympass/yoga
+66,HashiCorp Helios,repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:39Z,https://github.com/hashicorp/design-system
+66,HashiCorp Helios,repo_licence,,MPL-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches MPL-2.0,2026-11-18T09:44:39Z,https://github.com/hashicorp/design-system
+67,Help Scout,repo_last_push,,2017-11-02 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:42Z,https://github.com/helpscout/seed-framework
+67,Help Scout,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:42Z,https://github.com/helpscout/seed-framework
+67,Help Scout,version,not stated,2.0.21,coded value has no version number; filled from package version from root (seed-framework),2026-11-18T11:28:52Z,https://github.com/helpscout/seed-framework
+69,Grommet,repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:43Z,https://github.com/grommet/grommet
+69,Grommet,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:44:43Z,https://github.com/grommet/grommet
+69,Grommet,version,not stated,2.58.0,coded value has no version number; filled from package version from root (grommet),2026-11-18T11:28:54Z,https://github.com/grommet/grommet
+70,HubSpot Canvas,repo_last_push,,2018-02-26 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:45Z,https://github.com/HubSpot/canvas
+72,IBM Carbon,repo_last_push,2026-11-16,2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:44:47Z,https://github.com/ibm/carbon-components
+76,Italia Design System,version,v1,2.18.3,coded value has no version number; filled from package version from root (bootstrap-italia),2026-11-18T11:29:19Z,https://github.com/italia/bootstrap-italia
+80,Just Eat Takeaway.com PIE,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:53Z,https://github.com/justeattakeaway/pie
+80,Just Eat Takeaway.com PIE,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:44:53Z,https://github.com/justeattakeaway/pie
+80,Just Eat Takeaway.com PIE,version,not stated,2.104.0,coded value has no version number; filled from package version from root (pie-monorepo),2026-11-18T11:29:24Z,https://github.com/justeattakeaway/pie
+81,Kaizen (Culture Amp),repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:56Z,https://github.com/cultureamp/kaizen-design-system
+81,Kaizen (Culture Amp),repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:44:56Z,https://github.com/cultureamp/kaizen-design-system
+82,KoliBri (Public-UI),repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:44:58Z,https://github.com/public-ui/kolibri/
+82,KoliBri (Public-UI),version,not stated,5.0.0-beta.1,coded value has no version number; filled from package version from root,2026-11-18T11:29:52Z,https://github.com/public-ui/kolibri
+83,Kontur,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:00Z,https://github.com/skbkontur/retail-ui/
+84,Korea Design System (KRDS),repo_last_push,,2026-01-12 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:01Z,https://github.com/KRDS-uiux/krds-uiux
+84,Korea Design System (KRDS),version,not stated,1.1.0,coded value has no version number; filled from package version from root (krds-uiux),2026-11-18T11:30:13Z,https://github.com/KRDS-uiux/krds-uiux
+89,Mantine,repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:03Z,https://github.com/mantinedev/mantine
+89,Mantine,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:03Z,https://github.com/mantinedev/mantine
+89,Mantine,version,v9.8.1,9.8.1,coded value has no version number; filled from package version from root (mantine-a91763c0e2),2026-11-18T11:30:15Z,https://github.com/mantinedev/mantine
+91,Material Minimal,repo_last_push,,2026-03-24 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:05Z,https://github.com/mdbootstrap/mdb-ui-kit
+91,Material Minimal,repo_licence,,MIT (License.txt),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:05Z,https://github.com/mdbootstrap/mdb-ui-kit
+91,Material Minimal,version,not stated,9.3.0,coded value has no version number; filled from package version from root (mdb-ui-kit),2026-11-18T11:30:30Z,https://github.com/mdbootstrap/mdb-ui-kit
+92,Materialize CSS,repo_last_push,,2020-06-01 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:06Z,https://github.com/Dogfalo/materialize
+92,Materialize CSS,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:06Z,https://github.com/Dogfalo/materialize
+99,Mozilla Protocol,repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:10Z,https://github.com/mozilla/protocol
+99,Mozilla Protocol,repo_licence,,MPL-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches MPL-2.0,2026-11-18T09:45:10Z,https://github.com/mozilla/protocol
+100,NASA Web Design System,repo_last_push,,2026-09-15 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:12Z,https://github.com/nasa/nasawds
+100,NASA Web Design System,version,NOT MAINTAINED (page says so),4.0.72,coded value has no version number; filled from package version from root (nasawds),2026-11-18T11:30:57Z,https://github.com/nasa/nasawds
+104,New York State Design System,repo_last_push,,2026-11-13 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:14Z,https://github.com/ITS-HCD/nysds
+104,New York State Design System,repo_licence,,Apache-2.0 (LICENSE.md),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:45:14Z,https://github.com/ITS-HCD/nysds
+104,New York State Design System,version,last change 16.11.2026,1.23.2,coded value has no version number; filled from package version from root (@nysds/components),2026-11-18T11:30:59Z,https://github.com/ITS-HCD/nysds
+106,Okta Odyssey Design System,repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:16Z,https://github.com/okta/odyssey
+106,Okta Odyssey Design System,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:45:16Z,https://github.com/okta/odyssey
+109,Persona Design System,repo_last_push,,2026-10-19 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:17Z,https://github.com/privy-open-source/design-system
+109,Persona Design System,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:17Z,https://github.com/privy-open-source/design-system
+109,Persona Design System,version,not stated,1.2.2-rc.7,coded value has no version number; filled from package version from root (@privyid/design-system),2026-11-18T11:31:27Z,https://github.com/privy-open-source/design-system
+110,Pharos (JSTOR),repo_last_push,,2026-11-11 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:19Z,https://github.com/ithaka/pharos
+110,Pharos (JSTOR),repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:19Z,https://github.com/ithaka/pharos
+111,Pinterest Gestalt,repo_last_push,,2026-10-05 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:21Z,https://github.com/pinterest/gestalt
+111,Pinterest Gestalt,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:45:21Z,https://github.com/pinterest/gestalt
+112,Pivotal,repo_last_push,,2024-05-15 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:23Z,https://github.com/pivotal-cf/pivotal-ui
+112,Pivotal,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:23Z,https://github.com/pivotal-cf/pivotal-ui
+112,Pivotal,version,not stated,19.0.0,coded value has no version number; filled from package version from root (pivotal-ui),2026-11-18T11:31:42Z,https://github.com/pivotal-cf/pivotal-ui
+115,Priceline Design System,repo_last_push,,2026-05-06 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:27Z,https://github.com/priceline/design-system
+115,Priceline Design System,repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:27Z,https://github.com/priceline/design-system
+116,Pusher Chameleon,repo_last_push,,2020-06-01 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:29Z,https://github.com/pusher/chameleon
+116,Pusher Chameleon,repo_licence,,MIT (license),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:29Z,https://github.com/pusher/chameleon
+116,Pusher Chameleon,version,1.4.4 (per site),1.4.6,coded 1.4.4 differs from package version from root (pusher-chameleon),2026-11-18T11:32:16Z,https://github.com/pusher/chameleon
+117,Radix,version,3.0 (Radix Themes),0.1.0,coded value has no version number; filled from package version from root (primitives),2026-11-18T11:32:18Z,https://github.com/radix-ui/primitives
+118,Rambler UI,repo_last_push,,2025-01-15 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:33Z,https://github.com/rambler-digital-solutions/rambler-ui
+118,Rambler UI,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:33Z,https://github.com/rambler-digital-solutions/rambler-ui
+118,Rambler UI,version,Version 5.15.5,5.15.5,coded value has no version number; filled from package version from root (rambler-ui),2026-11-18T11:32:39Z,https://github.com/rambler-digital-solutions/rambler-ui
+119,Rendition,version,v35.2.0 (latest tag seen),35.2.0,coded value has no version number; filled from package version from root (rendition),2026-11-18T11:32:42Z,https://github.com/balena-io-modules/rendition
+121,Salesforce Lightning Design System,repo_last_push,,2026-06-02 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:37Z,https://github.com/salesforce-ux/design-system
+121,Salesforce Lightning Design System,version,Lightning Design System 2,2.28.1,coded value has no version number; filled from package version from root (design-system),2026-11-18T11:32:43Z,https://github.com/salesforce-ux/design-system
+122,Sage by Kajabi,repo_last_push,,2026-10-29 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:38Z,https://github.com/Kajabi/sage-lib
+122,Sage by Kajabi,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:38Z,https://github.com/Kajabi/sage-lib
+124,SAP Fundamental,repo_last_push,,2026-05-23 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:40Z,https://github.com/SAP/fundamental
+124,SAP Fundamental,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:45:40Z,https://github.com/SAP/fundamental
+124,SAP Fundamental,version,not stated,1.7.11-rc.2,coded value has no version number; filled from package version from root (fundamental),2026-11-18T11:32:54Z,https://github.com/SAP/fundamental
+125,SAP OpenUI5,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:42Z,https://github.com/SAP/openui5
+125,SAP OpenUI5,repo_licence,,Apache-2.0 (LICENSE.txt),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:45:42Z,https://github.com/SAP/openui5
+125,SAP OpenUI5,version,not stated,1.156.0-SNAPSHOT,coded value has no version number; filled from package version from root (openui5),2026-11-18T11:32:58Z,https://github.com/SAP/openui5
+128,SEEK Style Guide,repo_last_push,,2020-08-06 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:44Z,https://github.com/seek-oss/seek-style-guide
+128,SEEK Style Guide,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:44Z,https://github.com/seek-oss/seek-style-guide
+129,Semi Design,repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:46Z,https://github.com/DouyinFE/semi-design
+129,Semi Design,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:46Z,https://github.com/DouyinFE/semi-design
+130,Semrush Intergalactic,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:48Z,https://github.com/semrush/intergalactic
+130,Semrush Intergalactic,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:48Z,https://github.com/semrush/intergalactic
+131,Shoelace,repo_last_push,,2026-05-14 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:50Z,https://github.com/shoelace-style/shoelace
+131,Shoelace,repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:50Z,https://github.com/shoelace-style/shoelace
+133,Shadcn/ui,repo_last_push,2026-11-13,2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:45:52Z,https://github.com/shadcn-ui/ui
+134,Siemens iX,repo_last_push,,2026-11-18 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:54Z,https://github.com/siemens/ix
+134,Siemens iX,repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:54Z,https://github.com/siemens/ix
+135,Singapore Government Design System,repo_last_push,,2026-10-05 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:56Z,https://github.com/govtechsg/sgds
+135,Singapore Government Design System,repo_licence,,MIT (LICENSE.txt),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:56Z,https://github.com/govtechsg/sgds
+136,Stacks (Stack Overflow),repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:45:58Z,https://github.com/StackExchange/Stacks
+136,Stacks (Stack Overflow),repo_licence,,MIT (LICENSE.MD),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:45:58Z,https://github.com/StackExchange/Stacks
+141,Thumbprint,repo_last_push,,2024-09-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:02Z,https://github.com/thumbtack/thumbprint
+141,Thumbprint,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:46:02Z,https://github.com/thumbtack/thumbprint
+142,Tizen CircularUI,repo_last_push,,2021-09-14 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:03Z,https://github.com/Samsung/Tizen.CircularUI
+143,Twilio Paste,repo_last_push,,2026-08-20 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:05Z,https://github.com/twilio-labs/paste
+143,Twilio Paste,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:05Z,https://github.com/twilio-labs/paste
+143,Twilio Paste,version,not stated,2020.05.19,coded value has no version number; filled from package version from root (paste),2026-11-18T11:35:24Z,https://github.com/twilio-labs/paste
+144,Uber Base Web,repo_last_push,,2026-09-25 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:07Z,https://github.com/uber-web/baseui
+144,Uber Base Web,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:07Z,https://github.com/uber-web/baseui
+144,Uber Base Web,version,Base Web 16,18.2.0,coded value has no version number; filled from package version from root (baseui),2026-11-18T11:35:45Z,https://github.com/uber-web/baseui
+145,Ubuntu Vanilla framework,repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:09Z,https://github.com/canonical-web-and-design/vanilla-framework
+145,Ubuntu Vanilla framework,repo_licence,,GPL-3.0 (LICENSE),coded as missing or not identified; licence text in the repository matches GPL-3.0,2026-11-18T09:46:09Z,https://github.com/canonical-web-and-design/vanilla-framework
+145,Ubuntu Vanilla framework,version,v4.61.1 (per site),4.61.2,coded value has no version number; filled from package version from root (vanilla-framework),2026-11-18T11:35:49Z,https://github.com/canonical-web-and-design/vanilla-framework
+146,Uiverse,repo_last_push,,2024-09-02 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:11Z,https://github.com/uiverse-io/galaxy
+146,Uiverse,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:11Z,https://github.com/uiverse-io/galaxy
+147,Untitled UI (React),repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:13Z,https://github.com/untitleduico/react/
+147,Untitled UI (React),repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:13Z,https://github.com/untitleduico/react/
+148,uSwitch style guide,repo_last_push,,2022-09-14 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:15Z,https://github.com/uswitch/ustyle
+148,uSwitch style guide,repo_licence,,Apache-2.0 (LICENSE.txt),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:46:15Z,https://github.com/uswitch/ustyle
+148,uSwitch style guide,version,v2.0.14 (per site),2.0.15,coded value has no version number; filled from package version from root (ustyle),2026-11-18T11:35:53Z,https://github.com/uswitch/ustyle
+149,U.S. Web Design Standards (USWDS),repo_last_push,,2026-10-09 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:17Z,https://github.com/uswds/uswds
+149,U.S. Web Design Standards (USWDS),repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:17Z,https://github.com/uswds/uswds
+149,U.S. Web Design Standards (USWDS),version,v3.14.0,3.14.0,coded value has no version number; filled from package version from root (@uswds/uswds),2026-11-18T11:35:54Z,https://github.com/uswds/uswds
+152,Vimeo Iris,repo_last_push,,2024-10-23 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:23Z,https://github.com/vimeo/iris
+152,Vimeo Iris,repo_licence,,MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:23Z,https://github.com/vimeo/iris
+152,Vimeo Iris,version,not stated,0.151.0,coded value has no version number; filled from package version from root (@vimeo/iris),2026-11-18T11:36:23Z,https://github.com/vimeo/iris
+153,VMware Clarity,repo_last_push,,2022-05-05 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:25Z,https://github.com/vmware/clarity
+153,VMware Clarity,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:25Z,https://github.com/vmware/clarity
+153,VMware Clarity,version,not stated,6.0.0-next.6,coded value has no version number; filled from package version from root (clarity),2026-11-18T11:36:25Z,https://github.com/vmware/clarity
+154,VTEX Styleguide,repo_last_push,,2026-05-14 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:27Z,https://github.com/vtex/styleguide
+154,VTEX Styleguide,repo_licence,,GPL-3.0 (COPYING),coded as missing or not identified; licence text in the repository matches GPL-3.0,2026-11-18T09:46:27Z,https://github.com/vtex/styleguide
+154,VTEX Styleguide,version,not stated,9.146.16,coded value has no version number; filled from package version from root (@vtex/styleguide),2026-11-18T11:36:45Z,https://github.com/vtex/styleguide
+155,Vue Design System,repo_last_push,,2023-01-24 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:29Z,https://github.com/viljamis/vue-design-system
+155,Vue Design System,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:29Z,https://github.com/viljamis/vue-design-system
+155,Vue Design System,version,not stated,3.5.7,coded value has no version number; filled from package version from root (vue-design-system),2026-11-18T11:36:47Z,https://github.com/viljamis/vue-design-system
+156,Ray (WeWork),repo_last_push,,2021-08-25 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:31Z,https://github.com/wework/ray
+156,Ray (WeWork),repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:46:31Z,https://github.com/wework/ray
+157,Welcome UI,repo_last_push,,2026-11-17 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:34Z,https://github.com/WTTJ/welcome-ui
+157,Welcome UI,repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:34Z,https://github.com/WTTJ/welcome-ui
+158,West Midlands Network Design System,repo_last_push,,2026-06-01 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:36Z,https://github.com/wmcadigital/wmn-design-system
+158,West Midlands Network Design System,version,not stated,2.4.0,coded value has no version number; filled from package version from root (wmn-design-system),2026-11-18T11:36:53Z,https://github.com/wmcadigital/wmn-design-system
+161,Workday Canvas,repo_last_push,,2026-11-10 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:37Z,https://github.com/Workday/canvas-kit
+161,Workday Canvas,repo_licence,,Apache-2.0 (LICENSE),coded as missing or not identified; licence text in the repository matches Apache-2.0,2026-11-18T09:46:37Z,https://github.com/Workday/canvas-kit
+163,Zendesk Garden,version,not stated,10.0.0-next.4,coded value has no version number; filled from package version from root (@zendeskgarden/react-components),2026-11-18T11:37:01Z,https://github.com/zendeskgarden/react-components
+166,New Zealand Government Design System (alpha),repo_last_push,,2022-09-06 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:43Z,https://github.com/GOVTNZ/govtnz-design-system
+166,New Zealand Government Design System (alpha),repo_licence,,MIT (LICENCE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:43Z,https://github.com/GOVTNZ/govtnz-design-system
+172,UMD Design System,repo_licence,copyright notice; type not confirmed,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:45Z,https://github.com/umd-digital/design-system
+172,UMD Design System,version,@universityofmaryland/web-utilities-library@2.0.0 (package tag),2.1.0,coded 2.0.0 differs from package version from packages/utilities/package.json (@universityofmaryland/web-utilities-library),2026-11-18T11:37:06Z,https://github.com/umd-digital/design-system
+178,WayneUI (Wayne State University),version,"v2.0.8 (repository tag, 2026-08-10)",2.0.8,coded value has no version number; filled from package version from root (wayne-ui),2026-11-18T11:37:10Z,https://github.com/waynestate/wayne-ui
+179,ASU Unity Stack (Arizona State University),repo_last_push,2026-11-14,2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:46:49Z,https://github.com/asu/asu-unity-stack
+179,ASU Unity Stack (Arizona State University),repo_licence,"Copyright Arizona Board of Regents, all rights reserved (no open licence identified)",MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:49Z,https://github.com/asu/asu-unity-stack
+181,Iowa Design System (UIDS),version,v5.0.0-alpha.1,5.0.0-alpha.1,coded value has no version number; filled from package version from root (uids),2026-11-18T11:37:22Z,https://github.com/uiowa/uids
+182,nulib design-system (Northwestern University Libraries),version,not stated,1.6.2,coded value has no version number; filled from package version from root (@nulib/design-system),2026-11-18T11:37:23Z,https://github.com/nulib/design-system
+184,Chan Zuckerberg Education Design System (EDS),version,v19.1.0,19.1.0,coded value has no version number; filled from package version from root (@chanzuckerberg/eds),2026-11-18T11:37:25Z,https://github.com/chanzuckerberg/edu-design-system
+189,ONS Design System (Office for National Statistics),repo_last_push,,2026-11-16 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:46:59Z,https://github.com/ONSdigital/design-system
+189,ONS Design System (Office for National Statistics),repo_licence,,MIT (LICENSE),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:46:59Z,https://github.com/ONSdigital/design-system
+189,ONS Design System (Office for National Statistics),version,v3.0 (mentioned on site),3.0.1,coded value has no version number; filled from package version from root (@ons/design-system),2026-11-18T11:37:26Z,https://github.com/ONSdigital/design-system
+190,The National Archives Design System,repo_last_push,,2026-11-03 (last commit date),empty or not a date; filled from the default branch,2026-11-18T09:47:01Z,https://github.com/nationalarchives/tna-frontend
+190,The National Archives Design System,version,TNA Frontend v1.6.3,1.6.3,coded value has no version number; filled from package version from root (@nationalarchives/frontend),2026-11-18T11:37:27Z,https://github.com/nationalarchives/tna-frontend
+197,California Design System,version,not stated (no semver tag seen),1.0.13,coded value has no version number; filled from package version from root (california-design-system),2026-11-18T11:37:29Z,https://github.com/cagov/design-system
+201,CFT Elephas (Center of Financial Technologies),repo_licence,"Copyright notice, no open licence identified (center of financial technologies)",MIT (LICENSE.md),coded as missing or not identified; licence text in the repository matches MIT,2026-11-18T09:47:07Z,https://github.com/cft-group/elephas
+203,TDS core legacy v2 (TELUS),version,not stated,2.0.0,coded value has no version number; filled from package version from root (@telus/tds-core),2026-11-18T11:37:53Z,https://github.com/telus/tds-core-legacy-v2
+206,CFPB Design System,repo_last_push,2026-11-13 (last commit date),2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:47:17Z,https://github.com/cfpb/design-system
+206,CFPB Design System,version,v5.10.3 (latest tag),5.10.4,coded value has no version number; filled from package version from packages/cfpb-design-system/package.json (@cfpb/cfpb-design-system),2026-11-18T11:38:19Z,https://github.com/cfpb/design-system
+210,Lion (ING),repo_last_push,2026-11-16 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:47:22Z,https://github.com/ing-bank/lion
+211,Iress Design System (IDS),version,@iress-oss/ids-tokens@6.0.0-alpha.1 (latest tag seen; alpha),6.0.0,coded 6.0.0-alpha.1 differs from package version from packages/tokens/package.json (@iress-oss/ids-tokens),2026-11-18T11:38:46Z,https://github.com/iress/design-system
+212,Orange Unified Design System (OUDS) Android,repo_last_push,2026-11-12 (last commit date),2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:47:26Z,https://github.com/Orange-OpenSource/ouds-android
+214,Design System Docs (University of Michigan Library),version,not stated,2.0.0,coded value has no version number; filled from package version from root (design-system-docs-11ty),2026-11-18T11:38:53Z,https://github.com/mlibrary/design-system-docs
+215,SpareBank 1 Design System,repo_last_push,2026-11-16 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:47:31Z,https://github.com/SpareBank1/designsystem
+216,Mistica Web (Telefónica),version,v18.0.0-beta.3 (latest tag seen; beta),18.0.0,coded value has no version number; filled from package version from root (@telefonica/mistica),2026-11-18T11:39:14Z,https://github.com/Telefonica/mistica-web
+226,Utrecht Design System (Municipality of Utrecht),repo_last_push,2026-11-12 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:47:49Z,https://github.com/nl-design-system/utrecht
+231,Försäkringskassans designsystem (Sweden),version,v6.65.1 (latest tag seen),6.65.1,coded value has no version number; filled from package version from root (@fkui/fkui-monorepo),2026-11-18T11:41:31Z,https://github.com/Forsakringskassan/designsystem
+233,GC Design System tokens (Government of Canada),version,@gcds-core/tokens@1.0.0 (package tag),1.6.0,coded 1.0.0 differs from package version from root (@gcds-core/tokens),2026-11-18T11:42:00Z,https://github.com/cds-snc/gcds-tokens
+236,NHS.UK frontend,version,v10.7.2 (latest tag seen),11.0.0-internal.0,coded value has no version number; filled from package version from packages/nhsuk-frontend/package.json (nhsuk-frontend),2026-11-18T11:42:04Z,https://github.com/nhsuk/nhsuk-frontend
+237,NHS App frontend,version,v5.4.0 (latest tag seen),5.4.0,coded value has no version number; filled from package version from root (nhsapp-frontend),2026-11-18T11:42:09Z,https://github.com/nhsuk/nhsapp-frontend
+238,NHS.UK React components (NHS Digital),version,v6.0.1 (latest tag seen),6.0.1,coded value has no version number; filled from package version from root (nhsuk-react-components),2026-11-18T11:42:10Z,https://github.com/NHSDigital/nhsuk-react-components
+239,Instructure UI (Canvas LMS),repo_last_push,2026-11-13 (last commit date),2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:09Z,https://github.com/instructure/instructure-ui
+239,Instructure UI (Canvas LMS),version,v11.7.10 (latest tag seen),11.7.10,coded value has no version number; filled from package version from root (instructure-ui),2026-11-18T11:42:12Z,https://github.com/instructure/instructure-ui
+240,Amsterdam Design System (City of Amsterdam),repo_last_push,2026-11-13 (last commit date),2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:10Z,https://github.com/Amsterdam/design-system
+240,Amsterdam Design System (City of Amsterdam),version,@amsterdam/design-system-tokens@0.5.1 (package tag),4.4.0,coded 0.5.1 differs from package version from packages-proprietary/tokens/package.json (@amsterdam/design-system-tokens),2026-11-18T11:42:36Z,https://github.com/Amsterdam/design-system
+241,Product Kit Core (Mercedes-Benz),version,v2.2.1 (latest tag seen),2.2.1,coded value has no version number; filled from package version from root (@mercedes-benz/productkit-core),2026-11-18T11:42:41Z,https://github.com/mercedes-benz/product-kit_core
+243,MUI (Material UI),version,v10.0.0-alpha.0 (latest tag seen; pre-release),10.0.0-alpha.0,coded value has no version number; filled from package version from root,2026-11-18T11:42:44Z,https://github.com/mui/material-ui
+244,Vuetify,repo_last_push,2026-11-16 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:17Z,https://github.com/vuetifyjs/vuetify
+245,Quasar Framework,repo_last_push,2026-11-12 (last commit date),2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:18Z,https://github.com/quasarframework/quasar
+249,Element Plus,repo_last_push,2026-11-15 (last commit date),2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:25Z,https://github.com/element-plus/element-plus
+250,PatternFly,repo_last_push,2026-11-16 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:26Z,https://github.com/patternfly/patternfly
+251,daisyUI,version,v5.8.1 (latest tag seen),5.8.1,coded value has no version number; filled from package version from packages/daisyui/package.json (daisyui),2026-11-18T11:44:10Z,https://github.com/saadeghi/daisyui
+252,Quantinuum UI,version,v5.4.2-tailwind-v4-sb.1 (latest tag seen),1.0.0,coded value has no version number; filled from package version from root (@quantinuum/quantinuum-ui),2026-11-18T11:44:14Z,https://github.com/Quantinuum/quantinuum-ui
+254,U.S. General Services Administration design system (USDS),version,not stated,0.1.0,coded value has no version number; filled from package version from root (@gsa-tts/usds),2026-11-18T11:44:19Z,https://github.com/GSA-TTS/usds
+256,Uniform Design System (Open Colleges),version,v1.7.11 (latest tag seen),1.7.11,coded value has no version number; filled from package version from root (oc-uniform),2026-11-18T11:44:23Z,https://github.com/opencolleges/Uniform
+258,Spark Design System (Rocket Mortgage),version,v2.1.0 (latest tag seen),3.1.0,coded value has no version number; filled from package version from root (spark-design-system-gatsby),2026-11-18T11:44:27Z,https://github.com/sparkdesignsystem/spark-design-system
+259,Astryx (Meta),repo_last_push,2026-11-16 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:39Z,https://github.com/meta/astryx
+260,UQ Design System (University of Queensland),version,@uqds/tabs@4.0.3-alpha.1 (package tag; alpha),4.0.3,coded 4.0.3-alpha.1 differs from package version from packages/tabs/package.json (@uqds/tabs),2026-11-18T11:44:56Z,https://github.com/uq-its-ss/design-system
+262,Skin (eBay),version,v19.2.0 (latest tag seen),19.2.0,coded value has no version number; filled from package version from root (@ebay/skin),2026-11-18T11:45:16Z,https://github.com/ebay/skin
+263,Coinbase Design System (CDS),version,v9.0.0 (latest tag seen),1.0.0,coded value has no version number; filled from package version from root (design-system),2026-11-18T11:45:17Z,https://github.com/coinbase/cds
+264,GEL (BBC Global Experience Language),version,not stated,0.1.0,coded value has no version number; filled from package version from root (gel),2026-11-18T11:45:32Z,https://github.com/bbc/gel
+265,Bootstrap,repo_last_push,2026-11-14 (last commit date),2026-11-17 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:49Z,https://github.com/twbs/bootstrap
+265,Bootstrap,version,v6.0.0-alpha.1 (latest tag seen; alpha),6.0.0-alpha.1,coded value has no version number; filled from package version from root (bootstrap),2026-11-18T11:45:33Z,https://github.com/twbs/bootstrap
+268,Arco Design (ByteDance),version,2.67.0-beta.0 (latest tag seen; beta),2.66.18,coded 2.67.0-beta.0 differs from package version from root (@arco-design/web-react),2026-11-18T11:46:00Z,https://github.com/arco-design/arco-design
+270,Ionic Framework,repo_last_push,2026-11-16 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:56Z,https://github.com/ionic-team/ionic-framework
+271,React Native Paper,repo_last_push,2026-11-16 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:48:58Z,https://github.com/callstack/react-native-paper
+271,React Native Paper,version,v6.0.0-alpha.3 (latest tag seen; alpha),6.0.0-alpha.3,coded value has no version number; filled from package version from root (react-native-paper),2026-11-18T11:46:21Z,https://github.com/callstack/react-native-paper
+272,Material Web (Google),version,v2.5.0 (latest tag seen),2.5.0,coded value has no version number; filled from package version from root (@material/web),2026-11-18T11:46:24Z,https://github.com/material-components/material-web
+274,Angular Material and CDK,repo_last_push,2026-11-15 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:49:03Z,https://github.com/angular/components
+274,Angular Material and CDK,version,v22.3.0-rc.0 (latest tag seen; release candidate),22.4.0-next.0,coded value has no version number; filled from package version from root (components-srcs),2026-11-18T11:46:50Z,https://github.com/angular/components
+275,PrimeNG,version,v14.2.3 (latest tag seen),21.1.10,coded value has no version number; filled from package version from root (@primeng/monorepo),2026-11-18T11:47:06Z,https://github.com/primefaces/primeng
+276,NG-ZORRO (Ant Design for Angular),repo_last_push,2026-11-13 (last commit date),2026-11-18 (last commit date),newer commits on the default branch after coding,2026-11-18T09:49:06Z,https://github.com/NG-ZORRO/ng-zorro-antd
+282,Naive UI,version,v2.45.3 (latest tag seen),2.45.3,coded value has no version number; filled from package version from root (naive-ui),2026-11-18T11:47:45Z,https://github.com/tusen-ai/naive-ui
+288,Theme UI,version,not stated,0.17.4,coded value has no version number; filled from package version from root (@theme-ui/monorepo),2026-11-18T11:48:24Z,https://github.com/system-ui/theme-ui
+290,WordPress Gutenberg Design System,version,not stated,24.4.1,coded value has no version number; filled from package version from root (gutenberg),2026-11-18T11:48:51Z,https://github.com/WordPress/gutenberg
+292,Flowbite Svelte,version,v2.0.0-next.14 (latest tag seen),1.32.0,coded value has no version number; filled from package version from root (flowbite-svelte),2026-11-18T11:49:17Z,https://github.com/themesberg/flowbite-svelte
+293,Sanity Design System (Sanity UI),version,@sanity/ui@5.0.0-alpha.24 (latest tag seen),4.4.12,coded 5.0.0-alpha.24 differs from package version from packages/ui/package.json (@sanity/ui),2026-11-18T11:49:19Z,https://github.com/sanity-io/design-system
+295,HMCTS Design System,version,not stated,1.0.0-alpha,coded value has no version number; filled from package version from root (hmcts-design-system),2026-11-18T11:49:26Z,https://github.com/hmcts/hmcts-design-system
+296,Primer CSS (GitHub),version,v22.3.3 (latest tag seen),22.3.3,coded value has no version number; filled from package version from root (@primer/css),2026-11-18T11:49:28Z,https://github.com/primer/css
+297,BootstrapVue,version,v2.23.1 (latest tag seen),2.23.1,coded value has no version number; filled from package version from root (bootstrap-vue),2026-11-18T11:49:29Z,https://github.com/bootstrap-vue/bootstrap-vue
+299,Onsen UI,version,2.12.9-beta.0 (latest tag seen),1.0.0,coded 2.12.9-beta.0 differs from package version from root (onsenui-monorepo),2026-11-18T11:49:58Z,https://github.com/onsenui/onsenui
+301,Nuxt UI,version,v4.12.2 (latest tag seen),4.12.2,coded value has no version number; filled from package version from root (@nuxt/ui),2026-11-18T11:50:12Z,https://github.com/nuxt/ui
+302,MUI Base UI,version,v1.9.0 (latest tag seen),1.9.0,coded value has no version number; filled from package version from root (@base-ui/monorepo),2026-11-18T11:50:18Z,https://github.com/mui/base-ui

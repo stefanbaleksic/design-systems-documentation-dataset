@@ -1,0 +1,21 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:33Z",
+  "docs": {
+    "body_bytes_hashed": 106682,
+    "body_sha256": "ff1ef3fe4673215863a67236000355a188e0fe95cf0a3e2dad606f6c798b701c",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:47Z",
+    "final_url": "https://design.gitlab.com/",
+    "http_status": 200,
+    "url": "https://design.gitlab.com/"
+  },
+  "id": "61",
+  "name": "GitLab Pajamas",
+  "notes": [
+    "repository is not on github.com; not collected"
+  ],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

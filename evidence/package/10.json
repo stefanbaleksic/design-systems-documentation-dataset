@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:20Z",
+  "error": null,
+  "id": "10",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@artsy/palette-charts",
+      "path": "packages/palette-charts/package.json",
+      "version": "45.11.0"
+    },
+    {
+      "error": null,
+      "name": "@artsy/palette-tokens",
+      "path": "packages/palette-tokens/package.json",
+      "version": "7.3.0"
+    },
+    {
+      "error": null,
+      "name": "@artsy/palette",
+      "path": "packages/palette/package.json",
+      "version": "46.11.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/palette-charts/package.json",
+    "packages/palette-tokens/package.json",
+    "packages/palette/package.json"
+  ],
+  "repo_url": "https://github.com/artsy/palette",
+  "root": {
+    "error": null,
+    "name": "palette",
+    "version": null
+  }
+}

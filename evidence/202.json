@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:09Z",
+  "docs": {
+    "body_bytes_hashed": 4548,
+    "body_sha256": "3a66771f9621927d59f317b0524cfad953fe044e4532bc37d81f86358808b369",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:18Z",
+    "final_url": "https://telekom.github.io/scale/",
+    "http_status": 200,
+    "url": "https://telekom.github.io/scale/"
+  },
+  "id": "202",
+  "name": "Scale (Deutsche Telekom)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:09Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v0.4.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-12T22:30:51Z",
+    "spdx_licence": "MPL-2.0",
+    "tag_count": 173,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

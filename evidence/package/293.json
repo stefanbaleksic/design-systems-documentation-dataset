@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:49:19Z",
+  "error": null,
+  "id": "293",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "sanity-ui-docs",
+      "path": "apps/docs/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "sanity-ui-storybook",
+      "path": "apps/storybook/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "sanity-ui-studio",
+      "path": "apps/studio/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "figma-plugin-sanity-ui",
+      "path": "packages/figma/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@sanity/ui",
+      "path": "packages/ui/package.json",
+      "version": "4.4.12"
+    }
+  ],
+  "paths": [
+    "apps/docs/package.json",
+    "apps/storybook/package.json",
+    "apps/studio/package.json",
+    "package.json",
+    "packages/figma/package.json",
+    "packages/ui/package.json"
+  ],
+  "repo_url": "https://github.com/sanity-io/design-system",
+  "root": {
+    "error": null,
+    "name": "sanity-ui-monorepo",
+    "version": "0.0.0"
+  }
+}

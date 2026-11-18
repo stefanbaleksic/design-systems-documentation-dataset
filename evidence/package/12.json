@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:22Z",
+  "error": null,
+  "id": "12",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/at-ui/at-ui",
+  "root": {
+    "error": null,
+    "name": "at-ui",
+    "version": "1.3.3"
+  }
+}

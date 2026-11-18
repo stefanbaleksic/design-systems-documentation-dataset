@@ -1,0 +1,24 @@
+{
+  "artifact": {
+    "artifact_url": "https://claude.ai/artifact/WgoqiXDtX5WNL7HMxW2m6N",
+    "artifact_version_id": "1794905101-55af",
+    "retrieved_on_local_date": "2026-11-18",
+    "retrieved_time_zone": "Europe/Belgrade"
+  },
+  "data_sha256": {
+    "corrections.csv": "ffc5746753aa4fb7a5dae73c91b21ec2a72a18ec467cf79aa39f78c9e85f2b42",
+    "design_systems.csv": "79591e1157ab203f4d47af0888cfe69b427feff535015ae01c80603502256263",
+    "design_systems_raw.csv": "56d127a224fe3315f96a8d3444dc1e51c5125cc5eacde8a4e2b79e8872259136",
+    "removed_duplicates.csv": "7363998fb1fea6a24e66675df794f00916ffb2ce7949f2c02d3dea54902c2c8f"
+  },
+  "records": {
+    "clean": 297,
+    "raw": 302,
+    "removed_duplicates": 5
+  },
+  "source": {
+    "file": "source/index.html",
+    "sha256": "9b7982b64a11771bf53a4a301ceb90651ca923e550538a811272e58465a86a4c"
+  },
+  "version": "1.0.0"
+}

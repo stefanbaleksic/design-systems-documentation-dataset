@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:01Z",
+  "error": null,
+  "id": "163",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/zendeskgarden/react-components",
+  "root": {
+    "error": null,
+    "name": "@zendeskgarden/react-components",
+    "version": "10.0.0-next.4"
+  }
+}

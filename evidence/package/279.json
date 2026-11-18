@@ -1,0 +1,52 @@
+{
+  "collected_at_utc": "2026-11-18T11:47:40Z",
+  "error": null,
+  "id": "279",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@headlessui/react",
+      "path": "packages/@headlessui-react/package.json",
+      "version": "2.2.10"
+    },
+    {
+      "error": null,
+      "name": "@headlessui/tailwindcss",
+      "path": "packages/@headlessui-tailwindcss/package.json",
+      "version": "0.2.2"
+    },
+    {
+      "error": null,
+      "name": "@headlessui/vue",
+      "path": "packages/@headlessui-vue/package.json",
+      "version": "1.7.22"
+    },
+    {
+      "error": null,
+      "name": "playground-react",
+      "path": "playgrounds/react/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "playground-vue",
+      "path": "playgrounds/vue/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/@headlessui-react/package.json",
+    "packages/@headlessui-tailwindcss/package.json",
+    "packages/@headlessui-vue/package.json",
+    "playgrounds/react/package.json",
+    "playgrounds/vue/package.json"
+  ],
+  "repo_url": "https://github.com/tailwindlabs/headlessui",
+  "root": {
+    "error": null,
+    "name": "headlessui",
+    "version": "0.0.0"
+  }
+}

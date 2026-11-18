@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:51Z",
+  "docs": {
+    "body_bytes_hashed": 172,
+    "body_sha256": "ce638fdd2bc774ddf0cfebd761798251a864ab9775081abd53bb8e50652a34de",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:12Z",
+    "final_url": "https://jetbrains.github.io/ring-ui/",
+    "http_status": 200,
+    "url": "https://jetbrains.github.io/ring-ui"
+  },
+  "id": "78",
+  "name": "JetBrains Ring UI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:51Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v7.0.133",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.txt",
+    "pushed_at_utc": "2026-11-17T17:47:54Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 2556,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

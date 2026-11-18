@@ -1,0 +1,157 @@
+{
+  "collected_at_utc": "2026-11-18T11:38:21Z",
+  "error": null,
+  "id": "209",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@storefront-ui/docs",
+      "path": "apps/docs/components/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/preview-next",
+      "path": "apps/preview/next/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/preview-nuxt",
+      "path": "apps/preview/nuxt/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/preview-shared",
+      "path": "apps/preview/shared/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/e2e-docs",
+      "path": "apps/test/e2e-docs/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/react-test",
+      "path": "apps/test/react/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/vue-test",
+      "path": "apps/test/vue/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/eslint-config",
+      "path": "packages/config/eslint/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/example-style",
+      "path": "packages/config/example-style/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/tailwind-config",
+      "path": "packages/config/tailwind/package.json",
+      "version": "3.1.2"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/tests-shared",
+      "path": "packages/config/tests/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/typescript-config",
+      "path": "packages/config/typescript/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/nuxt",
+      "path": "packages/sfui/frameworks/nuxt/package.json",
+      "version": "3.3.3"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/nuxt-playground",
+      "path": "packages/sfui/frameworks/nuxt/playground/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/react",
+      "path": "packages/sfui/frameworks/react/package.json",
+      "version": "4.0.3"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/vue",
+      "path": "packages/sfui/frameworks/vue/package.json",
+      "version": "3.1.4"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/shared",
+      "path": "packages/sfui/shared/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/tw-plugin-peer-next",
+      "path": "packages/sfui/tw-plugin-peer-next/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/typography",
+      "path": "packages/sfui/typography/package.json",
+      "version": "3.1.0"
+    },
+    {
+      "error": null,
+      "name": "@storefront-ui/tests",
+      "path": "packages/tests/package.json",
+      "version": "0.0.0"
+    }
+  ],
+  "paths": [
+    "apps/docs/components/package.json",
+    "apps/preview/next/package.json",
+    "apps/preview/nuxt/package.json",
+    "apps/preview/shared/package.json",
+    "apps/test/e2e-docs/package.json",
+    "apps/test/react/package.json",
+    "apps/test/vue/package.json",
+    "package.json",
+    "packages/config/eslint/package.json",
+    "packages/config/example-style/package.json",
+    "packages/config/tailwind/package.json",
+    "packages/config/tests/package.json",
+    "packages/config/typescript/package.json",
+    "packages/sfui/frameworks/nuxt/package.json",
+    "packages/sfui/frameworks/nuxt/playground/package.json",
+    "packages/sfui/frameworks/react/package.json",
+    "packages/sfui/frameworks/vue/package.json",
+    "packages/sfui/shared/package.json",
+    "packages/sfui/tw-plugin-peer-next/package.json",
+    "packages/sfui/typography/package.json",
+    "packages/tests/package.json"
+  ],
+  "repo_url": "https://github.com/vuestorefront/storefront-ui",
+  "root": {
+    "error": null,
+    "name": "@storefront-ui/monorepo",
+    "version": "0.0.0"
+  }
+}

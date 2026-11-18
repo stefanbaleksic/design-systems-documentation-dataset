@@ -1,0 +1,418 @@
+{
+  "collected_at_utc": "2026-11-18T11:42:12Z",
+  "error": null,
+  "id": "239",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "docs-app",
+      "path": "packages/__docs__/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/browserslist-config-instui",
+      "path": "packages/browserslist-config-instui/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/canvas-high-contrast-theme",
+      "path": "packages/canvas-high-contrast-theme/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/canvas-theme",
+      "path": "packages/canvas-theme/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/command-utils",
+      "path": "packages/command-utils/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/console",
+      "path": "packages/console/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/debounce",
+      "path": "packages/debounce/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/emotion",
+      "path": "packages/emotion/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/shared-types",
+      "path": "packages/shared-types/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-a11y-content",
+      "path": "packages/ui-a11y-content/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-a11y-utils",
+      "path": "packages/ui-a11y-utils/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-alerts",
+      "path": "packages/ui-alerts/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-avatar",
+      "path": "packages/ui-avatar/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-axe-check",
+      "path": "packages/ui-axe-check/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-babel-preset",
+      "path": "packages/ui-babel-preset/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-badge",
+      "path": "packages/ui-badge/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-billboard",
+      "path": "packages/ui-billboard/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-breadcrumb",
+      "path": "packages/ui-breadcrumb/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-buttons",
+      "path": "packages/ui-buttons/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-byline",
+      "path": "packages/ui-byline/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-calendar",
+      "path": "packages/ui-calendar/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-card",
+      "path": "packages/ui-card/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-checkbox",
+      "path": "packages/ui-checkbox/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-codemods",
+      "path": "packages/ui-codemods/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-color-picker",
+      "path": "packages/ui-color-picker/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-color-utils",
+      "path": "packages/ui-color-utils/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-date-input",
+      "path": "packages/ui-date-input/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-date-time-input",
+      "path": "packages/ui-date-time-input/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-decorator",
+      "path": "packages/ui-decorator/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-dialog",
+      "path": "packages/ui-dialog/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-dom-utils",
+      "path": "packages/ui-dom-utils/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-drawer-layout",
+      "path": "packages/ui-drawer-layout/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-drilldown",
+      "path": "packages/ui-drilldown/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-editable",
+      "path": "packages/ui-editable/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-expandable",
+      "path": "packages/ui-expandable/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-file-drop",
+      "path": "packages/ui-file-drop/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-flex",
+      "path": "packages/ui-flex/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-focusable",
+      "path": "packages/ui-focusable/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-form-field",
+      "path": "packages/ui-form-field/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-global-nav",
+      "path": "packages/ui-global-nav/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-grid",
+      "path": "packages/ui-grid/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-heading",
+      "path": "packages/ui-heading/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-i18n",
+      "path": "packages/ui-i18n/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-icons",
+      "path": "packages/ui-icons/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-img",
+      "path": "packages/ui-img/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-instructure",
+      "path": "packages/ui-instructure/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-link",
+      "path": "packages/ui-link/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-list",
+      "path": "packages/ui-list/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-menu",
+      "path": "packages/ui-menu/package.json",
+      "version": "11.7.10"
+    },
+    {
+      "error": null,
+      "name": "@instructure/ui-metric",
+      "path": "packages/ui-metric/package.json",
+      "version": "11.7.10"
+    }
+  ],
+  "paths": [
+    "package.json",
+    "packages/__docs__/package.json",
+    "packages/browserslist-config-instui/package.json",
+    "packages/canvas-high-contrast-theme/package.json",
+    "packages/canvas-theme/package.json",
+    "packages/command-utils/package.json",
+    "packages/console/package.json",
+    "packages/debounce/package.json",
+    "packages/emotion/package.json",
+    "packages/shared-types/package.json",
+    "packages/ui-a11y-content/package.json",
+    "packages/ui-a11y-utils/package.json",
+    "packages/ui-alerts/package.json",
+    "packages/ui-avatar/package.json",
+    "packages/ui-axe-check/package.json",
+    "packages/ui-babel-preset/package.json",
+    "packages/ui-badge/package.json",
+    "packages/ui-billboard/package.json",
+    "packages/ui-breadcrumb/package.json",
+    "packages/ui-buttons/package.json",
+    "packages/ui-byline/package.json",
+    "packages/ui-calendar/package.json",
+    "packages/ui-card/package.json",
+    "packages/ui-checkbox/package.json",
+    "packages/ui-codemods/package.json",
+    "packages/ui-color-picker/package.json",
+    "packages/ui-color-utils/package.json",
+    "packages/ui-date-input/package.json",
+    "packages/ui-date-time-input/package.json",
+    "packages/ui-decorator/package.json",
+    "packages/ui-dialog/package.json",
+    "packages/ui-dom-utils/package.json",
+    "packages/ui-drawer-layout/package.json",
+    "packages/ui-drilldown/package.json",
+    "packages/ui-editable/package.json",
+    "packages/ui-expandable/package.json",
+    "packages/ui-file-drop/package.json",
+    "packages/ui-flex/package.json",
+    "packages/ui-focusable/package.json",
+    "packages/ui-form-field/package.json",
+    "packages/ui-global-nav/package.json",
+    "packages/ui-grid/package.json",
+    "packages/ui-heading/package.json",
+    "packages/ui-i18n/package.json",
+    "packages/ui-icons/package.json",
+    "packages/ui-img/package.json",
+    "packages/ui-instructure/package.json",
+    "packages/ui-link/package.json",
+    "packages/ui-list/package.json",
+    "packages/ui-menu/package.json",
+    "packages/ui-metric/package.json",
+    "packages/ui-modal/package.json",
+    "packages/ui-motion/package.json",
+    "packages/ui-navigation/package.json",
+    "packages/ui-number-input/package.json",
+    "packages/ui-options/package.json",
+    "packages/ui-overlays/package.json",
+    "packages/ui-pages/package.json",
+    "packages/ui-pagination/package.json",
+    "packages/ui-pill/package.json",
+    "packages/ui-popover/package.json",
+    "packages/ui-portal/package.json",
+    "packages/ui-position/package.json",
+    "packages/ui-progress/package.json",
+    "packages/ui-radio-input/package.json",
+    "packages/ui-range-input/package.json",
+    "packages/ui-rating/package.json",
+    "packages/ui-react-utils/package.json",
+    "packages/ui-responsive/package.json",
+    "packages/ui-scripts/package.json",
+    "packages/ui-select/package.json",
+    "packages/ui-selectable/package.json",
+    "packages/ui-side-nav-bar/package.json",
+    "packages/ui-simple-select/package.json",
+    "packages/ui-skeleton/package.json",
+    "packages/ui-source-code-editor/package.json",
+    "packages/ui-spinner/package.json",
+    "packages/ui-svg-images/package.json",
+    "packages/ui-table/package.json",
+    "packages/ui-tabs/package.json",
+    "packages/ui-tag/package.json",
+    "packages/ui-text-area/package.json",
+    "packages/ui-text-input/package.json",
+    "packages/ui-text/package.json",
+    "packages/ui-theme-tokens/package.json",
+    "packages/ui-themes/package.json",
+    "packages/ui-time-select/package.json",
+    "packages/ui-toggle-details/package.json",
+    "packages/ui-tooltip/package.json",
+    "packages/ui-top-nav-bar/package.json",
+    "packages/ui-tray/package.json",
+    "packages/ui-tree-browser/package.json",
+    "packages/ui-truncate-list/package.json",
+    "packages/ui-truncate-text/package.json",
+    "packages/ui-utils/package.json",
+    "packages/ui-view/package.json",
+    "packages/ui-webpack-config/package.json",
+    "packages/ui/package.json",
+    "packages/uid/package.json",
+    "regression-test/package.json",
+    "scripts/oxlint/__node_tests__/__testfixtures__/no-relative-imports/pkg-a/package.json",
+    "scripts/oxlint/__node_tests__/__testfixtures__/no-relative-imports/pkg-b/package.json"
+  ],
+  "repo_url": "https://github.com/instructure/instructure-ui",
+  "root": {
+    "error": null,
+    "name": "instructure-ui",
+    "version": "11.7.10"
+  }
+}

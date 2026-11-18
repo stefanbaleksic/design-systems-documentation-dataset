@@ -1,0 +1,30 @@
+{
+  "collected_at_utc": "2026-11-18T09:48:35Z",
+  "docs": null,
+  "id": "256",
+  "name": "Uniform Design System (Open Colleges)",
+  "notes": [
+    "no documentation URL in the dataset; not collected"
+  ],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:48:35Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": "v1.7.11",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2020-03-01T23:15:37Z",
+    "spdx_licence": "MIT",
+    "tag_count": 22,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

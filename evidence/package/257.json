@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:44:25Z",
+  "error": null,
+  "id": "257",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/indiana-university/rivet-source",
+  "root": {
+    "error": null,
+    "name": "rivet-core",
+    "version": "2.9.1"
+  }
+}

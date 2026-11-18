@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:48Z",
+  "docs": {
+    "body_bytes_hashed": 70949,
+    "body_sha256": "e01c92137d70a24b103916be4462b6797255390faf67e7570f7ac258d702721a",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:14:38Z",
+    "final_url": "https://developer.semrush.com/intergalactic/",
+    "http_status": 200,
+    "url": "https://i.semrush.com/"
+  },
+  "id": "130",
+  "name": "Semrush Intergalactic",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:48Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "release/v18",
+    "latest_tag": "v18.1.0",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-18T09:27:08Z",
+    "spdx_licence": "MIT",
+    "tag_count": 1426,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

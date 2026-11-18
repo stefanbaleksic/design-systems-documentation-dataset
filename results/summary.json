@@ -1,0 +1,62 @@
+{
+  "by_last_push_year": {
+    "2017": 3,
+    "2018": 3,
+    "2019": 2,
+    "2020": 7,
+    "2021": 8,
+    "2022": 6,
+    "2023": 9,
+    "2024": 8,
+    "2025": 10,
+    "2026": 158,
+    "none": 83
+  },
+  "by_licence_class": {
+    "copyleft": 9,
+    "no repository licence read": 83,
+    "none or not identified": 18,
+    "other or custom": 3,
+    "permissive": 184
+  },
+  "by_repo_archived": {
+    "empty": 183,
+    "ne (README statement, not GitHub archive flag)": 1,
+    "no": 110,
+    "not checked": 1,
+    "yes": 2
+  },
+  "by_sample": {
+    "no": 175,
+    "yes": 122
+  },
+  "by_sector": {
+    "Airline": 3,
+    "Automotive": 6,
+    "Consumer & media": 18,
+    "Education": 14,
+    "Energy & industry": 5,
+    "Enterprise software": 16,
+    "Finance": 14,
+    "Government": 50,
+    "Healthcare & wellness": 7,
+    "Real estate": 3,
+    "Retail & commerce": 14,
+    "Software & tech": 123,
+    "Telecom & electronics": 8,
+    "Travel & transport": 5,
+    "University": 11
+  },
+  "by_type": {
+    "Design system": 233,
+    "Design system (government)": 19,
+    "Guidelines": 12,
+    "UI library": 33
+  },
+  "by_verification": {
+    "checked": 251,
+    "not checked or unavailable": 46
+  },
+  "records": 297,
+  "release": "1.0.0"
+}

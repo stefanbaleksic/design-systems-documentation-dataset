@@ -1,0 +1,38 @@
+{
+  "collected_at_utc": "2026-11-18T11:25:17Z",
+  "error": null,
+  "id": "9",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "@aragon/babel-plugin-aragon-ui",
+      "path": "babel-plugin-aragon-ui/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "devbox",
+      "path": "devbox/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "aragon-ui-gallery",
+      "path": "gallery/package.json",
+      "version": "0.1.0"
+    }
+  ],
+  "paths": [
+    "babel-plugin-aragon-ui/package.json",
+    "devbox/package.json",
+    "gallery/package.json",
+    "package.json"
+  ],
+  "repo_url": "https://github.com/aragon/ui",
+  "root": {
+    "error": null,
+    "name": "@aragon/ui",
+    "version": "1.9.3"
+  }
+}

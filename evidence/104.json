@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:45:14Z",
+  "docs": {
+    "body_bytes_hashed": 34852,
+    "body_sha256": "3f551b58e937e62a4245a4ced78fc6929e877ad48613049cac793d3e7f8b54d9",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:13:55Z",
+    "final_url": "https://designsystem.ny.gov/components/",
+    "http_status": 200,
+    "url": "https://designsystem.ny.gov/components/"
+  },
+  "id": "104",
+  "name": "New York State Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:45:14Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v1.23.2",
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.md",
+    "pushed_at_utc": "2026-11-13T19:52:43Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 60,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:03Z",
+  "docs": {
+    "body_bytes_hashed": 17239,
+    "body_sha256": "983b8b90663a6e609da5acb57af05b5d3b7f9e555cdf8574393335f9ab56abd8",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:04Z",
+    "final_url": "https://design-system.nice.org.uk/",
+    "http_status": 200,
+    "url": "https://design-system.nice.org.uk/"
+  },
+  "id": "191",
+  "name": "NICE Design System",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

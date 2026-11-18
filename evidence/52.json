@@ -1,0 +1,19 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:21Z",
+  "docs": {
+    "body_bytes_hashed": 127367,
+    "body_sha256": "8d3a671361c77702add1de2c99fee0d1e6579ca5721556b7a2d75881de967654",
+    "content_type": "text/html; charset=UTF-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:31Z",
+    "final_url": "https://toolbox.finland.fi/",
+    "http_status": 200,
+    "url": "https://toolbox.finland.fi/"
+  },
+  "id": "52",
+  "name": "Finland Toolbox",
+  "notes": [],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

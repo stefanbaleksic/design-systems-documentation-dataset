@@ -1,0 +1,370 @@
+{
+  "collected_at_utc": "2026-11-18T11:30:59Z",
+  "error": null,
+  "id": "104",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "nysds-example-angular-app",
+      "path": "framework-examples/angular-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "nysds-example-angular-ngmodule",
+      "path": "framework-examples/angular-ngmodule/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "nysds-example-next-app",
+      "path": "framework-examples/next-app/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "nysds-example-react-vite",
+      "path": "framework-examples/react-vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@nysds/example-shared-tests",
+      "path": "framework-examples/shared-tests/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "nysds-example-vue-vite",
+      "path": "framework-examples/vue-vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@nysds/angular",
+      "path": "packages/angular/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/codegen",
+      "path": "packages/codegen/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/internals",
+      "path": "packages/internals/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/mcp-server",
+      "path": "packages/mcp-server/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-accordion",
+      "path": "packages/nys-accordion/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-alert",
+      "path": "packages/nys-alert/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-avatar",
+      "path": "packages/nys-avatar/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-backtotop",
+      "path": "packages/nys-backtotop/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-badge",
+      "path": "packages/nys-badge/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-breadcrumbs",
+      "path": "packages/nys-breadcrumbs/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-button",
+      "path": "packages/nys-button/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-card",
+      "path": "packages/nys-card/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-checkbox",
+      "path": "packages/nys-checkbox/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-combobox",
+      "path": "packages/nys-combobox/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-datepicker",
+      "path": "packages/nys-datepicker/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-divider",
+      "path": "packages/nys-divider/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-dropdownmenu",
+      "path": "packages/nys-dropdownmenu/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-errormessage",
+      "path": "packages/nys-errormessage/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-fileinput",
+      "path": "packages/nys-fileinput/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-globalfooter",
+      "path": "packages/nys-globalfooter/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-globalheader",
+      "path": "packages/nys-globalheader/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-icon",
+      "path": "packages/nys-icon/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-iconlist",
+      "path": "packages/nys-iconlist/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-label",
+      "path": "packages/nys-label/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-modal",
+      "path": "packages/nys-modal/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-pagination",
+      "path": "packages/nys-pagination/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-processlist",
+      "path": "packages/nys-processlist/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-radiobutton",
+      "path": "packages/nys-radiobutton/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-select",
+      "path": "packages/nys-select/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-skipnav",
+      "path": "packages/nys-skipnav/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-stepper",
+      "path": "packages/nys-stepper/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-tab",
+      "path": "packages/nys-tab/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-table",
+      "path": "packages/nys-table/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-textarea",
+      "path": "packages/nys-textarea/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-textinput",
+      "path": "packages/nys-textinput/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-toggle",
+      "path": "packages/nys-toggle/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-tooltip",
+      "path": "packages/nys-tooltip/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-unavbundle",
+      "path": "packages/nys-unavbundle/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-unavfooter",
+      "path": "packages/nys-unavfooter/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-unavheader",
+      "path": "packages/nys-unavheader/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-verticalnav",
+      "path": "packages/nys-verticalnav/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/nys-video",
+      "path": "packages/nys-video/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "@nysds/react",
+      "path": "packages/react/package.json",
+      "version": "1.23.2"
+    },
+    {
+      "error": null,
+      "name": "nysds-react-18-fixture",
+      "path": "packages/react/test/react18/package.json",
+      "version": null
+    }
+  ],
+  "paths": [
+    "framework-examples/angular-app/package.json",
+    "framework-examples/angular-ngmodule/package.json",
+    "framework-examples/next-app/package.json",
+    "framework-examples/react-vite/package.json",
+    "framework-examples/shared-tests/package.json",
+    "framework-examples/vue-vite/package.json",
+    "package.json",
+    "packages/angular/package.json",
+    "packages/codegen/package.json",
+    "packages/internals/package.json",
+    "packages/mcp-server/package.json",
+    "packages/nys-accordion/package.json",
+    "packages/nys-alert/package.json",
+    "packages/nys-avatar/package.json",
+    "packages/nys-backtotop/package.json",
+    "packages/nys-badge/package.json",
+    "packages/nys-breadcrumbs/package.json",
+    "packages/nys-button/package.json",
+    "packages/nys-card/package.json",
+    "packages/nys-checkbox/package.json",
+    "packages/nys-combobox/package.json",
+    "packages/nys-datepicker/package.json",
+    "packages/nys-divider/package.json",
+    "packages/nys-dropdownmenu/package.json",
+    "packages/nys-errormessage/package.json",
+    "packages/nys-fileinput/package.json",
+    "packages/nys-globalfooter/package.json",
+    "packages/nys-globalheader/package.json",
+    "packages/nys-icon/package.json",
+    "packages/nys-iconlist/package.json",
+    "packages/nys-label/package.json",
+    "packages/nys-modal/package.json",
+    "packages/nys-pagination/package.json",
+    "packages/nys-processlist/package.json",
+    "packages/nys-radiobutton/package.json",
+    "packages/nys-select/package.json",
+    "packages/nys-skipnav/package.json",
+    "packages/nys-stepper/package.json",
+    "packages/nys-tab/package.json",
+    "packages/nys-table/package.json",
+    "packages/nys-textarea/package.json",
+    "packages/nys-textinput/package.json",
+    "packages/nys-toggle/package.json",
+    "packages/nys-tooltip/package.json",
+    "packages/nys-unavbundle/package.json",
+    "packages/nys-unavfooter/package.json",
+    "packages/nys-unavheader/package.json",
+    "packages/nys-verticalnav/package.json",
+    "packages/nys-video/package.json",
+    "packages/react/package.json",
+    "packages/react/test/react18/package.json",
+    "packages/styles/package.json",
+    "packages/tokens/package.json",
+    "packages/vue/package.json"
+  ],
+  "repo_url": "https://github.com/ITS-HCD/nysds",
+  "root": {
+    "error": null,
+    "name": "@nysds/components",
+    "version": "1.23.2"
+  }
+}

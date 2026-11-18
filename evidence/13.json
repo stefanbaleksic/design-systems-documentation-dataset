@@ -1,0 +1,21 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:33Z",
+  "docs": {
+    "body_bytes_hashed": 318402,
+    "body_sha256": "5b37ed80b29550b2a220851adfe0173fc982ac7e24676f64304d2e55a406caf5",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:29Z",
+    "final_url": "https://atlassian.design",
+    "http_status": 200,
+    "url": "https://atlassian.design"
+  },
+  "id": "13",
+  "name": "Atlassian Design System",
+  "notes": [
+    "repository is not on github.com; not collected"
+  ],
+  "repo": null,
+  "schema": "evidence/1",
+  "status": "ok"
+}

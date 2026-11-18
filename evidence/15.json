@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:33Z",
+  "docs": {
+    "body_bytes_hashed": 186057,
+    "body_sha256": "fa1ab01b49a46aa35652e23d3b5bfa813213cc9076b2c32fd9c188a603a4778a",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:33Z",
+    "final_url": "https://design.gccollab.ca/",
+    "http_status": 200,
+    "url": "https://design.gccollab.ca/"
+  },
+  "id": "15",
+  "name": "Aurora (Government of Canada)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:33Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE.txt",
+    "pushed_at_utc": "2019-06-13T17:38:24Z",
+    "spdx_licence": "MIT",
+    "tag_count": 0,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:44:15Z",
+  "docs": {
+    "body_bytes_hashed": 232245,
+    "body_sha256": "4bc2bb8a686fabf48e3bbd29edad081c28117fa0cbaaf95bd8bab7b9b68f4e5b",
+    "content_type": "text/html",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:12:21Z",
+    "final_url": "https://eui.elastic.co:443/",
+    "http_status": 200,
+    "url": "https://elastic.github.io/eui/"
+  },
+  "id": "45",
+  "name": "Elastic EUI",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:44:15Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v123.5.0",
+    "licence_detection": "no known licence text",
+    "licence_file": "LICENSE.txt",
+    "pushed_at_utc": "2026-11-18T09:37:43Z",
+    "spdx_licence": null,
+    "tag_count": 718,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

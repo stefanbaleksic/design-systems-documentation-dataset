@@ -1,0 +1,16 @@
+{
+  "collected_at_utc": "2026-11-18T11:34:31Z",
+  "error": null,
+  "id": "131",
+  "method": "git",
+  "others": [],
+  "paths": [
+    "package.json"
+  ],
+  "repo_url": "https://github.com/shoelace-style/shoelace",
+  "root": {
+    "error": null,
+    "name": "@shoelace-style/shoelace",
+    "version": "2.20.1"
+  }
+}

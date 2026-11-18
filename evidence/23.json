@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:43:47Z",
+  "docs": {
+    "body_bytes_hashed": 3421,
+    "body_sha256": "ac730b0f2d3139df7ce2a68b91f1b3c8991c6a2f0fe2048cdcee5f5685f7a0e8",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:11:46Z",
+    "final_url": "https://blueprintjs.com/",
+    "http_status": 200,
+    "url": "https://blueprintjs.com/"
+  },
+  "id": "23",
+  "name": "Blueprint",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:43:47Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "develop",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2026-11-17T15:49:52Z",
+    "spdx_licence": "Apache-2.0",
+    "tag_count": 4362,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}

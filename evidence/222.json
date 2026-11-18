@@ -1,0 +1,33 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:43Z",
+  "docs": {
+    "error": "HTTP 403",
+    "fetched_at_utc": "2026-11-18T09:42:37Z",
+    "http_status": 403,
+    "url": "https://github.com/airbnb/lunar"
+  },
+  "id": "222",
+  "name": "Lunar (Airbnb)",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:43Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "master",
+    "latest_tag": null,
+    "licence_detection": "text match",
+    "licence_file": "LICENSE",
+    "pushed_at_utc": "2023-08-29T17:36:39Z",
+    "spdx_licence": "MIT",
+    "tag_count": 491,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "partial"
+}

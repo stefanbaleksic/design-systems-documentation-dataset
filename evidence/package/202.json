@@ -1,0 +1,192 @@
+{
+  "collected_at_utc": "2026-11-18T11:37:43Z",
+  "error": null,
+  "id": "202",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/angular-boilerplate/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/angular-reactive-forms/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "angular17-reactive-forms",
+      "path": "examples/angular17-reactive-forms/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/gatsby-ssr/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/nuxt-ssr/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": null,
+      "path": "examples/nuxt3-boilerplate/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/react-boilerplate/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/react-form/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "telekom-header-app-name",
+      "path": "examples/telekom-header-samples/application-name/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "telekom-header-backwards-compatibility",
+      "path": "examples/telekom-header-samples/data-api/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "telekom-header-mega-menu",
+      "path": "examples/telekom-header-samples/mega-menu/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "telekom-header-slim",
+      "path": "examples/telekom-header-samples/slim/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "telekom-header-standard",
+      "path": "examples/telekom-header-samples/standard/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "telekom-header-standard",
+      "path": "examples/telekom-header-samples/subtle/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/vanilla-cdn/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/vanilla/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "vite-react",
+      "path": "examples/vite-react/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/vitest/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/vue-boilerplate/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "TODO",
+      "path": "examples/vue3-boilerplate/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "vite-vue-starter",
+      "path": "examples/vue3-vite-boilerplate/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "@telekom/scale-components-react",
+      "path": "packages/components-react/package.json",
+      "version": "3.0.0-beta.162"
+    },
+    {
+      "error": null,
+      "name": "@telekom/scale-components",
+      "path": "packages/components/package.json",
+      "version": "3.0.0-beta.162"
+    },
+    {
+      "error": null,
+      "name": "@telekom/scale-storybook-vue",
+      "path": "packages/storybook-vue/package.json",
+      "version": "3.0.0-beta.162"
+    },
+    {
+      "error": null,
+      "name": "@telekom/scale-visual-tests",
+      "path": "packages/visual-tests/package.json",
+      "version": "3.0.0-beta.162"
+    }
+  ],
+  "paths": [
+    "examples/angular-boilerplate/package.json",
+    "examples/angular-reactive-forms/package.json",
+    "examples/angular17-reactive-forms/package.json",
+    "examples/gatsby-ssr/package.json",
+    "examples/nuxt-ssr/package.json",
+    "examples/nuxt3-boilerplate/package.json",
+    "examples/react-boilerplate/package.json",
+    "examples/react-form/package.json",
+    "examples/telekom-header-samples/application-name/package.json",
+    "examples/telekom-header-samples/data-api/package.json",
+    "examples/telekom-header-samples/mega-menu/package.json",
+    "examples/telekom-header-samples/slim/package.json",
+    "examples/telekom-header-samples/standard/package.json",
+    "examples/telekom-header-samples/subtle/package.json",
+    "examples/vanilla-cdn/package.json",
+    "examples/vanilla/package.json",
+    "examples/vite-react/package.json",
+    "examples/vitest/package.json",
+    "examples/vue-boilerplate/package.json",
+    "examples/vue3-boilerplate/package.json",
+    "examples/vue3-vite-boilerplate/package.json",
+    "package.json",
+    "packages/components-react/package.json",
+    "packages/components/package.json",
+    "packages/storybook-vue/package.json",
+    "packages/visual-tests/package.json"
+  ],
+  "repo_url": "https://github.com/telekom/scale",
+  "root": {
+    "error": null,
+    "name": "telekom",
+    "version": null
+  }
+}

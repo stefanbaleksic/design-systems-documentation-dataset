@@ -1,0 +1,255 @@
+{
+  "collected_at_utc": "2026-11-18T11:30:15Z",
+  "error": null,
+  "id": "89",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "help.mantine.dev",
+      "path": "apps/help.mantine.dev/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "docs",
+      "path": "apps/mantine.dev/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@docs/demos",
+      "path": "packages/@docs/demos/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@docs/styles-api",
+      "path": "packages/@docs/styles-api/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mantine-tests/core",
+      "path": "packages/@mantine-tests/core/package.json",
+      "version": "2.1.0"
+    },
+    {
+      "error": null,
+      "name": "@mantine-tests/dates",
+      "path": "packages/@mantine-tests/dates/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mantine/carousel",
+      "path": "packages/@mantine/carousel/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/charts",
+      "path": "packages/@mantine/charts/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/code-highlight",
+      "path": "packages/@mantine/code-highlight/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/colors-generator",
+      "path": "packages/@mantine/colors-generator/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/core",
+      "path": "packages/@mantine/core/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/dates",
+      "path": "packages/@mantine/dates/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/dropzone",
+      "path": "packages/@mantine/dropzone/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/emoji",
+      "path": "packages/@mantine/emoji/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/emotion",
+      "path": "packages/@mantine/emotion/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/form",
+      "path": "packages/@mantine/form/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/hooks",
+      "path": "packages/@mantine/hooks/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/lightbox",
+      "path": "packages/@mantine/lightbox/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/mcp-server",
+      "path": "packages/@mantine/mcp-server/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/modals",
+      "path": "packages/@mantine/modals/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/notifications",
+      "path": "packages/@mantine/notifications/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/nprogress",
+      "path": "packages/@mantine/nprogress/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/schedule",
+      "path": "packages/@mantine/schedule/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/spotlight",
+      "path": "packages/@mantine/spotlight/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/store",
+      "path": "packages/@mantine/store/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/tiptap",
+      "path": "packages/@mantine/tiptap/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantine/vanilla-extract",
+      "path": "packages/@mantine/vanilla-extract/package.json",
+      "version": "9.8.1"
+    },
+    {
+      "error": null,
+      "name": "@mantinex/colors-generator",
+      "path": "packages/@mantinex/colors-generator/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mantinex/demo",
+      "path": "packages/@mantinex/demo/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mantinex/dev-icons",
+      "path": "packages/@mantinex/dev-icons/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mantinex/mantine-header",
+      "path": "packages/@mantinex/mantine-header/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mantinex/mantine-logo",
+      "path": "packages/@mantinex/mantine-logo/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "@mantinex/mantine-meta",
+      "path": "packages/@mantinex/mantine-meta/package.json",
+      "version": "2.0.0"
+    },
+    {
+      "error": null,
+      "name": "{{package}}",
+      "path": "scripts/plop/templates/package.json",
+      "version": "1.0.0"
+    }
+  ],
+  "paths": [
+    "apps/help.mantine.dev/package.json",
+    "apps/mantine.dev/package.json",
+    "package.json",
+    "packages/@docs/demos/package.json",
+    "packages/@docs/styles-api/package.json",
+    "packages/@mantine-tests/core/package.json",
+    "packages/@mantine-tests/dates/package.json",
+    "packages/@mantine/carousel/package.json",
+    "packages/@mantine/charts/package.json",
+    "packages/@mantine/code-highlight/package.json",
+    "packages/@mantine/colors-generator/package.json",
+    "packages/@mantine/core/package.json",
+    "packages/@mantine/dates/package.json",
+    "packages/@mantine/dropzone/package.json",
+    "packages/@mantine/emoji/package.json",
+    "packages/@mantine/emotion/package.json",
+    "packages/@mantine/form/package.json",
+    "packages/@mantine/hooks/package.json",
+    "packages/@mantine/lightbox/package.json",
+    "packages/@mantine/mcp-server/package.json",
+    "packages/@mantine/modals/package.json",
+    "packages/@mantine/notifications/package.json",
+    "packages/@mantine/nprogress/package.json",
+    "packages/@mantine/schedule/package.json",
+    "packages/@mantine/spotlight/package.json",
+    "packages/@mantine/store/package.json",
+    "packages/@mantine/tiptap/package.json",
+    "packages/@mantine/vanilla-extract/package.json",
+    "packages/@mantinex/colors-generator/package.json",
+    "packages/@mantinex/demo/package.json",
+    "packages/@mantinex/dev-icons/package.json",
+    "packages/@mantinex/mantine-header/package.json",
+    "packages/@mantinex/mantine-logo/package.json",
+    "packages/@mantinex/mantine-meta/package.json",
+    "scripts/plop/templates/package.json"
+  ],
+  "repo_url": "https://github.com/mantinedev/mantine",
+  "root": {
+    "error": null,
+    "name": "mantine-a91763c0e2",
+    "version": "9.8.1"
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "collected_at_utc": "2026-11-18T11:34:33Z",
+  "error": null,
+  "id": "133",
+  "method": "git",
+  "others": [
+    {
+      "error": null,
+      "name": "v4",
+      "path": "apps/v4/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "@shadcn/helpers",
+      "path": "packages/helpers/package.json",
+      "version": "0.3.0"
+    },
+    {
+      "error": null,
+      "name": "@shadcn/react",
+      "path": "packages/react/package.json",
+      "version": "0.3.1"
+    },
+    {
+      "error": null,
+      "name": "@shadcn/registry",
+      "path": "packages/registry/package.json",
+      "version": "0.2.1"
+    },
+    {
+      "error": null,
+      "name": "test-cli-config-full",
+      "path": "packages/registry/test/fixtures/config-full/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "config-imports-extensions",
+      "path": "packages/registry/test/fixtures/config-imports-extensions/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "config-imports",
+      "path": "packages/registry/test/fixtures/config-imports/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "test-cli-config-invalid",
+      "path": "packages/registry/test/fixtures/config-invalid/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-config-partial",
+      "path": "packages/registry/test/fixtures/config-jsx/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-config-none",
+      "path": "packages/registry/test/fixtures/config-none/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-config-partial",
+      "path": "packages/registry/test/fixtures/config-partial/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-config-ui",
+      "path": "packages/registry/test/fixtures/config-ui/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-next-app",
+      "path": "packages/registry/test/fixtures/frameworks/next-app-custom-alias/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "next-app-imports",
+      "path": "packages/registry/test/fixtures/frameworks/next-app-imports/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "next-app-src",
+      "path": "packages/registry/test/fixtures/frameworks/next-app-src/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-next-app",
+      "path": "packages/registry/test/fixtures/frameworks/next-app/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "next-monorepo-web",
+      "path": "packages/registry/test/fixtures/frameworks/next-monorepo/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "test-pages-src",
+      "path": "packages/registry/test/fixtures/frameworks/next-pages-src/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-pages",
+      "path": "packages/registry/test/fixtures/frameworks/next-pages/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "remix-indie-stack",
+      "path": "packages/registry/test/fixtures/frameworks/remix-indie-stack/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "remix.init",
+      "path": "packages/registry/test/fixtures/frameworks/remix-indie-stack/remix.init/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "test-cli-remix",
+      "path": "packages/registry/test/fixtures/frameworks/remix/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "test-cli-t3-app",
+      "path": "packages/registry/test/fixtures/frameworks/t3-app/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-t3-pages",
+      "path": "packages/registry/test/fixtures/frameworks/t3-pages/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "vite-app-imports",
+      "path": "packages/registry/test/fixtures/frameworks/vite-app-imports/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "web",
+      "path": "packages/registry/test/fixtures/frameworks/vite-monorepo-imports/apps/web/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "vite-monorepo-imports",
+      "path": "packages/registry/test/fixtures/frameworks/vite-monorepo-imports/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "@workspace/ui",
+      "path": "packages/registry/test/fixtures/frameworks/vite-monorepo-imports/packages/ui/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "vite-partial-imports",
+      "path": "packages/registry/test/fixtures/frameworks/vite-partial-imports/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "vite-root-imports",
+      "path": "packages/registry/test/fixtures/frameworks/vite-root-imports/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-vite",
+      "path": "packages/registry/test/fixtures/frameworks/vite/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "app-js",
+      "path": "packages/registry/test/fixtures/next-app-js/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "text-cli-next-src",
+      "path": "packages/registry/test/fixtures/next-src/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-next",
+      "path": "packages/registry/test/fixtures/next/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-bun",
+      "path": "packages/registry/test/fixtures/project-bun-lock/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-bun",
+      "path": "packages/registry/test/fixtures/project-bun/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-expo-existing-deps",
+      "path": "packages/registry/test/fixtures/project-expo-existing-deps/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-npm",
+      "path": "packages/registry/test/fixtures/project-npm-react19/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-npm",
+      "path": "packages/registry/test/fixtures/project-npm/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-pnpm-existing-deps",
+      "path": "packages/registry/test/fixtures/project-pnpm-existing-deps/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-pnpm",
+      "path": "packages/registry/test/fixtures/project-pnpm/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "project-src",
+      "path": "packages/registry/test/fixtures/project-src/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project-yarn",
+      "path": "packages/registry/test/fixtures/project-yarn/package.json",
+      "version": "1.0.0"
+    },
+    {
+      "error": null,
+      "name": "test-cli-project",
+      "path": "packages/registry/test/fixtures/project/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "vite-with-tailwind",
+      "path": "packages/registry/test/fixtures/vite-with-tailwind/package.json",
+      "version": "0.0.0"
+    },
+    {
+      "error": null,
+      "name": "with-package-imports",
+      "path": "packages/registry/test/fixtures/with-package-imports/package.json",
+      "version": null
+    },
+    {
+      "error": null,
+      "name": "shadcn",
+      "path": "packages/shadcn/package.json",
+      "version": "4.23.0"
+    },
+    {
+      "error": null,
+      "name": "next-app-imports",
+      "path": "packages/tests/fixtures/next-app-imports/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "my-app",
+      "path": "packages/tests/fixtures/next-app-init/package.json",
+      "version": "0.1.0"
+    },
+    {
+      "error": null,
+      "name": "my-app",
+      "path": "packages/tests/fixtures/next-app-tailwind-v3/package.json",
+      "version": "0.1.0"
+    }
+  ],
+  "paths": [
+    "apps/v4/package.json",
+    "package.json",
+    "packages/helpers/package.json",
+    "packages/react/package.json",
+    "packages/registry/package.json",
+    "packages/registry/test/fixtures/config-full/package.json",
+    "packages/registry/test/fixtures/config-imports-extensions/package.json",
+    "packages/registry/test/fixtures/config-imports/package.json",
+    "packages/registry/test/fixtures/config-invalid/package.json",
+    "packages/registry/test/fixtures/config-jsx/package.json",
+    "packages/registry/test/fixtures/config-none/package.json",
+    "packages/registry/test/fixtures/config-partial/package.json",
+    "packages/registry/test/fixtures/config-ui/package.json",
+    "packages/registry/test/fixtures/frameworks/next-app-custom-alias/package.json",
+    "packages/registry/test/fixtures/frameworks/next-app-imports/package.json",
+    "packages/registry/test/fixtures/frameworks/next-app-src/package.json",
+    "packages/registry/test/fixtures/frameworks/next-app/package.json",
+    "packages/registry/test/fixtures/frameworks/next-monorepo/package.json",
+    "packages/registry/test/fixtures/frameworks/next-pages-src/package.json",
+    "packages/registry/test/fixtures/frameworks/next-pages/package.json",
+    "packages/registry/test/fixtures/frameworks/remix-indie-stack/package.json",
+    "packages/registry/test/fixtures/frameworks/remix-indie-stack/remix.init/package.json",
+    "packages/registry/test/fixtures/frameworks/remix/package.json",
+    "packages/registry/test/fixtures/frameworks/t3-app/package.json",
+    "packages/registry/test/fixtures/frameworks/t3-pages/package.json",
+    "packages/registry/test/fixtures/frameworks/vite-app-imports/package.json",
+    "packages/registry/test/fixtures/frameworks/vite-monorepo-imports/apps/web/package.json",
+    "packages/registry/test/fixtures/frameworks/vite-monorepo-imports/package.json",
+    "packages/registry/test/fixtures/frameworks/vite-monorepo-imports/packages/ui/package.json",
+    "packages/registry/test/fixtures/frameworks/vite-partial-imports/package.json",
+    "packages/registry/test/fixtures/frameworks/vite-root-imports/package.json",
+    "packages/registry/test/fixtures/frameworks/vite/package.json",
+    "packages/registry/test/fixtures/next-app-js/package.json",
+    "packages/registry/test/fixtures/next-src/package.json",
+    "packages/registry/test/fixtures/next/package.json",
+    "packages/registry/test/fixtures/project-bun-lock/package.json",
+    "packages/registry/test/fixtures/project-bun/package.json",
+    "packages/registry/test/fixtures/project-expo-existing-deps/package.json",
+    "packages/registry/test/fixtures/project-npm-react19/package.json",
+    "packages/registry/test/fixtures/project-npm/package.json",
+    "packages/registry/test/fixtures/project-pnpm-existing-deps/package.json",
+    "packages/registry/test/fixtures/project-pnpm/package.json",
+    "packages/registry/test/fixtures/project-src/package.json",
+    "packages/registry/test/fixtures/project-yarn/package.json",
+    "packages/registry/test/fixtures/project/package.json",
+    "packages/registry/test/fixtures/vite-with-tailwind/package.json",
+    "packages/registry/test/fixtures/with-package-imports/package.json",
+    "packages/shadcn/package.json",
+    "packages/tests/fixtures/next-app-imports/package.json",
+    "packages/tests/fixtures/next-app-init/package.json",
+    "packages/tests/fixtures/next-app-tailwind-v3/package.json",
+    "packages/tests/fixtures/next-app/package.json",
+    "packages/tests/fixtures/remix-app/package.json",
+    "packages/tests/fixtures/vite-app/package.json",
+    "packages/tests/fixtures/vite-monorepo-imports/apps/web/package.json",
+    "packages/tests/fixtures/vite-monorepo-imports/package.json",
+    "packages/tests/fixtures/vite-monorepo-imports/packages/ui/package.json",
+    "packages/tests/package.json",
+    "templates/astro-app/package.json",
+    "templates/astro-monorepo/apps/web/package.json",
+    "templates/astro-monorepo/package.json",
+    "templates/astro-monorepo/packages/ui/package.json",
+    "templates/next-app/package.json",
+    "templates/next-monorepo/apps/web/package.json",
+    "templates/next-monorepo/package.json",
+    "templates/next-monorepo/packages/eslint-config/package.json",
+    "templates/next-monorepo/packages/typescript-config/package.json",
+    "templates/next-monorepo/packages/ui/package.json",
+    "templates/react-router-app/package.json",
+    "templates/react-router-monorepo/apps/web/package.json",
+    "templates/react-router-monorepo/package.json",
+    "templates/react-router-monorepo/packages/ui/package.json",
+    "templates/start-app/package.json",
+    "templates/start-monorepo/apps/web/package.json",
+    "templates/start-monorepo/package.json",
+    "templates/start-monorepo/packages/ui/package.json",
+    "templates/vite-app/package.json",
+    "templates/vite-monorepo/apps/web/package.json",
+    "templates/vite-monorepo/package.json",
+    "templates/vite-monorepo/packages/ui/package.json"
+  ],
+  "repo_url": "https://github.com/shadcn-ui/ui",
+  "root": {
+    "error": null,
+    "name": "ui",
+    "version": "0.0.1"
+  }
+}

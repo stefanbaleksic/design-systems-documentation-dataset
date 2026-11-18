@@ -1,0 +1,37 @@
+{
+  "collected_at_utc": "2026-11-18T09:47:01Z",
+  "docs": {
+    "body_bytes_hashed": 37215,
+    "body_sha256": "42539c0bb051218f1b30d6839d4ff8da6fb839fa8820cd190bd3648982d30c78",
+    "content_type": "text/html; charset=utf-8",
+    "error": null,
+    "fetched_at_utc": "2026-11-18T09:16:04Z",
+    "final_url": "https://design-system.nationalarchives.gov.uk/",
+    "http_status": 200,
+    "url": "https://design-system.nationalarchives.gov.uk/"
+  },
+  "id": "190",
+  "name": "The National Archives Design System",
+  "notes": [],
+  "repo": {
+    "api": {
+      "error": null,
+      "fetched_at_utc": "2026-11-18T09:47:01Z",
+      "method": "git"
+    },
+    "archived": null,
+    "default_branch": "main",
+    "latest_tag": "v1.6.3",
+    "licence_detection": "text match",
+    "licence_file": "LICENCE",
+    "pushed_at_utc": "2026-11-03T15:56:49Z",
+    "spdx_licence": "MIT",
+    "tag_count": 171,
+    "tags_api": {
+      "error": null,
+      "method": "git"
+    }
+  },
+  "schema": "evidence/1",
+  "status": "ok"
+}
